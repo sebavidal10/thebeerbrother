@@ -55,10 +55,12 @@ a {
     }
 }
 
-.big-box.is-12 { width: calc( 100% - 23px ) !important; }
-.box.is-4 { width: calc( 33% - 16px ) !important; }
-.box.is-6 { width: calc( 50% - 20px ) !important; }
-.box.is-8 { width: calc( 66% - 12px ) !important; }
+@media screen and (min-width: 769px){
+    .big-box.is-12 { width: calc( 100% - 23px ) !important; }
+    .box.is-4 { width: calc( 33% - 16px ) !important; }
+    .box.is-6 { width: calc( 50% - 20px ) !important; }
+    .box.is-8 { width: calc( 66% - 12px ) !important; }
+}
 
 .big-box {
     padding: 0px !important;
