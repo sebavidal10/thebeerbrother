@@ -1,0 +1,37 @@
+---
+layout: post
+title: Eli
+date: '2019-11-04 14:19:55'
+author: 'sebavidal'
+lead: 'El pequeño Eli tiene una extraña enfermedad que le impide tener contacto directo con el mundo y un particular tratamiento, en manos de una enigmática doctora, parece ser la única solución.'
+tags:
+- review
+- pelicula
+- netflix
+---
+
+ **Director** : Ciarán Foy  
+**Plataforma** : Netflix  
+**Año** : 2019
+
+Ciarán Foy, quien esta detrás de Sinister 2, una buena película, pero que no llegaba ni a los talones de su predecesora, dirige el nuevo film de terror apadrinado por Netflix, Eli. El film se centra en la historia de Eli (Charlie Shotwell), un niño que por una extraña razón no puede estar en contacto con el exterior, al parecer es extremadamente sensible a los patógenos presentes en el aire y el agua, por lo que vive en una especie de burbuja purificada y consume medicamentos para mantener su cuerpo en equilibrio. Luego de años búscando una cura, sus padres, Rose (Kelly Reilly - Eden Lake) y Paul (Max Martini - Pacific Rim), han encontrado un tratamiento (y juntado el dinero para pagarlo) con una excéntrica doctora que dice haber ayudado a muchos niños que padecian lo mismo que el pequeño Eli.
+
+![eli-01](/assets/images/2019/10/eli-01.jpg)
+
+Luego de un corto viaje llegan a la casa / hospital, donde conocen a la Dr Horn (Lili Taylor) quien les explica que la casa esta "limpia", asi como el agua y todo lo que hay ahí, por lo que el traje de astronauta que usa Eli no es necesario y que puede recorrer la casa sin miedo. También les explica que el tratamiento para ayudarlo consta de 3 sesiones, cada una de las cuales busca llevar al límite el cuerpo de Eli mediante virus modificados por la Doctora que harán de catalizador para sus anticuerpos y con esto, hacerlo apto para la vida en el exterior.
+
+![eli-02](/assets/images/2019/10/eli-02.jpg)
+
+A la historia se suma Haley (Sadie Sink), una particular niña que parece saber más de lo que dice y que habla con Eli desde el patio de la casa, diciéndole que debe ser fuerte y que encuentra que hay algo oscuro en la Dr Horn, además de señalar que los demás niños que han llegado a la casa nunca han vuelto a salir.
+
+![eli-03](/assets/images/2019/10/eli-03.jpg)
+
+Mientras pasan los dias (y el tratamiento) extrañas visiones atormentan a Eli, espectros se manifiestan por la casa y llueven en forma de jumpscare. Reflejos aparecen en los ventanales, letras se escriben por todos lados y con cada dia que pasa la estadía del pequeño Eli (que se volvió a bañar de forma normal después de toda una vida) se va poco a poco convirtiendo en un infierno en la tierra.
+
+![eli-04](/assets/images/2019/10/eli-04.jpg)
+
+El film tiene un 3er acto difícil de imaginar, tanto por la extraña forma en que van ocurriendo los hechos como por las pocas cosas que responden al explicarnos todo lo que ocurre. Hay varias situaciones que no tienen sentido.
+
+Creo que la mezcla de géneros es agradable y las actuaciones no molestan, pero hay algo que claramente no funciona (creo que es culpa de Ciarán Foy), la película pierde su atractivo cada cierto rato y el esfuerzo por crear sustos por ruido aburre y desgasta, esa receta murió hace años.
+
+<!--kg-card-end: markdown-->

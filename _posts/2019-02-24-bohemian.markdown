@@ -1,0 +1,37 @@
+---
+layout: post
+title: Bohemian Rhapsody
+date: '2019-02-24 20:00:00'
+author: 'sebavidal'
+lead: 'La historia de una de las bandas más grandes de todos los tiempos y el proceso que pasaron para crear sus más grandes éxitos, todo eso coronado por una tremenda interpretación de Freddy Mercury.'
+tags:
+- review
+- pelicula
+- recomendacion
+---
+
+ **Año** : 2018  
+**Dirección** : Bryan Singer  
+**Guion** : Anthony McCarten (Historia: Anthony McCarten, Peter Morgan)  
+**Música** : John Ottman  
+**Fotografía** : Newton Thomas Sigel
+
+Queen es una de las bandas más conocidas del mundo y es un icono musical y creativo que influencia a otras bandas hasta el día de hoy. Sus canciones son constantemente usadas en bandas sonoras de otras películas y en comerciales, dado lo presente que están en nuestro inconsciente desde años, por ejemplo, todo el mundo conoce “We are the Champions” e incluso quienes no conoces la banda saben cómo va el ritmo (lo mismo con muchas otras canciones), pero la historia y el proceso que paso la banda para llegar a ser los iconos que son hoy es mas bien secreto de sus verdaderos fans, y que con este film, Brian Singer, busca popularizar.
+
+![bohemian-rhapsody-01](/assets/images/2019/02/bohemian-rhapsody-01.jpg)
+
+El film se centra en Freddy Mercury (Rami Malek), su llegada a la banda y como cada uno de los miembros se potencian para ir cada vez por más, lanzando éxito tras éxito con la misma frecuencia que Mercury va de exceso en exceso, mostrando como el genio musical va cambiando con los años y perdiéndose en fiestas y drogas con una velocidad que desequilibra la continuidad de la banda.
+
+![bohemian-rhapsody-02](/assets/images/2019/02/bohemian-rhapsody-02.jpg)
+
+Se mantiene presente la importancia de los demás miembros de la banda, pero no se ahonda mucho en ellos, simplemente se cita a uno u otro que invento / escribió alguna canción (mostrando un poco del proceso creativo), de hecho al bajista no lo vemos ni llegar, solo esta ahi desde x momento.
+
+![bohemian-rhapsody-03](/assets/images/2019/02/bohemian-rhapsody-03.jpg)
+
+Lo mejor es lejos la interpretación de Malek, se nota que estudió muy bien a Mercury ya que imita a la perfección cada movimiento. Por otro lado, la música esta increíble, lo que para bien (o para mal) convierte a la película en una especie de compilado de video clips intercalado con pequeñas anécdotas de la banda. Siento que uno de los posibles problemas sea el ritmo, ya que salta muy rápido entre la primera presentación y el éxito.
+
+![bohemian-rhapsody-04](/assets/images/2019/02/bohemian-rhapsody-04.jpg)
+
+Una película entretenida, con una alta carga emotiva y una gran actuación de Malek que sustenta el éxito de la cinta y la nominación a los Oscar de la misma. Si le gusta Queen sera excelente, sino solo un drama cargado de buena música.
+
+<!--kg-card-end: markdown-->

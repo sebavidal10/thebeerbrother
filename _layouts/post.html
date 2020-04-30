@@ -1,0 +1,201 @@
+---
+layout: default
+---
+
+<img class="image-banner" src="{{site.baseurl}}/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
+<div class="gradient-back"></div>
+<div class="container">
+  <div class="title-post">
+    <div class="b-title">{{ page.title }}</div>
+    <p>{{ page.lead }}</p>
+    <div>
+      {% for tag in page.tags %}
+        <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <article class="post">
+
+    <div class="column big-box is-12" style="margin-top: 0px !important;">
+      <div class="columns">
+
+        <div class="column is-1 has-text-right">
+          <ul class="social-shared">
+            <li>
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https://thebeerbrother.cl/{{ page.url }}" aria-label="Compartir en Facebook" onclick="window.open(this.href, 'share-facebook', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-facebook-square" style="color: #3b5999"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/share?text={{page.title}}&url=https://thebeerbrother.cl/{{ page.url }}" onclick="window.open(this.href, 'share-twitter', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-twitter-square" style="color: #55acee"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://thebeerbrother.cl/{{ page.url }}&title={{ page.title }}" onclick="window.open(this.href, 'share-linkeding', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-linkedin" style="color: #0077B5"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.reddit.com/submit?url=https://thebeerbrother.cl/{{ page.url }}&title={{ page.title }}" onclick="window.open(this.href, 'share-reddit', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-reddit-square" style="color: #ff5700"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="column is-7">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/assets/images/author/{{ page.author }}.jpg" alt="Placeholder image">
+                </figure>
+              </div>
+              <div class="media-content">
+                <p class="subtitle is-7" style="margin-top: 7px">
+                  Publicado por: {{ page.author }}
+                  &nbsp;&nbsp;<a href="https://twitter.com/sebavidal" target="_blank"><i class="fab fa-twitter-square" style="color: #55acee"></i></a>
+                  &nbsp;&nbsp;<a href="https://medium.com/@seba.vidal" target="_blank"><i class="fab fa-medium" style="color: #02b875s"></i></a>
+                  <br/>
+                  {{ page.date | date: "%b %-d, %Y" }}
+                </p>
+              </div>
+            </div>
+            <div class="columns">
+              <div class="column is-12">
+                <div class="markdown">
+                  {{ content }}
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="PageNavigation">
+            {% if page.previous.url %}
+              <a class="prev" href="{{page.previous.url}}"><i class="fas fa-long-arrow-alt-left"></i> Artículo anterior<br/><b>{{page.previous.title}}</b></a>
+            {% endif %}
+            {% if page.next.url %}
+              <a class="next" href="{{page.next.url}}">Artículo siguiente <i class="fas fa-long-arrow-alt-right"></i><br/><b>{{page.next.title}}</b></a>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="column is-4 side-bar">
+          <div class="has-text-left">
+            <b>Ultimos Articulos</b>
+          </div>
+          <ul>
+            {% for p in site.posts limit:5 %}
+              <li>
+                <a href="{{ p.url }}">
+                  <!-- <div class="columns"> -->
+                    <img class="" src="/assets/images/{{ p.date | date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="{{ p.title }}">
+                    <div class="div-text">
+                      {{ p.title }}
+                      <div>
+                        <div class="subtitle is-7">
+                          <b>{{ p.date | date: "%b %-d, %Y" }}</b><br/>
+                          {{ p.lead }}<br/><br/>
+                        </div>
+                        {% for tag in p.tags %}
+                        <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                        {% endfor %}
+                      </div>
+                    </div>
+                  <!-- </div> -->
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      
+      </div>
+
+    </div>
+
+  </article>
+
+  <hr/>
+
+  <div class="relatedPosts">
+
+    <div style="font-size: 1.75rem; font-weight: bold">Quizás también te interese:</div>
+    <br/>
+    <div class="columns is-multiline" >
+      {% assign maxRelated = 6 %}
+      {% assign minCommonTags =  2 %}
+      {% assign maxRelatedCounter = 0 %}
+      
+        {% for post in site.posts %}
+      
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+      
+          {% for tag in post.tags %}
+            {% if post.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+      
+          {% if sameTagCount >= minCommonTags %}
+            <!-- <div>
+            <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+            </div> -->
+
+            <a href="{{ post.url }}">
+              <div class="column box is-4">  
+                <time class="subtitle is-7 datetime">{{ post.date | date: "%b %-d, %Y" }}</time>
+                <div class="card-image">
+                  <figure class="image">
+                    <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Placeholder image">
+                  </figure>
+                </div>
+                <div class="card-content"> 
+                  <div class="media">
+                    <div class="media-left">
+                      <figure class="image is-48x48">
+                        <img src="/assets/images/author/{{ post.author }}.jpg" alt="Placeholder image">
+                      </figure>
+                    </div>
+                    <div class="media-content">
+                      <p class="title is-4">{{ post.title }}</p>
+                      <p class="subtitle is-7">@{{ post.author }}</p>
+                    </div>
+                  </div>
+
+                  <div class="content">
+                    <!-- <div class="lead">{{ post.lead }}</div> -->
+                    {% for tag in post.tags %}
+                    <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                    {% endfor %}<br>
+                  </div>
+                </div>
+              </div>
+            </a>
+
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+      
+        {% endfor %}
+      </div>    
+    </div>
+</div>
+
+
+<!-- <div class="card-image">
+  <figure class="image-big">
+    <img
+      src="/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg"
+      alt="Placeholder image">
+  </figure>
+</div> -->

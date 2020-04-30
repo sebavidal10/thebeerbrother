@@ -1,0 +1,31 @@
+---
+layout: post
+title: Anon
+date: '2018-06-25 00:00:00'
+author: 'sebavidal'
+lead: 'Film protagonizado por Clive Owen que nos sitúa en un futuro donde nuestro cerebro funciona de manera similar a un computador y podemos acceder a nuestros recuerdos cuando queramos.'
+tags:
+- review
+- netflix
+- pelicula
+---
+
+**Año**: 2018
+**Director**: Andrew Niccol
+**Música compuesta por**: Christophe Beck
+**Cinematografía**: Amir Mokri
+**Guion**: Andrew Niccol
+
+Film protagonizado por **Clive Owen** que nos sitúa en un futuro donde nuestro cerebro funciona de manera similar a un computador y podemos acceder a nuestros recuerdos cuando queramos. Mediante este mismo *método* la policía puede ver lo que hemos visto y de esta forma resolver casos de asesinatos sin testigos (accediendo a los últimos recuerdos del asesinado) y deslumbrar oscuros motivos que desencadenan en delitos. El sistema comienza a fallar cuando alguien *Hackea* el cerebro, o más bien los ojos de las personas, impidiendo que estas vean al asesino y dejando a la policía sin la única herramienta que tienen contra un asesino aparentemente invisible.
+
+![anon-01](/assets/images/2018/06/anon-01.jpg)
+
+El futuro está bien, la tecnología y cómo la muestran igual, incluso **Amanda Seyfried** hace un buen trabajo que a momentos recuerda a su participación en In-Time. El gran problema de Anon es el ritmo con que se cuenta la historia y sobretodo el desenlace que termina enterrando el film en uno de los rincones más olvidables de la abundante cartelera de Netflix.
+
+## Sexo y Corrupción
+La incorporación de escenas de sexo se siente innecesaria, poco natural y sin ningún motivo, se podría haber usado ese tiempo en explicar o potenciar ciertas motivaciones que parecen vacías. Si bien hay buenos personajes, se dejan en el olvido y relegados a un 5to plano, como por ejemplo el Jefe de la policía, o el apoyo técnico del caso.
+
+![anon-02](/assets/images/2018/06/anon-02.jpg)
+
+## Recomendada?
+**No**, si quiere algo con futuro y tiene mucho tiempo vea Altered Carbon, sino Looper o Dreed, ambas de 2012 y con futuros distópicos geniales.

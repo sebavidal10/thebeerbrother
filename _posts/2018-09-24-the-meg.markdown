@@ -1,0 +1,35 @@
+---
+layout: post
+title: The Meg
+date: '2018-09-24 12:34:00'
+author: 'sebavidal'
+lead: 'Jason Statham es un experto ex-militar que debe salvar al Mundo de un gigantesco tiburón que se mantenía oculto en las profundidades del océano, y que a decidido salir a la superficie.'
+tags:
+- review
+- pelicula
+---
+
+ **Año** : 2018  
+**Director** : Jon Turteltaub
+
+![the-meg-01](/assets/images/2018/09/the-meg-01.jpg)
+
+**Megalodon** es un film de acción dirigido por Jon Turteltaub (Tesoro Nacional 1 y 2) y protagonizado por Jason Statham (El Transportador, Rapido y Furioso) donde se nos cuenta la historia de un grupo de científicos que descubren un falso fondo marino que a mantenido un ecosistema oculto por miles de años que está repleto de criaturas extintas y seres prehistóricos como el Megalodon, un super tiburón, que viene a ser como el Kong de **Kong Skull Island** , pero en el agua (e igual de malo).
+
+![the-meg-02](/assets/images/2018/09/the-meg-02.jpg)
+
+Statham hace las veces de un especialista en inmersiones, ex-militar y experto en empatía infantil que busca, en un comienzo rescatar a algunos científicos, y luego, en el último acto, acabar con el prehistórico Tiburón antes de que siga devorando todo a su paso. Creo que el film se extiende de sobre manera, hay como 3 finales falsos, pero totalmente predecibles e innecesario. Ojalá le hubiesen agregado más momentos de humor, ya que los que tiene están muy bien, pero se hacen pocos en lo extenso del metraje (pasado los 110 minutos) y los torpes giros que aburren de sobremanera.
+
+![the-meg-03](/assets/images/2018/09/the-meg-03.jpg)
+
+Creo que su mayor error, además de querer ser una película seria, es que inicia demasiadas tramas que no van a ninguna parte, une demasiados hilos y enlaza historias entre los personajes que nunca desarrolla mmm como Kong Skull Island, sólo que con menos presupuesto.
+
+**Megalodon** viene a ser como la respuesta de Statham a La Roca y Rampage, sólo que esta última es graciosa y las criaturas no cambian de tamaño con cada toma.
+
+![the-meg-04](/assets/images/2018/09/the-meg-04.jpg)
+
+## Recomendable?
+
+Sólo dire que el film se acerca mucho a **Piraña 3D** (2010) que a **Tiburon** (1975).
+
+<!--kg-card-end: markdown-->

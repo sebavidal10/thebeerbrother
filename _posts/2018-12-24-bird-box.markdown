@@ -1,0 +1,38 @@
+---
+layout: post
+title: Bird Box
+date: '2018-12-24 22:34:53'
+author: 'sebavidal'
+lead: 'El mundo es atacado por unos extraños seres que provocan en quienes los ven una agonía/tristeza que los lleva al suicidio. La única manera de sobrevivir es manteniéndose A Ciegas.'
+tags:
+- review
+- netflix
+- pelicula
+---
+
+ **Año** : 2018  
+**Director** : Susanne Bier  
+**Música** : Trent Reznor  
+**Historia de** : Josh Malerman
+
+Película distribuida por **Netflix** que nos cuenta, una vez más, una historia sobre un futuro apocalíptico en manos de algo que no podemos combatir, es dirigida por **Susanne Bier** ( Hævnen 2014 ) y el guion es firmado por **Eric Heisserer** (Arrival), mezcla de talentos que no es suficiente para mantener el ritmo de una historia que se dilata por mande 2 horas y que pierde minutos de metraje contando cosas y sembrando ideas que no desarrolla, como por ejemplo lo vinculado a los caballos, la maternidad y la infancia de los pequeños niños.
+
+![bird-box-01](/assets/images/2018/12/bird-box-01.jpg)
+
+**Bird Box** o **A Ciegas** , cuenta la historia de **Malorie** (Sandra Bullock) una artista embarazada, que de un día a otro se se convierte en una sobreviviente cuando unos _extraños seres_(?) se propagan por el mundo y convierten en suicida a quienes los ven, desencadenando muchísimas muertes a través del globo (algo muy similar a lo que curre en **The Happening** de M. Night Shyamalan ). Junto a Malorie hay un variado grupo que deberá hacer de todo para sobrevivir (dentro de los cuales esta John Malkovich) y donde también se generaran lazos que los ayudaran a salir adelante y sortear la gran cantidad de dificultades a las que se enfrentaran al no poder ver.
+
+![bird-box-02](/assets/images/2018/12/bird-box-02.jpg)
+
+La historia se narra por dos lineas que en el ultimo capitulo se reúnen, por un lado, y mediante flashback, vemos el origen de la propagación de los seres, la llegada a la casa donde se salvaguarda el grupo y como luchan por no "ver" ( recurso que recuerda a **A quiet place** de John Krasinski, donde no se podia hacer ningún tipo de ruido ), y por otro lado, se nos muestra un futuro que dista 5 años desde ahí donde solo esta Malorie y dos pequeños niños que inician un viaje a ciegas rio abajo con un destino, hasta ese momento incierto.
+
+![bird-box-03](/assets/images/2018/12/bird-box-03.jpg)
+
+## Me defraudo
+
+El film incorpora personajes extras a los que aparecen en el libro en que se basa, para enriquecer la historia, pero se pierde en lineas e historias que no van a ninguna parte (al ver el film se darán cuenta de la gran cantidad de cosas que pasan y que no son seguidas por la narrativa del film), se desperdicia tiempo y se obvian hechos que podrían haberse explicado (infancia de Malorie). Ni siquiera la excelente banda sonora de Tren Reznor & Atticus Ross logran ambientar momentos que buscar generar tension, pero que no logran emplear los recursos correctos para hacerlo (mirar a traves de una tela nunca fue tan nefasto).
+
+![bird-box-04](/assets/images/2018/12/bird-box-04.jpg)
+
+Creo que podría haber sido una película muy entretenida, pero al terminar de verla queda una extraña sensación de haber perdido el tiempo, ya que no se logra nada, bueno se logra lo obvio, ya que si hay un **gran** cambio en el personaje de Bullock, pero quede igual que cuando termine de ver **A quiet place** (que a todos les gusto mucho, menos a mi :/)
+
+<!--kg-card-end: markdown-->

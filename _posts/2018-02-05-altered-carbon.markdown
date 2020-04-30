@@ -1,0 +1,29 @@
+---
+layout: post
+title: Altered Carbon
+date: '2018-02-05 00:00:00'
+author: 'sebavidal'
+lead: 'Estamos en un futuro donde los humanos (y extraterrestres) ya no mueren, la tecnología permite almacenar en una pila la mente de las personas y traspasarla a una nueva funda (cuerpo) cuando la anterior deja de funcionar.'
+tags:
+- review
+- netflix
+- recomendacion
+- serie
+---
+
+**Año**: 2018
+**Plataforma**: Netflix
+
+Estamos en un futuro donde los humanos (y extraterrestres) ya no mueren, la tecnología permite almacenar en una ***pila*** la mente de la persona y traspasarla a una nueva funda (cuerpo) cuando la anterior deja de funcionar o si tienes los recursos cuando se te dé la gana, ya que en el futuro distópico de **Altered Carbon** la edad te da estatus y las personas más longevas juegan a ser dioses en un mundo eterno y sin limites, donde casi no existe el debate ético de si debemos morir o no y donde la identidad cabe en un usb.
+
+![Altered_Carbon_01](/assets/images/2018/06/Altered_Carbon_01.jpg)
+
+En medio de este mundo y luego de 250 años *congelado* vuelve a la vida **Takeshi Kovacs** (Joel Kinnaman), el que es contratado por el todopoderoso **mat** (así le llaman a los &quot;inmortales&quot;) **Isaac Bancroft** (James Purefoy) para descifrar el misterio de su muerte y señalar a un culpable por ello, si lo logra será libre y millonario, sino, será eliminado por completo. En el camino Takeshi conoce a la oficial de policía **Kristin Ortega** (Martha Higareda), actriz muy parecida a Noomi Rapace, pero con un aire latino, y a la inteligencia artificial dueña de un hotel, **Poe** (Chris Conner) quien anhela ser &quot;real&quot;, ambos pasan a ser parte del equipo que intentará desenmarañar la compleja trama que rodea al magnate con aires de Dios, donde habitan criaturas dignas de desconfianza como la ardiente esposa de Bancroft, **Miriam** (Kristin Lehman), que propone una extraño y casi irresistible trato a Takeshi, su fría y calculadora abogada **Oumou Prescott** (Tamara Taylor) que sueña con ser un mat, el hijo de Bancroft que busca la aprobación de su padre y un séquito de maleantes, asesinos a sueldo y prostitutas digitales dignos de un crossover entre **Blade Runner** y **Sin City.**
+
+![Altered_Carbon_02](/assets/images/2018/06/Altered_Carbon_02.jpg)
+
+**Altered Carbon**, que en parte debe su nombre a la alteración de la data indicada por el Carbono 14 que señala la antig&uuml;edad de las cosas, se nutre de la ciencia ficción más dura y pura a través de los años, esta llena de autos voladores, cambios de piel, armas altamente efectivas como en el 5to elemento, personajes orientales fríos y calculadores como en Ghost in the Shell, vestimentas cyberpunk y una ciudad donde siempre llueve como en Blade Runner, callejones sucios y peligrosos llenos de prostitución y drogas como en las películas futuristas de los 80 y batallas en jaulas que recuerdan a instantes a Mad Max... hubiese sido increíble ver que habría hecho, por ejemplo, Hbo con una serie como esta, imagino a Thandie Newton (Westworld) en el papel de la abogada Oumou Prescott, a Noomi Rapace (What Happened to Monday) como la agente Ortega y a Anna Torv (Mindhunter) como Miriam Bancroft, una joya. En fin, una serie bastante entretenida, donde se nota el cambio de dirección en varios capítulos, pero que funciona bastante bien, creo que es de lo mejor en lo que ha participado Kinnaman, ojalá siga así, le sienta bien el futuro lleno de ciencia ficción y golpes, una pena lo que paso con su participación en el remake de Robocop (y para que hablar de Suicide Squad).
+
+![Altered_Carbon_03](/assets/images/2018/06/Altered_Carbon_03.jpg)
+
+A pesar de lo extenso de sus capítulos, si te gusta el sci-fi, debes verla!

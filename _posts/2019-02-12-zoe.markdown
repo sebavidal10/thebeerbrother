@@ -1,0 +1,38 @@
+---
+layout: post
+title: Zoe
+date: '2019-02-12 11:00:00'
+author: 'sebavidal'
+lead: 'El amor es difícil de encontrar... a menos que puedas fabricar a tu pareja a medida. Seydoux y McGregor protagonizan una historia de amor con robots y muchos colores neones, en un mundo con miedo a la soledad y al amor no correspondido.'
+tags:
+- review
+- pelicula
+---
+
+ **Año** : 2018  
+**Director** : Drake Doremus  
+**Música compuesta por** : Dan Romer
+
+## El amor no puede calcularse
+
+Zoe (Léa Seydoux) es la ayudante de un genio taciturno creador de tecnología (Ewan McGregor) y dueño de una especie de laboratorio capaz de calcular un puntaje que indica lo compatible que eres con tu pareja, puntaje que es un factor a tomar en cuenta por una sociedad que tiene miedo a la soledad y que se sustenta en resultados de un test, más que en la naturalidad de las relaciones.
+
+![zoe-01](/assets/images/2018/10/zoe-01.jpg)
+
+Este puntaje se acerca al mayor valor (100%) mientras más compatibles sean, y de no ser compatibles es un claro signo de separación... ahora, ¿Cómo evitar el dolor de la separación o de la mala elección? En el mundo creado por el director Drake Doremus es muy fácil, ya que en esta realidad existe la posibilidad de _crear_ a alguien que sea a medida para ti y que llene cada necesidad y complete cada frase con lo que justo esperas escuchar, se ve y se siente real, tiene movimientos naturales y se comporta como una persona normal, lo que incluso hace que olvides que es un androide programado para tu felicidad, sin intenciones ni libre elección.
+
+![zoe-02](/assets/images/2018/10/zoe-02.jpg)
+
+La historia y la vida de los protegonistas se complica cuando la verdad aparece y los "reales" sentimientos afloran, y como en toda historia de amor, esto da origen a giros que nos permiten empatizar con uno u otro personaje y que nos hacen confundir los cables y acero de la carne y hueso y nos hacen cuestionar si lo que amamos de los demás es lo que los hace unicos o lo que hacen por nosotros.
+
+![zoe-03](/assets/images/2018/10/zoe-03.jpg)
+
+## Un poco aburrida
+
+El film a momentos recuerda a la excelente **Her** y, en otros, trae a la memoria ciertas ideas de **Ex-Machina** , pero por nada es la una o la otra (ni esta a su altura), si bien el elenco es muy bueno y la interpretación de Ewan McGregor y Léa Seydoux son muy convincentes, no logran levantar un film que a instantes resulta aburrido y que toma mucho tiempo en llegar al climax, y que, a pesar de su atractiva premisa, cae por su propio peso y se nota falta de corazón (irónico no?).
+
+![zoe-04](/assets/images/2018/10/zoe-04.jpg)
+
+En pocas palabras, la podría resumir como una historia de amor incomprendido donde sus protagonistas tienen miedo a ser felices, ya que creen tener más que perder que lo que podrían ganar, a pesar de que lo unico que pueden perder es un robot.
+
+<!--kg-card-end: markdown-->

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    
+  </head>
+  <body>
+
+    <!-- navbar  -->
+    <nav class="navbar is-black" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item navbar-logo" href="/"><img src="/assets/images/logo.png"/> The Beerbrother</a>
+      
+          <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+      
+        <div id="navbarBasicExample" class="navbar-menu">
+          <div class="navbar-end">
+            <a href="/tags" class="navbar-item">CATEGORÍAS</a>    
+            <a href="/tags/recomendacion" class="navbar-item">RECOMENDACIÓN</a>    
+            <a href="/tags/netflix" class="navbar-item">NETFLIX</a>    
+            <a href="/tags/pelicula" class="navbar-item">PELICULA</a>    
+            <a href="/tags/serie" class="navbar-item">SERIE</a>    
+            <a href="/tags/animada" class="navbar-item">ANIMADA</a>    
+            <a href="/tags/documental" class="navbar-item">DOCUMENTAL</a>    
+            <a href="/tags/spoiler" class="navbar-item">SPOILERS</a>    
+
+          </div>
+      
+        </div>
+      </div>
+    </nav>
+
+    {{ content}}
+
+    <!-- footer  -->
+    <footer class="footer is-black">
+      
+      <!-- <div class="content has-text-centered">
+        <div class="columns is-centered">
+          
+          <div class="column is-6">
+            <div class="columns">
+                
+                <div class="column has-text-centered">
+                  <a href="" target="_blank">link 1</a>
+                </div>
+                <div class="column has-text-centered">
+                  <a href="" target="_blank">link 1</a>
+                </div>
+                <div class="column has-text-centered">
+                  <a href="" target="_blank">link 1</a>
+                </div>
+
+            </div>
+          </div>
+
+        </div>
+      </div> -->
+
+      <div class="content has-text-centered">
+        <p>
+          <br/>
+          <strong>© 2020</strong> The BeerBrother<br/>
+          <small>Escrito con <i class="fas fa-heart" style="color: red"></i> por <a href="https://sebavidal.cl">Sebastián Vidal</a></small>
+        </p>
+      </div>
+    </footer>
+    
+  </body>
+</html>

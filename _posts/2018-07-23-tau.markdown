@@ -1,0 +1,28 @@
+---
+layout: post
+title: Tau
+date: '2018-07-23 02:00:00'
+author: 'sebavidal'
+lead: 'TAU es una película de ciencia ficción protagonizada por Julia (Maika Monroe), un atractiva ladrona que de la nada es secuestrada para despertar en una prisión junto a varias personas más.'
+tags:
+- review
+- netflix
+- pelicula
+---
+
+**Fecha de estreno**: 29 de junio de 2018
+**Director**: Federico D'Alessandro
+**Música compuesta por**: Bear McCreary
+**Productor**: David S. Goyer
+
+**TAU** es una película de ciencia ficción protagonizada por Julia (Maika Monroe), un atractiva ladrona que de la nada es secuestrada para despertar en una prisión junto a varias personas más. Ahí son sujetos de estudio de Alex (Ed Skrein), un millonario ingeniero/científico que busca aprender de los patrones de respuesta de las personas mediante test de stress, dolor, solución matemática, etc. para así poder replicar "pensamiento" y programar/copiar un cerebro humano completamente, terminando así el proyecto que le a sido encargado por alguien(?)
+
+![tau-01](/assets/images/2018/07/tau-01.jpg)
+
+El tercer personaje, y el que da nombre al film, es TAU, una inteligencia artificial que controla la casa y mantiene todo en orden cuando Alex no esta (junto a Aries, un robot guardaespalda), y que crea un extraño vinculo con Julia, lo cual será usado por ella para intentar escapar de esta extraña prisión.
+
+![tau-02](/assets/images/2018/07/tau-02.jpg)
+
+Creo que la película no resulta bien, lo bueno son cosas que ya vimos (y mejores) y lo malo es el abuso de clichés y la mala actuación de los protagonistas (quien es mucho mejor que como se ve acá). No es para nada recomendable, ni siquiera si te gusta el tema de la IA, para eso es mucho mejor ver (o volver a ver) **Ex Machina** (2014) de Alex Garland o la misma **I.A.** (2011) de Steven Spielberg. Una **basura** más de Netflix...
+
+![tau-03](/assets/images/2018/07/tau-03.jpg)
