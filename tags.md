@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container" style="padding-top: 100px">
-  <h1 class="title">Tags</h1>
+  <h1 class="title title-section">Tags</h1>
   <div class="columns is-multiline">
 
     {% for tag in site.tags %}
