@@ -3,7 +3,7 @@ layout: post
 title: 'Freddys Dead: The Final Nightmare'
 date: '2020-05-01 12:00:00'
 author: 'sebavidal'
-lead: ''
+lead: 'No quedan niños en Springwood y la única forma en que Freddy salga del pueblo es que un joven lleve nuevos adolescentes para que Krueger pueda atormentarlos y aumentar su poder.'
 tags:
 - review
 - pelicula
