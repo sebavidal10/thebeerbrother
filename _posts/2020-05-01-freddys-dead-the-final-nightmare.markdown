@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Freddy''s Dead: The Final Nightmare'
-date: '2020-04-30 15:00:00'
+title: 'Freddys Dead: The Final Nightmare'
+date: '2020-05-01 12:00:00'
 author: 'sebavidal'
 lead: ''
 tags:
@@ -10,7 +10,7 @@ tags:
 - spoiler
 ---
 
- **Año** : 1991  
+**Año** : 1991  
 **Director** : Rachel Talalay  
 **IMDb** : 4.9  
 **Tomatometer** : 20%
@@ -28,7 +28,7 @@ La policia encuentra al joven vagando por las calles y lo lleva a un reformatori
 
 #### Springwood
 
-Después de muchas vueltas terminan llegando a la ciudad y, en detalle, a la casa de Freddy (la casa de Nancy) y van muriendo poco a poco. Junto con la muerte de John Freddy pasa al cuerpo de Maggie, ya que **es su hija**! Y es la manera de poder salir del pueblo y llegar a un lugar donde podrá seguir matando jóvenes. Así es como llegan al reformatorio.
+Después de muchas vueltas terminan llegando a la ciudad y, en detalle, a la casa de Freddy (la casa de Nancy) y van muriendo poco a poco. Junto con la muerte de John, a quien uso solo de señuelo para llegar a Maggie, Freddy pasa a su cuerpo, ya que **es su hija**! Y es la única manera de poder salir del pueblo y llegar a un lugar donde podrá seguir matando jóvenes... así es como llegan al reformatorio.
 
 ![freddy-4-02](/assets/images/2020/04/freddy-4-02.jpg)
 
@@ -43,18 +43,16 @@ Al igual que en la primera entrega, sacan a Freddy al mundo real y lo hacen expl
 
 Explican de dónde viene el poder de Freddy, de una forma simplista, pero le dan pantalla y una seudo justificación a las 3 luces que le dan vida eterna y poder a Kruger.
 
-![freddy-4-05](/assets/images/2020/04/freddy-4-05.jpg)
+![freddy-4-06](/assets/images/2020/04/freddy-4-06.gif)
 
 #### Lo que no me gusto
 
 - Las escenas de Freddy jugando videojuegos con los personajes, penoso.
-- Uubiese preferido que se continuará la historia de Alice y Jacob.  
+- Hubiese preferido que se continuará la historia de Alice y Jacob.  
 -Las secuencias de "acción" de Freddy vs los personajes son terribles y la escena final es patética.
 
-![freddy-4-06](/assets/images/2020/04/freddy-4-06.gif)
+![freddy-4-05](/assets/images/2020/04/freddy-4-05.jpg)
 
 ### Conclusión
 
 Da cierre a la saga, incorpora de forma apresurada nuevos recursos, como que Freddie tenía una esposa e hija y nos habla de esos antiguos demonios que le dieron a Freddy la posibilidad de ser eterno. Termina con un resumen de escenas de todas las anteriores. Es un "supuesto final" muy flojo, con un presupuesto mal gastado que enaltece mucho más la primera entrega (y la tercera).
-
-<!--kg-card-end: markdown-->
