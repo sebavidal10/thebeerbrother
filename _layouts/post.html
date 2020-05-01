@@ -7,7 +7,7 @@ layout: default
 <div class="container">
   <div class="title-post">
     <div class="b-title">{{ page.title }}</div>
-    <p>{{ page.lead }}</p>
+    <p class="is-hidden-mobile">{{ page.lead }}</p>
     <div>
       {% for tag in page.tags %}
         <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
@@ -22,7 +22,7 @@ layout: default
     <div class="column big-box is-12" style="margin-top: 0px !important;">
       <div class="columns">
 
-        <div class="column is-1 has-text-right">
+        <div class="column is-1 has-text-right is-hidden-mobile">
           <ul class="social-shared">
             <li>
               <a href="https://www.facebook.com/sharer/sharer.php?u=https://thebeerbrother.cl/{{ page.url }}" aria-label="Compartir en Facebook" onclick="window.open(this.href, 'share-facebook', 'width=600,height=480');return false;">
@@ -46,6 +46,33 @@ layout: default
             </li>
           </ul>
         </div>
+
+        <div class="column is-1 has-text-right is-hidden-desktop">
+          <ul class="social-shared-horizontal">
+            <li>
+              <a href="https://www.facebook.com/sharer/sharer.php?u=https://thebeerbrother.cl/{{ page.url }}" aria-label="Compartir en Facebook" onclick="window.open(this.href, 'share-facebook', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-facebook-square" style="color: #3b5999"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/share?text={{page.title}}&url=https://thebeerbrother.cl/{{ page.url }}" onclick="window.open(this.href, 'share-twitter', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-twitter-square" style="color: #55acee"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://thebeerbrother.cl/{{ page.url }}&title={{ page.title }}" onclick="window.open(this.href, 'share-linkeding', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-linkedin" style="color: #0077B5"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.reddit.com/submit?url=https://thebeerbrother.cl/{{ page.url }}&title={{ page.title }}" onclick="window.open(this.href, 'share-reddit', 'width=600,height=480');return false;">
+                <i class="fab fa-2x fa-reddit-square" style="color: #ff5700"></i>
+              </a>
+            </li>
+            
+          </ul>
+        </div>
+
         <div class="column is-7">
           <div class="card-content">
             <div class="media">
@@ -83,29 +110,25 @@ layout: default
           </div>
         </div>
 
-        <div class="column is-4 side-bar">
+        <div class="column is-4 side-bar is-hidden-mobile">
           <div class="has-text-left">
             <b>Ultimos Articulos</b>
           </div>
           <ul>
-            {% for p in site.posts limit:5 %}
+            {% for p in site.posts limit:7 %}
               <li>
                 <a href="{{ p.url }}">
-                  <!-- <div class="columns"> -->
-                    <img class="" src="/assets/images/{{ p.date | date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="{{ p.title }}">
-                    <div class="div-text">
+                    <div class="div-text" >
                       {{ p.title }}
                       <div>
                         <div class="subtitle is-7">
                           <b>{{ p.date | date: "%b %-d, %Y" }}</b><br/>
-                          {{ p.lead }}<br/><br/>
                         </div>
                         {% for tag in p.tags %}
                         <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                         {% endfor %}
                       </div>
                     </div>
-                  <!-- </div> -->
                 </a>
               </li>
             {% endfor %}
@@ -122,9 +145,9 @@ layout: default
 
   <div class="relatedPosts">
 
-    <div style="font-size: 1.75rem; font-weight: bold">Quizás también te interese:</div>
+    <div style="font-size: 1.5rem; font-weight: bold" class="title-section">Quizás también te interese:</div>
     <br/>
-    <div class="columns is-multiline" >
+    <div class="columns is-multiline assoc" >
       {% assign maxRelated = 6 %}
       {% assign minCommonTags =  2 %}
       {% assign maxRelatedCounter = 0 %}
@@ -151,22 +174,22 @@ layout: default
 
             <a href="{{ post.url }}">
               <div class="column box is-4">  
-                <time class="subtitle is-7 datetime">{{ post.date | date: "%b %-d, %Y" }}</time>
-                <div class="card-image">
+                <time class="subtitle is-7 datetime is-hidden-mobile">{{ post.date | date: "%b %-d, %Y" }}</time>
+                <div class="card-image is-hidden-mobile">
                   <figure class="image">
                     <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Placeholder image">
                   </figure>
                 </div>
                 <div class="card-content"> 
                   <div class="media">
-                    <div class="media-left">
+                    <div class="media-left is-hidden-mobile">
                       <figure class="image is-48x48">
                         <img src="/assets/images/author/{{ post.author }}.jpg" alt="Placeholder image">
                       </figure>
                     </div>
                     <div class="media-content">
                       <p class="title is-4">{{ post.title }}</p>
-                      <p class="subtitle is-7">@{{ post.author }}</p>
+                      <p class="subtitle is-7 is-hidden-mobile">@{{ post.author }}</p>
                     </div>
                   </div>
 

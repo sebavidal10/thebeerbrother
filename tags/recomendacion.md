@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container" style="padding-top: 100px">
 
-    <h1 class="title">Tag: Recomendación</h1>
+    <h1 class="title title-section">Tag: Recomendación</h1>
     <div class="columns is-multiline" >
         {% for tag in site.tags %}
             {% if tag[0] == 'recomendacion' %}

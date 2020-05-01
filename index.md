@@ -10,7 +10,7 @@ title: "The BeerBrother"
     <div class="b-title">
       <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
     </div>
-    <p>{{ site.posts[0].lead }}</p>
+    <p class="is-hidden-mobile">{{ site.posts[0].lead }}</p>
     <div>
       {% for tag in site.posts[0].tags %}
         <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
