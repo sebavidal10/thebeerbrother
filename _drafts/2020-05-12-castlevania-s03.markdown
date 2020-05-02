@@ -9,20 +9,17 @@ tags:
 - netflix
 - recomendacion
 - serie
-- pelicula
-- marvel
 - animada
-- spoiler
 ---
 
 **Año** : 2019  
-**Director** : Carl Strathie
-**Imdb** : 
-**Tomatometer** : 80%
+**Director** : Warren Ellis   
+**Imdb** : 8.2   
+**Tomatometer** : 93%   
 **Plataforma** : Netflix
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sowGYbxTPgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cYNGDUIBUhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 

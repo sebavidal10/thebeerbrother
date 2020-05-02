@@ -10,12 +10,12 @@ tags:
 ---
 
  **Año** : 2019  
-**Director** : Carl Strathie
-**Imdb** :   
-**Tomatometer** :   
+**Director** : Carl Strathie   
+**Imdb** : 5.0   
+**Tomatometer** : 67%   
 
 <figure class="kg-card kg-embed-card">
-    <iframe width="480" height="270" src="https://www.youtube.com/embed/PvC1IRxJdqs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/PvC1IRxJdqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 

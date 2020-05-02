@@ -108,6 +108,9 @@ layout: default
               <a class="next" href="{{page.next.url}}">Artículo siguiente <i class="fas fa-long-arrow-alt-right"></i><br/><b>{{page.next.title}}</b></a>
             {% endif %}
           </div>
+
+          <hr/>
+          <div class="fb-comments" data-width="100%" data-href="{{ site.url }}{{ page.url }}"></div>
         </div>
 
         <div class="column is-4 side-bar is-hidden-mobile">
@@ -155,7 +158,6 @@ layout: default
         </div>
       
       </div>
-
     </div>
 
   </article>

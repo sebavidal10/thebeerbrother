@@ -8,21 +8,17 @@ tags:
 - review
 - netflix
 - recomendacion
-- serie
-- pelicula
-- marvel
-- animada
-- spoiler
+- documental
 ---
 
 **Año** : 2019  
-**Director** : Carl Strathie
-**Imdb** : 
-**Tomatometer** : 80%
+**Director** : Eva Orner   
+**Imdb** : 6.7   
+**Tomatometer** : 96%   
 **Plataforma** : Netflix
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sowGYbxTPgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/AbsaUHdxGHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
