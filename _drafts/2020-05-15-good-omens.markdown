@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Dark Encounter
-date: '2020-04-29 17:57:00'
+title: Good Omens
+date: '2020-05-15 21:00:00'
 author: 'sebavidal'
-lead: 'bajada'
+lead: ''
 tags:
 - review
 - netflix

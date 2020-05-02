@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Freddy vs. Jason
-date: '2020-05-01 17:00:00'
+date: '2020-05-06 00:00:00'
 author: 'sebavidal'
-lead: 'bajada'
+lead: 'Freddy Krueger y Jason Voorhees regresan para aterrorizar Springwood, solo que esta vez terminaran enfrentados entre sí.'
 tags:
 - review
 - pelicula
 - spoiler
 ---
 
-**Año** : 2003
-**Director** : Ronny Yu
-**Imdb** : 5.7
-**Tomatometer** : 41%
+**Año** : 2003  
+**Director** : Ronny Yu  
+**Imdb** : 5.7  
+**Tomatometer** : 41%  
 
 <figure class="kg-card kg-embed-card">
     <iframe width="480" height="270" src="https://www.youtube.com/embed/0Agkg4az_9E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -50,7 +50,8 @@ En una fiesta una de las jóvenes se duerme y Freddy ataca, pero antes de poder 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
 ### Final
-Esta batalla termina con Jason cortando un brazo a Freddy y Krueguer enterrando su propio machete. Ambos caen lago cuando Lori hace explotar unos estanques de combustible, Krueger vuelve a salir y Lori le corta la cabeza la que cae junto al cuerpo al agua. A la mañana siguiente Jason sale del lago caminando con la cabeza Freddy en la mano la que le guiña un ojo a la camara.
+Esta batalla termina con Jason cortando un brazo a Freddy y Krueguer enterrandole su propio machete. Ambos caen lago cuando Lori hace explotar unos estanques de combustible, Krueger vuelve a salir y Lori le corta la cabeza la que cae junto al cuerpo al agua.  
+A la mañana siguiente Jason sale del lago caminando con la cabeza de Freddy en la mano la que le guiña un ojo a la camara.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-08.jpg)
 
@@ -62,15 +63,15 @@ Esta batalla termina con Jason cortando un brazo a Freddy y Krueguer enterrando 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
 ### Lo peor
-- El elenco (tipo de estas películas). El actor que hace de policía no puede ser tomado en serio.
+- El elenco (típico de estas películas). El actor que hace de policía no puede ser tomado en serio.
 - Los chistes de Freddy Krueger son una característica del personaje, pero acá no funcionan
 - El final es un chiste (literal)
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
 
 ### Conclusión
-La primera vez que la vi fue entretenida, pero ha envejecido pésimo. Fue la última vez que Englund uso el guante y es una mejor manera de despedir sus apariciones que La muerte de Freddy. Se aleja mucho del terror y se convierte en una película más palomitera que es fruto de su época y vive en el aparador junto a [Jennifers Body](https://www.imdb.com/title/tt1131734/)
+La primera vez que la vi fue entretenida, pero ha envejecido pésimo. Fue la última vez que Englund uso el guante y es una mejor manera de despedir sus apariciones que La muerte de Freddy. Se aleja mucho del terror y se convierte en una película más palomitera que es fruto de su época y que descanzará en el aparador junto a [Jennifers Body](https://www.imdb.com/title/tt1131734/).
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.jpg)
 
-En su momento se habló de una secuela donde podría salir Leatherface, pero nunca se dio luz verde al proyecto, quizás por las nuevas adaptaciones de Jason y Freddy.
+En su momento se habló de una secuela donde podría salir Leatherface, pero nunca se dio luz verde al proyecto, quizás por las nuevas adaptaciones de Jason y Freddy que estaban en camino.

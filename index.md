@@ -21,7 +21,7 @@ title: "The BeerBrother"
 
 <div class="container">
   <div class="columns is-multiline" >
-      {% for post in site.posts limit:14 %}
+      {% for post in site.posts limit:16 %}
         {% if forloop.index == 1 %}
           
         {% else %}
@@ -33,6 +33,9 @@ title: "The BeerBrother"
                   {%- comment -%} class = "is-4" {%- endcomment -%}
                   <div class="column box is-4">
               {% elsif forloop.index == 11 %}
+                  {%- comment -%} class = "is-8" {%- endcomment -%}
+                  <div class="column box is-8">
+              {% elsif forloop.index == 15 %}
                   {%- comment -%} class = "is-8" {%- endcomment -%}
                   <div class="column box is-8">
               {% else %}
