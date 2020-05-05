@@ -3,7 +3,7 @@ layout: post
 title: Countdown
 date: '2020-05-03 00:00:00'
 author: 'sebavidal'
-lead: ''
+lead: 'Quinn ha usado la aplicacion y solo le quedan 3 días de vida, a su pequeña hermana un poco menos, por lo que hará lo que sea necesario por alterar la cuenta regresiva indicada por la app.'
 tags:
 - review
 - pelicula

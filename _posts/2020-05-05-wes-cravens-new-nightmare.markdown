@@ -3,7 +3,7 @@ layout: post
 title: Wes Craven's New Nightmare
 date: '2020-05-05 00:00:00'
 author: 'sebavidal'
-lead: ''
+lead: 'Estamos en el mundo real, todos creen que Freddy es solo una película y su propio director, Wes, nos cuenta que ahora Freddy quiere pasar a nuestro mundo y solo Nancy puede detenerlo.'
 tags:
 - review
 - pelicula
