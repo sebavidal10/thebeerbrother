@@ -1,25 +1,24 @@
 ---
 layout: post
-title: Castlevania, S03
-date: '2020-05-12 00:00:00'
+title: Good Omens
+date: '2020-05-18 21:00:00'
 author: 'sebavidal'
 lead: ''
 tags:
 - review
-- netflix
 - recomendacion
 - serie
-- animada
+- prime
 ---
 
 **Año** : 2019  
-**Director** : Warren Ellis   
-**Imdb** : 8.2   
-**Tomatometer** : 93%   
-**Plataforma** : Netflix
+**Director** : Neil Gaiman, Terry Pratchett   
+**Imdb** : 8.1   
+**Tomatometer** : 84%   
+**Plataforma** : Prime Video   
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/cYNGDUIBUhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZSXlNRRoGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
@@ -38,3 +37,5 @@ tags:
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
+
+![{{ page.title | slugify }}-07](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.jpg)
