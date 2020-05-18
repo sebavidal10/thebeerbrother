@@ -17,4 +17,3 @@ plugins:
   - jekyll-loading-lazy
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-youtube

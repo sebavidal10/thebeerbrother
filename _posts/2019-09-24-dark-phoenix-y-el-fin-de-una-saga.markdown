@@ -39,7 +39,7 @@ En este último film, el equipo se debe enfrentar (de nuevo, ya la enfrentaron e
 Personalmente la entrega anterior, **Apocalypse** , no me gusto mucho y siento que lo mejor fue la participación de Quick Silver (Evan Peters) en esa escena en cámara lenta muy bien musicalizada.
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    {% youtube "https://www.youtube.com/watch?v=TjRImC7kTCs" %}
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=TjRImC7kTCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 

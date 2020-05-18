@@ -16,7 +16,7 @@ tags:
 **Tomatometer** : 80%
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    {% youtube "https://www.youtube.com/embed/9dLQYxBYGTQ" %}
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9dLQYxBYGTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
