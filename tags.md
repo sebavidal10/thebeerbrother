@@ -6,7 +6,9 @@ layout: default
   <h1 class="title title-section">Tags</h1>
   <div class="columns is-multiline">
 
-    {% for tag in site.tags %}
+  {% assign sortedTags = site.tags | sort: tag[0] %}
+
+    {% for tag in sortedTags %}
         <div class="column is-4 box">
           <div class="card">
             <header class="card-header">
