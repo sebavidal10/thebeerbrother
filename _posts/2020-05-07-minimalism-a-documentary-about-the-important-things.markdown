@@ -16,7 +16,7 @@ tags:
 **Imdb** : 6.7   
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0Co1Iptd4p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% youtube "https://www.youtube.com/embed/0Co1Iptd4p4" %}
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 

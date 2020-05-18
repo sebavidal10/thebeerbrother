@@ -13,7 +13,10 @@ tags:
  **Director** : Cathy Yan  
 **Año** : 2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x3HbbzHK5Mc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    {% youtube "https://www.youtube.com/embed/x3HbbzHK5Mc" %}
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
 
 Nunca le tuve mucha fe, pero la presencia de Ewan McGregor me hizo pensar que quizás el villano seria bkn y se podría rescatar algo del film, ya que por el lado de [Margot Robbie](https://www.imdb.com/name/nm3053338/) (a quien encuentro una muy buena actriz) nso había que esperar nada mejor que lo que ya vimos en la descartable [Suicide Squad (2016)](https://www.imdb.com/title/tt1386697/).
 

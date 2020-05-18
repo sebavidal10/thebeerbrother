@@ -19,7 +19,7 @@ tags:
 **Plataforma** : Netflix
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/cYNGDUIBUhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% youtube "https://www.youtube.com/embed/cYNGDUIBUhE" %}
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 

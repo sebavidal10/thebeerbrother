@@ -38,7 +38,10 @@ En este último film, el equipo se debe enfrentar (de nuevo, ya la enfrentaron e
 
 Personalmente la entrega anterior, **Apocalypse** , no me gusto mucho y siento que lo mejor fue la participación de Quick Silver (Evan Peters) en esa escena en cámara lenta muy bien musicalizada.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TjRImC7kTCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    {% youtube "https://www.youtube.com/embed/TjRImC7kTCs" %}
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
 
 Personaje que desaparece en el primer acto de la película junto a **Mystique** (muere en manos de Jean), quien gracias al _boom_ de **Jennifer Lawrence** se convirtió en una especie de heroína en Days of Future Past (mi favorita de la saga) y se mantuvo en ese podio hasta su fin. Ambos personajes no aparecen nunca más en la peli, pero la muerte de Mystique desata todos los acontecimientos que continúan la trama del film, ya que Bestia y Magneto quieren matar a Jean en venganza y Xavier con Cyclope quieren salvarla.
 

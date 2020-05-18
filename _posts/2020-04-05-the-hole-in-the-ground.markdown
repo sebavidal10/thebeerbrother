@@ -12,7 +12,10 @@ tags:
  **Director** : Lee Cronin  
 **Año** : 2019
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mOuQ7J8N8oQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    {% youtube  "https://www.youtube.com/embed/mOuQ7J8N8oQ" %}
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
 
 Con uno de esos afiches que auguran una película pésima y con una traducción terrible "El Bosque maldito", The Hole in the Ground no debería verse, pero al estar producida por A24 nos da esa pequeña luz de esperanza creada por grandes films como [Hereditary](https://www.imdb.com/title/tt7784604/), [The VVitch](https://www.imdb.com/title/tt4263482/), etc.
 
