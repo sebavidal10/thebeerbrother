@@ -22,7 +22,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-### Desde el Éden al Armagedon
+### Desde el Éden hasta el Armagedon
 **Tremenda serie** con un elenco de primera y basada en una historia de Neil Gaiman, al igual que American Gods, con la que comparte un apartado visual de primera. La historia en la más ínfima síntesis se trata de un ángel y un demonio que se conocen en el edén y que son parte directa / indirecta de cada uno de los acontecimientos de la historia hasta nuestros días. El ángel, **Aziraphale** (Michael Sheen) y el demonio **Crowley** (David Tennant), forman una particular amistad que nos hace balancearse entre quien es el bueno y el malo (los ángeles son unos idiotas muy políticos y los demonios son torpes y pura maldad) y que los lleva a tomar una extraña postura cuando el apocalipsis llega, ya que ambos disfrutan vivir en la Tierra y no quieren que las cosas acaben.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
