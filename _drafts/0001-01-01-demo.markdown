@@ -11,6 +11,7 @@ tags:
 - serie
 - pelicula
 - marvel
+- dc
 - animada
 - spoiler
 ---
