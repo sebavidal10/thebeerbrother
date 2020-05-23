@@ -114,7 +114,7 @@ layout: default
         </div>
 
         <div class="column is-4 side-bar is-hidden-mobile">
-          <div class="has-text-left">
+          <div class="has-text-left subtitle">
             <b>Ultimos Articulos</b>
           </div>
           <ul>
@@ -137,8 +137,13 @@ layout: default
             {% endfor %}
           </ul>
 
-          <div class="cloud">
-            
+          <div class="cloud">            
+            {% assign sortedTags = site.tags | sort: tag[0] %}
+            {% for tag in sortedTags %}
+              <a href="/tags/{{ tag[0] | slugify }}">
+                <div class="tile-tag">{{ tag[0] | capitalize }}</div>
+              </a>
+            {% endfor %}
           </div>
 
           <div>

@@ -418,7 +418,8 @@ a {
   }
 
   .cloud {
-      
+    text-align: left;
+    padding: 14px;
   }
 
   .fb-comments {
@@ -427,4 +428,17 @@ a {
       iframe {
         width: 100% !important; 
       }
+  }
+
+  .tile-tag {
+    display: inline-block;
+    margin-top: 5px;
+    margin-right: 3px;
+    padding: 5px 15px;
+    background-color: #363636;
+    color: white;
+    border-radius: 5px;
+  }
+  .tile-tag:hover {
+    background-color: #f14668;
   }
