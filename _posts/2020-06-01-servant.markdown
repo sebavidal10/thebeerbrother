@@ -1,0 +1,62 @@
+---
+layout: post
+title: Servant
+date: '2020-06-01 00:00:00'
+author: 'sebavidal'
+lead: 'Una joven y exitosa pareja contrata una nueva sirvienta para hacerse caso de su pequeño hijo. El bebé tiene una extraña condición, pero la reacción de la sirvienta es lo resulta más intrigante.'
+tags:
+- review
+- serie
+- apple
+---
+
+**Año** : 2020   
+**Director** : Tony Basgallop   
+**Imdb** : 7,6   
+**Tomatometer** : 83%   
+**Plataforma** : Apple+   
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N1cOR0sRRIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+Creo que no soy el público para las producciones de M. Night Shyamalan, si bien disfruté mucho [Split](https://www.imdb.com/title/tt4972582/), Glass me aburrió muchísimo. Si veo su filmografía me enfrento a excelentes trailers, pero a películas que me aburrían de sobremanera, no por la historia que cuenta sino más bien por el “cómo” se cuentan. Un ejemplo podría ser [The Village](https://www.imdb.com/title/tt0368447/), si uno se la cuenta a alguien le parecerá muy interesante, ya que los puntos que la hacen diferente y especial son muy atractivos, pero cuando la ves es lenta, aburrida y a momentos hasta torpe. Lo mismo ocurre con [The Happening](https://www.imdb.com/title/tt0949731/). De [The Last Airbender](https://www.imdb.com/title/tt0938283/) mostró un mini avance increíble y la película es un completo insulto a una excelente serie de animación. Para que hablar de [After Earth](https://www.imdb.com/title/tt1815862), el único actor capaz de superar algo así y no desaparecer de la pantalla grande es Will Smith, por eso dude un poco antes de ver la serie, cuando comencé ya no pare más.
+
+### Un bebé y un cocinero
+La historia se centra en una joven pareja, por un lado tenemos a Sean (Toby Kebbell), un excéntrico cocinero de altísimo nivel que mayormente está en casa preparando rebuscados platos decorados con particulares ingredientes y logrando sabores únicos. Usa extraños métodos y posee un sentido del gusto altamente desarrollado. Por otro lado tenemos a Dorothy (Lauren Ambrose) una famosa periodista  hija de una acaudalada familia (por eso tienen una casa tan refinada) que se esta prepatando para volver a sus labores en el noticiero, para lo cual deberá contratar una sirvienta que se haga cargo de su particular hijo. Ahí es donde aparece Leanne Grayson (Nell Tiger Free), la sirvienta, quien aparece en una lluviosa noche y desde su llegada todo cambia para la joven familia.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+### Comencemos
+El primer episodio es magistral, nos presenta a los personajes y nos dice muchas cosas de sus respectivas personalidades. La música y la puesta en escena de los elementos, además de ángulos de cámara muy atractivos, crean un producto de calidad que atrae magnéticamente a la audiencia de manera natural. El final del capítulo es increíble.
+
+A través de los episodios vamos conociendo más personajes, mi favorito es Julian (Rupert Grint), hermano de Dorothy y amigo muy cercano de Sean, quien sabe la verdad y conoce los secretos de la pareja y está muy intrigado por la llegada de la sirvienta. Es un personaje muy entretenido y es el “tío borracho” de la familia, que en el fondo esconde un héroe y apoyo para la misma.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+### Sobrenaturalmente real
+En pocas palabras, la serie nos presenta muchos sucesos que podrían parecer producto de una fuerza sobrenatural, pero de la misma forma nos da ciertos tips que nos responden de forma “probable” y nos sacan de lo sobrenatural, solo para darnos con algo más etéreo y paranormal al par de minutos. Las situaciones nos llevan desde el suspenso al thriller y el realismo (y lo extraño)  de la cocina aportan con más elementos que nos intrigan y capturan con más fuerza a cada episodio. Sin lugar a dudas Leanne cambió la vida de Sean y Dorothy, el por qué y cómo llego ahí es la intriga que se nos trata de explicar a lo largo de los 10 episodios.
+
+### Religión y traumas
+Hay muchos hechos que llevan la historia de la pareja y su sirvienta a tambalearse entre la realidad, los sueños, las fuerzas sobrenaturales, traumas, obsesiones, etc. En muchos instantes uno tiene una idea del “por qué” ocurre lo que ocurre y luego algo sucede y tu teoría muere dando paso a otra aún más descabellada. El uso de la religión extrema aporta a esto y la “familia” de Leanne vuelve esto aún más complejo.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+### Lo mejor
+- La fotografía es muy buena
+- Las actuaciones son de alto nivel
+
+### Lo peor
+- Hay situaciones, como lo relacionado a la vecina falsa, que no funcionan para nada bien
+- El final no me gusto, la serie me genero muchas expectativas y una necesidad tremenda de saber que ocurría, pero al final termine como “meh”
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
+
+Hay muchas para comentar de la serie, pero no quiero hacer spoilers, porque al estar Shyamalan presente, los giros inesperados y que cambian todo son cosa de cada episodio. Una producción impecable, con una segunda temporada asegurada. La veré solo por la curiosidad que genera la primera, sobretodo su último episodio que me hace teorizar acerca de cuales personajes del elenco seguirán en la continuación.
+
+![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
+
+**EXTRA**
+La escena del perro da muchos tips acerca de Leanne.
+Que onda las astillas.
