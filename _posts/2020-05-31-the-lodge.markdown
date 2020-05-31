@@ -1,0 +1,66 @@
+---
+layout: post
+title: The Lodge
+date: '2020-05-31 00:00:00'
+author: 'sebavidal'
+lead: 'Una joven se dispone a pasar navidad junto a los 2 hijos de su futuro esposo en una alejada casa en las montañas, pero una serie de extraños acontecimientos convertirán un fin de año soñada en una completa pesadilla.'
+tags:
+- review
+- pelicula
+---
+
+**Año** : 2020    
+**Director** : Severin Fiala, Veronika Franz    
+**Imdb** : 6,1    
+**Tomatometer** : 74%
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dCLOqdzAP9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+### La cabaña siniestra
+Aidan (Jaeden Martell) y Mia (Lia McHugh) perdieron a su madre hace muy poco… y Richard, su papá, los ha invitado a pasar las fiestas de fin de año, específicamente Navidad, en una casa de invierno en mitad de la nieve junto a su nueva novia y futura esposa, Grace (Riley Keough). 
+
+![{{ page.title | slugify }}-00](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-00.jpg)
+
+La historia se decora con muchos elementos visuales, hay cruces por todos lados, paralelos entre lo real y una maqueta, hay un exceso de religiosidad y decorados religiosos por todos lados, lo que nos hace pensar en otras cintas como:
+- [Hereditary - 2018](https://www.imdb.com/title/tt7784604/): hay una casa de muñecas que tiene figuritas de todos los protagonistas.
+- [The Shinning - 1980](https://www.imdb.com/title/tt0081505/): hay caminos y una casa aislada en la nieve donde cosas extrañas comienzan a suceder.
+- [The Turning - 2020](https://www.imdb.com/title/tt7510346/): te deja en el aire varias cosas que uno puede autocompletar (en The Lodge funciona eso sí.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+La película tiene 3 situaciones puntuales que marcan cada uno de sus capítulos, el primero nos presenta a los personajes y nos muestra la muerte de la madre de los protagonistas, lo que nos ayuda a entender la distancia que crean los niños hacia Grace. El segundo ocurre cuando están en la casa, al despertarse la casa no tiene luz ni agua y ninguna de sus pertenencias están, ni las de los niños ni las de Grace. Esto hace que no entiendan lo que ocurre y que cualquier teoría comience a tener sentido. Si a esto sumamos más hechos paranormales que nos presenta la trama, mezclado con Flashback y sueños que tienen Grace y los niños, caemos en una nebulosa donde no sabemos qué es lo que ocurre ni para dónde irá todo. El tercer acontecimiento es parte del acto final y hay que ver la película para saberlo.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+Siento que hay una escena puntual, cuando vean el film lo sabrán, donde una idea se hace tan evidente que termina arruinando el film, no porque sea obvia si no porque se hace explícita, si ese pequeño elemento se hubiese omitido me habría gustado mucho la película.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+La actuación de Riley Keough es muy buena, el resto del elenco es flojo y altamente reemplazable. Creo que IT no fue el gran semillero que se pensaba, ya que este año han salido varios de sus protagonistas en otras películas y todas han sido bastante mediocres. Si hablamos más de Riley y su personaje Grace, nos centramos en el elemento más interesante de toda la película. Su pasado y lo que gira en torno a su relación con el padre de los niños y el constante esfuerzo que hace por integrarse a la familia y huir de sus demonios del pasado nos hablan de una persona compleja y, sobretodo, de un personaje bien construido que habría podido dar para mucho más.
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
+
+### El final y la trama
+El desenlace es un poco torpe y deja muchísimas dudas. Si bien la trama se centra en el arrepentimiento y en algunos hechos del pasado de Grace, creo que también apunta al perdón (de ahí el excesivo uso de la virgen y las oraciones), ya que la fe ciega en fenómenos religiosos de arrepentimiento y castigo ignoran la realidad y crean respuestas sin fundamento a cosas que eran muy racionales, si a esto sumamos la ausencia de medicamentos que condicionan el comportamiento, tenemos una línea muy delgada que nos deja ver ciertas luces de similitud con [Babadook - 2014](https://www.imdb.com/title/tt2321549/) que la hacen mejor, pero que se pierden entre muchas inconsistencias.
+
+![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
+
+### Lo mejor
+- La música es muy buena
+- El trasfondo de Grace es interesante
+- Algunas de las “cosas” que ocurren deben ser visiones de Grace, sino son imposibles
+
+### Lo peor
+- La revelación y explicación del giro
+- El cierre me desilusiono
+
+![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
+
+Si van tras un film del tipo sobrenatural y que apunta más hacia The Shining o incluso Hereditary se llevaran tremenda desilusión, ya que la película tiene otro tipo de terror.
+
+![{{ page.title | slugify }}-07](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.jpg)
+
+**Extra**: trate de no dar spoilers, pero creo que las referencias a otros films hablaron por sí sola.
