@@ -6,7 +6,6 @@ author: 'sebavidal'
 lead: 'bajada'
 tags:
 - review
-- netflix
 - recomendacion
 - serie
 - pelicula
@@ -14,6 +13,9 @@ tags:
 - dc
 - animada
 - spoiler
+- netflix
+- apple
+- prime
 ---
 
 **Año** : 2019  

@@ -6,7 +6,6 @@ author: 'sebavidal'
 lead: 'Reboot del clásico con un muy buen elenco y una gran billetera... resultó? no muy bien. Con un extraño ritmo actualiza el clásico Freddy que atormenta los sueños de los descendientes de quienes tomaron la justicia en sus manos y lo quemaron vivo en unas bodegas'
 tags:
 - review
-- recomendacion
 - pelicula
 - spoiler
 ---
