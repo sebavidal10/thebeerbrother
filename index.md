@@ -10,6 +10,7 @@ title: "The BeerBrother"
     <div class="b-title">
       <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
     </div>
+    <p class="title-white is-7">{{ site.posts[0].date | date: "%b %-d, %Y" }}</p>
     <p class="is-hidden-mobile">{{ site.posts[0].lead }}</p>
     <div>
       {% for tag in site.posts[0].tags %}
