@@ -7,6 +7,7 @@ layout: default
 <div class="container">
   <div class="title-post">
     <div class="b-title">{{ page.title }}</div>
+    <p class="title-white is-7">{{ page.date | date: "%b %-d, %Y" }}</p>
     <p class="is-hidden-mobile">{{ page.lead }}</p>
     <div>
       {% for tag in page.tags %}
