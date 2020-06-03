@@ -3,7 +3,7 @@ layout: post
 title: Code 8
 date: '2020-06-02 00:00:00'
 author: 'sebavidal'
-lead: ''
+lead: 'A comienzos del siglo XX superpoderes comienzan a manifestarse y empezamos a tener personas con control mental, fuerza extrema, control de la electricidad, etc. lo que da paso, por un lado, a una Segunda Revolución Industrial y, por otro, a super-delincuentes.'
 tags:
 - review
 - netflix
