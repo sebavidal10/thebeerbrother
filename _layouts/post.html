@@ -17,6 +17,14 @@ layout: default
   </div>
 </div>
 
+{% for tag in page.tags %}
+  {% if tag == 'spoiler' %}
+    <div class="row spoiler-div">
+      <div class="container">Este post contiene spoilers</div>
+    </div>
+  {% endif %}
+{% endfor %}
+
 <div class="container">
   <article class="post">
 
