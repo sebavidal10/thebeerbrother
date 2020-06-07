@@ -3,7 +3,7 @@ layout: post
 title: "Justice League: Dark Apokolips War"
 date: '2020-06-04 00:00:00'
 author: 'sebavidal'
-lead: 'Superman decide atacar Apokolips antes que Darkseid ataque la Tierra, ya que save que no podrán defenderse un nuevo ataque.'
+lead: 'Superman decide atacar Apokolips antes que Darkseid ataque la Tierra, porque sabe que no podrán defenderse un nuevo ataque.'
 tags:
 - review
 - recomendacion
