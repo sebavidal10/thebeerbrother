@@ -3,7 +3,7 @@ layout: post
 title: Koma
 date: '2020-06-10 00:00:00'
 author: 'sebavidal'
-lead: ''
+lead: 'Al morir no sabemos donde vamos, pero en al caer en estado de Coma al parecer si. Koma nos habla de un mundo común creado por los recuerdos de todas las personas en estado de Coma y donde los supervivientes deben estar constantemente huyendo de unos extraños seres que quieres matarlos. Película de origen Ruso que nos regala muchisimos wallpapers surrealistas.'
 tags:
 - review
 - pelicula
