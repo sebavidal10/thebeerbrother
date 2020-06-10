@@ -1,0 +1,55 @@
+---
+layout: post
+title: Koma
+date: '2020-06-10 00:00:00'
+author: 'sebavidal'
+lead: ''
+tags:
+- review
+- pelicula
+---
+
+**Año** : 2019  
+**Director** : Nikita Argunov   
+**Imdb** : 6.5   
+**Tomatometer** : -   
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QYgVTBM6Mko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+### Koma / Coma
+La intro de la película me hizo pensar que era animada, ya que muestra un mundo claramente creado por computador, sensación que no desaparecio nunca y que vemos más falso con cada minuto que pasa. Por otro lado, lo onírico de las imagenes me gusto mucho, a momentos se sentía como que estaban dentro de una pintura, más que en una dimensión extraña donde van a parar todas las personas que están en estado de coma (si, eso ocurre en el film) y que comparten un mundo con extrañas leyes físicas donde se entremezclan todos los recuerdos de las personas bajo este estado y unos oscuro seres tratan de darles caza.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+El film se centra en **Viktor "El Arquitecto**" (Rinal Mukhametov) quien es rescatado por un grupo de guerrilleros de este extraño mundo, quienes de paso nos explican y muestran todo lo que necesitamos saber para no hacer mas preguntas xD, en resumen (el trailer igual lo cuenta), nos hablan de que todos están en estado de Coma y este mundo es una dimensión común para todas sus mentes. El rescate a momentos recuerda a cuando Morpheus y Trinity hablan por primera vez con Neo y este siente que lo llevan y debe confiar en ellos o morir. También, desde un comienzo, vemos a unos extraños seres que los tratan de matar y que son tan letales que los "supervivientes" están dispuestos a sacrificarse con tal de que no los atrapen.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+### Suicide Squad y x-men
+Dentro del equipo vemos los claros estereotipos de "el guerrero líder", "la mujer", "el artillero" y así varios más. También hay un líder que , obvio, es el mayor del equipo y que aporta la sabiduría. El resto de los habitantes de esta extraña dimensión son sólo relleno que están ahí para morir. Cabe señalar, que bajo ciertos escenarios de peligro, algunas personas son capaces de desarrollar habilidades que son potenciadas en este mundo, he ahí la importancia de Victor para el grupo, ya que el era arquitecto en el mundo real y se espera que esta habilidad se extrapole y potencie en este mundo inconsciente, algo que solo parece saber el líder y que por eso envio a sus mejores hombres a buscar a Viktor... como si supiera cuando este iba a caer en estado de Coma.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+### ¿Por qué Viktor querría volver a su realidad?
+La película avanza de forma predecible y el pequeño giro que hay de camino al tercer acto le agrega "algo" que no nos sorprende, pero que resulta inquietante. El final es bueno, predecible, pero agradable y deja en claro lo imposible e inevitable que es nuestro deseo, como seres humanos, de reconocimiento y éxito frente a los demás. En la película un arquitecto mediocre, al caer en coma, se convierte en un superhéroe con el destino de muchos en sus manos y logra atraer a la chica que le gusta, algo así como cuando un desarrollador como Neo, fuera de Matrix, era el Elegido. 
+
+Seamos **honestos**, la película es mala, pero me gusta cuanto apuestan los rusos en su cine y como le ponen corazón a sus proyectos, una película llena de efectos especiales (no muy buenos), pero que se arriesga y trasciende de tal forma que personas al otro lado del mundo al terminan viendo.
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
+
+### Lo peor
+- La idea base de este mundo común entre quienes quedan en Coma no me gusto nada.
+- Muchos agujeros de guión que se pasan por alto.
+- Los efectos especiales en algunas escenas, sobre todo en el último acto, son muy malos.
+- El **Deux ex machina** es terrible.
+
+### Lo mejor
+- La representación del lugar me agrado, muchos colores y una física muy a lo [Inception](https://www.imdb.com/title/tt1375666/) siempre es grata, con personajes que saltan y caen en otro lugar de otra forma, muy bien eso.
+- Las tomas que tenían que ver con agua, más aún, las escenas donde veíamos cosas imposibles.
+- Personajes entretenidos y un protagonista con el que empatizas rápidamente.   
+
+### Hay que verla?
+Mmmm si tienes tiempo si, es agradable el acento y la historia es fresca. Si ignoras el presupuesto y aprecias el corazón en una cinta de ciencia ficcion... **dale! es una película para tí** 
