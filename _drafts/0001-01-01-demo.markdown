@@ -4,25 +4,37 @@ title: Dark Encounter
 date: '0001-01-01 00:00:00'
 author: 'sebavidal'
 lead: 'bajada'
-tags:
-- review
-- recomendacion
-- serie
+categoria:
 - pelicula
-- marvel
-- dc
+- serie
+- juego
+- libro
+tags:
+- accion
 - animada
-- spoiler
-- netflix
 - apple
+- belico
+- comedia
+- dc
+- documental
+- drama
+- erotico
+- marvel
+- musical
+- netflix
 - prime
+- sci-fi
+- suspenso
+- terror
+- western
 ---
 
 **Año** : 2019  
 **Director** : Carl Strathie
-**Imdb** : 
-**Tomatometer** : 80%
-**Plataforma** : Netflix
+**Plataforma** : Netflix Prime Apple+ Hbo
+**Temporada** : 1  
+**Episodios** : 10  
+**Imdb** : [9.9](link)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/sowGYbxTPgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -3,21 +3,25 @@ layout: post
 title: 'Mythic Quest: Raven''s Banquet'
 date: '2020-04-13 19:00:00'
 author: 'sebavidal'
-lead: 'El equipo detrás de Mythic Quest lucha día a día por crear el mejor juego del mundo. En este proceso sus personalidades y motivaciones chocan envueltas en ironías y sentido del humor. Muchos recursos en función de los sueños de sus creadores y un niño streamer que define qué es bueno y qué no.'
+lead: 'El equipo detrás de Mythic Quest lucha día a día por crear el mejor juego del mundo. En este proceso sus personalidades y motivaciones chocan envueltas en ironías y sentido del humor. Muchos recursos en función de los sueños de sus creadores y un niño streamer que define qué es bueno y qué no por youtube.'
+categories:
+- series
 tags:
-- review
-- serie
-- recomendacion
 - apple
+- comedia
 ---
 
- **Creadores** : Charlie Day, Megan Ganz, Rob McElhenney  
+**Año** : 2020  
+**Creadores** : Charlie Day, Megan Ganz, Rob McElhenney  
 **Plataforma** : Apple+  
 **Temporada** : 1  
 **Episodios** : 9  
-**Año** : 2020
+**Imdb** : [7,6](https://www.imdb.com/title/tt8879940)
 
-<!--kg-card-end: markdown--><figure class="kg-card kg-embed-card"><iframe width="480" height="270" src="https://www.youtube.com/embed/pMaPCYRPhY0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><!--kg-card-begin: markdown-->
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pMaPCYRPhY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
 
 Hasta ahora no había visto ninguna serie de **Apple+** , y el otro día estaba revisando el catalogo y agregando cosas al WatchList cuando llegue a Mythic Quest y la descripción breve de la serie me engancho, sentí que vería una serie muy al estilo [Silicon Valley](https://www.imdb.com/title/tt2575988/), pero hecha por Apple, los que me sonaba muy bien.
 
@@ -25,7 +29,7 @@ Hasta ahora no había visto ninguna serie de **Apple+** , y el otro día estaba 
 
 ## Mythic Quest: Raven's Banquet
 
-La serie cuenta con 9 episodios donde nos muestran cómo es la vida en una empresa de software enfocada en el juego [MMORPG](https://es.wikipedia.org/wiki/Videojuego_de_rol_multijugador_masivo_en_l%C3%ADnea) más popular del mundo, **Mythic Quest** , y el lanzamiento de su nueva expansión **Ravens Banquet**. La empresa está conformada por un estereotipado equipo de personajes, como Director Creativo tenemos a Ian, un líder soñador (y muy ególatra), algo así como una mezcla entre Steve Jobs y Tony Stark interpretado por Rob McElhenney. También está C.W. (F. Murray Abraham), un narrador alcohólico que se encarga de redactar las historias del juego que nadie ve. El CEO, David, un hombre estresado, nervioso e inseguro interpretado de una excelente forma por David Hornsby quien aporta la mayoría de los chistes y se convierte en el personaje que busca hacer las cosas bien, pero es frecuente presa de sus propias palabras. Está la líder de desarrollo, Poppy Li (Charlotte Nicdao), personaje con el que nos identificamos, ya que parece ser la única que se da cuenta de lo que pasa y que busca hacer realmente cosas buenas para Mythic Quest… luego de varios episodios nos damos cuenta que está en lugar indicado para ella. El elenco lo cierran las chicas de testing, Dana y Rachel, que ponen en la palestra el increíble trabajo que tienen!! y cómo a pesar de pasarse el día jugando se agotan y se sienten presionadas.
+La serie cuenta con 9 episodios donde nos muestran cómo es la vida en una empresa de software enfocada en el juego [MMORPG](https://es.wikipedia.org/wiki/Videojuego_de_rol_multijugador_masivo_en_l%C3%ADnea) más popular del mundo, **Mythic Quest** , y el lanzamiento de su nueva expansión **Ravens Banquet**. La empresa está conformada por un estereotipado equipo de personajes, como Director Creativo tenemos a Ian, un líder soñador (y muy ególatra), algo así como una mezcla entre Steve Jobs y Tony Stark interpretado por Rob McElhenney. También está C.W. (F. Murray Abraham), un narrador alcohólico que se encarga de redactar las historias del juego que nadie ve. El CEO, David, un hombre estresado, nervioso e inseguro interpretado de una excelente forma por David Hornsby quien aporta la mayoría de los chistes y se convierte en el personaje que busca hacer las cosas bien, pero es frecuente presa de sus propias palabras. También está la líder de desarrollo, Poppy Li (Charlotte Nicdao), personaje con el que nos identificamos, ya que parece ser la única que se da cuenta de lo que pasa y que busca hacer realmente cosas buenas para Mythic Quest... luego de varios episodios nos damos cuenta que está en lugar indicado para ella. El elenco lo cierran las chicas de testing, Dana y Rachel, que ponen en la palestra el increíble trabajo que tienen!! y cómo a pesar de pasarse el día jugando se agotan y se sienten presionadas.
 
 ![mythic-quest-01](/assets/images/2020/04/mythic-quest-01.jpg)
 
@@ -47,8 +51,6 @@ El 5to episodio de la serie cuenta otra historia, tiene un ínfimo vínculo con 
 
 ![mythic-quest-03](/assets/images/2020/04/mythic-quest-03.jpg)
 
-El cierre de la temporada es reconfortante y toma todos los cabos sueltos y los junta, me gusto como tambalean los personajes (física y mentalmente) y como usaron soluciones de "guión" y nos permitieron ver los estúpidas que eran, como cuando para afrontar un problema de ánimo de los desarrolladores llevan una maquina de helado. Entretenida, le tome cariño, pero está lejos de la primera temporada de Silicon Valley, que para mi es perfecta. Al final Ian no era tan malo.
+El cierre de la temporada es reconfortante y toma todos los cabos sueltos y los junta, me gusto como tambalean los personajes (física y mentalmente) y como usaron soluciones de "guión" y nos permitieron ver los estúpidas que eran, como cuando para afrontar un problema de ánimo de los desarrolladores llevan una maquina de helado. Entretenida, le tome cariño, pero está lejos de la primera temporada de Silicon Valley, que para mi es perfecta. Al final, Ian, no era tan malo.
 
 ![mythic-quest-06](/assets/images/2020/04/mythic-quest-06.jpg)
-
-<!--kg-card-end: markdown-->

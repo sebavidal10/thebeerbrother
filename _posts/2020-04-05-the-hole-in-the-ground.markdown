@@ -4,13 +4,16 @@ title: The Hole in the Ground
 date: '2020-04-05 22:00:00'
 author: 'sebavidal'
 lead: 'Sarah logra encontrar a Chris luego que este se pierde en el bosque, pero al parecer hay algo en el pequeño que hace pensar a la mujer que este no es su hijo.'
+categories:
+- peliculas
 tags:
-- review
-- pelicula
+- suspenso
+- terror
 ---
 
- **Director** : Lee Cronin  
-**Año** : 2019
+**Año** : 2019  
+**Director** : Lee Cronin  
+**Imdb** : [5,7](https://www.imdb.com/title/tt6198946/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/mOuQ7J8N8oQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,24 +26,18 @@ Con uno de esos afiches que auguran una película pésima y con una traducción 
 
 ## El Agujero en el suelo
 
-**The Hole in the Ground** es una película irlandesa que cuenta la historia de Sarah y su pequeño hijo Chris (odia el queso rallado), y los extraños sucesos que los comienzan a atormentar luego de mudarse a una nueva casa sin número, dificil de ubicar y que colinda con un frondoso y tipico bosque irlandes.
+**The Hole in the Ground** es una película irlandesa que cuenta la historia de Sarah y su pequeño hijo Chris (un *freak*, odia el queso rallado), y los extraños sucesos que los comienzan a atormentar luego de mudarse a una nueva casa sin número, dificil de ubicar y que colinda con un frondoso y tipico bosque irlandes.
 
 ![the-hole-in-the-ground-02](/assets/images/2020/04/the-hole-in-the-ground-02.jpg)
 
-Un noche el pequeño Chris desaparece y la madre en su búsqueda va a dar con un enorme agujero en medio del frondoso bosque, al volver a casa para llamar a la policía se da cuenta que Chris esta ahi y que dice nunca haber dejado la casa.
+Todo se vuelve extraño luego de que una noche el pequeño Chris desaparece y la madre en su búsqueda va a dar con un enorme agujero en medio del frondoso bosque (título de la película), al volver a casa para llamar a la policía se da cuenta que Chris esta ahí y que dice nunca haber dejado la casa.
 
-A partir de ahí la película golpea al espectador con excelentes montajes, aciertos de iluminacion y escenas que deambulan constantemente entre la realidad y la imaginación de Sarah (se esta medicamentos), ya que el comportamiento de Chris hace que la joven madre dude si ese niño es realmente su hijo (le gusta el queso rallado).
+A partir de ahí la película golpea al espectador con excelentes montajes, aciertos de iluminacion y escenas que deambulan constantemente entre la realidad y la imaginación de Sarah (se esta medicando constantemente), ya que el comportamiento de Chris hace que la joven madre dude si ese niño es realmente su hijo (ahora si le gusta el queso rallado).
 
 ![the-hole-in-the-ground-03](/assets/images/2020/04/the-hole-in-the-ground-03.jpg)
 
-Uno de los grandes aciertos de la película es **la fotografía** , los parajes de Irlanda son geniales, la neblina, la oscuridad y el infinito bosque crean un ambiente genial. Si bien no termina dando miedo, la intriga que crea y la curiosidad que genera en el espectador da para comentar un montón todo lo que ocurre en el tercer acto, ya que hay muchas situaciones que se equilibran estando a punto de caer entre la realidad, la locura, la ficción y el folclore de los países nórdicos.
+Uno de los grandes aciertos de la película es **la fotografía** , los parajes de Irlanda son geniales, la neblina, la oscuridad y el infinito bosque crean un ambiente unico. Si bien no termina dando miedo, la intriga que crea y la curiosidad que genera en el espectador da para comentar un montón todo lo que ocurre en el tercer acto, ya que hay muchas situaciones que se equilibran estando a punto de caer entre la realidad, la locura, la ficción y el folclore de los países nórdicos (esto ultimo muy importante para entender muchas cosas).
 
 ![the-hole-in-the-ground-04](/assets/images/2020/04/the-hole-in-the-ground-04.jpg)
 
-## Recomendable?
-
-Si tiene tiempo y nada de sueño, dele nomas. Por que es lenta, se cocina a fuego bajo y el cierre es un tanto inconcluso.
-
-**EXTRA** : Luego de muchas vueltas al film y de investigar las posibles explicaciones, la vi por segunda vez y creo que me quedo todo mucho más claro.
-
-<!--kg-card-end: markdown-->
+Si tiene tiempo y nada de sueño, es altamente recomendada, porque es lenta, se cocina a fuego bajo y el cierre es un tanto inconcluso. Un segundo visionado (se que será dificil) ayuda a esclarecer mucho todo lo que sucede en el film.

@@ -3,12 +3,11 @@ layout: default
 ---
 <div class="container" style="padding-top: 100px">
 
-<h1 class="title title-section">Tag: Marvel</h1>
-
+    <h1 class="title title-section">Categoría: Películas</h1>
     <div class="columns is-multiline" >
-        {% for tag in site.tags %}
-            {% if tag[0] == 'marvel' %}
-                {% for post in tag[1] %}
+        {% for cat in site.categories %}
+            {% if cat[0] == 'peliculas' %}
+                {% for post in cat[1] %}
                     <a href="{{ post.url }}">
                         <div class="column box is-4">
                             <time class="subtitle is-7 datetime">{{ post.date | date: "%b %-d, %Y" }}</time>
@@ -33,7 +32,7 @@ layout: default
                             <div class="content">
                                 <div class="lead">{{ post.lead }}</div>
                                     {% for tag in post.tags %}
-                                    <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                                    <a class="tag is-dark" href="#">#{{tag}}</a>
                                     {% endfor %}<br>
                                 </div>
                             </div>

@@ -3,19 +3,17 @@ layout: post
 title: Superman Red Son
 date: '2020-05-22 00:30:00'
 author: 'sebavidal'
-lead: 'El último hijo de Krypton no se ha estrellado en Kansas, por lo que no creció con el amor de los Kent... cayó en Ucrania y creció como la arma secreta de URSS en plena Guerra Fría. Adaptación del exitoso cómic de Millar que nos muestra esta mundo paralelo donde las piezas están revueltas y no todo sale como una esperaría.'
+lead: 'El último hijo de Krypton no se ha estrellado en Kansas, por lo que no creció con el amor de los Kent... cayó en Ucrania y creció como la arma secreta de URSS en plena Guerra Fría. Adaptación del exitoso cómic de Millar que nos muestra este mundo paralelo donde las piezas están revueltas y no todo sale como una esperaría.'
+categories:
+- peliculas
 tags:
-- review
-- recomendacion
-- pelicula
 - dc
 - animada
 ---
 
 **Año** : 2020     
-**Director** : Sam Liu
-**Imdb** : 6.3
-**Tomatometer** : 93%
+**Director** : Sam Liu  
+**Imdb** : [6,3](https://www.imdb.com/title/tt10985510)  
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BMqrRhSVfBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,5 +42,5 @@ Lo que no me gusto son los cambios que hay cuando nos acercamos al final. El des
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-### Conclusión
+### Altamente recomendada!
 Altamente recomendada, pero no llega ni a los talones al cómic, probablemente por miedo de Warner de mostrar las cosas como habían sido pensadas por Millar originalmente o por que quizás algunas ideas originales ahora resultan incorrectas para algunas personas.

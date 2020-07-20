@@ -4,16 +4,16 @@ title: Vivarium
 date: '2020-05-30 17:30:00'
 author: 'sebavidal'
 lead: 'Una joven pareja que está en búsqueda de su hogar definitivo y por esas vueltas de la vida dan con una extraña sala de ventas, donde un vendedor aún más freak los lleva a conocer una casa en Yonder, un barrio donde todas las casas son idénticas y donde les asegura que será sí o sí un hogar para toda la vida.'
+categories:
+- peliculas
 tags:
-- review
-- recomendacion
-- pelicula
+- sci-fi
+- terror
 ---
 
 **Año** : 2019    
 **Director** : Lorcan Finnegan    
-**Imdb** : 5,8    
-**Tomatometer** : 72%
+**Imdb** : [5,8](https://www.imdb.com/title/tt8368406)  
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/U3Xy2x9NDrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,7 +24,6 @@ tags:
 
 ![{{ page.title | slugify }}-00](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-00.jpg)
 
-### Parasitos
 Vivarium comienza con unas escenas de un ave llamado Cuco, el cual es un agente extraño dejado en un nido, nido del cual se alimenta desplazando a los habitantes originales y quedándose con el sector. De cierta forma es un parásito que se apodera del entorno donde cae, esta escena la vemos como una intro con sentido de supervivencia o quizás como lo dañinos que somos al irrumpir en medio ajenos. Ambos puntos son vitales para comprender la pelicula.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
@@ -45,19 +44,13 @@ Hay muchas cosas desconcertantes en el film, las imitaciones del niño, la físi
 
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
-### Lo malo
-- Se siente larga, podría haber sido un episodio de dimensión desconocida
-- Las pistas, como el libro y los dibujos que ahí hay nos explican mucho
-
-### Lo bueno
-- Las actuaciones de Imogen Poots y Jesse Eisenberg
-- Es una película entorno a la que se puede conversar un montón
+Lo unico que podría ser un punto en contra es que se siente larga, en 30 min de Dimensión Desconocida hubiese sido genial! 
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
 
 > Déjame cavar, es lo que hacer
 
-Pienso que la crítica es a cosas que nosotros hacemos a la naturaleza o a los animales, más allá del componente fantástico del film. **Recomendada**? Si.
+Hay una crítica directa a cosas que nosotros hacemos (como humanidad) a la naturaleza o a los animales, más allá del componente fantástico del film. **Recomendada**? Si, da para conversar muchisimo.
 
 ![{{ page.title | slugify }}-07](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.jpg)
 

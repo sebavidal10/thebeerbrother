@@ -4,18 +4,18 @@ title: Good Omens
 date: '2020-05-18 21:00:00'
 author: 'sebavidal'
 lead: 'Un ángel y un demonio se conocen en el edén y se convierten en parte directa / indirecta de cada uno de los acontecimientos de la historia hasta nuestros días. Su extraña amistad se crea y cultiva a medida que la humanidad envejece, pero todo parece llegar a su fin cuando se aproxima el Armagedon.'
+categories:
+- series
 tags:
-- review
-- recomendacion
-- serie
 - prime
 ---
 
 **Año** : 2019  
 **Director** : Neil Gaiman, Terry Pratchett   
-**Imdb** : 8.1   
-**Tomatometer** : 84%   
 **Plataforma** : Prime Video   
+**Temporada** : 1  
+**Episodios** : 6  
+**Imdb** : [8,1](https://www.imdb.com/title/tt1869454)  
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZSXlNRRoGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,7 +40,6 @@ Además de la historia de la preparación del cielo y el infierno nos narran las
 
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
-### Los Jinetes
 Una de las cosas que mas me gustó, fue como incorporaron a cada uno de los **4 jinetes del apocalipsis**, muy bien ahi! la historia detrás de cada uno y de los pequeños detalles que dejan más que claro que Crowley y Aziraphale botaron la primera pieza del dominó del Universo.
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
@@ -50,18 +49,8 @@ Las dudas relacionadas al cielo y al infierno son respondidas de la misma forma 
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-### Lo peor
-- Cuando los demonios viajan por "el teléfono"
-
-### Lo mejor
-- La caracterización de los protagonistas.
-- Las monjas satánicas.
-- El auto de Crowley.
-- El apartado visual y estético.
-
-### Conclusión
-Solo 6 episodio repletos de acontecimientos históricos y/o bíblicos narrados de una forma graciosa, llenos de ironías y con actuaciones increíbles. Que bueno que Good Omens sea un producto autcontenido y que no nos tengamos que enfrentar a un “estiramiento” forzado de la historia...
+Solo 6 episodio repletos de acontecimientos históricos y/o bíblicos narrados de una forma graciosa, llenos de ironías y con actuaciones increíbles. Que bueno que Good Omens sea un producto autcontenido y que no nos tengamos que enfrentar a un “estiramiento” forzado de la historia... 
 
 ![{{ page.title | slugify }}-07](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.jpg)
 
-**Altamente recomendada!!** podrían haber sido 5 capítulos y no se sentiría relleno en algunos
+**Altamente recomendada!!** podrían haber sido 5 capítulos y no se sentiría relleno en algunos. Por ultimo, el auto de Crowley es genial.

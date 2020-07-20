@@ -67,6 +67,14 @@ a {
     .box.is-8 { width: calc( 66% - 12px ) !important; }
 }
 
+.is-multiline {
+    width: 100%;
+    margin-left: 0px;
+    a {
+        display: contents;
+    }
+}
+
 @include until($desktop) {
     .box { 
         width: 90%;
@@ -355,18 +363,6 @@ a {
         text-decoration: underline !important;
     }
 
-}
-
-.spoiler-div {
-    background-color: red;
-    margin-top: -7px;
-    margin-bottom: 12px;
-    font-size: 2rem;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    text-transform: uppercase;
-    letter-spacing: 5px;
 }
 
 .side-bar {

@@ -4,26 +4,26 @@ title: Castlevania, S03
 date: '2020-05-18 00:00:00'
 author: 'sebavidal'
 lead: 'Seguimos las aventuras de Belmont y Sypha, quienes llegan a un particular pueblo y se quedan para ayudar... en paralelo, Alucard hace nuevos amigos y se decide a enseñarles y compartir la sabiduría de su padre con ellos.'
+categories:
+- series
 tags:
-- review
 - netflix
-- recomendacion
-- serie
 - animada
 ---
 
 **Año** : 2019  
 **Director** : Warren Ellis   
-**Imdb** : 8.2   
-**Tomatometer** : 93%   
-**Plataforma** : Netflix
+**Plataforma** : Netflix  
+**Temporada** : 3  
+**Episodios** : 10  
+**Imdb** : [8,2](https://www.imdb.com/title/tt6517102/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cYNGDUIBUhE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-La segunda temporada terminó bien, ya que mostró muchos tipos de vampiros con distintos poderes y en esta temporada retomar uno de mis favoritos, esa vampira oriental que se volvía niebla. Contaron su historia y de paso nos presentaron 2 habitantes de su aldea que escaparon y llegaron donde Alucard a pedir ayuda. Se alojaron con él y se convirtieron en sus aprendices. Por otro lado, Belmont y Sypha decidieron ir a vivir aventuras y eso vemos en los primeros episodios, andan por aquí y por allí matando demonios, hasta que llegan a un pueblo con un problema y deciden quedarse para ayudarlos.
+La segunda temporada terminó muy en alto, ya que mostró muchos tipos de vampiros con distintos poderes y en esta temporada retomar uno de mis favoritos, esa vampira oriental que se volvía niebla. Contaron su historia y de paso nos presentaron 2 habitantes de su aldea que escaparon y llegaron donde Alucard a pedir ayuda. Se alojaron con él y se convirtieron en sus aprendices. Por otro lado, Belmont y Sypha decidieron ir a vivir aventuras y eso vemos en los primeros episodios, andan por aquí y por allí matando demonios, hasta que llegan a un pueblo con un problema y deciden quedarse para ayudarlos.
 
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
@@ -41,7 +41,7 @@ Portando la daga que le permite traer demonios a los cuerpos humanos avanza por 
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
 
-Si volvemos a nuestros protagonistas, Belmont y Sypha, ellos quedan en una aldea donde muchas cosas raras pasan, por un lado hay un demonio que entró a la iglesia y no salió nunca. Un extraño juez que hace de comisario y alcalde una ciudad y un particular personaje con extraños sueños que solo quiere conocimiento. 
+Si volvemos a nuestros protagonistas, Belmont y Sypha, ellos quedan en una aldea donde muchas cosas raras pasan, por un lado hay un demonio que entró a la iglesia y no salió nunca. Un extraño juez que hace de comisario y alcalde de la ciudad y un particular personaje con extraños sueños que solo quiere conocimiento. 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
@@ -49,6 +49,5 @@ Gracias a la historia de la aldea y lo que ocurre ahí tenemos acceso a ver much
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-### Conclusión
-Una temporada que comienza un poco lento, pero qué engancha y termina muy bien. Un cierre opuesto a la temporada anterior donde cada personaje vuelve a lo más oscuro de sus orígenes.
-Temporada con escenas para adultos, pero que da seriedad y peso a cada episodio. Al igual que con cada temporada quedó con la sensación de que hubiese sido increíble una serie live action.
+Esta tercera temporada comienza un poco lento, pero engancha y termina muy bien. Un cierre opuesto a la temporada anterior donde cada personaje vuelve a lo más oscuro de sus orígenes.
+Temporada con escenas para adultos, pero que da seriedad y peso a cada episodio. Al igual que con cada temporada quedó con la sensación de que hubiese sido increíble una serie *live action*.

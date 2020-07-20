@@ -10,8 +10,11 @@ layout: default
     <p class="title-white is-7">{{ page.date | date: "%b %-d, %Y" }}</p>
     <p class="is-hidden-mobile">{{ page.lead }}</p>
     <div>
+      {% for cat in page.categories %}
+        <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+      {% endfor %}
       {% for tag in page.tags %}
-        <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+        <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
       {% endfor %}
     </div>
   </div>
@@ -94,7 +97,7 @@ layout: default
                 <p class="subtitle is-7" style="margin-top: 7px">
                   Publicado por: {{ page.author }}
                   &nbsp;&nbsp;<a href="https://twitter.com/sebavidal" target="_blank"><i class="fab fa-twitter-square" style="color: #55acee"></i></a>
-                  &nbsp;&nbsp;<a href="https://medium.com/@seba.vidal" target="_blank"><i class="fab fa-medium" style="color: #02b875s"></i></a>
+                  &nbsp;&nbsp;<a href="https://medium.com/@seba.vidal" target="_blank"><i class="fab fa-medium" style="color: #02b875"></i></a>
                   <br/>
                   {{ page.date | date: "%b %-d, %Y" }}
                 </p>
@@ -137,7 +140,7 @@ layout: default
                           <b>{{ p.date | date: "%b %-d, %Y" }}</b><br/>
                         </div>
                         {% for tag in p.tags %}
-                        <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                        <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                         {% endfor %}
                       </div>
                     </div>
@@ -221,7 +224,7 @@ layout: default
                   <div class="content">
                     <!-- <div class="lead">{{ post.lead }}</div> -->
                     {% for tag in post.tags %}
-                    <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                    <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                     {% endfor %}<br>
                   </div>
                 </div>

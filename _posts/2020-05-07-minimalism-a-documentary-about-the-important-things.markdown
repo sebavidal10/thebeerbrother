@@ -4,16 +4,16 @@ title: 'Minimalism: A documentary about the Important Things'
 date: '2020-05-07 00:00:00'
 author: 'sebavidal'
 lead: 'El minimalismo apunta a ser auténticos y no tener para mostrar, sino tener lo que nos hace felices. En este documental acompañemos a dos minimalistas que se dedican a evangelizar esta forma de vivir.'
+categories:
+- peliculas
 tags:
-- review
 - netflix
-- recomendacion
 - documental
 ---
 
 **Año** : 2015     
 **Director** : Matt D'Avella   
-**Imdb** : 6.7   
+**Imdb** : [6,7](https://www.imdb.com/title/tt3810760/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0Co1Iptd4p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -28,7 +28,7 @@ Me gusta mucho que destaquen los beneficios y que no sean mensajeros de ideas im
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-El documental sigue a 2 minimalistas con orígenes muy distintos, pero que luego de un quiebre muy fuerte se apegan a las cosas realmente valiosas y se deshace de lo demás, tal como dice el titulo “un documental acerca de las cosas importantes”
+El documental sigue a 2 minimalistas con orígenes muy distintos que luego de un quiebre muy fuerte se apegan a las cosas realmente valiosas y se deshace de lo demás, tal como dice el titulo “un documental acerca de las cosas importantes”
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
@@ -36,8 +36,8 @@ Lo recomiendo mucho, es rápido y está lleno de buenos mensajes. Uno de los pro
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-Estuve viendo la serie de Marie Kondo, pero me pareció más un personaje , una interpretación que le sirve para lucrar y mantener su negocio que alguien que de verdad es así en su vida, sentí que hablaba desde un puesto de superioridad que no me agrado, todo lo contrario a este documental, donde siento que vi gente real compartiendo su forma de vivir y cómo ha mejorado su vida, y de paso vendiendo libros y ganándose la vida compartiendo sus experiencias (y vendiendo libros).
+Estuve viendo la serie de Marie Kondo, pero me pareció más un personaje ficticio, una interpretación que le sirve para lucrar y mantener su negocio que alguien que de verdad es así en su vida, sentí que hablaba desde un puesto de superioridad que no me agrado, todo lo contrario a este documental, donde siento que vi gente real compartiendo su forma de vivir y cómo ha mejorado su vida, y de paso vendiendo libros y ganándose la vida compartiendo sus experiencias.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
-## Recomendable!
+## Altamente recomendado

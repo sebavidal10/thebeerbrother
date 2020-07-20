@@ -4,15 +4,18 @@ title: 'Don’t F*+k with Cats: Hunting an Internet Killer'
 date: '2020-04-23 20:50:00'
 author: 'sebavidal'
 lead: 'Una montaña rusa de 3 episodios que mezcla un grupo de facebook, fake news, imagenes photoshopeadas, la escena de sexo de Basic Instinct, ideas para una película de David Fincher y gatitos muriendo.'
+categories:
+- series
 tags:
-- review
 - documental
 - netflix
-- recomendacion
 ---
 
- **Año** : 2019  
-**Plataforma** : Netflix
+**Año** : 2019  
+**Plataforma** : Netflix   
+**Temporada** : 1  
+**Episodios** : 3  
+**Imdb** : [8,1](https://www.imdb.com/title/tt11318602)  
 
 <!--kg-card-end: markdown--><figure class="kg-card kg-embed-card"><iframe width="480" height="270" src="https://www.youtube.com/embed/x41SMm-9-i4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><!--kg-card-begin: markdown-->
 ### A los gatos, ni tocarlos
@@ -29,29 +32,15 @@ En el proceso analizan mejor que el perito más experto el lugar del video, trat
 
 ![dont-f-k-with-cats-hunting-an-internet-killer-03](/assets/images/2020/04/dont-f-k-with-cats-hunting-an-internet-killer-03.jpg)
 
-### Los episodios
+Cada título de los episodios habla por si mismo
+- Episodio 1: Cat and Mouse (**Imdb** : 8.4)
+- Episodio 2: Killing for Clicks (**Imdb** : 8.4)
+- Episodio 3: Closing the Net (**Imdb** : 8.3)
 
-Cada uno de los tres episodios se centra en una etapa de la cacería del asesino, pero entorno a esa idea medular muestra otros vicios (por llamarlo asi) de internet, más en detalle de las redes sociales y cómo las usamos.
-
-#### Episodio 1: Cat and Mouse
-
-**Imdb** : 8.4  
-La cacería del asesino, todos somos investigadores, jueces y verdugos de un mundo virtual que se tambalea entre ironías, memes y realidad.
-
-#### Episodio 2: Killing for Clicks
-
-**Imdb** : 8.4  
-Que estamos dispuestos a hacer por ser famosos en redes sociales? que podemos llegar a hacer para que nos vean? En este episodio se ahonda en los esfuerzos de la gente por aparentar en un mundo virtual donde pueden ser quienes quieran.
-
-#### Episodio 3: Closing the Net
-
-**Imdb** : 8.3  
-La exposición es un arma de doble filo, te permite estar en todos lados, pero todos creen tener derechos sobre ti. La privacidad se pospone en función de una falsa y plástica fama que parece hacernos felices.
+La exposición (en internet) es un arma de doble filo, te permite estar en todos lados, pero a su vez todos creen tener derechos sobre ti. La privacidad se pospone en función de una falsa y plástica fama que parece hacernos felices.
 
 ![dont-f-k-with-cats-hunting-an-internet-killer-02](/assets/images/2020/04/dont-f-k-with-cats-hunting-an-internet-killer-02.jpg)
 
-El mensaje final es muy importante, la gente reacciona a estímulos y en ocasiones las acciones correctas son la chispa de ignición para el despegue de un supervillano. Siento que muchas cosas que se muestran son coincidencias forzadas y fueron solo casualidad, pero lo que más destaco es que no solo se centra en el asesino del gato, sino en la gente que tiene una doble vida y son jueces inquisidores detrás de una cuenta de facebook que dista completamente de quienes son en realidad.
+El mensaje entre lineas es muy importante, la gente reacciona a estímulos y en ocasiones las acciones correctas son la chispa de ignición para el despegue de un supervillano. Siento que muchas cosas que se muestran son coincidencias forzadas y fueron solo casualidad, pero lo que más destaco es que no solo se centra en el asesinato de los gatos, sino en la gente que tiene una doble vida y son jueces inquisidores detrás de una cuenta de facebook que dista completamente de quienes son en realidad.
 
 Recomendada completamente, da risa (de esa nerviosa) y perturba a la vez.
-
-<!--kg-card-end: markdown-->

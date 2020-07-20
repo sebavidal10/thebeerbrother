@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container" style="padding-top: 100px">
 
-    <h1 class="title title-section">Tag: Netflix</h1>
+<h1 class="title title-section">Tag: Netflix</h1>
 
     <div class="columns is-multiline" >
         {% for tag in site.tags %}
@@ -33,7 +33,7 @@ layout: default
                             <div class="content">
                                 <div class="lead">{{ post.lead }}</div>
                                     {% for tag in post.tags %}
-                                    <a class="tag {% if tag == 'spoiler' %}is-danger{% else %}is-dark{% endif %}" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                                    <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                                     {% endfor %}<br>
                                 </div>
                             </div>
