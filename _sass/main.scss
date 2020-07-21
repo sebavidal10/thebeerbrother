@@ -21,6 +21,14 @@ body {
     }
 }
 
+.recomendacion {
+    font-size: 1.125em;
+    color: gray;
+    margin-right: 16px;
+    margin-top: 16px;
+    text-transform: uppercase;
+}
+
 .title-white {
     color: white;
     font-size: 0.8rem;
@@ -67,13 +75,7 @@ a {
     .box.is-8 { width: calc( 66% - 12px ) !important; }
 }
 
-.is-multiline {
-    width: 100%;
-    margin-left: 0px;
-    a {
-        display: contents;
-    }
-}
+
 
 @include until($desktop) {
     .box { 

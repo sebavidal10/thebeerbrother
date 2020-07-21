@@ -115,9 +115,13 @@ layout: default
           <div class="PageNavigation">
             {% if page.previous.url %}
               <a class="prev" href="{{page.previous.url}}"><i class="fas fa-long-arrow-alt-left"></i> Artículo anterior<br/><b>{{page.previous.title}}</b></a>
+            {% else %}
+              <a >&nbsp;</a>
             {% endif %}
             {% if page.next.url %}
               <a class="next" href="{{page.next.url}}">Artículo siguiente <i class="fas fa-long-arrow-alt-right"></i><br/><b>{{page.next.title}}</b></a>
+            {% else %}
+              <a >&nbsp;</a>
             {% endif %}
           </div>
 

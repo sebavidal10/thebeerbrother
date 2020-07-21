@@ -1,0 +1,39 @@
+---
+layout: post
+title: Hogar
+date: '2020-07-11 18:01:09'
+author: 'sebavidal'
+lead: 'Encontrar empleo se vuelve una tortura a la edad de Javier, quien poco a poco ve como su vida se desmorona y alguien se apodera de todo lo que el ha logrado.'
+categories:
+- peliculas
+tags:
+- netflix
+- suspenso
+---
+
+**Año** : 2020  
+**Directores** : David Pastor, Àlex Pastor  
+**Plataforma** : Netflix  
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BLt3K0phvX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+Me ha pasado muchas veces que mientras veo una cinta española pienso "esta película la podrían haber hecho en Chile", acá hay buenos actores y excelentes guionistas, lo malo es que el financiamiento cinematográfico siempre va a los mismos (familiares) de siempre.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.png)
+
+**Hogar** se centra Javier (Javier Gutiérrez) un publicista que en su juventud gozó de gran fama y participó en importantes proyectos, pero que se enfrenta a la difícil tarea de buscar empleo pasada cierta edad. En esta ruta de volver al mundo laboral el tiempo pasa y la falta de ingresos comienza a arrebatarle todo lo años de esfuerzo le dieron. Debe cambiar a su hijo de colegio, su esposa se ve en la necesidad de buscar empleo y debe poner su vehículo en venta, pero lo que más lo afecta es tener que dejar el lujoso departamento y la espectacular vista con la que se maravillaba cada atardecer, y mudarse a una casa en la periferia.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.png)
+
+Todo esto causa un daño tan profundo en la mente de Javier que lo lleva a regresar a su antiguo barrio y observar a la nueva familia que ahora vive en lo que él considera suyo e investigar quienes son, creando una especie de obsesión por su vida pasada y una desesperación por recuperarla, dejando de lado a su esposa e hijo, quienes parecían cumplir un rol dentro de su vida, pero distaban mucho de ser irremplazables. Por otro lado, su departamento simbolizaba su triunfo en la vida y hacía las veces de logro mayor que le mostraba al mundo quién era Javier.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpeg)
+
+De ahí en adelante Javier pasa de ser amado y odiado por el espectador, durante mucho rato solo creemos que perdió un tornillo y que pronto lo recuperara, pero es en el último acto cuando nos damos cuenta en que se a convertido realmente y nos queda claro lo maestro del plan que poco a poco fue construyendo.
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.png)
+
+Visualmente la película es increíble, siento que todo está tan bien construido y lleno de detalles que es un agrado visual y cada escena demuestra lo meticuloso de los directores y lo bien pulido de cada ángulo. Javier Gutiérrez es genial, se hecha la película a la espalda y le creo **todo** el recorrido que hace su personaje. El *pero* podría ser que para algunas personas resutará lenta y un poco (muy) predecible. A pesar de esto, es un ejercicio de elegancia cinematográfica de primer nivel!
