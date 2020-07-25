@@ -138,11 +138,16 @@ layout: default
               <li>
                 <a href="{{ p.url }}">
                     <div class="div-text" >
+                      <img class="image-banner" src="/assets/images/{{ p.date | date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
+                      <br/>
                       {{ p.title }}
                       <div>
                         <div class="subtitle is-7">
                           <b>{{ p.date | date: "%b %-d, %Y" }}</b><br/>
                         </div>
+                        {% for cat in p.categories %}
+                          <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+                        {% endfor %}
                         {% for tag in p.tags %}
                         <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                         {% endfor %}

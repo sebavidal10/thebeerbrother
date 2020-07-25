@@ -54,3 +54,6 @@ Solo 6 episodio repletos de acontecimientos históricos y/o bíblicos narrados d
 ![{{ page.title | slugify }}-07](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.jpg)
 
 **Altamente recomendada!!** podrían haber sido 5 capítulos y no se sentiría relleno en algunos. Por ultimo, el auto de Crowley es genial.
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.primevideo.com/detail/0N4OPSBX6TV4Y1WU0O8ELH2D4T" target="_blank">Prime</a></div>

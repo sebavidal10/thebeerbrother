@@ -8,6 +8,7 @@ categories:
 - peliculas
 tags:
 - mystery
+- prime
 ---
 
 **Año** : 2019  
@@ -45,4 +46,6 @@ Una excelente interpretación de cada uno de los personajes, destaca el talento 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpeg)
 
 ### Muy entretenida
-<!--kg-card-end: markdown-->
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.primevideo.com/detail/0PM94DZZAKNSEKFXZZNK2OUCRX" target="_blank">Prime</a></div>

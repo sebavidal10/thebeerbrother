@@ -51,3 +51,6 @@ Gracias a la historia de la aldea y lo que ocurre ahí tenemos acceso a ver much
 
 Esta tercera temporada comienza un poco lento, pero engancha y termina muy bien. Un cierre opuesto a la temporada anterior donde cada personaje vuelve a lo más oscuro de sus orígenes.
 Temporada con escenas para adultos, pero que da seriedad y peso a cada episodio. Al igual que con cada temporada quedó con la sensación de que hubiese sido increíble una serie *live action*.
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80095340" target="_blank">Netflix</a></div>

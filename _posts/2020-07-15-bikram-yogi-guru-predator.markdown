@@ -49,3 +49,6 @@ Además de evidenciar estos hechos, el documental nos cuenta mucho de la persona
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
 El cierre del documental deja una incomodidad en el aire al ver que el maestro de Yoga sigue sin juicio ni castigo. Muy buen documental.
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80221584" target="_blank">Netflix</a></div>

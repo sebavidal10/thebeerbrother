@@ -43,3 +43,6 @@ Lo que más me gusto fue **la ambientación**, siento que esas escenas vertigino
 **Fractured** a pesar de que termina siendo película lenta, no incomoda y en comparación a lo que he visto estos días esta bien, no diría excelente, pero por lo menos se siente una historia redonda que sabia exactamente donde iba desde un comienzo con un desenlace muy perturbador. No era fan de Worthington y sigo sin serlo.
 
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80223997" target="_blank">Netflix</a></div>

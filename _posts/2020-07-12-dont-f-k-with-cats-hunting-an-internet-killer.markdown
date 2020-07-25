@@ -44,3 +44,6 @@ La exposición (en internet) es un arma de doble filo, te permite estar en todos
 El mensaje entre lineas es muy importante, la gente reacciona a estímulos y en ocasiones las acciones correctas son la chispa de ignición para el despegue de un supervillano. Siento que muchas cosas que se muestran son coincidencias forzadas y fueron solo casualidad, pero lo que más destaco es que no solo se centra en el asesinato de los gatos, sino en la gente que tiene una doble vida y son jueces inquisidores detrás de una cuenta de facebook que dista completamente de quienes son en realidad.
 
 Recomendada completamente, da risa (de esa nerviosa) y perturba a la vez.
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/81031766" target="_blank">Netflix</a></div>

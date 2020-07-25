@@ -37,3 +37,6 @@ De ahí en adelante Javier pasa de ser amado y odiado por el espectador, durante
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.png)
 
 Visualmente la película es increíble, siento que todo está tan bien construido y lleno de detalles que es un agrado visual y cada escena demuestra lo meticuloso de los directores y lo bien pulido de cada ángulo. Javier Gutiérrez es genial, se hecha la película a la espalda y le creo **todo** el recorrido que hace su personaje. El *pero* podría ser que para algunas personas resutará lenta y un poco (muy) predecible. A pesar de esto, es un ejercicio de elegancia cinematográfica de primer nivel!
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/81004797" target="_blank">Netflix</a></div>

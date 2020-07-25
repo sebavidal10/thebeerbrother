@@ -61,3 +61,6 @@ Me cuesta pensar en algo que no me gustara, estoy sesgado por mi aprecio por est
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.gif)
 
 **EXTRA:** tiene la toma desde el maletero, característica de las pelis de Tarantino :D
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/81178299" target="_blank">Netflix</a></div>

@@ -32,6 +32,9 @@ layout: default
 
                             <div class="content">
                                 <div class="lead">{{ post.lead }}</div>
+                                {% for cat in post.categories %}
+                                        <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+                                    {% endfor %}
                                     {% for tag in post.tags %}
                                     <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                                     {% endfor %}<br>

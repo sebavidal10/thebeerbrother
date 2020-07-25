@@ -54,3 +54,6 @@ El 5to episodio de la serie cuenta otra historia, tiene un ínfimo vínculo con 
 El cierre de la temporada es reconfortante y toma todos los cabos sueltos y los junta, me gusto como tambalean los personajes (física y mentalmente) y como usaron soluciones de "guión" y nos permitieron ver los estúpidas que eran, como cuando para afrontar un problema de ánimo de los desarrolladores llevan una maquina de helado. Entretenida, le tome cariño, pero está lejos de la primera temporada de Silicon Valley, que para mi es perfecta. Al final, Ian, no era tan malo.
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://tv.apple.com/es/show/mythic-quest-banquete-de-cuervos/umc.cmc.1nfdfd5zlk05fo1bwwetzldy3" target="_blank">Apple+</a></div>

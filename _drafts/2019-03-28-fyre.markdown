@@ -36,4 +36,4 @@ Documental muy entretenido ideal para un sábado por la tarde y para recordar qu
 
 ![fyre-03](/assets/images/2019/03/fyre-03.jpg)
 
-<!--kg-card-end: markdown-->
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/81035279" target="_blank">Netflix</a></div>
