@@ -12,6 +12,12 @@ title: "The BeerBrother"
     </div>
     <p class="title-white is-7">{{ site.posts[0].date | date: "%b %-d, %Y" }}</p>
     <p class="is-hidden-mobile">{{ site.posts[0].lead }}</p>
+    {% for cat in site.posts[0].categories %}
+      <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+    {% endfor %}
+    {% for tag in site.posts[0].tags %}
+      <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+    {% endfor %}<br>
   </div>
 </div>
 
@@ -56,8 +62,11 @@ title: "The BeerBrother"
 
                       <div class="content">
                         <div class="lead">{{ post.lead }}</div>
+                        {% for cat in post.categories %}
+                          <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+                        {% endfor %}
                         {% for tag in post.tags %}
-                          <a class="tag is-dark" href="#">#{{tag}}</a>
+                          <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                         {% endfor %}<br>
                       </div>
                   </div>

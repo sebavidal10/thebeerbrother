@@ -4,7 +4,7 @@ title: Robot 7723
 date: '2020-07-29 00:50:00'
 author: 'sebavidal'
 lead: 'En un futuro hiper-tecnologizado, Mai trata de adaptarse a la difícil adolescencia que le toco vivir... todo mejorará cuando conozca a un particular Robot'
-categoria:
+categories:
 - pelicula
 tags:
 - animada
