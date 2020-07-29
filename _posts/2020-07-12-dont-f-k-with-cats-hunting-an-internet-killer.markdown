@@ -17,7 +17,11 @@ tags:
 **Episodios** : 3  
 **Imdb** : [8,1](https://www.imdb.com/title/tt11318602)  
 
-<!--kg-card-end: markdown--><figure class="kg-card kg-embed-card"><iframe width="480" height="270" src="https://www.youtube.com/embed/x41SMm-9-i4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><!--kg-card-begin: markdown-->
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/x41SMm-9-i4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
 ### A los gatos, ni tocarlos
 
 Pense que sería una comedia o un falso documental como [American Vandall](/american-vandal/) con el que me reiria mucho, pero termino siendo algo completamente opuesto.
