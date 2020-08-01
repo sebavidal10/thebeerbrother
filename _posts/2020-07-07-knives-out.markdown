@@ -7,13 +7,18 @@ lead: 'El patriarca de una familia amanece muerto y las sospechan recaen sobre c
 categories:
 - peliculas
 tags:
-- mystery
+- misterio
 - prime
 ---
 
 **Año** : 2019  
 **Director** : Rian Johnson  
 **Imdb** : [7,9](https://www.imdb.com/title/tt8946378/)  
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FmbyRGpUVZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
 
 Rian Johnson está tras una de mis películas favoritas de viajes en el tiempo, Looper (2012), pero también tras Star Wars: Episode VIII - The Last Jedi (2017), así que no sabía qué esperar de este film, ya que su mayor atractivo terminaba siendo su elenco, sin importar quien estaba tras el lente (menos mal equivoque)
 
