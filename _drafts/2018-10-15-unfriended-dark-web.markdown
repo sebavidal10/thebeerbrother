@@ -6,7 +6,7 @@ author: 'sebavidal'
 lead: '-'
 tags:
 - review
-- pelicula
+- peliculas
 ---
 
  **Año** : 2018  

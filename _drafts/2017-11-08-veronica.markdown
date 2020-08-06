@@ -7,7 +7,7 @@ lead: 'Después de un eclipse y un intento de una joven por contactar a su falle
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

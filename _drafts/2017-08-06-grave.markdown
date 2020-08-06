@@ -7,7 +7,7 @@ lead: 'Para varias el cine francés da la pauta y con Grave nos regalan una exce
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

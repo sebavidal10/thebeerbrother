@@ -7,7 +7,7 @@ lead: 'Pelicula Sueca escrita y dirigida por Ruben Östlund que tiene como prota
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

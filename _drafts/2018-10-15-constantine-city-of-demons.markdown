@@ -8,7 +8,7 @@ tags:
 - review
 - animada
 - recomendacion
-- pelicula
+- peliculas
 - dc
 ---
 

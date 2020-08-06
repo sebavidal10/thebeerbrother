@@ -7,7 +7,7 @@ lead: 'Mildred Hayes perdió a su hija Angela hace algunos meses y la policía n
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

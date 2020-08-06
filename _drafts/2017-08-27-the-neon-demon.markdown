@@ -8,7 +8,7 @@ tags:
 - review
 - spoiler
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2016

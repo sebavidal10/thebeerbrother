@@ -7,7 +7,7 @@ lead: 'Un soldado enemigo es encontrado y acogido en una casa habitada solo por 
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

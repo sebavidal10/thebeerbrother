@@ -7,7 +7,7 @@ lead: 'Baby, un experto conductor, es contactado para un ultimo trabajo donde de
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

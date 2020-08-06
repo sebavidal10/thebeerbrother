@@ -5,7 +5,7 @@ date: '2020-07-25 17:16:50'
 author: 'sebavidal'
 lead: 'Un bartender se queda con un celular abandonado en el bar y decide contestar algunos mensajes... grave error, por que partir de ahí comienza a recibir extraños y perturbadores videos'
 categories:
-- pelicula
+- peliculas
 tags:
 - netflix
 - terror

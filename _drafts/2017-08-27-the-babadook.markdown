@@ -9,7 +9,7 @@ tags:
 - spoiler
 - netflix
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2014

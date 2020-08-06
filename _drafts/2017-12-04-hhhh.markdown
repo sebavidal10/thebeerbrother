@@ -7,7 +7,7 @@ lead: 'Una adaptación más de la gran obra de Laurent Binet, HHhH, en mi opini�
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

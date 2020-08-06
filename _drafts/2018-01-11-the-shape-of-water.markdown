@@ -7,7 +7,7 @@ lead: 'Una historia de amor, mas allá del monstruo y la princesa, es lo que reg
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

@@ -7,7 +7,7 @@ lead: 'Estamos en un futuro distópico donde "algo" nos acosa desde la oscuridad
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

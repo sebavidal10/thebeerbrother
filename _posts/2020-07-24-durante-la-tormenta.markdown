@@ -5,7 +5,7 @@ date: '2020-07-24 20:10:54'
 author: 'sebavidal'
 lead: 'Una particular tormenta crea un enlace temporal en el que Vera evita la muerte de un pequeño niño y como consecuencia su hija y la vida que recuerda nunca existieron'
 categories:
-- pelicula
+- peliculas
 tags:
 - netflix
 - sci-fi

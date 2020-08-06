@@ -7,7 +7,7 @@ lead: 'Una banda punk termina en medio de un campus de skin head, donde un peque
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2016

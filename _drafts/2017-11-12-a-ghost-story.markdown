@@ -7,7 +7,7 @@ lead: 'Particular película de fantasmas que se convirtió en una de mis favorit
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

@@ -7,7 +7,7 @@ lead: 'Un grupo de amigos/ladrones decide entrar a robar "algo" a la casa de un 
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2016

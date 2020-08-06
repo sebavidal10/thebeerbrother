@@ -8,7 +8,7 @@ tags:
 - review
 - netflix
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2015

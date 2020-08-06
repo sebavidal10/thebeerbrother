@@ -6,7 +6,7 @@ author: 'sebavidal'
 lead: 'En esta entrega Deadpool no anda en búsqueda de quien lo hizo feo para que lo vuelva a hacer atractivo xD, sino que acá está tratando de encontrar su lugar en el mundo y su objetivo... y claro de tener uno de esos 4 o 5 momentos que lo convertirán en un héroe.'
 tags:
 - review
-- pelicula
+- peliculas
 - marvel
 - recomendacion
 ---

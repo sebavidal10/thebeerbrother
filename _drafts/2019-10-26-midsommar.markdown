@@ -6,7 +6,7 @@ author: 'sebavidal'
 lead: 'Un grupo de amigos se embarca en un viaje folk lleno de alucinógenos a una alejada aldea, donde el director, Ari Aster, deja muy en claro que el terror puede ocurrir a plena luz del día'
 tags:
 - review
-- pelicula
+- peliculas
 - recomendacion
 - spoiler
 ---

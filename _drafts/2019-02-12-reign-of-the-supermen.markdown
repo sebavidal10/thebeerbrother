@@ -6,7 +6,7 @@ author: 'sebavidal'
 lead: 'Continuación de La Muerte de Superman, que nos presenta a los nuevos heroes que quieren tomar el lugar de Kal-El y volverse el protector de la humanidad.'
 tags:
 - review
-- pelicula
+- peliculas
 - dc
 - recomendacion
 - spoiler

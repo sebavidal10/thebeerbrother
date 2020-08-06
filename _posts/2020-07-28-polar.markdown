@@ -5,7 +5,7 @@ date: '2020-07-28 04:33:09'
 author: 'sebavidal'
 lead: 'Vizla, el mejor asesino del mundo esta apunto de retirarse y obtener una millonaria jubilación, siempre y cuando sobreviva hasta el día de su cumpleaños.'
 categories:
-- pelicula
+- peliculas
 tags:
 - accion
 - netflix

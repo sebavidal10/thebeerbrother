@@ -6,7 +6,7 @@ author: 'sebavidal'
 lead: 'Blake y Schofield deben cumplir una misión y todas las probabilidades dicen que no lo lograran. Deben cruzar el territorio enemigo para entregar un mensaje a un pelotón de avanzada que esta a sólo algunos kilómetros, pero la distancia no importa cuando el tiempo es el enemigo.'
 tags:
 - review
-- pelicula
+- peliculas
 - recomendacion
 ---
 

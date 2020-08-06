@@ -7,7 +7,7 @@ lead: '1922 esta basada un relato de Stephen King del mismo nombre, el que cuent
 tags:
 - review
 - netflix
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

@@ -7,7 +7,7 @@ lead: 'Anne Hathaway vuelve a su pueblo natal y descubre que en el otro lado del
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

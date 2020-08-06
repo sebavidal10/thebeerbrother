@@ -7,7 +7,7 @@ lead: 'El final de los estudios, el comienzo de una vida lejos del alero de los 
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2018

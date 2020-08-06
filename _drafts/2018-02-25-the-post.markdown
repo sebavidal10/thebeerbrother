@@ -7,7 +7,7 @@ lead: 'The Post o Los archivos del Pentágono, es la última película de Spielb
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

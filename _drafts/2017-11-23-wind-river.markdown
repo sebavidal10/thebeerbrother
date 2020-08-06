@@ -7,7 +7,7 @@ lead: 'La muerte de una joven en una reservación india en medio de la nieve lla
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

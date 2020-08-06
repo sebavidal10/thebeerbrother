@@ -7,7 +7,7 @@ lead: 'Cole descubre que su niñera planea realizar un extraño ritual con algun
 tags:
 - review
 - netflix
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017

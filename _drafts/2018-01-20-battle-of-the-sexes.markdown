@@ -7,7 +7,7 @@ lead: 'Emma Stone y Steve Carell protagonizan Battle of the Sexes, película que
 tags:
 - review
 - recomendacion
-- pelicula
+- peliculas
 ---
 
 **Año**: 2017
