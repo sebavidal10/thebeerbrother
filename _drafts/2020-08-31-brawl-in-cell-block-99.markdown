@@ -10,15 +10,15 @@ tags:
 - accion
 ---
 
-**Año**: 2017
-**Director**: S. Craig Zahler
-**Recaudación**: 7.144 USD
-**Productores**: Dallas Sonnier, Jack Heller
-**Música compuesta por**: S. Craig Zahler, Jeff Herriott
-**Imdb** : [9.9](link)
+**Año**: 2017  
+**Director**: S. Craig Zahler  
+**Recaudación**: 7.144 USD  
+**Productores**: Dallas Sonnier, Jack Heller  
+**Música compuesta por**: S. Craig Zahler, Jeff Herriott  
+**Imdb** : [7.1](https://www.imdb.com/title/tt5657856/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5hfAExhHTMM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7FnAhrJDTqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
@@ -26,18 +26,18 @@ Del mismo director de **Bone Tomahawk**, **S. Craig Zahler**, y protagonizada po
 
 Bradley intenta vivir bien con su esposa Lauren, pero luego de perder su empleo *tradicional*, entra a trabajar para un amigo transportando cargas de drogas. Las cosas van bien y Lauren (Jennifer Carpenter) está esperando un bebé, cosa que hace muy feliz a Brad(ley).
 
-![Brawl-in-Cell-Block-99-01](/assets/images/2018/06/Brawl-in-Cell-Block-99-01.jpg)
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
 ## Nunca, pero nunca me gustaría pelear con Bradley
 
-Cuando un trabajo sale mal y Bradley termina en prisión, queda a merced de un traficante que lo amenaza con represalias contra su esposa, lo que lo lleva a adentrarse en un infierno carcelario que va de mal en peor, donde dañara lo que sea, guardias inocente o presos amigables, con el único objetivo de asegurar la vida de su esposa y de su futuro hijo.
+Cuando un trabajo sale mal y Bradley termina en prisión, queda a merced de un traficante que lo amenaza con represalias contra su esposa, lo que lo lleva a adentrarse en un infierno carcelario que va de mal en peor, donde dañara lo que sea, guardias inocentes o presos amigables, con el único objetivo de asegurar la vida de su esposa y de su futuro hijo.
 
-![Brawl-in-Cell-Block-99-02](/assets/images/2018/06/Brawl-in-Cell-Block-99-02.jpg)
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 Al igual que en Bone Tomahawk, la película se toma su tiempo en preparar al espectador para, en un una segunda mitad, golpearlo y re-matarlo en el suelo con el último acto. Tiene Increíbles escenas de peleas, no como en John Wick, donde hay armas y excelente puntería mezclada con cuchillos y otras disciplinas, aca hay fuerza, puños y sobre todo ira reprimida que explota de la mejor manera posible en pantalla, rompiendo todo y no limitándose en absoluto. De mis cosas favoritas son la escena de Bradley contra el auto (cuando la vean sabrán a qué me refiero) y el olvidado recurso visual muy abundante en los grandes clásicos de acción ultraviolentos de los años 80, sonreí de manera extraña en varias ocasiones.
 
-![Brawl-in-Cell-Block-99-03](/assets/images/2018/06/Brawl-in-Cell-Block-99-03.jpg)
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
 **Extra**
 
-Sale **Don Johnson**!!, por otro lado,&nbsp;**Imdb** dice que el director está trabajando en un película protagonizada por **Mel Gibson** y **Vince Vaughn**, que hacen las veces de compañeros de policía, uno experto y otro novato, que terminan inmersos en muchos problemas. Excelente!
+Sale **Don Johnson**!!, por otro lado, el director tiene un proyecto protagonizada por **Mel Gibson** y **Vince Vaughn**, que hacen las veces de compañeros de policía, uno experto y otro novato, que terminan inmersos en muchos problemas. Excelente!
