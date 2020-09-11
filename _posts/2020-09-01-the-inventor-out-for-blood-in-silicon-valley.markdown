@@ -12,9 +12,9 @@ tags:
 ---
 
 **Año** : 2020  
-**Director** : Alex Gibney
-**Plataforma** : Hbo
-**Imdb** : [7.1](https://www.imdb.com/title/tt8488126/)
+**Director** : Alex Gibney  
+**Plataforma** : Hbo  
+**Imdb** : [7.1](https://www.imdb.com/title/tt8488126/)  
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wtDaP18OGfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
