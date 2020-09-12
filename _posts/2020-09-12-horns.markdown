@@ -1,0 +1,46 @@
+---
+layout: post
+title: Horns
+date: '2020-09-12 03:00:00'
+author: 'sebavidal'
+lead: 'El amor y la venganza se caricaturizan y decoran con folclore religioso en "Horns", donde la abundancia de humor negro decora una historia de romance y dolor con una buena actuación de Harry Potter y Juno Temple.'
+categories:
+- peliculas
+tags:
+- drama
+---
+
+**Año**: 2014  
+**Director**: Alexandre Aja  
+**Basada en**: Horns de Joe Hill  
+**Imdb** : [6.5](https://www.imdb.com/title/tt1528071)  
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/B8s_1UcdoNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+> Si quisiera matarme, ya lo habría hecho. Estoy seguro. Porque últimamente sacó a luz lo peor de las personas
+
+Imagínate que un día despiertas con una caña terrible en tu auto, y todo el mundo te culpa de la muerte de la chica que has amado desde que la conoces... ahora, imagina que pasan solo unos días más y despiertas con una caña aun peor, pero tienes cuernos que permiten (más bien obligan) que las personas te digan la verdad y te confiesen sus "pecados", algo así como un sin-eater, pero sin absorber los males, solo dejándolos al aire... bueno, así se siente **Iggy** (**Daniel Radcliffe**) el protagonista de la adaptación del célebre libro de Joe Hill's, y que mediante surrealismos propios de la literatura entrega una mágica y, a veces, macabra manera una historia de amor, que quizás no a todos gustará, pero que a mi me agrado mucho.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+**Merrin** (**Juno Temple**) es una hermosa joven que Igg conoce cuando niño en la iglesia, es perfecta, camina en cámara lenta y el sol la ilumina más que a todo el mundo... por lo tanto le es imposible no enamorarse de ella. Crecen y todo va genial, hasta que un día ella amanece muerta en el lugar donde ambos compartían gran parte del tiempo, y todos los testimonios apuntan a Igg como el asesino, su familia dice apoyarlo, pero no es así y lo descubre a lo largo de la película, y los medios lo señalan (como todos) como el "demonio" del pueblo. Con los cuernos y el poder que estos le dan a Igg, decide buscar el verdadero asesino, lo que lo lleva a conocer mejor a su familia y darse cuenta que su hermano es un cobarde y sus padres no lo quieren en absoluto.
+
+> Quiero escribirte una carta, una muy bonita acerca de lo tanto que tu padre y yo te amamos y de lo bueno que sería para ambos que simplemente te fueras." , la madre de Igg cuando la visita y ésta es presa del poder de los cuernos.
+
+Una camarera que piensa (y dice) sin tapujos lo que piensa acerca del exito y su amigo bravucón de infancia que ahora es policía y que oculta bajo su rudeza sus sentimientos de amor gay, son cosas que quedan libres cuando los cuernos aparecen... lo peor de todo, es lo que ve en uno de sus amigos infancia, que actualmente es su abogado.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+La sobrecarga de iconos religiosos hace más "mágica" la película, y los parajes (creo que es Canadá) y la iluminación nos hacen pensar a momentos que leemos un libro, ocurren situaciones imposibles, pero que son bien llevadas y resultan gratas. Antes de ver la película vi un trailer, hace mucho, y no recordaba bien de qué trataba así que mis expectativas no eran altas, lo que hizo que me sorprendiera con cada cosa que ocurría, muchas carcajadas y a la vez varias situaciones tristes y tensas, la película se balancea muy bien, viaja al pasado para contextualizar actuales situaciones y su falta de linealidad temporal se agradece, ya que no aburre. Lo que más divirtió de la película es su inteligente guión, su humor negro, lleno de diálogos muy cómicos, como lo que ocurre en la consulta del médico cuando Igg va a ver que "tiene" en la cabeza y la recepcionista le grita a una niña, otro paciente le cuenta que quiere acostarse con su instructor de golf y la niña le dice que a veces quiere quemar su casa con la familia adentro, también está la escena donde la única testigo, una camarera, hace una especie de crítica social a través de su personaje, señalando que quiere hacerse famosa, salir en la televisión y que para eso lo mejor es un escándalo y un sex-tape que se "filtre" al mundo, bueno... por mentirosa después las paga...
+
+El desenlace es triste y aterrizado, nos muestra otro lado de la película que nos hace obviar los efectos, los cuernos y las serpientes y le da un sentido increíble al diálogo inicial de Igg con Merrin:
+
+> **Igg**: Te amaré por el resto de mi vida.
+> **Merrin**: Solo ámame por el resto de la mía.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+Una película muy buena para ver con la pareja, donde en el fondo se habla de amor, pero se adorna con fantasía, terror y muchos iconos religiosos que hicieron que esta película se vuelva una de mis favoritas y creo que en su extraño género es una de las mejores, muy bien por Harry Potter (Y).

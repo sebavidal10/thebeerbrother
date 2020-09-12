@@ -1,0 +1,41 @@
+---
+layout: post
+title: Veronica
+date: '2020-09-07 03:00:00'
+author: 'sebavidal'
+lead: 'Después de un eclipse y un intento de una joven por contactar a su fallecido padre la vida de Veronica y su familia cambiaran por completo. El suceso conocido como "el Caso Vallecas" es el único en España donde se indica por parte de la policía que se presencio un hecho sobrenatural.'
+categories:
+- peliculas
+tags:
+- terror
+---
+
+**Año**: 2017  
+**Director**: Paco Plaza  
+**Música**: Chucky Namanera  
+**Recaudación**: 3.525.648 €  
+**Música compuesta por**: Eugenio Mira  
+**Imdb** : [6.2](https://www.imdb.com/title/tt5862312/)  
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wNlMIvKnjOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+## Héroes del Silencio
+
+En una Madrid de los años 90 y al ritmo de **Maldito Duende**, **Paco Plaza ( Rec )**, nos presenta la historia de Veronica, joven de 15 años que debe hacerse cargo de levantar y cuidar a sus 3 pequeños hermanos, ya que su madre trabaja sobre horas en un restaurante para poder mantenerlos y su padre falleció. 
+**Veronica** debió crecer de golpe y con ellos aumentaron sus responsabilidades, la ausencia del padre la ha vuelto una niña un poco solitaria y que se tambalea en la línea entre la inocente niñez y el crudo mundo de los adultos. Un dia, mientras ocurre un eclipse solar y toda la escuela sale del establecimiento para ver el fenómeno, ella, junto a 2 amigas, deciden utilizar usar una Ouija para tratar de contactar al padre de Vero, pero lo que respondera no será precisamente su padre y no a venido solo a hablar, sino que decidirá quedarse.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+## El miedo a crecer
+
+Bajo esa premisa y haciendo uso de un elenco en el que destaca la joven **Sandra Escacena** como **Veronica** y los 3 pequeños (increible cada uno en su rol) se levanta una película llena de los clásicos clichés del cine de terror, tomas muy buenas, enlaces entre una secuencia y otra que parecen parte de un sueño y una edición donde se nota cariño y dedicación, todo esto sumado una dirección de lujo generan una película de alto nivel, que si bien es muy simple, esta muy bien lograda.
+Las canciones no son al azar y tienen todo el sentido posible cuando aparecen, hay una melodía que recuerda un poco a la canción principal de **Raw**. 
+
+El límite entre lo onírico y lo real se traspasa varias veces en un vaivén de tomas y de no ser por una escena puntual la perspectiva de la película cambia por completo, escena que da nombre a lo ocurrido en la España de los 90s como el **Caso Vallecas**, denominado así por el detective que debió dejar registro del extraño fenómeno que presenció y que él mismo denominó como paranormal (único de su tipo en España).
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+Altamente recomendada, un film de terror que reivindica la temática de las posesiones y que sin intentar ser **El Conjuro** logra triunfar por méritos e identidad propia, y tal como Paco Plaza lo hizo con la primera entrega de Rec hace años, ahora hace ejercicio de género y triunfa con **Veronica**.

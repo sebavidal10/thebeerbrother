@@ -3,7 +3,7 @@ layout: post
 title: "The Inventor: Out for Blood in Silicon Valley"
 date: '2020-09-01 01:00:00'
 author: 'sebavidal'
-lead: ''
+lead: 'Todos sabemos que Silicon Valley está lleno de innovación, productos que cambiarán el mundo y las mentes más rápidas del mundo… Lo que ignoramos es que con la misma velocidad con la que crecen grandes imperios tech, emergen estafas, una de ellas fue Theranos.'
 categories:
 - peliculas
 tags:
