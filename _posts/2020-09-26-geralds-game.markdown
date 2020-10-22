@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geralds Game
-date: '2017-10-26 03:00:00'
+date: '2020-09-26 03:00:00'
 author: 'sebavidal'
 lead: 'Adaptación de un cuento de S. King donde vemos una pareja que se aleja de todo para re-encontrarse y la muerte de uno de ellos deja al otro desprotegido y aislado, donde deberá desafiar toda probabilidad para salir con vida. Muy bien Carla Gugino.'
 categories:
