@@ -1,0 +1,49 @@
+---
+layout: post
+title: Creep 2
+date: '2021-01-06 00:00:00'
+author: 'sebavidal'
+lead: 'Sara tiene un canal de youtube, en el registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.'
+categories:
+- peliculas
+tags:
+- netflix
+- suspenso
+- terror
+---
+
+**Año** : 2017  
+**Director** : Patrick Brice  
+**Plataforma** : Netflix  
+**Imdb** : [6.5](https://www.imdb.com/title/tt3654796/)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/l_0sBk50Qr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+### El lobo esta vuelta
+
+Sara (Desiree Akhavan) tiene un canal de youtube en declive, en el registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+Ya sabemos la historia y cómo opera nuestro protagonista. Sabemos que es torpe a propósito y que todo está fríamente calculado en su perturbada mente, que tiene un objetivo y lograrlo cueste lo que cueste…bueno, esto igual aplica para Sara, la nueva víctima (o la número 50).
+
+### Creep 2
+El film nos presenta a “Aaron”, esta vez con un nuevo look de millonario sofisticado, lleno de movimientos calculados y nuevas y extrañas (falsas) historias. Su vida ha perdido sentido y como un artista en momentos de poca motivación siente que su obra pierde sentido, hasta que conoce a Sara, quien sacude su mundo ya que no responde de la forma habitual… es calculadora y contenida, no se asusta fácilmente ni titubea en sus actos (o al menos eso parece) y el lobo ni la asusta, lo que descoloca el alterar inconscientemente el plan de Aaron llevando las cosas por un camino bastante diferente, a pesar de que igual resulta predecible (al estilo Creep).
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+La actuación de Mark Duplass es genial, a momentos me recuerda a Jim Carrey en Cable Guy. Tiene gestos que nos confirman que no es una persona errática ni torpe, sino que es una inteligencia superior que no deja nada al azar… bueno, hasta que llega Sara, quien da vuelta su mundo y que su constante poker-face descolocó cada idea concebida.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+Se siente igual de fresca que su predecesora y resulta ser aún más graciosa, llena de esas risas nerviosas que caracterizan el universo de Creep y que esta vez reafirma la posible existencia de Aaron en el mundo real.
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.png)
+
+Excelente duología :)
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80168161" target="_blank">Netflix</a></div>
