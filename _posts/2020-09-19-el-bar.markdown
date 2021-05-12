@@ -5,17 +5,17 @@ date: '2020-09-19 04:00:00'
 author: 'sebavidal'
 lead: 'Un grupo de personas muy diferentes quedan encerrados en un Bar, donde las gana de saber el "por que" los pone unos contra otros, todo contado con el extraño humor de Álex de la Iglesia'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- comedia
-- netflix
+  - accion
+  - comedia
+  - netflix
 ---
 
 **Año**: 2017  
 **Director**: Álex de la Iglesia  
 **Guion**: Álex de la Iglesia, Jorge Guerricaechevarría  
-**Imdb** : [6.3](https://www.imdb.com/title/tt5121816)  
+**Imdb** : [6.3](https://www.imdb.com/title/tt5121816)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vBeL7crOfB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

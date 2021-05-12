@@ -5,16 +5,16 @@ date: '2020-08-20 00:29:17'
 author: 'sebavidal'
 lead: 'Dos rangers retirados buscan dar caza a la pareja de enamorados asalta bancos más famosa de la historia, Bonnie y Clyde.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- netflix
+  - accion
+  - netflix
 ---
 
- **Año** : 2019  
+**Año** : 2019  
 **Director** : John Lee Hancock  
 **Música compuesta por** : Thomas Newman  
-**Imdb** : [6.9](https://www.imdb.com/title/tt1860242/)  
+**Imdb** : [6.9](https://www.imdb.com/title/tt1860242/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/aH6vC-BBKOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,7 +31,7 @@ La historia ve a Bonnie y Clyde como una historia paralela y se centra en estos 
 
 Ambos rangers se embarcan en esta cruzada armados hasta los dientes con cuanta arma corta y larga puedan comprar, rastrean y analizan los últimos atracos de B&C y encuentran ciertos patrones que les permiten adelantarse a sus pasos.
 
-Todos sabemos como termina la historia (lo vimos en los Simpsons), pero el camino que recorren Hamer y Gault y su lucha contra “el futuro” está muy bien representada y nos hace mantener el interés en la historia, ya que la película se detiene varias veces a mostrarnos cómo chocan la tecnología con los viejos métodos detectivescos y que *más sabe el diablo por viejo que por diablo*.
+Todos sabemos como termina la historia (lo vimos en los Simpsons), pero el camino que recorren Hamer y Gault y su lucha contra “el futuro” está muy bien representada y nos hace mantener el interés en la historia, ya que la película se detiene varias veces a mostrarnos cómo chocan la tecnología con los viejos métodos detectivescos y que _más sabe el diablo por viejo que por diablo_.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 

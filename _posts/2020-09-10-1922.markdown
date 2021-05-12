@@ -5,11 +5,11 @@ date: '2020-09-10 00:00:00'
 author: 'sebavidal'
 lead: '1922 esta basada un relato de Stephen King del mismo nombre, el que cuenta la historia de Wilfred James y su hijo Henry, quienes asesinan a la mujer de la casa, hecho que los atormentará siempre y repletará sus mentes de extrañas visiones.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- netflix
-- terror
+  - drama
+  - netflix
+  - terror
 ---
 
 **Año**: 2017  
@@ -17,7 +17,7 @@ tags:
 **Adaptaciones de**: 1922  
 **Historia de**: Stephen King  
 **Guion**: Zak Hilditch  
-**Imdb** : [6.3](https://www.imdb.com/title/tt6214928/)  
+**Imdb** : [6.3](https://www.imdb.com/title/tt6214928/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3E_fT0aTsjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -28,7 +28,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-Las actuaciones son muy buenas y Netflix se encargó de realizar un producto de calidad donde todo se ve bien y funciona perfecto, Thomas Jane resalta de sobremanera como el granjero a la antigua y como el hombre atormentado por los fantasmas de la culpa (literalmente), de hecho las escenas del fantasma (no es spoiler, se ven en trailer) son buenas, simples, pero efectivas. 
+Las actuaciones son muy buenas y Netflix se encargó de realizar un producto de calidad donde todo se ve bien y funciona perfecto, Thomas Jane resalta de sobremanera como el granjero a la antigua y como el hombre atormentado por los fantasmas de la culpa (literalmente), de hecho las escenas del fantasma (no es spoiler, se ven en trailer) son buenas, simples, pero efectivas.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 

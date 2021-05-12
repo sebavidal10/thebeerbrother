@@ -5,10 +5,10 @@ date: '2020-07-23 18:20:00'
 author: 'sebavidal'
 lead: 'Serie alemana que cuenta cómo un par de amigos se convierten en vendedores de drogas online y todas los riesgos que conlleva... que hasta hicieron una serie de Netflix (?)'
 categories:
-- seriess
+  - seriess
 tags:
-- comedia
-- netflix
+  - comedia
+  - netflix
 ---
 
 **Año** : 2019  
@@ -16,7 +16,7 @@ tags:
 **Plataforma** : Netflix  
 **Temporada** : 1  
 **Episodios** : 6  
-**Imdb** : [7,49](https://www.imdb.com/title/tt9184994/)  
+**Imdb** : [7,49](https://www.imdb.com/title/tt9184994/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3sxg1xXmd0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

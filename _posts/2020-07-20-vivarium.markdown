@@ -5,15 +5,15 @@ date: '2020-07-20 17:30:00'
 author: 'sebavidal'
 lead: 'Una joven pareja que está en búsqueda de su hogar definitivo y por esas vueltas de la vida dan con una extraña sala de ventas, donde un vendedor aún más freak los lleva a conocer una casa en Yonder, un barrio donde todas las casas son idénticas y donde les asegura que será sí o sí un hogar para toda la vida.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- sci-fi
-- terror
+  - sci-fi
+  - terror
 ---
 
-**Año** : 2019    
-**Director** : Lorcan Finnegan    
-**Imdb** : [5,8](https://www.imdb.com/title/tt8368406)  
+**Año** : 2019  
+**Director** : Lorcan Finnegan  
+**Imdb** : [5,8](https://www.imdb.com/title/tt8368406)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/U3Xy2x9NDrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -28,7 +28,7 @@ Vivarium comienza con unas escenas de un ave llamado Cuco, el cual es un agente 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-Luego de llegar a la casa y ver que el vendedor desapareció, Gemma y Tom conducen por horas sin dar con la salida al condominio y deciden alojar en la casa que les mostraron, situación que se repite por varios días. Observan el horizonte desde el techo de la casa y solo se ven más casas hasta que la vista se pierde en el infinito. Las nubes parecen falsas y el sol alumbra como un foco inerte. Nada parece vivo, ni el pasto, hasta que aparece una caja frente a la casa con un bebé y una nota que dice “cuiden de él y serán liberados”. 
+Luego de llegar a la casa y ver que el vendedor desapareció, Gemma y Tom conducen por horas sin dar con la salida al condominio y deciden alojar en la casa que les mostraron, situación que se repite por varios días. Observan el horizonte desde el techo de la casa y solo se ven más casas hasta que la vista se pierde en el infinito. Las nubes parecen falsas y el sol alumbra como un foco inerte. Nada parece vivo, ni el pasto, hasta que aparece una caja frente a la casa con un bebé y una nota que dice “cuiden de él y serán liberados”.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
@@ -40,11 +40,11 @@ Las actuaciones son muy buenas, tanto Poots como Eisenberg transmiten muy bien l
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-Hay muchas cosas desconcertantes en el film, las imitaciones del niño, la física dentro de la casa y como es el condominio y las falsas nubes. Todo eso tiene directa relación con el nombre de la película, Vivarium, que se traduce del latín como “lugar de vida”, lo que hace referencia a un área cerrada donde se mantienen y crían animales o plantas para observación o investigación. A menudo, una parte del ecosistema para una especie en particular se simula a menor escala, con controles para las condiciones ambientales. 
+Hay muchas cosas desconcertantes en el film, las imitaciones del niño, la física dentro de la casa y como es el condominio y las falsas nubes. Todo eso tiene directa relación con el nombre de la película, Vivarium, que se traduce del latín como “lugar de vida”, lo que hace referencia a un área cerrada donde se mantienen y crían animales o plantas para observación o investigación. A menudo, una parte del ecosistema para una especie en particular se simula a menor escala, con controles para las condiciones ambientales.
 
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
-Lo unico que podría ser un punto en contra es que se siente larga, en 30 min de Dimensión Desconocida hubiese sido genial! 
+Lo unico que podría ser un punto en contra es que se siente larga, en 30 min de Dimensión Desconocida hubiese sido genial!
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
 

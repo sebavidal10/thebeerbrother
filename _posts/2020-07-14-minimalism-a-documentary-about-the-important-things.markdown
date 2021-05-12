@@ -5,14 +5,14 @@ date: '2020-07-14 00:00:00'
 author: 'sebavidal'
 lead: 'El minimalismo apunta a ser auténticos y no tener para mostrar, sino tener lo que nos hace felices. En este documental acompañemos a dos minimalistas que se dedican a evangelizar esta forma de vivir.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- documental
+  - netflix
+  - documental
 ---
 
-**Año** : 2015     
-**Director** : Matt D'Avella   
+**Año** : 2015  
+**Director** : Matt D'Avella  
 **Imdb** : [6,7](https://www.imdb.com/title/tt3810760/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">

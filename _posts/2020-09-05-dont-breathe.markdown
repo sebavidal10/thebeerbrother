@@ -5,17 +5,17 @@ date: '2020-09-05 03:00:00'
 author: 'sebavidal'
 lead: 'Un grupo de amigos/ladrones decide entrar a robar "algo" a la casa de un ciego, situación que podría ser simple, pero no cuando hablamos de "este" ciego. Una historia muy buena con un giro completamente inesperado.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- suspenso
+  - accion
+  - suspenso
 ---
 
 **Año**: 2016  
 **Director**: Federico Álvarez  
 **Producción**: Sam Raimi; Robert Tapert; Fede Alvarez  
 **Recaudación**: 157,1 millones USD  
-**Imdb** : [7.1](https://www.imdb.com/title/tt4160708/)  
+**Imdb** : [7.1](https://www.imdb.com/title/tt4160708/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/76yBTNDB6vU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

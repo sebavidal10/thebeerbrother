@@ -5,17 +5,17 @@ date: '2020-07-24 20:10:54'
 author: 'sebavidal'
 lead: 'Una particular tormenta crea un enlace temporal en el que Vera evita la muerte de un pequeño niño y como consecuencia su hija y la vida que recuerda nunca existieron'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- sci-fi
-- suspenso
+  - netflix
+  - sci-fi
+  - suspenso
 ---
 
 **Año** : 2018  
 **Director** : Oriol Paulo  
 **Plataforma** : Netflix  
-**Imdb** : [7,4](https://www.imdb.com/title/tt6908274/)  
+**Imdb** : [7,4](https://www.imdb.com/title/tt6908274/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/t2-79qK2Cio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

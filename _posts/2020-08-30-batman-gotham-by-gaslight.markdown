@@ -5,10 +5,10 @@ date: '2020-08-30 18:00:00'
 author: 'sebavidal'
 lead: 'Batman: Gotham by Gaslight es la adaptación de un comic donde el enmascarado de Ciudad Gótica debe detener a Jack The Ripper, en una Gotham llena de largas patillas y bigotes (y que se ve igual al Londres victoriano).'
 categories:
-- peliculas
+  - peliculas
 tags:
-- animada
-- dc
+  - animada
+  - dc
 ---
 
 **Año**: 2018  
@@ -17,7 +17,7 @@ tags:
 **Música compuesta por**: Frederik Wiedmann  
 **Guion**: James Krieg  
 **Productor**: Sam Liu  
-**Imdb** : [6.7](https://www.imdb.com/title/tt7167630)  
+**Imdb** : [6.7](https://www.imdb.com/title/tt7167630)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/TJ6EX6zX4FU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

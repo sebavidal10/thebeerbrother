@@ -5,16 +5,16 @@ date: '2020-07-28 04:33:09'
 author: 'sebavidal'
 lead: 'Vizla, el mejor asesino del mundo esta apunto de retirarse y obtener una millonaria jubilación, siempre y cuando sobreviva hasta el día de su cumpleaños.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- netflix
+  - accion
+  - netflix
 ---
 
 **Año** : 2019  
 **Director** : Jonas Åkerlund  
 **Historia de** : Víctor Santos  
-**Música compuesta por** : deadmau5   
+**Música compuesta por** : deadmau5  
 **Imdb** : [6,3](https://www.imdb.com/title/tt4139588/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">

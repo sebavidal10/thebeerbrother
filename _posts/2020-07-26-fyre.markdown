@@ -5,13 +5,13 @@ date: '2020-07-26 16:05:00'
 author: 'sebavidal'
 lead: 'El festival más grande y exclusivo del mundo termina siendo una gran estafa. Los entretelones de la creación del evento y como fue muriendo poco a poco en este nuevo documental disponible en Netflix'
 categories:
-- peliculas
+  - peliculas
 tags:
-- documental
-- netflix
+  - documental
+  - netflix
 ---
 
-**Año** : 2019   
+**Año** : 2019  
 **Imdb** : [7,2](https://www.imdb.com/title/tt9412098)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">

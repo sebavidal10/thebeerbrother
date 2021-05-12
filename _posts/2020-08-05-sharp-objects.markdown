@@ -5,11 +5,11 @@ date: '2020-08-05 17:24:00'
 author: 'sebavidal'
 lead: 'Serie de HBO basada en el libro de Gillian Flynn del mismo nombre que cuenta la historia de Camille Preaker (Amy Adams) una periodista que debe volver a su pueblo de infancia para investigar la muerte de algunas niñas y las extrañas condiciones en que fueron halladas.'
 categories:
-- series
+  - series
 tags:
-- hbo
-- drama
-- suspenso
+  - hbo
+  - drama
+  - suspenso
 ---
 
 **Primer episodio** : 8 de julio de 2018  
@@ -17,7 +17,7 @@ tags:
 **Cantidad de episodios** : 8  
 **Creador** : Marti Noxon  
 **Basado en** : Sharp Objects de Gillian Flynn  
-**Imdb** : [8.2](https://www.imdb.com/title/tt2649356)  
+**Imdb** : [8.2](https://www.imdb.com/title/tt2649356)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DgljcMqPG98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -73,4 +73,3 @@ Para terminar, una de las cosas que más me gusto fue el recurso del _flashback_
 ![{{ page.title | slugify }}-08](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-08.jpg)
 
 **Extra** : Lean el libro, hay cosas, sobre todo al final, que se explican de manera detallada en los párrafos escritos por Flynn y que te dejaran mas perturbado aún al saber que la verdad escondía más historias y detalles aún peores.
-

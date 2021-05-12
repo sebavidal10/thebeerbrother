@@ -5,16 +5,17 @@ date: '2020-08-29 03:00:00'
 author: 'sebavidal'
 lead: 'Atomic Blonde es Jon Wick protagonizada por Charlize Theron en Rusia, con mucho vodka, nieve y buena música. A eso súmenle a James MacAvoy y a Sofía Boutella... excelente película de acción!'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- suspenso
+  - accion
+  - suspenso
 ---
+
 **Año**: 2017  
 **Director**: David Leitch  
 **Basada en**: The Coldest City, de Antony Johnston; y Sam Hart  
 **Música compuesta por**: Tyler Bates  
-**Imdb** : [6.7](https://www.imdb.com/title/tt2406566)  
+**Imdb** : [6.7](https://www.imdb.com/title/tt2406566)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/yIUube1pSC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,7 +26,7 @@ tags:
 
 El joven director (tiene más créditos como doble de acción y coreógrafo de peleas) **David Leitch** esta a cargo de la dirección de **Atomic Blonde** (y de los 30 millones que costó) y en su mochila de films lleva a Jon Wick y Deadpool 2, por lo que podemos imaginar como se viene la película.
 
-## Stolichnaya  y un par de hielos
+## Stolichnaya y un par de hielos
 
 Atomic Blonde ocurre en plena Guerra Fría y esta ambientada en una Alemania de finales de los 80s. La historia esta basada en los hechos ocurridos en el comic [The Coldest Night](http://www.thecoldestcity.com)
 
@@ -43,7 +44,7 @@ El elenco esta lleno de talentos, pero la mayoría del peso esta en Theron y en 
 
 ## Lo Mejor?
 
-Charlize Theron esta increíble, es como una agente Salt, pero con cocaina y las peleas son geniales, sobre todo en el tercer acto (casi todo el 3er acto) donde hay una especie de plano secuencia digno de series como Daredevil de Netflix donde podemos ver la fatiga y lo realista de la escena. En general se siente como Jon Wick en femenino y con esteroides... recomendada? Si te gusta el cine de acción, Claro que si!, sino, igual. 
+Charlize Theron esta increíble, es como una agente Salt, pero con cocaina y las peleas son geniales, sobre todo en el tercer acto (casi todo el 3er acto) donde hay una especie de plano secuencia digno de series como Daredevil de Netflix donde podemos ver la fatiga y lo realista de la escena. En general se siente como Jon Wick en femenino y con esteroides... recomendada? Si te gusta el cine de acción, Claro que si!, sino, igual.
 
 Ah! Por supuesto, **la banda sonora es genial**, la tendré de playlist un tiempo :)
 

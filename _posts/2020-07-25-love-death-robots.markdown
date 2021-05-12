@@ -5,18 +5,18 @@ date: '2020-07-25 00:06:00'
 author: 'sebavidal'
 lead: 'Cortometrajes auto-contenidos para adultos centrados en futuros distópicos, sangre, terror y amor. Una gran seria para amantes de la animación y de las buenas historias. Gracias Netflix por cosas como esta.'
 categories:
-- series
+  - series
 tags:
-- animada
-- netflix
-- sci-fi
+  - animada
+  - netflix
+  - sci-fi
 ---
 
 **Año** : 2019  
 **Plataforma** : Netflix  
 **Temporada** : 1  
-**Episodios** : 18   
-**Imdb** : [8,5](https://www.imdb.com/title/tt9561862/)  
+**Episodios** : 18  
+**Imdb** : [8,5](https://www.imdb.com/title/tt9561862/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wUFwunMKa4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

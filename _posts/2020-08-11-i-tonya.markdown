@@ -5,22 +5,22 @@ date: '2020-08-11 02:00:00'
 author: 'sebavidal'
 lead: 'Película basada en la vida de la patinadora Tonya Harding, quien fue la primera en hacer un triple axel y brillar a nivel mundial y que por un error debió abandonar el mundo del patinaje y con ello desaparecer de los libros de historia. Solida Margot Robbie.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
+  - drama
 ---
 
 **Año**: 2018  
 **Director**: Craig Gillespie  
-**Recaudación**: 47,5 millones USD    
-**Imdb** : [7,5](https://www.imdb.com/title/tt5580036/)    
+**Recaudación**: 47,5 millones USD  
+**Imdb** : [7,5](https://www.imdb.com/title/tt5580036/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XuyQGywGtm8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-**Tonya Harding** fue la primera patinadora sobre hielo capaz de hacer un triple axel (algo asi como un super giro triple hacia atrás), lo que la diferenció de las demás y que por primera vez la puso sobre las grandes patinadoras de su época. En el film dirigido por Craig Gillespie se nos cuenta esto y mucho más, viaja al pasado y en modo de falso documental nos cuenta la vida de Tonya desde su punto de vista y del de las personas que la rodeaban. Se detiene en su compleja infancia en manos de una mujer alcohólica que la golpeaba constantemente y que, en palabras de la misma película, era un *monstruo de persona*.
+**Tonya Harding** fue la primera patinadora sobre hielo capaz de hacer un triple axel (algo asi como un super giro triple hacia atrás), lo que la diferenció de las demás y que por primera vez la puso sobre las grandes patinadoras de su época. En el film dirigido por Craig Gillespie se nos cuenta esto y mucho más, viaja al pasado y en modo de falso documental nos cuenta la vida de Tonya desde su punto de vista y del de las personas que la rodeaban. Se detiene en su compleja infancia en manos de una mujer alcohólica que la golpeaba constantemente y que, en palabras de la misma película, era un _monstruo de persona_.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 

@@ -7,6 +7,6 @@ layout: default
   <div class="columns is-multiline">
 
     --
-  
+
   </div>
 </div>

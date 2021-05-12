@@ -77,37 +77,53 @@ a {
     }
 }
 
-@media screen and (min-width: 769px){
-    .big-box.is-12 { width: calc( 100% - 23px ) !important; }
-    .box.is-4 { width: calc( 33% - 16px ) !important; }
-    .box.is-6 { width: calc( 50% - 20px ) !important; }
-    .box.is-8 { width: calc( 66% - 12px ) !important; }
+@media screen and (min-width: 769px) {
+    .big-box.is-12 {
+        width: calc(100% - 23px) !important;
+    }
+
+    .box.is-4 {
+        width: calc(33% - 16px) !important;
+    }
+
+    .box.is-6 {
+        width: calc(50% - 20px) !important;
+    }
+
+    .box.is-8 {
+        width: calc(66% - 12px) !important;
+    }
 }
 
 
 
 @include until($desktop) {
-    .box { 
+    .box {
         width: 90%;
         margin: auto !important;
-        margin-bottom: 20px !important;    
+        margin-bottom: 20px !important;
     }
+
     .post {
         .card-content {
             padding-left: 5px;
             padding-right: 5px;
         }
     }
+
     .is-multiline {
         width: 100%;
         margin-left: 0px;
     }
+
     iframe {
         width: 100%;
     }
+
     .title-section {
         padding-left: 20px;
     }
+
     .title-post {
         .b-title {
             width: 90% !important;
@@ -116,10 +132,11 @@ a {
 
     .navbar-menu.is-active {
         background-color: #0c0c0c;
-        
+
         a {
             color: white;
         }
+
         a:hover {
             background-color: #ffffff2e;
         }
@@ -209,10 +226,10 @@ a {
 }
 
 .gradient-back {
-    background: -webkit-gradient(linear,left top,left bottom,color-stop(29%,rgba(0,0,0,.3)),color-stop(81%,rgba(0,0,0,.7)));
-    background: -webkit-linear-gradient(top,rgba(0,0,0,.3) 29%,rgba(0,0,0,.7) 81%);
-    background: -o-linear-gradient(top,rgba(0,0,0,.3) 29%,rgba(0,0,0,.7) 81%);
-    background: linear-gradient(180deg,rgba(0,0,0,.3) 29%,rgba(0,0,0,.7) 81%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(29%, rgba(0, 0, 0, .3)), color-stop(81%, rgba(0, 0, 0, .7)));
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
+    background: -o-linear-gradient(top, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
 
     height: 100vh;
     position: absolute;
@@ -222,10 +239,10 @@ a {
 }
 
 .gradient-back-home {
-    background: -webkit-gradient(linear,left top,left bottom,color-stop(29%,rgba(0,0,0,.3)),color-stop(81%,rgba(0,0,0,.7)));
-    background: -webkit-linear-gradient(top,rgba(0,0,0,.3) 29%,rgba(0,0,0,.7) 81%);
-    background: -o-linear-gradient(top,rgba(0,0,0,.3) 29%,rgba(0,0,0,.7) 81%);
-    background: linear-gradient(180deg,rgba(0,0,0,.3) 29%,rgba(0,0,0,.7) 81%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(29%, rgba(0, 0, 0, .3)), color-stop(81%, rgba(0, 0, 0, .7)));
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
+    background: -o-linear-gradient(top, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
 
     height: 70vh;
     position: absolute;
@@ -246,7 +263,7 @@ a {
         }
     }
 
-    text-shadow: 0 0 10px rgba(0,0,0,.33);
+    text-shadow: 0 0 10px rgba(0, 0, 0, .33);
 
     .b-title {
         width: 60%;
@@ -270,7 +287,7 @@ a {
 
 .social-shared {
     margin-top: 23px;
-    
+
     svg:hover {
         opacity: 0.8;
         cursor: pointer;
@@ -278,7 +295,7 @@ a {
 }
 
 .markdown {
-    
+
     blockquote {
         background: #f9f9f9;
         border-left: 10px solid #ccc;
@@ -288,24 +305,26 @@ a {
         quotes: "\201C""\201D""\2018""\2019";
         font-size: 1.5rem;
         color: #6b6b6b;
-        font-style: italic; 
-      }
-      blockquote:before {
+        font-style: italic;
+    }
+
+    blockquote:before {
         color: #ccc;
         content: open-quote;
         font-size: 4em;
         line-height: 0.1em;
         margin-right: 0.25em;
         vertical-align: -0.4em;
-      }
-      blockquote p {
+    }
+
+    blockquote p {
         display: inline;
-      }
+    }
 
     margin-top: 40px;
 
     img {
-        width: 100%;    
+        width: 100%;
         box-shadow: 5px 5px 5px #888888 !important;
     }
 
@@ -318,10 +337,13 @@ a {
             margin-top: 10px;
             margin-bottom: 10px;
         }
-        
+
     }
 
-    h1, h2, h3, h4 {
+    h1,
+    h2,
+    h3,
+    h4 {
         font-weight: bold;
     }
 
@@ -359,7 +381,7 @@ a {
 
     .kg-card {
         margin-bottom: 40px;
-        
+
         iframe {
             width: 100%;
             height: 400px;
@@ -367,9 +389,11 @@ a {
         }
     }
 
-    a, strong {
+    a,
+    strong {
         color: red !important;
     }
+
     a:hover {
         text-decoration: underline !important;
     }
@@ -384,13 +408,14 @@ a {
         margin-top: 20px;
         margin-bottom: 30px;
         padding-left: 10px;
-        border-left: 1px solid #9E9E9E; 
+        border-left: 1px solid #9E9E9E;
 
         img {
             height: 200px;
             width: 100%;
             object-fit: cover;
             box-shadow: 5px 5px 5px #888888 !important;
+
             &:hover {
                 opacity: 0.8;
             }
@@ -410,24 +435,22 @@ a {
     display: block;
     width: auto;
     overflow: hidden;
-  }
-  
-  .PageNavigation a {
+}
+
+.PageNavigation a {
     display: block;
     width: 50%;
     float: left;
     margin: 1em 0;
-  }
+}
 
-  .PageNavigation .prev {
+.PageNavigation .prev {}
 
-  }
-  
-  .PageNavigation .next {
+.PageNavigation .next {
     text-align: right;
-  } 
+}
 
-  .card-tabs {
+.card-tabs {
     padding: 0px;
 
     .content {
@@ -439,22 +462,22 @@ a {
         height: 100%;
         width: 100%;
     }
-  }
+}
 
-  .cloud {
+.cloud {
     text-align: left;
     padding: 14px;
-  }
+}
 
-  .fb-comments {
-      width: 100%;
+.fb-comments {
+    width: 100%;
 
-      iframe {
-        width: 100% !important; 
-      }
-  }
+    iframe {
+        width: 100% !important;
+    }
+}
 
-  .tile-tag {
+.tile-tag {
     display: inline-block;
     margin-top: 5px;
     margin-right: 3px;
@@ -462,12 +485,13 @@ a {
     background-color: #363636;
     color: white;
     border-radius: 5px;
-  }
-  .tile-tag:hover {
-    background-color: #f14668;
-  }
+}
 
-  .spoiler-div {
+.tile-tag:hover {
+    background-color: #f14668;
+}
+
+.spoiler-div {
     background-color: red;
     color: white;
     text-align: center;
@@ -475,4 +499,4 @@ a {
     padding: 10px;
     margin-top: -7px;
     margin-bottom: 14px;
-  }
+}

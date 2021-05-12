@@ -5,16 +5,16 @@ date: '2021-01-02 00:00:00'
 author: 'sebavidal'
 lead: 'Bryon ha llenado su cuerpo de tatuajes convirtiéndose a sí mismo en un símbolo vivo del grupo de supremacía blanca que encabeza, solo la aparición de Julie y la eterna esperanza de Daryle lo ayudaran a salir de la burbuja en que creció y le mostraran como es el mundo en realidad.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- netflix
+  - drama
+  - netflix
 ---
 
 **Año** : 2019  
 **Director** : Guy Nattiv  
-**Plataforma** : Netflix   
-**Imdb** : [7.0](https://www.imdb.com/title/tt6043142)  
+**Plataforma** : Netflix  
+**Imdb** : [7.0](https://www.imdb.com/title/tt6043142)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8uc30b4kZws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

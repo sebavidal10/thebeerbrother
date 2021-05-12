@@ -5,15 +5,15 @@ date: '2020-07-11 18:01:09'
 author: 'sebavidal'
 lead: 'Encontrar empleo se vuelve una tortura a la edad de Javier, quien poco a poco ve como su vida se desmorona y alguien se apodera de todo lo que el ha logrado.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- suspenso
+  - netflix
+  - suspenso
 ---
 
 **Año** : 2020  
 **Directores** : David Pastor, Àlex Pastor  
-**Plataforma** : Netflix  
+**Plataforma** : Netflix
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BLt3K0phvX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ De ahí en adelante Javier pasa de ser amado y odiado por el espectador, durante
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.png)
 
-Visualmente la película es increíble, siento que todo está tan bien construido y lleno de detalles que es un agrado visual y cada escena demuestra lo meticuloso de los directores y lo bien pulido de cada ángulo. Javier Gutiérrez es genial, se hecha la película a la espalda y le creo **todo** el recorrido que hace su personaje. El *pero* podría ser que para algunas personas resutará lenta y un poco (muy) predecible. A pesar de esto, es un ejercicio de elegancia cinematográfica de primer nivel!
+Visualmente la película es increíble, siento que todo está tan bien construido y lleno de detalles que es un agrado visual y cada escena demuestra lo meticuloso de los directores y lo bien pulido de cada ángulo. Javier Gutiérrez es genial, se hecha la película a la espalda y le creo **todo** el recorrido que hace su personaje. El _pero_ podría ser que para algunas personas resutará lenta y un poco (muy) predecible. A pesar de esto, es un ejercicio de elegancia cinematográfica de primer nivel!
 
 <hr/>
 <div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/81004797" target="_blank">Netflix</a></div>

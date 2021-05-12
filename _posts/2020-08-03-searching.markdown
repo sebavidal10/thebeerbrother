@@ -5,14 +5,14 @@ date: '2020-08-03 21:39:59'
 author: 'sebavidal'
 lead: 'Margot desapareció y su padre deberá rastrear su vida online a través de streamings, blogs y redes sociales para tratar de encontrarla, y de paso, aprender a ser un mejor padre.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- suspenso
+  - suspenso
 ---
 
 **Año** : 2018  
 **Director** : Aneesh Chaganty  
-**Imdb** : [7.6](https://www.imdb.com/title/tt7668870)  
+**Imdb** : [7.6](https://www.imdb.com/title/tt7668870)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3Ro9ebQxEOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

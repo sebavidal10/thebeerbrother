@@ -5,15 +5,15 @@ date: '2020-07-07 15:20:00'
 author: 'sebavidal'
 lead: 'El patriarca de una familia amanece muerto y las sospechan recaen sobre cada uno de los miembros de la familia. Solo el experimentado detective Benoit Blanc será capaz de resolver el misterioso (y rebuscado) asesinato.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- misterio
-- prime
+  - misterio
+  - prime
 ---
 
 **Año** : 2019  
 **Director** : Rian Johnson  
-**Imdb** : [7,9](https://www.imdb.com/title/tt8946378/)  
+**Imdb** : [7,9](https://www.imdb.com/title/tt8946378/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FmbyRGpUVZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

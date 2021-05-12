@@ -5,17 +5,17 @@ date: '2020-07-12 20:50:00'
 author: 'sebavidal'
 lead: 'Una montaña rusa de 3 episodios que mezcla un grupo de facebook, fake news, imagenes photoshopeadas, la escena de sexo de Basic Instinct, ideas para una película de David Fincher y gatitos muriendo.'
 categories:
-- series
+  - series
 tags:
-- documental
-- netflix
+  - documental
+  - netflix
 ---
 
 **Año** : 2019  
-**Plataforma** : Netflix   
+**Plataforma** : Netflix  
 **Temporada** : 1  
 **Episodios** : 3  
-**Imdb** : [8,1](https://www.imdb.com/title/tt11318602)  
+**Imdb** : [8,1](https://www.imdb.com/title/tt11318602)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/x41SMm-9-i4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,6 +37,7 @@ En el proceso analizan mejor que el perito más experto el lugar del video, trat
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
 Cada título de los episodios habla por si mismo
+
 - Episodio 1: Cat and Mouse (**Imdb** : 8.4)
 - Episodio 2: Killing for Clicks (**Imdb** : 8.4)
 - Episodio 3: Closing the Net (**Imdb** : 8.3)

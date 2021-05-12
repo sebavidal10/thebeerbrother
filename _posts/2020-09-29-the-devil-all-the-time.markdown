@@ -5,16 +5,16 @@ date: '2020-09-29 00:00:00'
 author: 'sebavidal'
 lead: 'Muy al estilo Southern (American) Gothic, The Devil All the Time nos cuenta varias historias que transcurren dentro de algunos kilómetros a la redonda entre Ohio y Virginia, Estados Unidos, donde nos narra varias historias que se cruzan y destaca la idea de que somos presa del lugar donde crecemos y que, tal como señala la película, muchas veces hacemos porque debemos no porque queramos hacerlas.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- netflix
-- suspenso
+  - drama
+  - netflix
+  - suspenso
 ---
 
-**Año** : 2020   
+**Año** : 2020  
 **Director** : Antonio Campos  
-**Plataforma** : Netflix 
+**Plataforma** : Netflix
 **Imdb** : [7.1](https://www.imdb.com/title/tt7395114/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
@@ -26,11 +26,12 @@ Muy al estilo Southern (American) Gothic, The Devil All the Time nos cuenta vari
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-Dirigida por **Antonio Campos** y con un elenco lleno de estrellas, Netflix nos trae una de las películas que más me han gustado, tanto por lo limpio de su cinematografía como por lo bueno de los personajes y sus respectivas actuaciones. A momentos me recordó a [Nocturnal Animals](https://www.imdb.com/title/tt4550098/) por lo desolado y violento de algunas escenas. Bueno, si nos vamos a la trama, The Devil All the Time nos habla de lo difícil que es salir adelante cuando todo parece ir mal, cuando nuestra fé es traicionada y la humanidad se siente perdida entre la postguerra y la pérdida de seres queridos... Es así como conocemos a nuestro protagonista Arvin (Tom Holland), de quien nos muestran su infancia y nos dejan en claro lo que aprendió de su padre, interpretado de una manera increíble por Bill Skarsgård, y como toda la gente que conoció influye en cómo será cuando sea adulto. 
+Dirigida por **Antonio Campos** y con un elenco lleno de estrellas, Netflix nos trae una de las películas que más me han gustado, tanto por lo limpio de su cinematografía como por lo bueno de los personajes y sus respectivas actuaciones. A momentos me recordó a [Nocturnal Animals](https://www.imdb.com/title/tt4550098/) por lo desolado y violento de algunas escenas. Bueno, si nos vamos a la trama, The Devil All the Time nos habla de lo difícil que es salir adelante cuando todo parece ir mal, cuando nuestra fé es traicionada y la humanidad se siente perdida entre la postguerra y la pérdida de seres queridos... Es así como conocemos a nuestro protagonista Arvin (Tom Holland), de quien nos muestran su infancia y nos dejan en claro lo que aprendió de su padre, interpretado de una manera increíble por Bill Skarsgård, y como toda la gente que conoció influye en cómo será cuando sea adulto.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 ### Sexo, religión y violencia
+
 En paralelo a la historia de Arvin, tenemos varias tramas, por un lado un predicador fanático y su joven esposa, por otro una mesera que anhela riquezas y lujos y como tercera hebra podríamos señalar la de un policía (medio corrupto) que quiere ser más que eso y necesita que el pueblo lo respete. Todas estas historias en uno u otro momento golpean de forma violenta e inesperada a Arvin, quien deberá recurrir a todos sus recursos para poder superarlas.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)

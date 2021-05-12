@@ -5,11 +5,11 @@ date: '2021-01-06 00:00:00'
 author: 'sebavidal'
 lead: 'Sara tiene un canal de youtube, en el registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- suspenso
-- terror
+  - netflix
+  - suspenso
+  - terror
 ---
 
 **Año** : 2017  
@@ -31,6 +31,7 @@ Sara (Desiree Akhavan) tiene un canal de youtube en declive, en el registra y fi
 Ya sabemos la historia y cómo opera nuestro protagonista. Sabemos que es torpe a propósito y que todo está fríamente calculado en su perturbada mente, que tiene un objetivo y lograrlo cueste lo que cueste…bueno, esto igual aplica para Sara, la nueva víctima (o la número 50).
 
 ### Creep 2
+
 El film nos presenta a “Aaron”, esta vez con un nuevo look de millonario sofisticado, lleno de movimientos calculados y nuevas y extrañas (falsas) historias. Su vida ha perdido sentido y como un artista en momentos de poca motivación siente que su obra pierde sentido, hasta que conoce a Sara, quien sacude su mundo ya que no responde de la forma habitual… es calculadora y contenida, no se asusta fácilmente ni titubea en sus actos (o al menos eso parece) y el lobo ni la asusta, lo que descoloca el alterar inconscientemente el plan de Aaron llevando las cosas por un camino bastante diferente, a pesar de que igual resulta predecible (al estilo Creep).
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)

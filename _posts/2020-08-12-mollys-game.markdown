@@ -5,16 +5,16 @@ date: '2020-08-12 18:00:00'
 author: 'sebavidal'
 lead: 'Aaron Sorkin, sale de su zona de confort tras el teclado y se sumerge de manera exitosa en el mundo de la dirección guiando a la talentosa Jessica Chastain bajo la piel de Molly Bloom, la más organizadora de partidas de poker.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
+  - drama
 ---
 
 **Año**: 2018  
 **Director**: Aaron Sorkin  
 **Adaptaciones de**: Molly's Game: The True Story of the 26-Year-Old Woman Behind the Most Exclusive, High-Stakes Underground Poker Game in the World  
 **Recaudación**: 53,3 millones USD  
-**Imdb** : [7.4](https://www.imdb.com/title/tt4209788/)  
+**Imdb** : [7.4](https://www.imdb.com/title/tt4209788/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Vu4UPet8Nyc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

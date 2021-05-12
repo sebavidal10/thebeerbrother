@@ -5,15 +5,15 @@ date: '2020-09-04 03:00:00'
 author: 'sebavidal'
 lead: 'Pelicula Sueca escrita y dirigida por Ruben Östlund que tiene como protagonista a Christian, director artístico y encargado de comunicaciones de un importante museo de arte contemporáneo que se prepara para exponer una obra de carácter altruista llamada The Square'
 categories:
-- peliculas
+  - peliculas
 tags:
-- comedia
+  - comedia
 ---
 
 **Año**: 2017  
 **Director**: Ruben Östlund  
 **Idiomas**: Idioma inglés, Idioma sueco, Idioma danés  
-**Imdb** : [7.2](https://www.imdb.com/title/tt4995790/)  
+**Imdb** : [7.2](https://www.imdb.com/title/tt4995790/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2jo5ZQ-lcEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

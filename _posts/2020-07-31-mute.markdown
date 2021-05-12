@@ -5,11 +5,11 @@ date: '2020-07-31 17:39:56'
 author: 'sebavidal'
 lead: 'Mute es la historia de Leo, un amish mudo que abandona sus tranquila forma de vivir cuando su novia desaparece en extrañas circunstancias.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- sci-fi
-- suspenso
+  - netflix
+  - sci-fi
+  - suspenso
 ---
 
 **Año**: 2018  

@@ -5,16 +5,16 @@ date: '2020-08-17 15:28:26'
 author: 'sebavidal'
 lead: 'The Outsider es la historia del prisionero de guerra norteamericano, Nick Lowell, que tras salir en libertad es ayudado por un líder Yakuza llamado Kiyoshi, a quien conoció en prisión y quien quedó en deuda de honor con Nick.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- netflix
+  - accion
+  - netflix
 ---
 
 **Año**: 2018  
 **Director**: Martin Zandvliet  
 **Música compuesta por**: Sune Martin  
-**Imdb** : [6.3](https://www.imdb.com/title/tt2011311/)  
+**Imdb** : [6.3](https://www.imdb.com/title/tt2011311/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nP2-S6_pL-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

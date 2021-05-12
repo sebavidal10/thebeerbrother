@@ -5,16 +5,16 @@ date: '2020-09-08 03:00:00'
 author: 'sebavidal'
 lead: 'La muerte de una joven en una reservación india en medio de la nieve llama la atención del FBI, lo que agita las mareas de una comunidad que en su abandono vive bajo su propia ley. Un excelente film con Taylor Sheridan (Hell or High Water, Sicario) tras el guion.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
+  - accion
 ---
 
 **Año**: 2017  
 **Director**: Taylor Sheridan  
 **Guion**: Taylor Sheridan  
 **Recaudación**: 45 millones USD  
-**Imdb** : [7.7](https://www.imdb.com/title/tt5362988/)  
+**Imdb** : [7.7](https://www.imdb.com/title/tt5362988/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/s7WuKdVhrmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

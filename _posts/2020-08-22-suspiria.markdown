@@ -5,14 +5,14 @@ date: '2020-08-22 12:50:00'
 author: 'sebavidal'
 lead: 'Una enigmática escuela de danza prepara el ultimo show de su aclamada presentación llamada Volk, en la cual dejaran a la novata Susie como centro del artístico show, dado otras jóvenes han desaparecido.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- terror
+  - terror
 ---
 
- **Año** : 2018  
+**Año** : 2018  
 **Director** : Luca Guadagnino  
-**Imdb** : [6.8](https://www.imdb.com/title/tt1034415)  
+**Imdb** : [6.8](https://www.imdb.com/title/tt1034415)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/zDGPnrYiS50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

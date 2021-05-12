@@ -5,16 +5,16 @@ date: '2020-09-27 04:00:00'
 author: 'sebavidal'
 lead: 'La obsesiva personalidad de un hombre se mezcla hasta el extremo con las ganas de obtener la mejor noticia sin importar el precio que haya que pagar. Una excelente película que merecía el Oscar con un Jake Gyllenhaal de lujo.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- suspenso
+  - suspenso
 ---
 
 **Año**: 2014  
 **Director**: Dan Gilroy  
 **Recaudación**: 50,3 millones USD  
 **Nominaciones**: Oscar al mejor guión original  
-**Imdb** : [7.9](https://www.imdb.com/title/tt2872718)  
+**Imdb** : [7.9](https://www.imdb.com/title/tt2872718)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OGP02DvsqXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

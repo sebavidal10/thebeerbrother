@@ -5,14 +5,14 @@ date: '2020-08-21 23:30:00'
 author: 'sebavidal'
 lead: 'Lady Sarah es la mano derecha de la Reina Ana, su confidente y amante... todo se altera con la llegada de Abigail, una joven ambiciosa con nada que perder y que tiene su vista fijada en la Reina.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
+  - drama
 ---
 
- **Año** : 2018    
+**Año** : 2018  
 **Director** : Yorgos Lanthimos  
-**Imdb** : [7.5](https://www.imdb.com/title/tt5083738)  
+**Imdb** : [7.5](https://www.imdb.com/title/tt5083738)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SYb-wkehT1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

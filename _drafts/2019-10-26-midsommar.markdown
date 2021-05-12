@@ -5,13 +5,13 @@ date: '2019-10-26 17:35:58'
 author: 'sebavidal'
 lead: 'Un grupo de amigos se embarca en un viaje folk lleno de alucinógenos a una alejada aldea, donde el director, Ari Aster, deja muy en claro que el terror puede ocurrir a plena luz del día'
 tags:
-- review
-- peliculas
-- recomendacion
-- spoiler
+  - review
+  - peliculas
+  - recomendacion
+  - spoiler
 ---
 
- **Director** : Ari Aster  
+**Director** : Ari Aster  
 **Guión** : Ari Aster  
 **Año** : 2019
 
@@ -105,7 +105,7 @@ Escena siguiente están en una comida que Dani ayudó a preparar (almuerzo, once
 
 - (En esa misma comida) Una joven invita a Mark a ir a algún lugar, cosa que él hace, ya que su único objetivo del viaje era conocer mujeres... esta es la última vez que vemos a Mark.
 - Durante la noche Josh se levanta a escondidas a fotografiar el libro sagrado y un hombre con la piel de Mark en el rostro (recuerden Despellejar al tonto) lo sorprende y otro lo golpea con un martillo en la cabeza.  
-Al otro día, en medio de la comida, un anciano dice que el libro sagrado desapareció y que Josh y Mark no están, dando la sensación que robaron el libro y huyeron, por lo que preguntan a Christian y Dani si saben algo y Christian señala que ni siquiera son amigos y se hace el desentendido de ellos, demostrando una vez más su ausencia de valores.
+  Al otro día, en medio de la comida, un anciano dice que el libro sagrado desapareció y que Josh y Mark no están, dando la sensación que robaron el libro y huyeron, por lo que preguntan a Christian y Dani si saben algo y Christian señala que ni siquiera son amigos y se hace el desentendido de ellos, demostrando una vez más su ausencia de valores.
 
 ### Ritual de la Reina de Mayo
 

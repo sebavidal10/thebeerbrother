@@ -5,15 +5,15 @@ date: '2020-09-13 14:26:16'
 author: 'sebavidal'
 lead: 'Continuación de La Muerte de Superman, que nos presenta a los nuevos heroes que quieren tomar el lugar de Kal-El y volverse el protector de la humanidad.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- animada
-- spoiler
+  - animada
+  - spoiler
 ---
 
-**Año:** 2019   
+**Año:** 2019  
 **Director:** Sam Liu  
-**Imdb** : [6.8](https://www.imdb.com/title/tt7167686)  
+**Imdb** : [6.8](https://www.imdb.com/title/tt7167686)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HlC7veaQizk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

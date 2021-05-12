@@ -5,15 +5,15 @@ date: '2020-09-12 03:00:00'
 author: 'sebavidal'
 lead: 'El amor y la venganza se caricaturizan y decoran con folclore religioso en "Horns", donde la abundancia de humor negro decora una historia de romance y dolor con una buena actuación de Harry Potter y Juno Temple.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
+  - drama
 ---
 
 **Año**: 2014  
 **Director**: Alexandre Aja  
 **Basada en**: Horns de Joe Hill  
-**Imdb** : [6.5](https://www.imdb.com/title/tt1528071)  
+**Imdb** : [6.5](https://www.imdb.com/title/tt1528071)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/B8s_1UcdoNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

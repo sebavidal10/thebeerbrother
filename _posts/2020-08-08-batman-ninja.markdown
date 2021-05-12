@@ -5,18 +5,18 @@ date: '2020-08-08 12:00:00'
 author: 'sebavidal'
 lead: 'Mediante un dispositivo para viajar en el tiempo, Gorila Grodd transporta a varios villanos de Gotham al Japón feudal, en algo que parece un accidente provocado cuando Batman trata de evitar que usen el artefacto, lo que también lo transporta a él, pero llegando 2 años después...'
 categories:
-- peliculas
+  - peliculas
 tags:
-- animada
-- dc
+  - animada
+  - dc
 ---
 
-**Fecha de estreno**: 24 de abril de 2018   
+**Fecha de estreno**: 24 de abril de 2018  
 **Director**: Junpei Mizusaki  
 **Música compuesta por**: Yugo Kanno  
-**Idiomas**: Idioma japonés, Idioma inglés   
-**Productoras**: Warner Bros. Animation, DC Entertainment   
-**Imdb** : [5,6](https://www.imdb.com/title/tt7451284/)   
+**Idiomas**: Idioma japonés, Idioma inglés  
+**Productoras**: Warner Bros. Animation, DC Entertainment  
+**Imdb** : [5,6](https://www.imdb.com/title/tt7451284/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/CwPFxcefpdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,17 +5,17 @@ date: '2020-09-09 03:00:00'
 author: 'sebavidal'
 lead: 'Particular película de fantasmas que se convirtió en una de mis favoritas, donde se cuenta lo que ocurre cuando un hombre muere y no puede desprenderse de su hogar, de su historia y de sus recuerdos...'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- sci-fi
+  - drama
+  - sci-fi
 ---
 
 **Año**: 2017  
 **Director**: David Lowery  
 **Canción destacada**: I Get Overwhelmed  
 **Presupuesto**: 100.000 USD  
-**Imdb** : [6.9](https://www.imdb.com/title/tt6265828/)  
+**Imdb** : [6.9](https://www.imdb.com/title/tt6265828/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n6vtDEL3oX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,7 +32,7 @@ Dada la experiencia del director David Lowery, quien ha trabajado casi toda su v
 > **Ghost 1**: Hi.  
 > **Ghost 2**: I'm waiting for someone.  
 > **Ghost 1**: Who?  
-> **Ghost 2**: I don't remember.  
+> **Ghost 2**: I don't remember.
 
 ## Curiosidad
 

@@ -5,19 +5,19 @@ date: '2020-07-29 00:50:00'
 author: 'sebavidal'
 lead: 'En un futuro hiper-tecnologizado, Mai trata de adaptarse a la difícil adolescencia que le toco vivir... todo mejorará cuando conozca a un particular Robot'
 categories:
-- peliculas
+  - peliculas
 tags:
-- animada
-- netflix
-- sci-fi
+  - animada
+  - netflix
+  - sci-fi
 ---
 
 **Fecha de estreno** : 7 de septiembre de 2018  
 **Productora** : Netflix  
 **Director** : Kevin R. Adams, Joe Ksander  
 **Idiomas** : Idioma inglés, Chino mandarín  
-**Música de** : Samuel Jones, Alexis Marsh   
-**Imdb** : [6,6](https://www.imdb.com/title/tt7133686)  
+**Música de** : Samuel Jones, Alexis Marsh  
+**Imdb** : [6,6](https://www.imdb.com/title/tt7133686)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JQNfLUCa6jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,7 +32,7 @@ Durante el lanzamiento del último robot asistente, Mai, por error, da con un ro
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-El film se ríe de la típica historia y lo deja claro explícitamente cuando Mai conoce al Robot dice algo como ***"ahora me acompañaras y pasaremos por muchas aventuras que nos permitirán descubrir profundos secretos"***, cosa que pasa xD pero no de la forma que acostumbra ocurrir. Los giros de la aventura de Mai dejan muchas enseñanzas y hacen de ella una mejor persona, descubre el perdón y comprende el valor de la amistad y de paso salva el mundo.
+El film se ríe de la típica historia y lo deja claro explícitamente cuando Mai conoce al Robot dice algo como **_"ahora me acompañaras y pasaremos por muchas aventuras que nos permitirán descubrir profundos secretos"_**, cosa que pasa xD pero no de la forma que acostumbra ocurrir. Los giros de la aventura de Mai dejan muchas enseñanzas y hacen de ella una mejor persona, descubre el perdón y comprende el valor de la amistad y de paso salva el mundo.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 

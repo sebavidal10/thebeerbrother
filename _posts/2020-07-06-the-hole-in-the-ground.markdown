@@ -5,10 +5,10 @@ date: '2020-07-06 22:00:00'
 author: 'sebavidal'
 lead: 'Sarah logra encontrar a Chris luego que este se pierde en el bosque, pero al parecer hay algo en el pequeño que hace pensar a la mujer que este no es su hijo.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- suspenso
-- terror
+  - suspenso
+  - terror
 ---
 
 **Año** : 2019  
@@ -26,7 +26,7 @@ Con uno de esos afiches que auguran una película pésima y con una traducción 
 
 ## El Agujero en el suelo
 
-**The Hole in the Ground** es una película irlandesa que cuenta la historia de Sarah y su pequeño hijo Chris (un *freak*, odia el queso rallado), y los extraños sucesos que los comienzan a atormentar luego de mudarse a una nueva casa sin número, dificil de ubicar y que colinda con un frondoso y tipico bosque irlandes.
+**The Hole in the Ground** es una película irlandesa que cuenta la historia de Sarah y su pequeño hijo Chris (un _freak_, odia el queso rallado), y los extraños sucesos que los comienzan a atormentar luego de mudarse a una nueva casa sin número, dificil de ubicar y que colinda con un frondoso y tipico bosque irlandes.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 

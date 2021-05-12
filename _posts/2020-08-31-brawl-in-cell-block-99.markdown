@@ -5,9 +5,9 @@ date: '2020-08-31 03:00:00'
 author: 'sebavidal'
 lead: 'Bradley debe trabajar para un amigo traficante transportando paquetes y cobrando el dinero, cuando un envió sale mal el infierno carcelario aparece y se deja caer como un torbellino de violencia sobre sus espaldas...y sus puños.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
+  - accion
 ---
 
 **Año**: 2017  
@@ -24,7 +24,7 @@ tags:
 
 Del mismo director de **Bone Tomahawk**, **S. Craig Zahler**, y protagonizada por **Vince Vaughn**, que comúnmente hace comedias, llega Brawl in Cell Block 99 donde encarna a un correcto pero impulsivo hombre llamado **Bradley Thomas**.
 
-Bradley intenta vivir bien con su esposa Lauren, pero luego de perder su empleo *tradicional*, entra a trabajar para un amigo transportando cargas de drogas. Las cosas van bien y Lauren (Jennifer Carpenter) está esperando un bebé, cosa que hace muy feliz a Brad(ley).
+Bradley intenta vivir bien con su esposa Lauren, pero luego de perder su empleo _tradicional_, entra a trabajar para un amigo transportando cargas de drogas. Las cosas van bien y Lauren (Jennifer Carpenter) está esperando un bebé, cosa que hace muy feliz a Brad(ley).
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 

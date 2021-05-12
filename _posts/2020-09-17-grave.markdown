@@ -5,15 +5,15 @@ date: '2020-09-17 04:00:00'
 author: 'sebavidal'
 lead: 'Para varios el cine francés da la pauta y con Grave nos regalan (una vez más) una excelente historia de hermanas, carne y sangre centrada en la vegetariana Justine y su paso a la adultez.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- terror
+  - drama
+  - terror
 ---
 
 **Año**: 2017  
-**Director**: Julia Ducournau    
-**Imdb** : [7.0](https://www.imdb.com/title/tt4954522)  
+**Director**: Julia Ducournau  
+**Imdb** : [7.0](https://www.imdb.com/title/tt4954522)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/iwTf7sxCe9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

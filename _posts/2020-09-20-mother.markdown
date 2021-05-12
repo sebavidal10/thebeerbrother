@@ -5,19 +5,19 @@ date: '2020-09-20 03:00:00'
 author: 'sebavidal'
 lead: 'Aronofsky sorprende con un controversial film de corte poético y bíblico que nos habla del origen todo, del final y de las metáforas. Protagonizado por Javier Bardem y Jennifer Lawrence como ÉL y Madre. Post lleno de spoilers e interpretaciones :D'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- sci-fi
-- terror
-- spoiler
+  - drama
+  - sci-fi
+  - terror
+  - spoiler
 ---
 
 **Año**: 2017  
 **Director**: Darren Aronofsky  
 **Guion**: Darren Aronofsky  
-**Recaudación**: 44,5 millones USD    
-**Imdb** : [6.6](https://www.imdb.com/title/tt5109784)  
+**Recaudación**: 44,5 millones USD  
+**Imdb** : [6.6](https://www.imdb.com/title/tt5109784)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XpICoc65uh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

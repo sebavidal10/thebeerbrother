@@ -5,16 +5,16 @@ date: '2020-09-06 00:00:00'
 author: 'sebavidal'
 lead: 'Serie-documental que investiga la muerte de la hermana Cathy Cesnik, los motivos y la red de protección y abuso que pretendía desmantelar. Un claro golpe a la iglesia y una voz que busca justicia.'
 categories:
-- series
+  - series
 tags:
-- documental
-- netflix
-- suspenso
+  - documental
+  - netflix
+  - suspenso
 ---
 
 **Primer episodio**: 19 de mayo de 2017  
 **Director**: Ryan White  
-**Imdb** : [8.1](https://www.imdb.com/title/tt6792200/)  
+**Imdb** : [8.1](https://www.imdb.com/title/tt6792200/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Khr7dbuBjuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,7 +25,7 @@ No se como se me paso esta serie, **The Keepers** es el claro ejemplo de que la 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-La historia se construye en base a la investigación de las señoras y a la información que reunió en base a entrevistas a personas que vivieron en esos años (60s y 70s), policías de la época, habitantes, quienes la encontraron, y por sobre todo el testimonio de ***Jane Doe***, que se convierte en pieza crucial y en parte del macabro mensaje del documental.
+La historia se construye en base a la investigación de las señoras y a la información que reunió en base a entrevistas a personas que vivieron en esos años (60s y 70s), policías de la época, habitantes, quienes la encontraron, y por sobre todo el testimonio de **_Jane Doe_**, que se convierte en pieza crucial y en parte del macabro mensaje del documental.
 
 ## Corrupción y Encubrimiento
 

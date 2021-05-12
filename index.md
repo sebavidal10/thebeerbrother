@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "The BeerBrother"
+title: 'The BeerBrother'
 ---
 
 <img class="image-banner-home" src="/assets/images/{{ site.posts[0].date | date: "%Y" }}/{{ site.posts[0].date | date: "%m" }}/{{ site.posts[0].title | slugify }}-banner.jpg" alt="Placeholder image">
+
 <div class="gradient-back-home"></div>
 <div class="container">
   <div class="title-post">
@@ -47,7 +48,7 @@ title: "The BeerBrother"
                       </figure>
                   </div>
 
-                  <div class="card-content"> 
+                  <div class="card-content">
                       <div class="media">
                           <div class="media-left">
                               <figure class="image is-48x48">
@@ -70,11 +71,12 @@ title: "The BeerBrother"
                         {% endfor %}<br>
                       </div>
                   </div>
-                  
+
               </div>
             </a>
         {% endif %}
       {% endfor %}
+
   </div>
 
   <div class="">

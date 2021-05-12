@@ -5,16 +5,16 @@ date: '2020-08-09 11:00:00'
 author: 'sebavidal'
 lead: 'Documental de Netflix que habla acerca del aumento en el consumo de pastillas que pretenden aumentar las capacidades intelectuales y físicas de las personas, específicamente la adicción al Adderall.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- documental
-- netflix
+  - documental
+  - netflix
 ---
 
 **Año**: 2018  
 **Director**: Alison Klayman  
-**Productores**: Kate Osborn, Christopher Clements, Carolyn Hepburn, Julie Goldman   
-**Imdb** : [6,4](https://www.imdb.com/title/tt7983844/)   
+**Productores**: Kate Osborn, Christopher Clements, Carolyn Hepburn, Julie Goldman  
+**Imdb** : [6,4](https://www.imdb.com/title/tt7983844/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/X6Xebo1pngM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

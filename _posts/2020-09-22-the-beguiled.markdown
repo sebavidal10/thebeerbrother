@@ -5,14 +5,14 @@ date: '2020-09-22 03:00:00'
 author: 'sebavidal'
 lead: 'Un soldado enemigo es encontrado y acogido en una casa habitada solo por mujeres, donde cada una encontrara "algo" en el hombre... amor, curiosidad, pasión y envidia rodeada por un excelente elenco dirigido por impecable Sofía Coppola.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
+  - drama
 ---
 
 **Año**: 2017  
-**Director**: Sofia Coppola    
-**Imdb** : [6.3](https://www.imdb.com/title/tt5592248)  
+**Director**: Sofia Coppola  
+**Imdb** : [6.3](https://www.imdb.com/title/tt5592248)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/iBoLK5z_FHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

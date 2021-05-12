@@ -5,10 +5,10 @@ date: '2017-08-27 03:00:00'
 author: 'sebavidal'
 lead: 'Una excelente fotografía y un gran soundtrack hacen de esta película una de mis favoritas, donde una joven modelo se convierte en una codiciada presa en el mundo de las pasarelas, ya que su belleza es una maldición en este extraño y frío entorno lleno de envidia.'
 tags:
-- review
-- spoiler
-- recomendacion
-- peliculas
+  - review
+  - spoiler
+  - recomendacion
+  - peliculas
 ---
 
 **Año**: 2016
@@ -32,7 +32,7 @@ El film cuenta la historia de Jesse (**Elle Fanning**), una preciosa joven que i
 
 ## Hola, soy Ruby
 
-Ruby entra en la vida de Jesse como una persona de confianza que es mayor a las demás modelos y parece tener cierta autoridad en cada escena que aparece, invitando el mismo día que conoce a Jesse a una fiesta, donde solo esta ella y 2 modelos mas, Gigi (**Bella Heathcote**) y Sarah (**Abbey Lee**), las cuales someten a Jesse a un interrogatorio en relación a su sexualidad, creo que lo que buscan con esto, más allá de saber si Jesse es virgen o no es encontrar si alguien la extrañara o hay alguien esperándola en casa, ya que de esta conversación sale que Jesse vive sola en un motel en Pasadena y tiene un amigo que es quien le tomo las primeras fotos con las que abre el film. Tras el hostil dialogo Ruby invita a Jesse a unirse a la fiesta (en la cual solo están ellas 2 y las modelos) y más que una fiesta es como un show con luces estretoscopicas donde hay alguien haciendo una presentación, Jesse parece divertirse y las 3 féminas restantes solo la miran, las modelos con un poco de recelo y Ruby sonriendo, ya que esto es una especie de bienvenida y bautismo... donde hay una mujer atada en el centro de una luz roja haciendo una especie de acto *bondage*.
+Ruby entra en la vida de Jesse como una persona de confianza que es mayor a las demás modelos y parece tener cierta autoridad en cada escena que aparece, invitando el mismo día que conoce a Jesse a una fiesta, donde solo esta ella y 2 modelos mas, Gigi (**Bella Heathcote**) y Sarah (**Abbey Lee**), las cuales someten a Jesse a un interrogatorio en relación a su sexualidad, creo que lo que buscan con esto, más allá de saber si Jesse es virgen o no es encontrar si alguien la extrañara o hay alguien esperándola en casa, ya que de esta conversación sale que Jesse vive sola en un motel en Pasadena y tiene un amigo que es quien le tomo las primeras fotos con las que abre el film. Tras el hostil dialogo Ruby invita a Jesse a unirse a la fiesta (en la cual solo están ellas 2 y las modelos) y más que una fiesta es como un show con luces estretoscopicas donde hay alguien haciendo una presentación, Jesse parece divertirse y las 3 féminas restantes solo la miran, las modelos con un poco de recelo y Ruby sonriendo, ya que esto es una especie de bienvenida y bautismo... donde hay una mujer atada en el centro de una luz roja haciendo una especie de acto _bondage_.
 
 ![The-Neon-Demon-03](/assets/images/2018/06/The-Neon-Demon-03.jpg)
 

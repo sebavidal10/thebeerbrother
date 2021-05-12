@@ -5,14 +5,14 @@ date: '2020-07-15 00:00:00'
 author: 'sebavidal'
 lead: 'Documental de Netflix que nos cuenta como se creo el imperio de Bikram Choudhury basado en 26 posiciones a 40 grados y cuantas victimas cobro en su camino.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- documental
+  - netflix
+  - documental
 ---
 
 **Año** : 2019  
-**Director** : Eva Orner   
+**Director** : Eva Orner  
 **Plataforma** : Netflix  
 **Imdb** : [6,7](https://www.imdb.com/title/tt10883004/)
 
@@ -23,22 +23,23 @@ tags:
 
 ### Bikram Yoga
 
-El  Bikram Yoga es una disciplina que consta de 26 posturas, fundada por Bikram Choudhury un indio-americano que creó un imperio entorno a su disciplina practicada a <b>40 grados celsius</b>, con la que sanó de dolores y malestares a famosos del mundo entero, como Elvis o Nixon (eso dice él).
+El Bikram Yoga es una disciplina que consta de 26 posturas, fundada por Bikram Choudhury un indio-americano que creó un imperio entorno a su disciplina practicada a <b>40 grados celsius</b>, con la que sanó de dolores y malestares a famosos del mundo entero, como Elvis o Nixon (eso dice él).
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-El mundo entero se llenó de sedes para practicar Bikram y su inventor lleno de autos clásicos y lujosos su cochera, ya que cobran muchísimo por permitir a uno de sus alumnos destacados usar el nombre, abrir un local y enseñar el set de 26 posturas. 
+El mundo entero se llenó de sedes para practicar Bikram y su inventor lleno de autos clásicos y lujosos su cochera, ya que cobran muchísimo por permitir a uno de sus alumnos destacados usar el nombre, abrir un local y enseñar el set de 26 posturas.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 El 2019 Netflix lanzó un documental donde cuenta como Bikram logró su imperio y como expandió su mágica disciplina por el mundo, haciendo que sus alumnos lo veneran como un maestro casi divino enalteciendolo más allá de lo esperado. El documental nos cuenta cómo eran los salones y cómo el yogui pasó de ser un personaje curioso invitado a estelares para mostrar su disciplina a ser el creador de la Federación de Yoga de Estados Unidos junto a su esposa Rajashree y luego en los 90 vender patentes para abrir lugares donde se enseñara su disciplina por miles de dólares.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
 <figcaption>Muy buen afiche</figcaption>
 
 ### Depredador
 
-No solo hay trtiunfos en la vida de Bikram, actualmente tiene órdenes de arresto en varios estados, pero a pesar de esto sigue siendo un éxito dando capacitaciones alrededor del mundo. Por que las órdenes de arresto? por agresión sexual. 
+No solo hay trtiunfos en la vida de Bikram, actualmente tiene órdenes de arresto en varios estados, pero a pesar de esto sigue siendo un éxito dando capacitaciones alrededor del mundo. Por que las órdenes de arresto? por agresión sexual.
 
 El documental cuenta varios testimonios de alumnas muy cercanas a él, que aseguran que Bikram abuso de ellas y que lo ocultaron para no perder todo por lo que se habían esforzado. Al igual que muchos depredadores sexuales Bikram usó su posición de poder para abusar de gente que lo seguía y que podía someter a su supuesto poder.
 

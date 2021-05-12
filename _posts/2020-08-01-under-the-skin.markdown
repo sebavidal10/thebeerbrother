@@ -5,17 +5,17 @@ date: '2020-08-01 03:13:00'
 author: 'sebavidal'
 lead: 'La película cuenta la historia de una alienigena atractiva que va por las calles de Escocia manejando una camioneta mientras recolecta hombres, a los cuales seduce gracias a sus visibles atributos y a un estructurado dialogo de preguntas y respuesta para saber si son aptos.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- sci-fi
-- terror
+  - sci-fi
+  - terror
 ---
 
 **Año**: 2014
 **Director**: Jonathan Glazer  
 **Música compuesta por**: Micachu  
 **Guion**: Jonathan Glazer, Walter Campbell  
-**Imdb** : [6.3](https://www.imdb.com/title/tt1441395)  
+**Imdb** : [6.3](https://www.imdb.com/title/tt1441395)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/NoSWbyvdhHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

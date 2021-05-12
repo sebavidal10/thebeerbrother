@@ -5,11 +5,11 @@ date: '2017-08-27 04:00:00'
 author: 'sebavidal'
 lead: 'Análisis e interpretación de una excelente película que camina por la delgada linea de la psicopatía y lo sobrenatural donde una madre, inconscientemente, culpa a su hijo por la muerte del padre y un extraño ser los atormenta en una casa atemporal con extraños horarios de sueño.'
 tags:
-- review
-- spoiler
-- netflix
-- recomendacion
-- peliculas
+  - review
+  - spoiler
+  - netflix
+  - recomendacion
+  - peliculas
 ---
 
 **Año**: 2014
@@ -28,7 +28,7 @@ La historia agarra vuelo de inmediato con un hecho que altera la paleta de color
 
 Hasta aquí, esta claro que la mujer tiene problemas de trastorno del sueño, cosa que con el tiempo corrompe la mente si no es tratado, él cual se a visto aumentado por los berrinches del niño por miedo al Babadook impidiendo el descanso de Amelia, por lo que decide romper el libro y explicarle al niño que el Babadook no existe y que era solo un cuento, todo esto mientras lo corta y lo lanza a la basura.
 
-Al día siguiente lo extraño comienza a suceder, ya que el libro aparece en el pórtico de su casa pegado con cinta y además con nuevas paginas en su interior, en ellas se mostraba una figura femenina que se asemeja mucho a ella matando a un perrito (el perrito mascota de la casa), luego la misma mujer ataca a un niño de aspecto muy similar a Samuel y en el fin del libro suicidándose, lo que la asusta mucho, ya que es una extraña premonición pictográfica sumado a una extraña llamada telefónica que recibe que le dice Baba dook dook dook. Todo esto lo toma como un acoso, una mala broma, o algo así, por lo que decide ir a la policía a denunciarlo, ahí ocurre algo extraño... en las oficinas de la policía, en la parte de atrás donde esta colgada una ropa de abrigo de los funcionarios ve la forma del Babadook como observándola y decide salir del lugar frente a la extraña mirada de los policías que acababan de verla llegar angustiada y retirarse de manera abrupta y sin justificación aparente, no pude evitar en ese instante recordar las veces en que Tyler Durden aparecía en *Fight Club*, y asumí que la imaginación de la mujer le estaba jugando una mala y tortuosa pasada.
+Al día siguiente lo extraño comienza a suceder, ya que el libro aparece en el pórtico de su casa pegado con cinta y además con nuevas paginas en su interior, en ellas se mostraba una figura femenina que se asemeja mucho a ella matando a un perrito (el perrito mascota de la casa), luego la misma mujer ataca a un niño de aspecto muy similar a Samuel y en el fin del libro suicidándose, lo que la asusta mucho, ya que es una extraña premonición pictográfica sumado a una extraña llamada telefónica que recibe que le dice Baba dook dook dook. Todo esto lo toma como un acoso, una mala broma, o algo así, por lo que decide ir a la policía a denunciarlo, ahí ocurre algo extraño... en las oficinas de la policía, en la parte de atrás donde esta colgada una ropa de abrigo de los funcionarios ve la forma del Babadook como observándola y decide salir del lugar frente a la extraña mirada de los policías que acababan de verla llegar angustiada y retirarse de manera abrupta y sin justificación aparente, no pude evitar en ese instante recordar las veces en que Tyler Durden aparecía en _Fight Club_, y asumí que la imaginación de la mujer le estaba jugando una mala y tortuosa pasada.
 
 ![The-Babadook-02](/assets/images/2018/06/The-Babadook-02.jpg)
 

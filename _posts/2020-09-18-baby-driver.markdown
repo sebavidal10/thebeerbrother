@@ -5,16 +5,16 @@ date: '2020-09-18 03:00:00'
 author: 'sebavidal'
 lead: 'Baby, un experto conductor, es contactado para un ultimo trabajo donde desafortunadamente todo sale mal. Una excelente banda sonora y un trabajo de relojero a la hora del montaje crean una de mis películas favoritas de este año :D'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- netflix
+  - accion
+  - netflix
 ---
 
 **Año**: 2017  
 **Director**: Edgar Wright  
-**Música compuesta por**: Steven Price    
-**Imdb** : [7.6](https://www.imdb.com/title/tt3890160)  
+**Música compuesta por**: Steven Price  
+**Imdb** : [7.6](https://www.imdb.com/title/tt3890160)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/D9YZw_X5UzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -42,7 +42,7 @@ Wright es un experto en crear equipos "particulares", con características caric
 
 ## El ultimo acto
 
-La película cierra de una manera extraña, pero no desilusionante, sigue la tónica de las películas de Wright y claramente no debería haber una continuación, la historia cierra y cuenta con una dosis justa de *rockabilly* y amor! Como olvidar la enamorada que trabaja en el café que parece sacado de Volver al Futuro I o de una film en blanco y negro al que la película tributa de cierto modo.
+La película cierra de una manera extraña, pero no desilusionante, sigue la tónica de las películas de Wright y claramente no debería haber una continuación, la historia cierra y cuenta con una dosis justa de _rockabilly_ y amor! Como olvidar la enamorada que trabaja en el café que parece sacado de Volver al Futuro I o de una film en blanco y negro al que la película tributa de cierto modo.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 

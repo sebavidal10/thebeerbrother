@@ -5,22 +5,22 @@ date: '2020-08-27 03:00:00'
 author: 'sebavidal'
 lead: 'Historia del triángulo amoroso que mezclo a un sicólogo, su esposa y una alumna y que permitió, a pesar de las brechas morales, la creación de Wonder Woman.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
+  - drama
 ---
 
 **Año**: 2017  
 **Director**: Angela Robinson  
 **Recaudación**: 1,9 millones USD  
-**Imdb** : [7.1](https://www.imdb.com/title/tt6133130)  
+**Imdb** : [7.1](https://www.imdb.com/title/tt6133130)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/r991pr4Fohk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-**William Moulton Marston** (Luke Evans) es un profesor experto en psicología que trabaja junto a su esposa **Elizabeth** (Rebecca Hall) en la universidad enseñando acerca del comportamiento humano y luchando constantemente por esparcir el conocimiento y equiparar los derechos de hombres y mujeres en un mundo que se empecinaba por querer verlas como inferiores.  
+**William Moulton Marston** (Luke Evans) es un profesor experto en psicología que trabaja junto a su esposa **Elizabeth** (Rebecca Hall) en la universidad enseñando acerca del comportamiento humano y luchando constantemente por esparcir el conocimiento y equiparar los derechos de hombres y mujeres en un mundo que se empecinaba por querer verlas como inferiores.
 
 Además de ser profesor, fue **espía** en épocas de guerra, **inventor** autor de la maquina detectora de mentiras y creador del personaje de comics **La Mujer Maravilla**.
 

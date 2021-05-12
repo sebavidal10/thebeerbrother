@@ -5,17 +5,17 @@ date: '2020-08-15 21:52:24'
 author: 'sebavidal'
 lead: 'Jennifer busca descubrir la realidad de lo ocurrido en su infancia, ya que al parecer sus recuerdos están nublados y parecen haber omitido muchas cosas.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- hbo
-- suspenso
+  - drama
+  - hbo
+  - suspenso
 ---
 
 **Fecha de estreno inicial** : 20 de enero de 2018  
-**Director** : Jennifer Fox    
+**Director** : Jennifer Fox  
 **Guion** : Jennifer Fox  
-**Imdb** : [7.2](https://www.imdb.com/title/tt4015500/)  
+**Imdb** : [7.2](https://www.imdb.com/title/tt4015500/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Af6VbPT5O4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -5,17 +5,17 @@ date: '2020-07-22 14:59:21'
 author: 'sebavidal'
 lead: 'Dan Torrance es un adulto alcoholico que intenta huir de sus poderes, pero que se vera obligado usarlos para ayudar a una pequeña niña que esta siendo asechada por un particular grupo liderado por la Mujer de Sombrero. Muy buena adaptación a la pantalla de la secuela de The Shinning.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- suspenso
-- terror
+  - suspenso
+  - terror
 ---
 
 **Director** : Mike Flanagan  
 **Año** : 2019  
-**Imbd** : [7.4](https://www.imdb.com/title/tt5606664)  
+**Imbd** : [7.4](https://www.imdb.com/title/tt5606664)
 
- **Doctor Sleep** es la continuación del libro de Stephen King (no de la película de 1980 dirigida por Stanley Kubrick) The Shining, donde se nos cuenta la historia de una familia que se muda al hotel Overlook durante la temporada de invierno para cuidarlo y hacer labores de mantención. Ahí es donde, por primera vez, vemos el _resplandor_, una habilidad con la que el pequeño Danny Torrance nació y que, al no entender, atribuye a un amigo imaginario que habla por él.
+**Doctor Sleep** es la continuación del libro de Stephen King (no de la película de 1980 dirigida por Stanley Kubrick) The Shining, donde se nos cuenta la historia de una familia que se muda al hotel Overlook durante la temporada de invierno para cuidarlo y hacer labores de mantención. Ahí es donde, por primera vez, vemos el _resplandor_, una habilidad con la que el pequeño Danny Torrance nació y que, al no entender, atribuye a un amigo imaginario que habla por él.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
@@ -40,4 +40,4 @@ A pesar de lo anterior me gustó mucho la película. Lo que más destaco del fil
 
 ### Corte del Director?
 
-Si, el corte del director esta disponible, la película por si sola ya era buena (a pesar que la crítica no la trato tan bien) y con el *directors cut* mejora aun más. Completamente recomendada!
+Si, el corte del director esta disponible, la película por si sola ya era buena (a pesar que la crítica no la trato tan bien) y con el _directors cut_ mejora aun más. Completamente recomendada!

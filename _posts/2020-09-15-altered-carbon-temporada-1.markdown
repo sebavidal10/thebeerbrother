@@ -5,27 +5,27 @@ date: '2020-09-15 00:00:00'
 author: 'sebavidal'
 lead: 'Estamos en un futuro donde los humanos (y extraterrestres) ya no mueren, la tecnología permite almacenar en una pila la mente de las personas y traspasarla a una nueva funda (cuerpo) cuando la anterior deja de funcionar.'
 categories:
-- series
+  - series
 tags:
-- accion
-- netflix
-- sci-fi
+  - accion
+  - netflix
+  - sci-fi
 ---
 
 **Año**: 2018  
-**Plataforma**: Netflix    
-**Imdb** : [8.0](https://www.imdb.com/title/tt2261227)  
+**Plataforma**: Netflix  
+**Imdb** : [8.0](https://www.imdb.com/title/tt2261227)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uqWZdw7NNdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-Estamos en un futuro donde los humanos (y extraterrestres) ya no mueren, la tecnología permite almacenar en una ***pila*** la mente de la persona y traspasarla a una nueva funda (cuerpo) cuando la anterior deja de funcionar o si tienes los recursos cuando se te dé la gana, ya que en el futuro distópico de **Altered Carbon** la edad te da estatus y las personas más longevas juegan a ser dioses en un mundo eterno y sin limites, donde casi no existe el debate ético de si debemos morir o no y donde la identidad cabe en un usb.
+Estamos en un futuro donde los humanos (y extraterrestres) ya no mueren, la tecnología permite almacenar en una **_pila_** la mente de la persona y traspasarla a una nueva funda (cuerpo) cuando la anterior deja de funcionar o si tienes los recursos cuando se te dé la gana, ya que en el futuro distópico de **Altered Carbon** la edad te da estatus y las personas más longevas juegan a ser dioses en un mundo eterno y sin limites, donde casi no existe el debate ético de si debemos morir o no y donde la identidad cabe en un usb.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-En medio de este mundo y luego de 250 años *congelado* vuelve a la vida **Takeshi Kovacs** (Joel Kinnaman), el que es contratado por el todopoderoso **mat** (así le llaman a los &quot;inmortales&quot;) **Isaac Bancroft** (James Purefoy) para descifrar el misterio de su muerte y señalar a un culpable por ello, si lo logra será libre y millonario, sino, será eliminado por completo. En el camino Takeshi conoce a la oficial de policía **Kristin Ortega** (Martha Higareda), actriz muy parecida a Noomi Rapace, pero con un aire latino, y a la inteligencia artificial dueña de un hotel, **Poe** (Chris Conner) quien anhela ser &quot;real&quot;, ambos pasan a ser parte del equipo que intentará desenmarañar la compleja trama que rodea al magnate con aires de Dios, donde habitan criaturas dignas de desconfianza como la ardiente esposa de Bancroft, **Miriam** (Kristin Lehman), que propone una extraño y casi irresistible trato a Takeshi, su fría y calculadora abogada **Oumou Prescott** (Tamara Taylor) que sueña con ser un mat, el hijo de Bancroft que busca la aprobación de su padre y un séquito de maleantes, asesinos a sueldo y prostitutas digitales dignos de un crossover entre **Blade Runner** y **Sin City.**
+En medio de este mundo y luego de 250 años _congelado_ vuelve a la vida **Takeshi Kovacs** (Joel Kinnaman), el que es contratado por el todopoderoso **mat** (así le llaman a los &quot;inmortales&quot;) **Isaac Bancroft** (James Purefoy) para descifrar el misterio de su muerte y señalar a un culpable por ello, si lo logra será libre y millonario, sino, será eliminado por completo. En el camino Takeshi conoce a la oficial de policía **Kristin Ortega** (Martha Higareda), actriz muy parecida a Noomi Rapace, pero con un aire latino, y a la inteligencia artificial dueña de un hotel, **Poe** (Chris Conner) quien anhela ser &quot;real&quot;, ambos pasan a ser parte del equipo que intentará desenmarañar la compleja trama que rodea al magnate con aires de Dios, donde habitan criaturas dignas de desconfianza como la ardiente esposa de Bancroft, **Miriam** (Kristin Lehman), que propone una extraño y casi irresistible trato a Takeshi, su fría y calculadora abogada **Oumou Prescott** (Tamara Taylor) que sueña con ser un mat, el hijo de Bancroft que busca la aprobación de su padre y un séquito de maleantes, asesinos a sueldo y prostitutas digitales dignos de un crossover entre **Blade Runner** y **Sin City.**
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 

@@ -5,18 +5,18 @@ date: '2020-09-14 00:00:00'
 author: 'sebavidal'
 lead: 'Documental de una de las escenas más importantes del cine, el asesinato en la ducha de Psyco. Cómo se hizo y el exhaustivo trabajo de cámaras y tomas para llevar a la pantalla la imaginación del maestro del terror Alfred Hitchcock.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- documental
-- netflix
+  - documental
+  - netflix
 ---
 
 **Año**: 2017  
 **Director**: Alexandre O. Philippe  
 **Música compuesta por**: Jon Hegel  
 **Guion**: Alexandre O. Philippe  
-**Productores**: Robert Muratore, Kerry Deignan Roy    
-**Imdb** : [7.3](https://www.imdb.com/title/tt4372240)  
+**Productores**: Robert Muratore, Kerry Deignan Roy  
+**Imdb** : [7.3](https://www.imdb.com/title/tt4372240)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/rNHwKKdirxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

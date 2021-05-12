@@ -5,17 +5,17 @@ date: '2020-07-05 22:18:33'
 author: 'sebavidal'
 lead: 'Los gritos de un pequeño perdido capturan la atención de Becky, quien entra junto a su hermano en un espesa hierba para tratar de encontrarlo y de no perderse en el intento'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- terror
+  - netflix
+  - terror
 ---
 
 **Año** : 2019  
 **Director** : Vincenzo Natali  
 **Guión** : Vincenzo Natali, Stephen King (esta basado en su libro)  
 **Plataforma** : Netflix
-**Imdb** : [5,4](https://www.imdb.com/title/tt4687108/)  
+**Imdb** : [5,4](https://www.imdb.com/title/tt4687108/)
 
 Deben haber muchas películas basadas en libros de Stephen King en Netflix, pero en **In the Tall Grass** se puede ver un toque de calidad similar a [1922 (2017)](/1922/), la cual estaba bastante bien para ser _una película original de Netflix_ y si eso le sumamos que es dirigida por Vicenzo Natali, un director conocido por películas como **Cube** y **Splice** ( a muchos no les gustan, pero a mi si) y por participar como director de algunos episodios de grandes series como **Hannibal** , **Westworld** o **Wayward Pines** me decidí a verla y no me arrepentí.
 

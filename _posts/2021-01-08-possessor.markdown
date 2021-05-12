@@ -5,10 +5,10 @@ date: '2021-01-08 00:00:00'
 author: 'sebavidal'
 lead: 'Brandon (hijo de David Cronenberg) nos cuenta la historia de una asesina a sueldo imposible de rastrear que posee el cuerpo de alguien con posibles motivos para acabar con la víctima, escondiendo de forma perfecta al real cliente de una extraña y fría compañía que juega con la mente de las personas. Possessor es por mucho de lo mejor del 2020.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- sci-fi
-- terror
+  - sci-fi
+  - terror
 ---
 
 **Año** : 2019  
@@ -28,11 +28,12 @@ En Possessor se nos cuenta la historia de la mejor asesina poseedora de cuerpos,
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-Tas, quien oculta al mundo su particular empleo, con cada “posesión” daña un poco sus recuerdos y altera la que parece su realidad ya que sufre una extraña mezcla de recuerdos, lo que la lleva a planificar su propia vida ay que se mezclan las cosas que vio desde otros cuerpos. 
+Tas, quien oculta al mundo su particular empleo, con cada “posesión” daña un poco sus recuerdos y altera la que parece su realidad ya que sufre una extraña mezcla de recuerdos, lo que la lleva a planificar su propia vida ay que se mezclan las cosas que vio desde otros cuerpos.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 ### Todo esta mal
+
 El problema aparece (éticamente todo es un gran problema) para la asesina a sueldo Vos cuando se daña la conexión y pierde el control del host a momentos, lo que se proyecta de manera muy onírica en pantalla y nos permite comprender a cabalidad lo que ocurre sin incluir ni una palabra. Es en estas escenas donde vemos lo bueno de la película y la herencia del padre del director, mascaras y secuencias que son geniales!.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.png)
@@ -43,5 +44,3 @@ Una excelente película, de las mejores del 2020 y un final muy bueno.
 **Extra**: la música y la iluminación son geniales.
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
-
-

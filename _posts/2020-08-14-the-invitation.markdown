@@ -5,10 +5,10 @@ date: '2020-08-14 20:23:44'
 author: 'sebavidal'
 lead: 'Will y Eden perdieron a su hijo y lleván separados varios años, por lo que una invitación a cenar causa curiosidad y desconfianza en Will. Una extraña reunión con un giro excelente.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- suspenso
-- terror
+  - suspenso
+  - terror
 ---
 
 **Año**: 2015  
@@ -16,7 +16,7 @@ tags:
 **Presupuesto**: 1 millón USD  
 **Recaudación**: 354.835 USD  
 **Música compuesta por**: Theodore Shapiro  
-**Imdb** : [6.6](https://www.imdb.com/title/tt2400463/)  
+**Imdb** : [6.6](https://www.imdb.com/title/tt2400463/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/31EcFreb3WU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,13 +30,15 @@ El actor Logan Marshall-Green interpreta a **Will**, un tipo de look desaliñado
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
 ## La reunión
-Desde un comienzo la reunión se siente extraña y tensa. En ella vemos lo vario pinto de los invitados conformados en su totalidad por amigos de los que se distanciaran cuando falleció el pequeño. Similitudes? todos en pareja, por lo que pensé que iba en un sentido mas sexual y era una *invitación* de ese tipo, pero luego el rumbo cambia cuando Eden nos presenta a la nueva gente en su vida, un hombre mayor, su nueva pareja y una delgada mujer de actitud promiscua y alcohólica.
+
+Desde un comienzo la reunión se siente extraña y tensa. En ella vemos lo vario pinto de los invitados conformados en su totalidad por amigos de los que se distanciaran cuando falleció el pequeño. Similitudes? todos en pareja, por lo que pensé que iba en un sentido mas sexual y era una _invitación_ de ese tipo, pero luego el rumbo cambia cuando Eden nos presenta a la nueva gente en su vida, un hombre mayor, su nueva pareja y una delgada mujer de actitud promiscua y alcohólica.
 
 Will nota que algo extraño ocurre, y que la casa donde vivió con Eden ya no es la misma de siempre, sus intrigas al comienzo parecen solo nerviosismo o ataques de ansiedad al revivir su vida pasada junto a su hijo, pero a medida que avanza el film veremos que sus sospechas no están tan erradas...
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 ## y... ¿Qué tal?
+
 Sin lugar a dudas es una cinta **magnética** con muy buenas tomas, una paleta de colores ideal para un thriller sicológico con un giro increíble y un final difícil de predecir que nos hará evaluar mejor si alguien, que no vemos hace mucho, nos realiza una invitación de este tipo. Se merece cada uno de los premios que gano.
 
 <hr/>

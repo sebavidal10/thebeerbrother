@@ -5,9 +5,9 @@ date: '2020-08-13 15:00:00'
 author: 'sebavidal'
 lead: 'The Ritual cuenta la historia de un grupo de amigos, Phil, Dom, Hutch y Luke, que deciden realizar senderismo en el territorio limítrofe entre Noruega y Suecia, lo que no saben es que no estarán solos en su viaje.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- terror
+  - terror
 ---
 
 **Año**: 2017  
@@ -15,7 +15,7 @@ tags:
 **Adaptaciones** de: El ritual  
 **Historia de**: Adam L. G. Nevill  
 **Recaudación**: 1 millón USD  
-**Imdb** : [6.3](https://www.imdb.com/title/tt5638642/)  
+**Imdb** : [6.3](https://www.imdb.com/title/tt5638642/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1Wu9tkloFnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,7 +32,6 @@ El film de origen Inglés a recibido críticas cruzadas, ya que el capítulo fin
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 **The Ritual** es una gran película de horror, altamente recomendada si te gusta la tensión, el terror y los paisajes del norte del mundo, muchos bosques, mucha niebla y grandes actuaciones. Un film con muchos mensajes de amistad, de cómo las emociones afloran y las personas muestran como son realmente cuando estan al limite y de cómo el dolor y el miedo juegan con nuestra mente en los peores momentos.<br />
-Un gusto y un agrado ver este tipo de películas en un mundo invadido por ***screamers*** o ***jump scare*** de la mano de James Wan, creo que buscare el libro en que está basada la película :)
+Un gusto y un agrado ver este tipo de películas en un mundo invadido por **_screamers_** o **_jump scare_** de la mano de James Wan, creo que buscare el libro en que está basada la película :)
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
-

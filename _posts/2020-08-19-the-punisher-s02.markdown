@@ -5,16 +5,16 @@ date: '2020-08-19 21:00:00'
 author: 'sebavidal'
 lead: 'Frank Castle debe volver a usar Calavera cuando una chica que le recuerda a su hija esta en problemas, y más aun, cuando sabe que Russo volvió a las calles.'
 categories:
-- series
+  - series
 tags:
-- accion
-- marvel
-- netflix
+  - accion
+  - marvel
+  - netflix
 ---
 
 **Año** : 2019  
 **Creador** : Steve Lightfoot  
-**Imdb** : [8.5](https://www.imdb.com/title/tt5675620/)  
+**Imdb** : [8.5](https://www.imdb.com/title/tt5675620/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/MKw33EBiQQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

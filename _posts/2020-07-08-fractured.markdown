@@ -5,10 +5,10 @@ date: '2020-07-08 18:59:53'
 author: 'sebavidal'
 lead: 'Luego de un accidente Ray se duerme en una banca del hospital. Al despertar su esposa e hija parecen haber desaparecido y nadie tiene registro de ellas por ningún lado, dando inicio a una desesperada búsqueda mientras enfrenta a viejos demonios de su pasado.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- suspenso
+  - netflix
+  - suspenso
 ---
 
 **Años** : 2019  
@@ -36,6 +36,7 @@ De aquí en adelante todo se complica, no solo están desaparecidas, sino que no
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
 #### Hay un aire a Shyamalan
+
 Lo que más me gusto fue **la ambientación**, siento que esas escenas vertiginosas y las tomas que no son de encuadre tradicional funcionan muy bien y dan el contexto correcto a esos instantes en que el protagonista esta desesperado y dispuesto a hacer lo que sea por encontrar a su familia.
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)

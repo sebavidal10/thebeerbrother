@@ -5,16 +5,16 @@ date: '2020-09-02 03:00:00'
 author: 'sebavidal'
 lead: 'Una banda punk termina en medio de un campus de skin head, donde un pequeño error convertirá una tarde de música en su peor pesadilla. Tremendas actuaciones de Anton Yelchin y Patrick Stewart :)'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- suspenso
+  - accion
+  - suspenso
 ---
 
 **Año**: 2016  
 **Director**: Jeremy Saulnier  
 **Guion**: Jeremy Saulnier  
-**Imdb** : [7.0](https://www.imdb.com/title/tt4062536/)  
+**Imdb** : [7.0](https://www.imdb.com/title/tt4062536/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/VpJeAw2PvRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -33,7 +33,7 @@ Así es como llegan a un alejado bar de rapados neonazi de todas las edades, don
 
 El elenco es muy bueno, me agrado mucho ver a Patrick Stewart en un papel no tan luminoso como siempre, donde su interpretación supera a su fama, su tono de voz calmado y controlador traspasa muy bien lo manipulador de su personalidad y lo posiciona sin duda alguna como el líder de esta especie de tribu de skinheads. El otro personaje que destaca y pasa formar parte central del film es Amber (Imogen Poots), que es una mezcla entre Ramona Flowers y Fairuza Balk de American History X (1998), y que luego de ver morir a su amiga en la sala de espera hará de todo por salir con vida del lugar.
 
-A partir de aquí la película es una avalancha estrepitosa  hacia un desenlace que se torna a momentos muy oscuro y poco esperanzador para los protagonistas, que aun no cubren siquiera la mitad de los 95 minutos que dura el film.
+A partir de aquí la película es una avalancha estrepitosa hacia un desenlace que se torna a momentos muy oscuro y poco esperanzador para los protagonistas, que aun no cubren siquiera la mitad de los 95 minutos que dura el film.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 

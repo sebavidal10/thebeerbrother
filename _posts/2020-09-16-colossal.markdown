@@ -5,17 +5,17 @@ date: '2020-09-28 04:01:00'
 author: 'sebavidal'
 lead: 'Anne Hathaway vuelve a su pueblo natal y descubre que en el otro lado del mundo un monstruo gigante esta arrasando con Korea mientras ella duerme'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- sci-fi
+  - drama
+  - sci-fi
 ---
 
 **Año**: 2017  
 **Director**: Nacho Vigalondo  
 **Recaudación**: 4,7 millones USD  
 **Presupuesto**: 15 millones USD  
-**Imdb** : [6.2](https://www.imdb.com/title/tt4680182)  
+**Imdb** : [6.2](https://www.imdb.com/title/tt4680182)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2F4s5bBA0k0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,13 +30,13 @@ Como dijimos Gloria tiene problemas de alcoholismo, lo cual la hace olvidar much
 
 > Oscar: So, you don't remember anything we talked about last night, huh?
 
-La situación del monstruo ( ya la película ) es extraña, surrealista, pero bien llevada, parece una situación real a pesar de lo extraño de las reacciones de los habitantes de Seul, situación que se complica más cuando Gloria descubre que el monstruo se mueve igual que ella  y que de cierta forma el kayju es el reflejo de Gloria por unas horas (de ahí su extraño comportamiento), frente a lo cual trata de dañar a la menor cantidad de personas y de controlar los movimientos que realiza, pero bueno, es alcohólica y ya se ha "sincronizado" con el monstruo estando ebria por lo que acabo con muchas personas sin siquiera saber.
+La situación del monstruo ( ya la película ) es extraña, surrealista, pero bien llevada, parece una situación real a pesar de lo extraño de las reacciones de los habitantes de Seul, situación que se complica más cuando Gloria descubre que el monstruo se mueve igual que ella y que de cierta forma el kayju es el reflejo de Gloria por unas horas (de ahí su extraño comportamiento), frente a lo cual trata de dañar a la menor cantidad de personas y de controlar los movimientos que realiza, pero bueno, es alcohólica y ya se ha "sincronizado" con el monstruo estando ebria por lo que acabo con muchas personas sin siquiera saber.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
 ## Poder / Control
 
-Como Gloria enfrenta esta dicotomía es una parte de la historia, ya que en paralelo tenemos una segunda lectura mucho mas seria que órbita en el drama de lo que significa volver a los orígenes y enfrentarse a los males que ahí crecieron (y a los que uno penso dejar atrás al salir de ahí) y a los recuerdos que pensamos perdidos y que nos siguen donde vallamos.  Aquí es donde el concepto del control aparece, que vemos en la relación entre Gloria y el Monstruo, es llevado a la vida cotidiana y a como las personas tratan de controlarse entre si mediante acciones que condicionan respuestas en los demás, un punto a tomar en cuenta es la casa donde se aloja Gloria (que pertenecía a sus padres), la cual estaba vacía (como ella al volver al pueblo), pero que poco a poco se va llenando de cosas que Oscar le regala como supuesta amabilidad, pero que de cierta forma es una manera de mantener a Gloria en el pueblo, a su alcance y con él.
+Como Gloria enfrenta esta dicotomía es una parte de la historia, ya que en paralelo tenemos una segunda lectura mucho mas seria que órbita en el drama de lo que significa volver a los orígenes y enfrentarse a los males que ahí crecieron (y a los que uno penso dejar atrás al salir de ahí) y a los recuerdos que pensamos perdidos y que nos siguen donde vallamos. Aquí es donde el concepto del control aparece, que vemos en la relación entre Gloria y el Monstruo, es llevado a la vida cotidiana y a como las personas tratan de controlarse entre si mediante acciones que condicionan respuestas en los demás, un punto a tomar en cuenta es la casa donde se aloja Gloria (que pertenecía a sus padres), la cual estaba vacía (como ella al volver al pueblo), pero que poco a poco se va llenando de cosas que Oscar le regala como supuesta amabilidad, pero que de cierta forma es una manera de mantener a Gloria en el pueblo, a su alcance y con él.
 
 Si bien la película no es de mis favoritas ni nada, me agrado, creo que es bueno verla, la historia vinculada a &ldquo;la Gloria que regresa&rdquo; esta llena de matices dramáticos vinculados a la violencia y al poder de una persona sobre otra ejercido a la fuerza y aprovechándose de la desesperación o miedo de los demás (cosa que ocurre todos los días en la vida real) y que nos dice sin tapujos que a veces la solución va mas allá de pedir disculpas y/o disculpar.
 

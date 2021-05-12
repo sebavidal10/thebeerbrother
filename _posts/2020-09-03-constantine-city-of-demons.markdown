@@ -5,15 +5,15 @@ date: '2020-09-03 21:45:00'
 author: 'sebavidal'
 lead: 'John deja Inglaterra y viaja a LA para rescatar el alma de la hija de su mejor amigo Chas. Ahí recordará eventos del pasado y se enfrentará a demonios que creía olvidados.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- animada
-- dc
+  - animada
+  - dc
 ---
 
-**Creador** : Doug Murphy    
+**Creador** : Doug Murphy  
 **Red** : The CW  
-**Imdb** : [7.5](https://www.imdb.com/title/tt9177882/)  
+**Imdb** : [7.5](https://www.imdb.com/title/tt9177882/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/TGjDryjvBes" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

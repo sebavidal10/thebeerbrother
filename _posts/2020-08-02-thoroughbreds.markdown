@@ -5,17 +5,17 @@ date: '2020-08-02 17:44:45'
 author: 'sebavidal'
 lead: 'Un par de amigas de infancia se vuelven a reunir, los años han pasado y ellas no parecen tener nada en común... o eso creen, ya que un plan en conjunto cambiara sus vidas para siempre.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- suspenso
+  - drama
+  - suspenso
 ---
 
- **Año** : 2018  
+**Año** : 2018  
 **Director** : Cory Finley  
 **Presupuesto** : 5.4 millones USD  
 **Guion** : Cory Finley  
-**Imdb** : [6.7](https://www.imdb.com/title/tt5649108)  
+**Imdb** : [6.7](https://www.imdb.com/title/tt5649108)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/TPcV_3D3V2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,7 +34,7 @@ Lily es amable, se viste bien y trata de destacar en todo, incluso busca ayudar 
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-**Thoroughbreds** o **Purasangre** es una cinta con mucho humor negro y que nos muestra cómo vive la alta sociedad, como creen controlar todo y lo desgraciadas que son sus existencias al carecer de cosas auténticas y transparentes. La película deja en claro que tanto el premio y como el castigo dependen de cada persona y que el precio a veces es algo que no importa, ya que muchas veces *el fin justifica los medios*. La psicopatía y la unión de dos mentes dañadas crean una película fresca donde destacan las actuaciones de ambas protagonistas dejando muy en claro que una historia de adolescentes que ven películas no tiene por que ser banal y simplona :)
+**Thoroughbreds** o **Purasangre** es una cinta con mucho humor negro y que nos muestra cómo vive la alta sociedad, como creen controlar todo y lo desgraciadas que son sus existencias al carecer de cosas auténticas y transparentes. La película deja en claro que tanto el premio y como el castigo dependen de cada persona y que el precio a veces es algo que no importa, ya que muchas veces _el fin justifica los medios_. La psicopatía y la unión de dos mentes dañadas crean una película fresca donde destacan las actuaciones de ambas protagonistas dejando muy en claro que una historia de adolescentes que ven películas no tiene por que ser banal y simplona :)
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 

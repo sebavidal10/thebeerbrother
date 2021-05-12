@@ -5,11 +5,11 @@ date: '2017-09-12 19:08:00'
 author: 'sebavidal'
 lead: 'Un breve análisis al trasfondo de It Follows, película que nos habla de una maldición que pasa mediante el sexo y que sólo atormenta al "maldito". Excelente vistoso al nuevo terror y un ejemplo de como hacer buen cine con pocos recursos.'
 tags:
-- review
-- spoiler
-- netflix
-- recomendacion
-- peliculas
+  - review
+  - spoiler
+  - netflix
+  - recomendacion
+  - peliculas
 ---
 
 **Año**: 2015
@@ -36,4 +36,3 @@ El hecho de que esté rodeada de amigos también es relevante, ya que si bien no
 Al final de la película vemos que la protagonista pasa la maldición a alguien más y a pesar que el ente supuestamente murió en la piscina, alguien la sigue a ella y al joven cuando caminan de la mano, no es tácito, pero queda claro que la persona que camina atrás no pertenece a la escena y es "la muerte" que va por ellos, y a pesar de esto, ninguno de los 2 tiene miedo, lo que también es parte de la vida, ya que cuando uno está solo teme a más cosas y ahora que está acompañada (van de la mano) no tiene miedo a las cosas inevitables, ya que sabe que cuenta con sus amigos y con alguien mucho más cercano que ya es parte de su vida, así que aunque el ser la persigue, ella no teme ni huye de él, es inevitable, lo único que puede cambiar es la forma en que lo enfrente y no olvidemos que en el comienzo de la película indican que es lento, pero que si o si la encontrara donde esté, tal y como ocurre con las responsabilidades, de una u otra manera llegan a nuestra vida y depende de lo preparados que estemos el cómo las enfrentamos.
 
 Una **buena película, fresca y simple**, de la que me gusto ver un poco más allá y no enfocarme en los hechos pragmáticos de la misma, altamente recomendada.
-

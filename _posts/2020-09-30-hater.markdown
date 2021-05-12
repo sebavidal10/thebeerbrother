@@ -5,17 +5,17 @@ date: '2020-09-30 00:00:00'
 author: 'sebavidal'
 lead: 'Tomek se esfuerza, lucha contra toda adversidad y gracias al apadrinamiento de una familia millonaria de la ciudad está encaminado a cambiar su aparente destino y lograr ser un abogado... todo esto se va a la basura cuando es expulsado de la escuela de derecho ya que han descubierto que copió en un informe. Ahí, en ese momento Tomek debe decidir entre asumir lo ocurrido y perder todo con lo que ha soñado o actuar y hacer cosas bastante incorrectas con el objetivo de lograr su anhelado futuro, adivinen, va por la segunda opción.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- netflix
-- suspenso
+  - drama
+  - netflix
+  - suspenso
 ---
 
-**Año** : 2020   
-**Director** : Jan Komasa   
+**Año** : 2020  
+**Director** : Jan Komasa  
 **Plataforma** : Netflix  
-**Imdb** : [7.1](https://www.imdb.com/title/tt9506474/?ref_=fn_al_tt_1) 
+**Imdb** : [7.1](https://www.imdb.com/title/tt9506474/?ref_=fn_al_tt_1)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vN3FTKfXg_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,7 +45,6 @@ Hater me gusto mucho, las actuaciones son buenas y el como evidencia de lo que e
 - Facebook miente
 - No menosprecies a nadie
 - El objetivo importa, pero la gracia es llegar a el sin dañar a los demás
-
 
 <hr/>
 <div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/81270667" target="_blank">Netflix</a></div>

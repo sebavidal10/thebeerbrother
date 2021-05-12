@@ -5,16 +5,16 @@ date: '2020-09-27 23:47:00'
 author: 'sebavidal'
 lead: 'Un grupo de jóvenes con habilidades especiales son entrenados por un multimillonario para proteger al mundo del mal. Todo cambia cuando uno de ellos, desaparecido hace años, regresa por un portal y les avisa que el mundo acabara en 8 días.'
 categories:
-- series
+  - series
 tags:
-- accion
-- netflix
-- sci-fi
+  - accion
+  - netflix
+  - sci-fi
 ---
 
 **Año** : 2019  
 **Director** : Andrew Bernstein, Peter Hoar, Ellen Kuras, Stephen Surjik, Jeremy Webb  
-**Imdb** : [8.0](https://www.imdb.com/title/tt1312171)  
+**Imdb** : [8.0](https://www.imdb.com/title/tt1312171)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/KHucKOK-Vik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

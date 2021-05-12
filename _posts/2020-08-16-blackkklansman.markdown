@@ -5,17 +5,17 @@ date: '2020-08-16 03:34:25'
 author: 'sebavidal'
 lead: 'El policía negro Ron Stallworth, decide infiltrarse en el KKK y averiguar qué hay detrás y cómo evitar que el odio se apodere del pueblo y evitar una guerra racial.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- accion
-- suspenso
+  - accion
+  - suspenso
 ---
 
- **Año** : 2018  
+**Año** : 2018  
 **Director** : Spike Lee  
 **Basado en** : Black Klansman de Ron Stallworth  
 **Música compuesta por** : Terence Blanchard  
-**Imdb** : [7.5](https://www.imdb.com/title/tt7349662/)  
+**Imdb** : [7.5](https://www.imdb.com/title/tt7349662/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pFc6I0rgmgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

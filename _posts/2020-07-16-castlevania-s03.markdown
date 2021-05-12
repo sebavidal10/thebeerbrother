@@ -5,14 +5,14 @@ date: '2020-07-16 00:00:00'
 author: 'sebavidal'
 lead: 'Seguimos las aventuras de Belmont y Sypha, quienes llegan a un particular pueblo y se quedan para ayudar... en paralelo, Alucard hace nuevos amigos y se decide a enseñarles y compartir la sabiduría de su padre con ellos.'
 categories:
-- series
+  - series
 tags:
-- netflix
-- animada
+  - netflix
+  - animada
 ---
 
 **Año** : 2019  
-**Director** : Warren Ellis   
+**Director** : Warren Ellis  
 **Plataforma** : Netflix  
 **Temporada** : 3  
 **Episodios** : 10  
@@ -32,16 +32,18 @@ En paralelo, esta temporada sigue la historia de los dos humanos cercanos a Drá
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 ### Hector
+
 La historia de Héctor se centra en cómo las vampiras lo intentan manipular como a una herramienta y, de paso, nos enseñan cómo es su sistema de vida y jerarquía (muy similar al visto en las películas de Underworld).
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
 ### Isaac
+
 Portando la daga que le permite traer demonios a los cuerpos humanos avanza por el mundo creado un ejército, en su camino conoce gente que trata de hacer cambiar su visión de la humanidad, pero que termina por reafirmar más cuando los humanos le muestran su peor cara frente a cualquier hecho.
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
 
-Si volvemos a nuestros protagonistas, Belmont y Sypha, ellos quedan en una aldea donde muchas cosas raras pasan, por un lado hay un demonio que entró a la iglesia y no salió nunca. Un extraño juez que hace de comisario y alcalde de la ciudad y un particular personaje con extraños sueños que solo quiere conocimiento. 
+Si volvemos a nuestros protagonistas, Belmont y Sypha, ellos quedan en una aldea donde muchas cosas raras pasan, por un lado hay un demonio que entró a la iglesia y no salió nunca. Un extraño juez que hace de comisario y alcalde de la ciudad y un particular personaje con extraños sueños que solo quiere conocimiento.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
@@ -50,7 +52,7 @@ Gracias a la historia de la aldea y lo que ocurre ahí tenemos acceso a ver much
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
 Esta tercera temporada comienza un poco lento, pero engancha y termina muy bien. Un cierre opuesto a la temporada anterior donde cada personaje vuelve a lo más oscuro de sus orígenes.
-Temporada con escenas para adultos, pero que da seriedad y peso a cada episodio. Al igual que con cada temporada quedó con la sensación de que hubiese sido increíble una serie *live action*.
+Temporada con escenas para adultos, pero que da seriedad y peso a cada episodio. Al igual que con cada temporada quedó con la sensación de que hubiese sido increíble una serie _live action_.
 
 <hr/>
 <div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80095340" target="_blank">Netflix</a></div>

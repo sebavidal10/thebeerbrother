@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Mythic Quest: Raven''s Banquet'
+title: "Mythic Quest: Raven's Banquet"
 date: '2020-07-10 19:00:00'
 author: 'sebavidal'
 lead: 'El equipo detrás de Mythic Quest lucha día a día por crear el mejor juego del mundo. En este proceso sus personalidades y motivaciones chocan envueltas en ironías y sentido del humor. Muchos recursos en función de los sueños de sus creadores y un niño streamer que define qué es bueno y qué no por youtube.'
 categories:
-- series
+  - series
 tags:
-- apple
-- comedia
+  - apple
+  - comedia
 ---
 
 **Año** : 2020  

@@ -5,11 +5,11 @@ date: '2020-08-18 03:00:00'
 author: 'sebavidal'
 lead: 'Serie de Netflix que cuenta lo que ocurrió con Punisher después de los hechos vistos en Daredevil S02 y ahonda un poco en su pasado militar y en lo que están haciendo él y su pelotón actualmente.'
 categories:
-- series
+  - series
 tags:
-- accion
-- marvel
-- netflix
+  - accion
+  - marvel
+  - netflix
 ---
 
 **Año**: 2017  
@@ -17,7 +17,7 @@ tags:
 **Lugar de producción**: Nueva York  
 **Red**: Netflix  
 **Compositor**: Tyler Bates  
-**Imdb** : [8.5](https://www.imdb.com/title/tt5675620/)  
+**Imdb** : [8.5](https://www.imdb.com/title/tt5675620/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ybQyk9HKamk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ Por fin algo bueno nace de Marvel-Netflix, **The Punisher** vuelve a ser lo que 
 
 ## Frank Castle is dead call me the punisher
 
-En 13 episodios la serie nos cuenta lo que pasó con Frank desde que dejó de ser The Punisher y quiso mantenerse fuera del radar trabajando en construcción (o destrucción), cosa que no resulta ya que por las vueltas de la vida está de nuevo en el centro de una 'guerra' entre quienes crean la verdad y quienes huyen de ella.   
+En 13 episodios la serie nos cuenta lo que pasó con Frank desde que dejó de ser The Punisher y quiso mantenerse fuera del radar trabajando en construcción (o destrucción), cosa que no resulta ya que por las vueltas de la vida está de nuevo en el centro de una 'guerra' entre quienes crean la verdad y quienes huyen de ella.  
 Mediante el recurso de flashback nos van contando la historia de Castle en medio de la guerra, en diversas misiones especiales que bordean la ética, y la de la pérdida de su familia lo que lo atormenta constantemente y, en una segunda linea, aborda el trauma post guerra de los enviados a Afganistan, Irak o cualquier punto de conflicto y como estos difícilmente se recuperan de lo que ven en el campo de batalla.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)

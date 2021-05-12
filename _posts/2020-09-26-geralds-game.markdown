@@ -5,18 +5,18 @@ date: '2020-09-26 03:00:00'
 author: 'sebavidal'
 lead: 'Adaptación de un cuento de S. King donde vemos una pareja que se aleja de todo para re-encontrarse y la muerte de uno de ellos deja al otro desprotegido y aislado, donde deberá desafiar toda probabilidad para salir con vida. Muy bien Carla Gugino.'
 categories:
-- peliculas
+  - peliculas
 tags:
-- drama
-- netflix
-- terror
+  - drama
+  - netflix
+  - terror
 ---
 
 **Año**: 2017  
 **Director**: Mike Flanagan  
 **Adaptaciones de**: El juego de Gerald  
 **Historia de**: Stephen King  
-**Imdb** : [6.6](https://www.imdb.com/title/tt3748172)  
+**Imdb** : [6.6](https://www.imdb.com/title/tt3748172)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/twbGU2CqqQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

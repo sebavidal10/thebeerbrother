@@ -5,17 +5,16 @@ date: '2020-07-25 17:16:50'
 author: 'sebavidal'
 lead: 'Un bartender se queda con un celular abandonado en el bar y decide contestar algunos mensajes... grave error, por que partir de ahí comienza a recibir extraños y perturbadores videos'
 categories:
-- peliculas
+  - peliculas
 tags:
-- netflix
-- terror
+  - netflix
+  - terror
 ---
 
 **Director** : Babak Anvari  
-**Años** : 2019   
+**Años** : 2019  
 **Plataforma** : Netflix  
 **Imdb** : [4,0](https://www.imdb.com/title/tt5913798/)
-
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/81uxmIO_lps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

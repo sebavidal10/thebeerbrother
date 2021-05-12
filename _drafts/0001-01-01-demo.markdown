@@ -5,30 +5,30 @@ date: '0001-01-01 00:00:00'
 author: 'sebavidal'
 lead: 'bajada'
 categories:
-- peliculas
-- series
-- juego
-- libro
+  - peliculas
+  - series
+  - juego
+  - libro
 tags:
-- accion
-- animada
-- apple
-- belico
-- comedia
-- dc
-- documental
-- drama
-- erotico
-- hbo
-- marvel
-- musical
-- netflix
-- prime
-- sci-fi
-- suspenso
-- terror
-- western
-- spoiler
+  - accion
+  - animada
+  - apple
+  - belico
+  - comedia
+  - dc
+  - documental
+  - drama
+  - erotico
+  - hbo
+  - marvel
+  - musical
+  - netflix
+  - prime
+  - sci-fi
+  - suspenso
+  - terror
+  - western
+  - spoiler
 ---
 
 **Año** : 2019  
