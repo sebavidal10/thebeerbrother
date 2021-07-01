@@ -237,7 +237,7 @@ alt="Placeholder image">
     </div>
     <br />
     <div class="columns is-multiline assoc">
-      {% assign maxRelated = 6 %} {% assign minCommonTags = 2 %} {% assign
+      {% assign maxRelated = 8 %} {% assign minCommonTags = 2 %} {% assign
       maxRelatedCounter = 0 %} {% for post in site.posts %} {% assign
       sameTagCount = 0 %} {% assign commonTags = '' %} {% for tag in post.tags
       %} {% if post.url != page.url %} {% if page.tags contains tag %} {% assign
@@ -250,12 +250,12 @@ alt="Placeholder image">
             </div> -->
 
       <a href="{{ post.url }}">
-        <div class="column box is-4">
+        <div class="column box is-3">
           <time class="subtitle is-7 datetime is-hidden-mobile"
             >{{ post.date | date: "%b %-d, %Y" }}</time
           >
-          <div class="card-image is-hidden-mobile">
-            <figure class="image">
+          <div class="card-image">
+            <figure class="image-small">
               <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date
               | date: "%m" }}/{{ post.title | slugify }}-banner.jpg"
               alt="Placeholder image">

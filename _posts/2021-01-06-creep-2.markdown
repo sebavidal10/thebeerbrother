@@ -3,7 +3,7 @@ layout: post
 title: Creep 2
 date: '2021-01-06 00:00:00'
 author: 'sebavidal'
-lead: 'Sara tiene un canal de youtube, en el registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.'
+lead: 'Sara tiene un canal de youtube, en él registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.'
 categories:
   - peliculas
 tags:
@@ -24,7 +24,7 @@ tags:
 
 ### El lobo esta vuelta
 
-Sara (Desiree Akhavan) tiene un canal de youtube en declive, en el registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.
+Sara (Desiree Akhavan) tiene un canal de youtube en declive, en él registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 

@@ -5,9 +5,29 @@ body {
     color: #222;
 }
 
+.card-content {
+    .content {
+        margin-top: 20px;
+    }
+}
+
 .card-image {
     .image {
         height: 300px !important;
+
+        img {
+            object-fit: cover;
+            height: 100%;
+            width: 100%;
+
+            &:hover {
+                opacity: 0.8;
+            }
+        }
+    }
+
+    .image-mall {
+        height: 200px !important;
 
         img {
             object-fit: cover;
@@ -54,6 +74,12 @@ a {
     margin-bottom: 10px;
 }
 
+.lead-small {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 0.8rem;
+}
+
 .box {
     padding: 0px !important;
     margin: 10px !important;
@@ -82,6 +108,10 @@ a {
         width: calc(100% - 23px) !important;
     }
 
+    .box.is-3 {
+        width: calc(25% - 20px) !important;
+    }
+
     .box.is-4 {
         width: calc(33% - 16px) !important;
     }
@@ -94,7 +124,6 @@ a {
         width: calc(66% - 12px) !important;
     }
 }
-
 
 
 @include until($desktop) {
