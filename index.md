@@ -3,6 +3,8 @@ layout: default
 title: 'The BeerBrother'
 ---
 
+{% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
+
 <img class="image-banner-home" src="/assets/images/{{ site.posts[0].date | date: "%Y" }}/{{ site.posts[0].date | date: "%m" }}/{{ site.posts[0].title | slugify }}-banner.jpg" alt="Placeholder image">
 
 <div class="gradient-back-home"></div>
@@ -11,7 +13,8 @@ title: 'The BeerBrother'
     <div class="b-title">
       <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
     </div>
-    <p class="title-white is-7">{{ site.posts[0].date | date: "%b %-d, %Y" }}</p>
+    {% assign m = site.posts[0].date | date: "%-m" | minus: 1 %}
+    <p class="title-white is-7">{{ months[m] }}{{ site.posts[0].date | date: " %-d, %Y" }}</p>
     <p class="is-hidden-mobile">{{ site.posts[0].lead }}</p>
     {% for cat in site.posts[0].categories %}
       <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
@@ -19,6 +22,7 @@ title: 'The BeerBrother'
     {% for tag in site.posts[0].tags %}
       <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
     {% endfor %}<br>
+
   </div>
 </div>
 
@@ -40,8 +44,8 @@ title: 'The BeerBrother'
               {% else %}
                   <div class="column box is-4">
               {% endif %}
-
-                  <time class="subtitle is-7 datetime">{{ post.date | date: "%b %-d, %Y" }} {{forloop.index}}</time>
+                  {% assign m = posts.date | date: "%-m" | minus: 1 %}
+                  <time class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }} {{forloop.index}}</time>
                   <div class="card-image">
                       <figure class="image">
                           <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Placeholder image">

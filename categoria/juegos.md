@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="container" style="padding-top: 100px">
+{% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
 
 <h1 class="title title-section">Categoría: Juegos</h1>
 
@@ -12,7 +13,8 @@ layout: default
                 {% for post in cat[1] %}
                     <a href="{{ post.url }}">
                         <div class="column box is-4">
-                            <time class="subtitle is-7 datetime">{{ post.date | date: "%b %-d, %Y" }}</time>
+                            {% assign m = site.posts[0].date | date: "%-m" | minus: 1 %}
+                            <time class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</time>
                             <div class="card-image">
                                 <figure class="image">
                                     <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Placeholder image">

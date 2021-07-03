@@ -2,14 +2,19 @@
 layout: default
 ---
 
-<img class="image-banner" src="/assets/images/{{ page.date | date: "%Y" }}/{{
-page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg"
-alt="Placeholder image">
+{% assign months =
+"Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre"
+| split: "|" %} <img class="image-banner" src="/assets/images/{{ page.date |
+date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify
+}}-banner.jpg" alt="Placeholder image">
 <div class="gradient-back"></div>
 <div class="container">
   <div class="title-post">
     <div class="b-title">{{ page.title }}</div>
-    <p class="title-white is-7">{{ page.date | date: "%b %-d, %Y" }}</p>
+    <p class="title-white is-7">
+      {% assign m = page.date | date: "%-m" | minus: 1 %} {{ months[m] }}{{
+      page.date | date: " %-d, %Y" }}
+    </p>
     <p class="is-hidden-mobile">{{ page.lead }}</p>
     <div>
       {% for cat in page.categories %}
@@ -194,7 +199,9 @@ alt="Placeholder image">
                   {{ p.title }}
                   <div>
                     <div class="subtitle is-7">
-                      <b>{{ p.date | date: "%b %-d, %Y" }}</b><br />
+                      {% assign m = page.date | date: "%-m" | minus: 1 %}
+                      <b>{{ months[m] }}{{ p.date | date: " %-d, %Y" }}</b
+                      ><br />
                     </div>
                     {% for cat in p.categories %}
                     <a class="tag is-dark" href="/categoria/{{cat | slugify }}"
@@ -251,8 +258,9 @@ alt="Placeholder image">
 
       <a href="{{ post.url }}">
         <div class="column box is-3">
-          <time class="subtitle is-7 datetime is-hidden-mobile"
-            >{{ post.date | date: "%b %-d, %Y" }}</time
+          <time class="subtitle is-7 datetime is-hidden-mobile">
+            {% assign m = post.date | date: "%-m" | minus: 1 %} {{ months[m]
+            }}{{ post.date | date: " %-d, %Y" }}</time
           >
           <div class="card-image">
             <figure class="image-small">
