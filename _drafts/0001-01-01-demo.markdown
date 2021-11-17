@@ -10,6 +10,7 @@ categories:
   - juego
   - libro
 tags:
+  - analisis
   - accion
   - animada
   - apple
