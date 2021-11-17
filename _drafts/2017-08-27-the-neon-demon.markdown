@@ -5,9 +5,7 @@ date: '2017-08-27 03:00:00'
 author: 'sebavidal'
 lead: 'Una excelente fotografía y un gran soundtrack hacen de esta película una de mis favoritas, donde una joven modelo se convierte en una codiciada presa en el mundo de las pasarelas, ya que su belleza es una maldición en este extraño y frío entorno lleno de envidia.'
 tags:
-  - review
   - spoiler
-  - recomendacion
   - peliculas
 ---
 
