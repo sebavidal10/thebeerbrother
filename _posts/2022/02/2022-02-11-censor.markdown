@@ -1,0 +1,50 @@
+---
+layout: post
+title: Censor
+date: '2022-02-11 00:00:00'
+author: 'sebavidal'
+lead: 'Mientras Enid ve una película, parece reconocer la situación y a la protagonista… algo en su mente la asocia directamente con su hermana perdida hace años, lo que la hora entrar en una búsqueda que quizás nunca debió iniciar'
+categories:
+  - peliculas
+tags:
+  - terror
+---
+
+**Año** : 2021  
+**Director** : Prano Bailey-Bond  
+**Imdb** : [6.0](https://www.imdb.com/title/tt10329614/)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/KRrhXjH1M70" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+### Censura
+
+Las películas, sin importar el género, impactan en nuestras vidas y en la forma en que enfrentamos el día a día. Por esto es importante que existan ciertas líneas que demarcan cuando un film es apto para todos y cuando es necesario tener cierto criterio para poder verlo y no ser presa de escenas que podrían ser inadecuadas o perturbadoras para ciertos segmentos de la población, por ejemplo, cuando una película es catalogada para adultos dado su lenguaje o lo impactante y crudo de sus imágenes (más allá de que sean solo efectos especiales). Definir qué es y que no es permitido en una película (o de plano, que impide el lanzamiento de una película) es un tema controversial, porque quién podría decidir por los demás y frenar la libertad natural de ver algo o no…a esa difícil decisión se enfrenta nuestra protagonista (junto a un equipo de profesionales) en la oficina de “Censura”.
+
+![{{ page.title | slugify }}-00](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-00.jpg)
+
+**Enid Baines** (Niamh Algar) trabaja en la agencia de "censura" de películas en Inglaterra, lo que en la práctica se traduce en que debe ver muchos films y decidir qué se debe recortar de la película para que sea apta para el público o simplemente decir que una cinta no debe ver la luz. En contraste a su genial, pero perturbador labor (el foco está en cintas de terror / slasher / violentas), lleva consigo la pérdida / búsqueda de su hermana Nina, quien desapareció cuando eran pequeñas, tema que se vuelve sensible cuando sus padres deciden “darla por muerta” ya que llevan demasiados años buscándola, situación que impacta a Enid y la hace distanciarse un poco de sus padres, ya que no asume que su hermana muerta.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+### Separar la realidad de la ficción
+
+Mientras Enid ve un film llamado **Little Miss Perfect**, un recuerdo viene a su memoria ya que la escena le trae recuerdos de su hermana y ella, tanto por el contexto y la historia relatada en el film como por el parecido físico de ambas. Esto la hace investigar a la actriz y al director del film descubriendo cosas que quizás nunca debió haber encontrado.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+La pérdida de su hermana y lo impactante de las escenas que debe ver día a día comienzan a trastornar a Enid llevándola por un extraño y a momentos surreal mundo donde la línea entre lo real y lo imaginario se vuelve cada vez más delgada e invisible.
+
+> You can be surprised what the human brain can edit out when it can't handle the truth.
+
+Es una película que cumple su premisa y tiene un final bastante perturbador que sin decir mucho entrega suficiente información para comentar cuando termina la cinta, lo que se agradece ya que hoy estamos rodeados de películas autocontenidas que no dan para comentar nada.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+### Recomendada?
+
+Es complejo, para muchas personas podría ser aburrida, pero si te interesa el mundo del cine te podría gustar. La ambientación de **conservadora Inglaterra de 1985** es muy buena y que se grabe una película dentro de otra siempre es genial :)
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
