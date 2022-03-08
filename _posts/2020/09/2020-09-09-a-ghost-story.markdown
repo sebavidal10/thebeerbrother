@@ -22,7 +22,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## Una historia de fantasmas?
+### Una historia de fantasmas?
 
 Dada la experiencia del director David Lowery, quien ha trabajado casi toda su vida como editor de montaje, **A Ghost Story** tiene una edición y un montaje impecable, lo que decora la nostálgica y compleja historia que tiene en su centro a un fantasma infantil que se ve como una persona cubierta con una sábana. El protagonista es Casey Affleck, quien es un fantasma ideal, ya que su incapacidad expresiva calza perfecto con la sábana. Affleck fallece al comienzo del film y deja a su amada (Rooney Mara) sola, pero sigue volviendo a visitarla aunque ella no pueda verlo.
 
@@ -34,7 +34,7 @@ Dada la experiencia del director David Lowery, quien ha trabajado casi toda su v
 > **Ghost 1**: Who?  
 > **Ghost 2**: I don't remember.
 
-## Curiosidad
+### Curiosidad
 
 La película está grabada de una manera "distinta", cuando algunos luchan por formatos casi irreproducibles en todas las salas, Lowery grabó **A Ghost Story** en una resolución de proporción 4:3 (con las esquinas curvas), lo que es un símil a lo atrapado del personaje de Affleck en este formato fantasmal, como si fuese parte de una foto polaroid antigua.
 

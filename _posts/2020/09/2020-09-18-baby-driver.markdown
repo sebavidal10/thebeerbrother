@@ -21,7 +21,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## Baby: el aprendiz del crimen
+### Baby: el aprendiz del crimen
 
 El ingles Edgar Wright (2004 - Shaun of the Dead, 2007 - Hot Fuzz, 2010 - Scott Pilgrim vs. the World, 2013 - The World's End) dirige y firma el guion de esta entretenida película de robos y persecuciones, pero por nada pienses en Rápido y Furioso, aquí estamos en otro tipo de película que toma cosas de los clásicos films de robos y los mezcla con la originalidad y el particular punto de vista de su director.
 
@@ -31,7 +31,7 @@ El ingles Edgar Wright (2004 - Shaun of the Dead, 2007 - Hot Fuzz, 2010 - Scott 
 
 Baby tiene un talento matemático para las huidas (que como siempre esta sincronizadas con la música en el playlist del iPod). Este talento es muy necesario por la cabeza de la banda (**Kevin Spacey**), el que esta increíble como en cada papel que hace (menos como Luthor) y que propone un ultimo trabajo a Baby, que como en toda película no será el ultimo trabajo.
 
-## Persecuciones y equipo
+### Persecuciones y equipo
 
 Las persecuciones son impecables, muy bien filmadas y la banda sonora calza perfecto con las escenas creando algo así como un "musical de persecución" o un video clip extra largo con pequeños (breaks) para que los personajes dialoguen.
 
@@ -40,7 +40,7 @@ Wright es un experto en crear equipos "particulares", con características caric
 > Baby: You and I are a team.  
 > Doc: Don't feed me any more lines from "Monsters, Inc." It pisses me off!
 
-## El ultimo acto
+### El ultimo acto
 
 La película cierra de una manera extraña, pero no desilusionante, sigue la tónica de las películas de Wright y claramente no debería haber una continuación, la historia cierra y cuenta con una dosis justa de _rockabilly_ y amor! Como olvidar la enamorada que trabaja en el café que parece sacado de Volver al Futuro I o de una film en blanco y negro al que la película tributa de cierto modo.
 

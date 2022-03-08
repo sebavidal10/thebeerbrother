@@ -28,7 +28,7 @@ Bradley intenta vivir bien con su esposa Lauren, pero luego de perder su empleo 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Nunca, pero nunca me gustaría pelear con Bradley
+### Nunca, pero nunca me gustaría pelear con Bradley
 
 Cuando un trabajo sale mal y Bradley termina en prisión, queda a merced de un traficante que lo amenaza con represalias contra su esposa, lo que lo lleva a adentrarse en un infierno carcelario que va de mal en peor, donde dañara lo que sea, guardias inocentes o presos amigables, con el único objetivo de asegurar la vida de su esposa y de su futuro hijo.
 

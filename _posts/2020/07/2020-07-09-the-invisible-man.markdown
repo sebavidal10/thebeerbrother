@@ -20,13 +20,13 @@ El director, Leigh Whannell, es conocido por ser frecuente colaborador de James 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## The Invisible Man
+### The Invisible Man
 
 El Hombre Invisible, en su forma clásica, cuenta la historia de un científico que se vuelve invisible y su lado más oscuro se apodera de su mente volviéndolo loco, **acá no**. Acá hablamos de un hombre violento, posesivo, inteligente y experto en tecnología en el campo de la óptica , del cual nuestra protagonista Cecilia (Elisabeth Moss) huye ya que no puede más su agresividad. Luego de un tiempo el abogado de la familia contacta a Cecilia para contarle que su esposo Adrián (Oliver Jackson-Cohen) ha fallecido y que le dejó mucho dinero, siempre y cuando la mujer no tenga manchado su historial con delitos ni tenga enfermedades mentales. Este hecho cambia la vida de Cecilia quien por fin ve la posibilidad de rehacer su vida y comenzar de nuevo sin la presión de su difunto esposo.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## La invisibilidad del acoso
+### La invisibilidad del acoso
 
 Luego de un tiempo Cecilia siente la precencia de alguien que no puede ver, siente que Adrian a pesar de estar muerta sigue atormentado día tras día, y aquí es donde la historia se desvía hacia otro aspecto, y deja en claro el gran trabajo que hace Elisabeth Moss, ya que nos hace parte de su angustia por demostrarle al mundo, sus amigos y familia, que ella está siendo abusada y golpeada, pero a pesar de todas las pruebas nadie le cree, incluso uno como espectador, y gracias a la buena dirección, llega en algunos momentos a pensar que Cecilia está loca e imagina todo, pero (gracias al trailer y al nombre de la película) sabemos que no es así y que Cecilia no esta enloqueciendo, sino que un escrupuloso plan se está ejecutando para dejarla como loca y que no pueda acceder a la millonaria herencia.
 

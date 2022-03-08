@@ -35,7 +35,7 @@ En el clásico del 77, Susie (Jessica Harper), conversa con un siquiatra y con u
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-## La Madre
+### La Madre
 
 Lo mejor es lejos el elenco (ignorando a Grace Moretz), tanto Dakota Johnson como Tilda Swinton deslumbran en cada una de sus escenas y dan peso a una historia que mantiene la intriga y el terror hasta el ultimo minuto. Lo otro bueno es la cinematografía, sobre todo en la coreografía del Volk y la escena de climax del ultimo acto (que no existia en la versión original).
 

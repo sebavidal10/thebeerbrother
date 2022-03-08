@@ -34,7 +34,7 @@ En **En Realidad nunca estuviste aqui** (You Were Never Really Here) interpreta 
 
 Es dificil comentar más sin hacer _spoilers_, una película altamente recomendada, pero el film toca temas que están más presentes de lo que uno cree.
 
-## Extra
+### Extra
 
 - Joaquin Phoenix ganó la Palma de Oro a mejor actor en Sundance 2017.
 - Los martillos en las ferreterías ahora se ven diferentes.

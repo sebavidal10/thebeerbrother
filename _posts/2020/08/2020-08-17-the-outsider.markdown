@@ -30,13 +30,13 @@ Con el pasar de la historia Nick se enamora de **Miyu** (Shioli Kutsuna), herman
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## Japón
+### Japón
 
 La historia transcurre en una época donde Japón está en plena reconstrucción tras el lanzamiento de las bombas y aun se ven soldados Norteamericanos deambulando por las sucias calles de las ciudad, regalandonos, gracias a una excelente fotografía, un Japón crepuscular lleno de amaneceres y atardeceres grises que decoran amplias tomas de la ciudad y los puertos, con noches repletas de bares donde abundan los recursos comunes de la mafia y las luchas de ego y respeto están a la orden del día. **Gracias** por esto.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## En conclusión
+### En conclusión
 
 La película se toma su tiempo en contarnos todo y la siento como una especie de película noir oriental (no se si eso existe como tal), y quizás por eso es acusada de aburrida. Creo que es un film diferente, no es John Wick, se toma su tiempo y eso está bien. Luego de verla investigue un poco y encontré que Takashi Miike y Tom Hardy eran la dupla inicial para este proyecto como director y protagonista... creo que ahí habría sido una obra maestra. A pesar de esto, **recomendada!**
 

@@ -22,11 +22,11 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## Excelente relevo para Jon Wick
+### Excelente relevo para Jon Wick
 
 El joven director (tiene más créditos como doble de acción y coreógrafo de peleas) **David Leitch** esta a cargo de la dirección de **Atomic Blonde** (y de los 30 millones que costó) y en su mochila de films lleva a Jon Wick y Deadpool 2, por lo que podemos imaginar como se viene la película.
 
-## Stolichnaya y un par de hielos
+### Stolichnaya y un par de hielos
 
 Atomic Blonde ocurre en plena Guerra Fría y esta ambientada en una Alemania de finales de los 80s. La historia esta basada en los hechos ocurridos en el comic [The Coldest Night](http://www.thecoldestcity.com)
 
@@ -34,7 +34,7 @@ En el film Charlize Theron encarna a la agente del servicio secreto Ingles MI6 ,
 
 > David Percival: You can't un-fuck what's been fucked.
 
-## Elenco
+### Elenco
 
 El elenco esta lleno de talentos, pero la mayoría del peso esta en Theron y en James MacAvoy, quien como siempre esta muy bien, siendo un sucio espía y un completo hdp de principio a fin que esta dispuesto a cualquier cosa por lograr su objetivo, sin honor ni gloria.
 
@@ -42,7 +42,7 @@ El elenco esta lleno de talentos, pero la mayoría del peso esta en Theron y en 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Lo Mejor?
+### Lo Mejor?
 
 Charlize Theron esta increíble, es como una agente Salt, pero con cocaina y las peleas son geniales, sobre todo en el tercer acto (casi todo el 3er acto) donde hay una especie de plano secuencia digno de series como Daredevil de Netflix donde podemos ver la fatiga y lo realista de la escena. En general se siente como Jon Wick en femenino y con esteroides... recomendada? Si te gusta el cine de acción, Claro que si!, sino, igual.
 

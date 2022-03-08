@@ -24,7 +24,7 @@ Rian Johnson está tras una de mis películas favoritas de viajes en el tiempo, 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Mi casa, mis reglas, mi taza
+### Mi casa, mis reglas, mi taza
 
 Harlan Thrombey (Christopher Plummer) creó un imperio entorno a sus exitosos libros sobre complejos casos policiacos y asesinatos casi imposibles de responder, nunca quiso hacer películas, pero sí generó muchísimo dinero para él y su familia gracias a las ventas y la traducción a muchos idiomas de sus obras. Los principales beneficiados de sus ganancias son sus hijos, quienes a pesar de no ser tan cercanos al patriarca de la familia, mantienen vivo el nexo irrompible que une padres e hijos, por lo que todos asisten a la celebración 85 del cumpleaños de Harlan y de paso todos se vuelven sospechosos de su muerte, ya que a la mañana siguiente es encontrado por la sirvienta con un corte en el cuello al lado de su cama.
 

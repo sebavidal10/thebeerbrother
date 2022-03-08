@@ -23,13 +23,13 @@ Hace un par de meses vi **Dune** de **David Lynch (1984)** y, como suelo hacer c
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.png)
 
-## Villeneuve / Zimmer
+### Villeneuve / Zimmer
 
 **Denis Villeneuve** siempre hace películas magnas, enormes, detallistas y con gran enfoque en lo visual. Es cosa de volver a sus últimos films como Blade Runner 2045 (2017) y Arrival (2016), ambas geniales y perfectas a nivel visual. En Dune esto se megapotencia gracias a **Hans Zimmer**, quien puede convertir un simple desayuno en una escena épica por el OST. Villeneuve a momentos me recuerda a lo que hizo Ridley Scott en Prometheus, llevando al límite la elegancia y los detalles de cada escena. Tenemos secuencias que en la versión del 84 son triviales y simplistas y que ahora son magnas, siniestras y perfectas, como la secuencia donde marcan a los soldados del emperador y cada una de las tomas aéreas con pequeñas naves desplazandose por el infinito espacio. Cada presentación, de un lugar o personaje, cada sueño revelador de Paul y cada entrada en escena de algún elemento es una experiencia inolvidable.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.png)
 
-## Dune
+### Dune
 
 La película es larga. Son **2 horas y 35 minutos**, donde poco a poco nos cuentan la épica historia de **Paul Atreides** (Timothée Chalamet), descendiente de la casa Atreides. Quien, junto a su padre, comandará la misión de recuperar el planeta Arrakis para el Imperio. Arrakis es deseado por todas las casas (si, hay casas. Algo así como en Juego de Tronos) por producir la **Especia**, una sustancia que permite viajes por el espacio y da habilidades a quienes la consumen. La Especia fue explotada por la casa Harkonnen por más de 80 años y actualmente es habitado sólo por unos gusanos enormes, que hacen las veces de guardian natural de la **Especia**, y por un particular pueblo que ven en Paul a un supuesto elegido, un messiah salvador, señalado por una profecía para liberarlos y hacer de Arrakis un pueblo libre.
 
@@ -60,7 +60,7 @@ Hay muchas diferencias entre la versión de Lynch y la de Villeneuve, extrañé 
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.png)
 
-## Gran película
+### Gran película
 
 Dune es una película carísima, no solo en dinero (165 millones), sino también en tiempo... lo que golpeará fuerte en el lanzamiento de su secuela, que probablemente llegue por allá por el 2023. Ojalá el tiempo no dañe el buen sabor de boca que deja la película actualmente y se mantenga fresca para cuando llegue la segunda parte. Muy recomendada :)
 

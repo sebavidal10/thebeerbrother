@@ -27,7 +27,7 @@ No se como se me paso esta serie, **The Keepers** es el claro ejemplo de que la 
 
 La historia se construye en base a la investigación de las señoras y a la información que reunió en base a entrevistas a personas que vivieron en esos años (60s y 70s), policías de la época, habitantes, quienes la encontraron, y por sobre todo el testimonio de **_Jane Doe_**, que se convierte en pieza crucial y en parte del macabro mensaje del documental.
 
-## Corrupción y Encubrimiento
+### Corrupción y Encubrimiento
 
 Al poco andar descubrirán que también fallecieron 2 miembros de la congregación, **Neil Magnus** y **Joseph Maskel**, y la joven **Joyce Malecki**. Los primeros vinculados a algunos casos de abusos sexuales con los pequeños del colegio, tema que agrega un nuevo ingrediente a la ya oscura historia en torno a la desaparición y muerte de la hermana Cathy y que complica más la ardua tarea de deslumbrar la verdad, sin olvidar que el paso de los años lo único que hace es eliminar pruebas y dejar que la verdad desaparezca con las personas.
 

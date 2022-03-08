@@ -36,7 +36,7 @@ A medida que el film avanza vamos descubriendo intenciones, tramas ocultas y com
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-## Buena, buena, buena
+### Buena, buena, buena
 
 Un thriller sci-fi que recuerda a Ex-Machina o incluso a la olvidable Venom (por la forma en que se comunica Grey con la IA). Una gran película, muy recomendada y muy bien hecha, un acierto para el director, ojalá siga haciendo films así y aportando con innovadoras tomas y movimientos de cámara particulares. Una historia que refresca el distopico futuro al que nos aproximamos.
 

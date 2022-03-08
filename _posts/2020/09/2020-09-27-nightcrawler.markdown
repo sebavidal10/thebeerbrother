@@ -21,7 +21,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## Primicia mortal
+### Primicia mortal
 
 El director **Dan Gilroy** salta de la fantasía de películas como Real Steel y la acción de El Legado Bourne a un thriller sicológico increíble, conocido en Latinoamérica como Primicia Mortal, donde nos presenta a Louis Bloom (**Jake Gyllenhaal**), quien es un extraño y complejo sociopata que pasa de ser un ladrón y estafador a una especie de caza-noticias, todo gatillado cuando por casualidad Bloom presencia a un periodista que corre para cubrir un accidente automovilístico antes que llegue la policia y/o ambulancia, lo que despierta el morbo y potencia la curiosidad del protagonista por entrar en ese mundo adrenalinico que va tras accidentes y delitos y que en la desgracia y tragedia ajena ve una oportunidad para ganar dinero.
 

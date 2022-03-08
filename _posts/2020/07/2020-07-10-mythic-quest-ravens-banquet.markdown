@@ -27,7 +27,7 @@ Hasta ahora no había visto ninguna serie de **Apple+** , y el otro día estaba 
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-## Mythic Quest: Raven's Banquet
+### Mythic Quest: Raven's Banquet
 
 La serie cuenta con 9 episodios donde nos muestran cómo es la vida en una empresa de software enfocada en el juego [MMORPG](https://es.wikipedia.org/wiki/Videojuego_de_rol_multijugador_masivo_en_l%C3%ADnea) más popular del mundo, **Mythic Quest** , y el lanzamiento de su nueva expansión **Ravens Banquet**. La empresa está conformada por un estereotipado equipo de personajes, como Director Creativo tenemos a Ian, un líder soñador (y muy ególatra), algo así como una mezcla entre Steve Jobs y Tony Stark interpretado por Rob McElhenney. También está C.W. (F. Murray Abraham), un narrador alcohólico que se encarga de redactar las historias del juego que nadie ve. El CEO, David, un hombre estresado, nervioso e inseguro interpretado de una excelente forma por David Hornsby quien aporta la mayoría de los chistes y se convierte en el personaje que busca hacer las cosas bien, pero es frecuente presa de sus propias palabras. También está la líder de desarrollo, Poppy Li (Charlotte Nicdao), personaje con el que nos identificamos, ya que parece ser la única que se da cuenta de lo que pasa y que busca hacer realmente cosas buenas para Mythic Quest... luego de varios episodios nos damos cuenta que está en lugar indicado para ella. El elenco lo cierran las chicas de testing, Dana y Rachel, que ponen en la palestra el increíble trabajo que tienen!! y cómo a pesar de pasarse el día jugando se agotan y se sienten presionadas.
 

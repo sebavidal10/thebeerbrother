@@ -28,7 +28,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Germany!
+### Germany!
 
 La búsqueda (y toda la película) transcurre en una Alemania futurista ubicada dentro del mismo universo de Moon (2009), al verla se darán cuenta por qué, donde Leo deberá recorrer una ciudad llena de neon y trafico sexual, peleando con mafiosos y dando golpes para todos lados... visualmente es muy agradable, me recuerda a Altered Carbon, de hecho por Blade Runner 2049, Altered Carbon y ahora Mute veo que cada vez la necesidad de tener un auto que vuele se hace mas real xD
 
@@ -38,7 +38,7 @@ La película cuenta dos historias que se juntan una manera más que perturbadora
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## La critica la destruyo... es tan así?
+### La critica la destruyo... es tan así?
 
 A mi la película me gusto bastante, me entretuvo, siempre la vi como un film de acción con muy buenos toques emocionales (sobre todo los que hay en la primera parte del film) por lo que no esperaba más, no había visto trailers ni nada, por lo que el hecho de que este ambientada en un futuro ciberpunk me sorprendió gratamente, abundan los efectos prácticos y el futuro no parece torpe y lleno de laser, sino, uno muy probable. La crítica la ha tratado muy mal, pero acabo de ver hace unos días Fullmetal Alchemist (también de Netflix) y esto es poesía al lado del live action.
 

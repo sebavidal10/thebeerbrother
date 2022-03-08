@@ -27,7 +27,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Sobrevivir
+### Sobrevivir
 
 Un par de días alejados de todo parece ser la instancia ideal para mejorar la convivencia de la pareja, lo que se complica cuando Gerald sufre un ataque cardiaco y muere, lo peor es que Jessie está esposada a la cama de ambas manos y no hay nadie en kilómetros por lo que nadie podrá ir a ayudarle. De aquí en adelante es una historia de supervivencia, similar en fondo (pero para nada en la forma) a 127 horas, donde el personaje de Gugino tiene un tiempo límite para salir de ahí antes de desmayarse y/o morir por falta de comida, agua u otra cosa. En ese tiempo se enfrenta a sus propios demonios y reaparecen recuerdos de infancia que parecían reprimidos, ambas cosas usadas para lograr salir de ahí.
 

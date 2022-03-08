@@ -22,7 +22,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## Cruda suposición religiosa
+### Cruda suposición religiosa
 
 El recuerdo más fresco que tengo de **álex de la Iglesia** es **Las brujas de Zugarramurdi (2012)**, película que disfrute montones, tanto la primera vez que la vi como cuando la encontré en Netflix, por el humor negro y lo agradable que me resulta la manera en que esta filmada, en el caso de El Bar me ocurre algo similar.
 
@@ -34,13 +34,13 @@ Los personajes creados por de la Iglesia son variados, mayormente detestables, l
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Barbas, barbas!
+### Barbas, barbas!
 
 Al poco andar la película marca quien es el héroe y quien el villano y da una respuesta a los asesinatos y todas las cosas extrañas que ocurren en torno al bar, pero antes nos pasea por cada teoría posible (están muertos, es un sueño, abducción alien, etc) decantando por una realidad más probable (?) y que se hace creíble a medida que pasa el film (creíble al estilo de las películas de álex de la Iglesia). El director adorna todo con un sentido del humor negro y filma de manera muy realista, con mucho talento y mediante planos detallados y movimientos de cámara precisos para cada instante, demostrando una vez más su habilidad y dominio a la hora de traspasar a quien está al otro lado de la pantalla la perspectiva de cada personaje.
 
 Me gusto mucho el film, me pareció mas serio de lo que esperaba y siento que los clichés y las frases hechas, sobre todo religiosas, están muy bien, decoran de forma correcta los acontecimientos y nos permiten ponernos en los pantalones de los prisioneros de El Bar e ir haciendo conjeturas del bueno o malo de turno dándonos la posibilidad de ser uno más de los que ahí esta, pensando en posibles caminos e incluso queriendo que algo ocurra (o no ocurra).
 
-## Cojones!, que buen elenco
+### Cojones!, que buen elenco
 
 La actuación de **Jaime Ordóñez**, como el vagabundo, es extrema y buenísima, que manera de meterse en el papel y hacerlo a lo grande llenándolo de frases y remates que se mueven en el limite entre el humor y la locura. Muy bien **Mario Casas** (Nacho, Hipster con audífonos), **Carmen Machi** (Clienta "de mierda" habitual), **Secun de la Rosa** (trabajador del bar) y por supuesto **Terele Pávez** (1939 - 2017) que hace de dueña del local. Todos actores habituales en el cine del Español que se han repetido en varias de sus películas, un agrado ver un elenco que disfruta del cine y lo hace ver natural y creíble dejando que el director haga y deshaga con ellos con el objetivo de producir algo de calidad.
 

@@ -23,7 +23,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## 78/52
+### 78/52
 
 Una de las escenas más homenajeadas del cine es el asesinato de la hermosa **Janet Leigh** en la ducha de la película **Psycho**, donde **Alfred Hitchcock** regala al mundo la semilla del slasher y un conjunto de sonidos que acompañarán a perpetuidad a cada meme y escena donde aparezca un asesinato. En **78/52**, el director suizo** Alexandre O. Philippe**, ahonda en la forma y fondo de dicha escena y en lo complejo y avanzado para su época que fue realizar esos 78 tiros de cámara y sus 52 cortes que dieron como producto un poco más de 45 segundos de metraje demostrando lo magistral, innovador e impactante de la mente de Hitchcock.
 
@@ -37,13 +37,13 @@ Se muestra el proceso creativo y el storyboard que detalla las tomas, donde se i
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## 1998
+### 1998
 
 Se hace un leve mención a la película de Gus Van Sant, que replico plano a plano la película a color y que a pesar de contar con la bellísima y talentosa Anne Heche en el papel de Marion Crane, no logró ser efectiva en la escena de la ducha, mostró (mucho) más, pero no se acercó a lograr lo mismo que su predecesora y, honestamente, creo que es una película que nunca debieron hacer.
 
 [Escena de la ducha de 1998 de Gus Van Sant](https://www.youtube.com/watch?v=XIy7K-8oEI4)
 
-## En Conclusión
+### En Conclusión
 
 El documental es increíble e imperativo de ver por todo quien disfruta del cine, ya que a veces obviamos el trabajo detrás de una escena y pensamos que es llegar, grabar y editar, sin ver la gran cantidad de trabajo que hay detrás, que hacen que una secuencia sea más que solo eso y se convierta en un clásico digno de un análisis y estudio de más de hora y media, tal como la escena de la ducha, donde vemos a los rockstar (detrás) de la pantalla grande sonreír al ver magna creación.
 

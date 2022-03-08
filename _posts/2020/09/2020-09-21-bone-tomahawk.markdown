@@ -25,7 +25,7 @@ tags:
 
 **Tomahawk** es el nombre que reciben las hachas cortas o de mano usadas por las tribus nativas de América, que en un comienzo eran de hueso y luego con la llegada de los Europeos se fabricaron en metal y su diseño varió un poco asemejandose a las usadas por los vikingos, por lo tanto la traducción textual del nombre de esta película seria algo así como **_Hacha de Hueso_** lo que si se mezcla con el nombre que se le dio en Latinoamérica, **_Frontera Canibal_**, nos da un claro escenario de lo vamos a ver.
 
-## El Salvaje Oeste
+### El Salvaje Oeste
 
 Una tribu prehistórica sigue a un hombre hasta un pueblo del lejano oeste, donde raptan a una mujer y a un oficial, frente a lo cual el Sheriff Hunt (**Kurt Russell**), el esposo de la mujer raptada, Arthur O'Dwyer (**Patrick Wilson**), el asistente Chicory (**Richard Jenkins**) y el ex-soldado Brooder (**Matthew Fox**) se embarcan en una misión de rescate en medio de un territorio indómito dominado por salvajes que parecen remanentes del pasado.
 

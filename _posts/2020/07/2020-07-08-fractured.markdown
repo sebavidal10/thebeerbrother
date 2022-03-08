@@ -25,7 +25,7 @@ En octubre de 2019 salieron muchas películas de suspenso / terror / thriller / 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.png)
 
-## Fracturado
+### Fracturado
 
 **Fracturado** es la historia de Ray (Sam Worthington) junto a su esposa Joanne (Lily Rabe) y su pequeña hija Peri (Lucy Capri), quienes un día cualquiera mientras recorren las monótonas carreteras de Estados Unidos, hacen una parada para tomar café, pasar al baño y estirar las piernas. En una de esas tantas paradas la pequeña Peri tiene un accidente, donde parece haberse fracturado un brazo, por lo que Ray y Joanne se apresuran en llegar al hospital mas cercano para que la atiendan, siendo ahi donde todo se complica ya que Ray duerme unos instantes en una banca en la sala de espera y al despertar su hija y su esposa han desaparecido.
 

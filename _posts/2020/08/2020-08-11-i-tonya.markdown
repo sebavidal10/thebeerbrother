@@ -24,7 +24,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Tonya Harding
+### Tonya Harding
 
 La película viaja con Tonya a través de su adolescencia, su brillante ascenso y lo difícil que fue para una joven rebelde con gustos poco delicados entrar al elitista mundo del patinaje artístico sobre hielo, a pesar de su excelente técnica y gran talento, ya que no solo se premiaba a alguien que patinara bien, sino que era toda una imagen que el mundo del patinaje quiere mostrar, más aun cuando se acercan las olimpiadas y Tonya tiene la posibilidad de representar a Estados Unidos frente al mundo.
 

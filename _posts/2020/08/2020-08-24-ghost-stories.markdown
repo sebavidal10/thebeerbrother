@@ -27,7 +27,7 @@ Un día, quien a sido su mentor desde infancia, Charles Cameron (Leonard Byrne),
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Tres historias
+### Tres historias
 
 Cada uno de los casos es diferente
 
@@ -39,7 +39,7 @@ Los 3 casos son fáciles de explicar por Goodman, el problema es que cuando los 
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## Honestamente...
+### Honestamente...
 
 Honestamente pensé que el ultimo acto seria mejor y las historias, bien contadas y con un muy buen ritmo, me hicieron pensar (y esperar) que algo pasaría y no paso, cosa que me decepcionó y me hizo sentir que eran buenas historias con un elenco correcto, pero que se desperdicio, quizás por pretenciosa, no lo se, tal ves simplemente el buen ritmo y la ausencia de screamers me hicieron esperar algo más.
 

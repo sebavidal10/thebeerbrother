@@ -28,7 +28,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## De qué trata?
+### De qué trata?
 
 Los padres de Cole están en un tratamiento para reconquistarse como pareja, por lo que dejan al niño con la niñera **Bee** (la mayoría de los fines de semana) cuando ellos van a algún hotel a pasar un tiempo juntos. La niñera se divierte, cocina, hace reir y pasa muy buenos momentos con Cole, pero tras esa fachada oculta una macabra intención. Ella, junto a un grupo de estereotipados amigos forman parte de un culto a Satanas que necesita realizar un sacrificio humano en el cual incluiran al pequeño niño (o eso planean).
 

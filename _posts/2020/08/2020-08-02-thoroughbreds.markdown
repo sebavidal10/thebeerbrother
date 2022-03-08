@@ -22,13 +22,13 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## Purasangre
+### Purasangre
 
 Han pasado muchos años desde que Lily (Anya Taylor-Joy) y Amanda (Olivia Cooke) se distanciaron y ahora la vida las vuelve a reunir, dos amigas de infancia que por diversos motivos crecieron y cambiaron de acuerdo a como fueron educadas, se han juntado otra vez, una como tutora de la otra, pareciendo haber olvidado el pasado que las unía.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Empatía y Apatía
+### Empatía y Apatía
 
 Lily es amable, se viste bien y trata de destacar en todo, incluso busca ayudar a Amanda siendo una especie de maestra particular para ella. Amanda en cambio es incapaz de sentir cualquier cosa y todas sus emociones son una actuación que perfeccionó a través de los años, por lo tanto ambas llevan vidas complejas y de mentira, una por querer aparentar que todo es perfecto y la otra por esforzarse en hacer en creer a todos que ella está bien, a pesar de que su madre esta enferma de cáncer. Si bien los motivos por los que se vuelven a reunir son completamente opuestos, al poco andar de la película se desvela el movil que las unirá en la mayor parte de la historia, ya que ambas confabularon para que una de ellas sea libre y feliz, ignorando por completo lo que pueda ocurrir a la otra y, por supuesto, sin escatimar costos ni consecuencias.
 

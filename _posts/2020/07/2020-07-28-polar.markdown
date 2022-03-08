@@ -22,7 +22,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## En algún lugar de Chile
+### En algún lugar de Chile
 
 Así empieza Polar, una película de acción al mas puro estilo John Wick que parece salida de la mente de un Tarantino de los 90s, pero con mucha más tecnología, mujeres sexys, una organización secreta de asesinos, un código de jubilación y muchos, muchos cadáveres.
 

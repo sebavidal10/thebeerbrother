@@ -26,7 +26,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## La Tormenta
+### La Tormenta
 
 Mientras transcurren los hechos, una amenazante tormenta golpea la ciudad y los noticieros señalan que es idéntica a una ocurrida hace muchos años, lo que los personajes no saben es que esta particular tormenta genera una anomalía temporal en la que Vera es capaz de contactar al niño de la TV y advertirle de los hechos que ocurriran evitando que muera, con lo que claramente cambiará TODO, lo más radical es que evitar la muerte del niño desencadena una serie de sucesos que impiden que ella conozca a su esposo, por lo que su pequeña hija nunca existió y, por algo conveniente para la trama, ella posee los recuerdos de ambas realidades.
 

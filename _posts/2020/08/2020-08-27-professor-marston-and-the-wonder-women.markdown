@@ -26,7 +26,7 @@ Además de ser profesor, fue **espía** en épocas de guerra, **inventor** autor
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Mujeres Maravilla
+### Mujeres Maravilla
 
 Un dia en una de sus clases conoce a **Olive Byrne** (Bella Heathcote), por quien siente cierta atracción y con quien creó una relación poliamorosa junto a su esposa, relación que tuvo muchos frutos, uno de ellos la creación de Wonder Woman por parte de Marston, ya que la mezcla equilibrada de sus dos amadas daban por producto a La Mujer Maravilla, la belleza de una de ellas, mezclado con la inteligencia y fortaleza de la otra resultaban en un icono que el profesor admiraba, y el cual deseaba compartir con el mundo, el problema eran las demás cosas entorno a esto, como la directa asociación a la sodomizacion en la historia y viñetas y a las supuestas perversiones de la época, sumado a que en cada número del comic habían posturas, golpes, violencia, mujeres en poca ropa y en poses cuestionables para esos años.
 

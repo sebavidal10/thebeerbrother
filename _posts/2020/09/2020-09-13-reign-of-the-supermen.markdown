@@ -24,13 +24,13 @@ La continuación directa de la nueva versión de **The Death of Superman** lanza
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## El Reino de los Super-hombres
+### El Reino de los Super-hombres
 
 Historia basada en la continuación de La muerte de Superman, donde los personajes son los mismos, pero los hechos ocurren de diferentes maneras para poder adaptarse a la época actual y a la línea temporal de las últimas películas animadas de la Liga de la Justicia. Las peleas son increíbles, pero la calidad (al igual que en La Muerte de Superman) dista mucho de lo visto en las últimas entregas animadas de Batman (Batman y Robin, el hijo de Batman, etc), lo que baja un poco el nivel de la película, pero no lo suficiente como para arruinar el buen guión detrás de las viñetas adaptadas.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## Spoilers
+### Spoilers
 
 Como era de esperar por quienes conocen el comics, ninguno de estos cuatro personajes es realmente Superman, ya que el hombre de acero se encuentra en la _Fortaleza de la Soledad_ recuperándose, mientras el Erradicador lo cuida (a él y a la ciudad) con todos los recursos a su alcance mientras Steel y Superboy tratan de cuidar de la ciudad y tomar el puesto de Kal-El como el protector de la humanidad. Por otro lado, y como era de esperar, el Superman Cyborg es quien oculta un secreto y orquesta desde las sombras y el engaño el regreso de **Darkseid** junto a los parademons a la Tierra, todo gracias a la tecnología que posee el Cyborg Superman con la cual provee de poderes a simples humanos, bajo la premisa de que _todos_ podemos ser Superman, cuando realmente serán parte de un estructura gigante que abrira un portal para la llegada de su amo.
 

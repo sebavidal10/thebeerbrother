@@ -45,12 +45,12 @@ Por otro lado la música es muy buena, me recordó a la forma en que usan este r
 
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
-## Lo mejor?
+### Lo mejor?
 
 - El elenco, la música, y cómo mezclan cada una de las historias de los diversos personajes (sobre todo la de Cinco y la de Klaus).
 - La mezcla de ciencia ficción, futuros distopicos y superheroes esta muy bien lograda.
 
-## Lo peor?
+### Lo peor?
 
 Mmm esta difícil, me gusto mucho la serie, pero para algunas personas pueden resultar un tanto lentos los primeros capítulos.
 

@@ -28,7 +28,7 @@ Por fin algo bueno nace de Marvel-Netflix, **The Punisher** vuelve a ser lo que 
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Frank Castle is dead call me the punisher
+### Frank Castle is dead call me the punisher
 
 En 13 episodios la serie nos cuenta lo que pasó con Frank desde que dejó de ser The Punisher y quiso mantenerse fuera del radar trabajando en construcción (o destrucción), cosa que no resulta ya que por las vueltas de la vida está de nuevo en el centro de una 'guerra' entre quienes crean la verdad y quienes huyen de ella.  
 Mediante el recurso de flashback nos van contando la historia de Castle en medio de la guerra, en diversas misiones especiales que bordean la ética, y la de la pérdida de su familia lo que lo atormenta constantemente y, en una segunda linea, aborda el trauma post guerra de los enviados a Afganistan, Irak o cualquier punto de conflicto y como estos difícilmente se recuperan de lo que ven en el campo de batalla.
@@ -39,7 +39,7 @@ La única complicación de la serie puede ser este ultimo punto, ya que tiende a
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## Me gusto la serie?
+### Me gusto la serie?
 
 Si y mucho, tiene muy buen ritmo y se siente real y adulta, el detalle es que desde muy temprano se vuelve predecible y se vislumbran los 'buenos' y 'malos' muy rápidamente. Se puede deducir fácilmente que personajes del mundo de The Punisher se gestan a lo largo de los primeros capítulos. Destacan las actuaciones e interpretaciones de la detective Dinah Madani (**Amber Rose Revah**) y los ex-compañeros de escuadrón de Castle, Billy Russo (**Ben Barnes**) y Curtis Hoyle (**Jason R. Moore**), además del hacker David Lieberman (**Ebon Moss-Bachrach**) que enriquece el lado bueno de Marvel Netflix, al igual que las fugaces, pero agradables, apariciones de Karen Page (**Deborah Ann Woll**).
 

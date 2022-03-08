@@ -24,7 +24,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## L.A. City of Demons
+### L.A. City of Demons
 
 City of Demons trata acerca de cómo Jhon busca rescatar a la hija de su amigo de toda la vida, Chas Chandler, de las garras de un poderoso demonio que necesita algo de Constantine y que como moneda de cambio usara a la pequeña niña, mientras se enfrenta al constante tormento de la muerte de una chica por su falta de conocimientos en las artes ocultas y su eterna agonía en el infierno.
 
@@ -34,7 +34,7 @@ El debate moral, siempre presente en torno al personaje, lo lleva a investigar y
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## Excelente historia
+### Excelente historia
 
 La historia es increíble, con los recursos adecuados podría haber sido una gran película live action y claramente debe ser un cómic buenísimo. Excelente película animada, **recomendadisima**, eso si, sólo para adultos, ya que esta llena de cadaveres, traseros y desmembramientos.
 

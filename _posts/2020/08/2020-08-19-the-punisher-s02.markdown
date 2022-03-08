@@ -29,7 +29,7 @@ La serie empieza con Frank (Jon Bernthal) tomando una cerveza en un bar promedio
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## Nuevos personajes
+### Nuevos personajes
 
 Debo decir que extrañé a David Lieberman (Ebon Moss-Bachrach), el genio informático de la primera temporada, pero en su lugar nos trajeron un nuevo personaje llamado **John Pilgrim** (Josh Stewart), un particular predicador que citando pasajes de la biblia nos muestra que hay gente hábil para asesinar en ambos lados de la balanza y que en un segundo puede pasar de la calma de un hombre de familia que vive alejado de todo a un eficiente asesino a sangre fría con un pasado oscuro que lo une al lado más violento de la ciudad.
 
@@ -41,11 +41,11 @@ Estas son las piezas que la segunda temporada pone en el tablero, y el juego seg
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-## Lo mejor?
+### Lo mejor?
 
 El elenco es genial, Frank Castle, Russo, Madanni y Pilgrim son personajes increíbles, imposibles de predecir y con motivaciones válidas para lo que hacen, que sumado a sus extrañas habilidades los convierten en máquinas frías, ejecutoras y precisas.
 
-## Lo peor?
+### Lo peor?
 
 Si no te enganchó la primera por el ritmo que tiene, esta sigue la misma linea, asi que quienes no terminaron o no disfrutaron de la temporada 1, esta será mejor que no la vean.
 

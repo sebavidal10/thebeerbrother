@@ -36,13 +36,13 @@ Las aventuras, sobre todo de Zimmerman, transmiten el riesgo y la tensión de li
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## Lo que no me gusto mucho
+### Lo que no me gusto mucho
 
 Entiendo que Spike Lee siempre tiene un mensaje político y pro-afroamericano, pero acá hay una escena de un discurso que se muestra en plenitud y que busca enrolar jóvenes para una especie de guerra inminente contra los blancos que creo ocupo demasiado metraje, ya que la película pasa de las 2 horas y resulta complicada de ver, por qué se siente que se malgasta tiempo... tiempo que se trata de recuperar a medida que avanza y termina cerrando la mayoría de las situaciones de buena forma, excepto lo relacionado con un policía blanco del departamento, que a mi parecer fue la salida simple y rápida y que podría haber tenido más “impacto”.
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-## Recomendada
+### Recomendada
 
 Es una película altamente recomendada, pero como ya dije, más de dos horas fue mucho, en una hora y media se podría haber contado la misma historia y de una forma aún más entretenida. Por último, **Gran banda sonora**.
 

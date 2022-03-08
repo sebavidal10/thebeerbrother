@@ -24,7 +24,7 @@ tags:
 
 Antes que todo, destacar que costó sólo 4 millones de dólares, lo que no se nota en absoluto, ya que la fotografía, la iluminación y la composición en general de la película es muy correcta y está al nivel de grandes producciones, ahora si, hablemos del film.
 
-## Apocalipsis?
+### Apocalipsis?
 
 Se vendió como una historia post-apocalíptica con una plaga zombie que atacan de noche.. grave error, la historia más bien nos sitúa varios años después de la expansión de una enfermedad contagiosa que afectó al mundo devastando la sociedad como tal y eliminando la tecnología y comunicación de nuestras vidas. Todas las personas que quedan están bajo amenaza y viven en un mundo hostil donde todos buscan la supervivencia y el bienestar propio, es ahí donde It Comes at Night nos presenta a la familia protagonista de la historia: Paul (**Joel Edgerton**), su esposa Sarah (**Carmen Ejogo**), su hijo Travis (**Kelvin Harrison Jr.**) y su mascota, que viven aislados en una abarrotada casa, que les permite mantenerse seguros y protegidos de cualquier cosa que ocurra afuera.&nbsp;
 

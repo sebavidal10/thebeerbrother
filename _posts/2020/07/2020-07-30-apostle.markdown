@@ -27,7 +27,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## La isla está viva
+### La isla está viva
 
 La historia trata de un hombre, Thomas Richardson (interpretado por Stevens) que debe viajar e infiltrarse en un extraño culto que vive alejado de todo (incluso del Rey y su poder) en una isla para rescatar a una joven que está secuestrada ahí y por la que piden una alta suma de dinero. El viaje y la llegada a la isla están llenas de tonos grises, hermosas montañas y lagos cristalinos, eternas postales de los países nórdicos, y nos dejan en claro que la ley, costumbres y tradiciones de la isla solo viven en ella.  
 La isla es manejada por sus fundadores, a la cabeza el Profeta Malcolm (Michael Sheen), como su mano derecha Quinn (Mark Lewis Jones) y por el dueño del barco. Todo en la isla está en torno a **ELLA** , una diosa de la isla que según la historia, salvo la vida de Malcolm y permite a toda la comunidad mantenerse viva, pero a cambio pide sacrificios de sangre, mucha sangre.
@@ -38,13 +38,13 @@ Al poco andar de la película uno olvida que todo ocurre a comienzos de 1900 y s
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## Excesos y edición
+### Excesos y edición
 
 La violencia me hizo recordar a Bone Tomahawk, esos cortes crudos y golpes mortales que de pronto ocurren o escenas que uno no espera son dignos del western más crudo y violento. Creo que el giro del último acto y las explicaciones de los hechos del pasado fueron el punto perfecto que capturó mi atención y me trajo de lleno a ver la película, lo malo es que ocurrió pasado la hora treinta del film. Siento que una mejor edición, o quizás la edición de un tercero habrían ayudado, ya que claramente Garret no supo decidir que sacar de su obra y terminó haciendo una película muy dilatada que se siente (extrañamente) acelerada en su conclusión.
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
-## Me gusto?
+### Me gusto?
 
 Si, sobre todo esas cosas que me recordaron a **The Ritual** , esas cosas que hacen pensar si los sucesos sin explicación son posibles y si seres mágicos habitaron la tierra alguna vez, reinaron, fueron venerados y murieron. Me agrada eso... hizo que la película pasara de ser muy extensa a terminar agradándome. Fue como estar leyendo un libro que se explica a sí mismo hasta el mínimo detalle y deja una extraña sensación al terminar.
 

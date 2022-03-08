@@ -22,7 +22,7 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## No le roben al ciego
+### No le roben al ciego
 
 **Fede Alvarez** (Evil Dead 2013) dirige a **Stephen Lang**y **Jane Levy** en este Thriller de Horror que en un comienzo se llamaría **A Man in the Dark** y que hoy conocemos como Don't Breathe, donde se cuenta la historia de 3 ladrones que gracias a cierta información privilegiada saben que casas robar y cuanto robar en cada una de ellas para que la policía no los busque por mucho tiempo y, en caso de ser sorprendidos, que la condena sea muy breve.
 
@@ -32,7 +32,7 @@ El grupo de amigos/ladrones está formado por **Rocky** (Jane Levy), **Alex** (D
 
 El problema de este plan perfecto es que el ciego que vive solo es **Stephen Lang**, un ex militar retirado y el perro es un Rottweiler entrenado(?) ah! y la casa, es una trampa perfecta para cualquiera que no sea ciego ya que está completamente a oscuras, por lo tanto, a los pocos segundos que los ladrones entran se dan cuenta que han pasado de ser atacantes a víctimas de un violento y sádico anciano.
 
-## Realismo
+### Realismo
 
 Para dar mayor realismo a las escenas en el interior de la casa todos utilizaron lentes de contacto, Lang para parecer un ciego de verdad (los lentes imposibilitaba un poco su visión para que sus movimientos se vieran más naturales) y los chicos para que parecieran tener las pupilas dilatadas, como cuando nos enfrentamos a un lugar oscuro donde debemos agudizar la vista.
 

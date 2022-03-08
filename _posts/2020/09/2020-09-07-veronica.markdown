@@ -22,14 +22,14 @@ tags:
     <figcaption>{{ page.title }}</figcaption>
 </figure>
 
-## Héroes del Silencio
+### Héroes del Silencio
 
 En una Madrid de los años 90 y al ritmo de **Maldito Duende**, **Paco Plaza ( Rec )**, nos presenta la historia de Veronica, joven de 15 años que debe hacerse cargo de levantar y cuidar a sus 3 pequeños hermanos, ya que su madre trabaja sobre horas en un restaurante para poder mantenerlos y su padre falleció.
 **Veronica** debió crecer de golpe y con ellos aumentaron sus responsabilidades, la ausencia del padre la ha vuelto una niña un poco solitaria y que se tambalea en la línea entre la inocente niñez y el crudo mundo de los adultos. Un dia, mientras ocurre un eclipse solar y toda la escuela sale del establecimiento para ver el fenómeno, ella, junto a 2 amigas, deciden utilizar usar una Ouija para tratar de contactar al padre de Vero, pero lo que respondera no será precisamente su padre y no a venido solo a hablar, sino que decidirá quedarse.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## El miedo a crecer
+### El miedo a crecer
 
 Bajo esa premisa y haciendo uso de un elenco en el que destaca la joven **Sandra Escacena** como **Veronica** y los 3 pequeños (increible cada uno en su rol) se levanta una película llena de los clásicos clichés del cine de terror, tomas muy buenas, enlaces entre una secuencia y otra que parecen parte de un sueño y una edición donde se nota cariño y dedicación, todo esto sumado una dirección de lujo generan una película de alto nivel, que si bien es muy simple, esta muy bien lograda.
 Las canciones no son al azar y tienen todo el sentido posible cuando aparecen, hay una melodía que recuerda un poco a la canción principal de **Raw**.

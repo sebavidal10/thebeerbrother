@@ -40,7 +40,7 @@ Estuve viendo la serie de Marie Kondo, pero me pareció más un personaje fictic
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
-## Altamente recomendado
+### Altamente recomendado
 
 <hr/>
 <div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80114460" target="_blank">Netflix</a></div>

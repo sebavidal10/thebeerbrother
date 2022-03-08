@@ -23,7 +23,7 @@ tags:
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## La vida en la nube
+### La vida en la nube
 
 La película desde un comienzo nos muestra como nuestra vida es almacenada y, en ocasiones, contada a través de internet, donde personas que no conocemos pueden tener acceso a secretos que ocultamos a nuestro círculo más cercano. Específicamente la historia nos habla de David Kim (John Cho), quien perdió a su esposa hace varios años por un cáncer y ahora, sin motivo alguno, se enfrenta a la desaparición Margot Kim (Michelle La), su hija adolescente con la que piensa tiene una excelente relación.
 
@@ -33,11 +33,11 @@ El guión y la excelente actuación de John Cho nos muestran cómo, en ocasiones
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## Fake news
+### Fake news
 
 El extravío y las teorías que se van generando entorno a la desaparición de Margot llevan a David a perder la calma y hacer cosas que no debería y a, de una vez por todas, preocuparse por su hija y querer conocerla realmente. También nos muestra la falsedad de las cuentas de internet, donde por algunos likes o seguidores todos mienten y, en casos de extravíos o de conmoción pública, todos son amigos y quieren aparentar cercanía para ganar atención, generando contenido y proponiendo teorías muy descabelladas.
 
-## Muy buen giro
+### Muy buen giro
 
 El giro y la solución de la película están muy bien, no se siente simple y satisface al público. La tensión de cada escena se transmite perfectamente y nos hace partícipes de la implacable búsqueda de Margot.
 

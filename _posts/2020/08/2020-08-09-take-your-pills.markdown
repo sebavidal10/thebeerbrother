@@ -25,7 +25,7 @@ tags:
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Limitless
+### Limitless
 
 Viste la película Limitless (2011) ? si no, en resumen es la historia de un perdedor que un dia accede a una pastilla que reactiva su cerebro y lo vuelve un genio capaz de escribir un libro en pocas horas y de triunfar en la vida y, con ello, recuperar a su ex-novia, obviamente metiendolo en muchos líos en el camino, el documental muestra casos de gente que, al igual que el protagonista de Limitless, triunfan en la vida gracias al Adderall, un medicamento para personas con Déficit Atencional que en personas sin esta condición parece aumentar la concentración y el rendimiento dándoles ventajas significativas frente a sus pares y a las pruebas que la vida les presenta (académicas y del diario vivir).
 
@@ -35,7 +35,7 @@ Mediante muchas entrevistas a consumidores, médicos y jóvenes que padecen Déf
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## Altamente Recomendado
+### Altamente Recomendado
 
 Es una visión sin juicios y que muestra testimonios y hechos de quienes consumen y son felices y de quienes son cautos a la hora de abusar de las pastillas. Además hace incapie en cómo los médicos han hecho vista gorda a su ética y en muchos casos prefieren medicar sin tapujos con el simple objetivo de 'sanar' al paciente.
 

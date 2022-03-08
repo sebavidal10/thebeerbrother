@@ -22,7 +22,7 @@ tags:
 
 Francis Ford Coppola es un genio a la hora de crear iconos. Cuando dirigio [Dracula](https://www.imdb.com/title/tt0103874) definio el "cómo" recordariamos socialmente a Drácula y la referencia inevitable que tendríamos al pensar en el conde de Transilvania. Nunca ha sido superado ni por las actualizaciones de comienzos de los 2000 como [Dracula 2001](https://www.imdb.com/title/tt0219653/), por [Dracula untold](https://www.imdb.com/title/tt0829150) ni por la serie de Netflix [Dracula](https://www.imdb.com/title/tt9139220/) (la que esta mejor en su primera parte). El mismo director creó el canon del capo de la mafia con [El Padrino](https://www.imdb.com/title/tt0068646/) y sus secuelas, y de la misma forma no ha podido ser actualizado con los años… Pero lo que si se ha podido hacer es sacar una versión paralela del clásico, una nueva visión que no busca sobreescribirlo, sino que da una nueva visión más estereotipada aún, pero con orígenes completamente diferentes. Mis ejemplos favoritos son, en relación a Drácula y los vampiros [The Lost Boys (1987)](https://www.imdb.com/title/tt0093437/) y en relacion a la mafia [Lock & Stock (1998)](https://www.imdb.com/title/tt0120735/) y [RocknRolla (2008)](https://www.imdb.com/title/tt1032755/), ambas de Guy Ritchie, quien también dirigió la excelente The Gentlemen, de la cual hablare en las próximas líneas.
 
-## The Gentlemen
+### The Gentlemen
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-00.jpg)
 
@@ -38,7 +38,7 @@ Francis Ford Coppola es un genio a la hora de crear iconos. Cuando dirigio [Drac
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## El León y el Dragón
+### El León y el Dragón
 
 Matthew McConaughey es **Michael Pearson**, el líder de un grupo de vendedores de marihuana que ve amenazado su reinado por un joven **Dry Eye** (Henry Golding), heredero de un imperio oriental encargado del tráfico de heroína. Además de estos personajes, tenemos a todos los demás que orbitan en la ciudad, como el **Coach** (Colin Farrell) que se convirtió en uno de mis personajes favoritos. También está la mano derecha de Pearson, **Ray** (Charlie Hunnam) un miembro implacable de su organización que siempre lo acompaña y por último (obvio que hay más), **Fletcher** (Hugh Grant), quien comienza la película y la adorna con una narración increíble que te engancha de inmediato y entras en la película con una sonrisa dada por la actuación, la música y la atractiva puesta en escena.
 

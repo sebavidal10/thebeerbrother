@@ -34,7 +34,7 @@ El elenco es increíble, todas las actuaciones son muy buenas, tanto **Elisabeth
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## The Square
+### The Square
 
 Hay muchos planos que hacen referencia a The Square, hermosas tomas llenas de basura, escaleras, calles, etc. que serian un excelente elemento en una expo de arte contemporáneo, ya que "Qué hace que un objeto cualquiera se convierta en arte?"... (en parte) el espacio, el lugar, lo que rodea, de ahí lo importante de como se exhibe una obra y de quienes la verán, o no?
 

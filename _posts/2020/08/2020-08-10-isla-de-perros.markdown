@@ -26,13 +26,13 @@ Isla de Perros es una increíble película de animación por _stop motion_ dirig
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## De que trata?
+### De que trata?
 
 En Isla de Perros nos cuentan la historia de un distópico Japón, específicamente nos sitúan en la ciudad de Megasaki, donde un séquito de personas lideradas por el alcalde Kobayashi, buscan el exterminio de los perros, ya que se a desatado una fiebre canina, y que como primer paso para proteger a las personas, enviaran a los canes a una isla de basura por un tiempo indeterminado.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## La Isla
+### La Isla
 
 De pronto un piloto llega a la isla, es el pequeño Atari (sobrino de Kobayashi) que a decidido ir en búsqueda de su mascota Spots, “el perro cero" (el primer can en dejarse en la isla), misión en la cual será acompañado por un raro grupo de perros (Chief, Rex, Boss, Duke, King) con las diversas características, quienes nos narraran la aventura desde su particular punto de vista.  
 En su camino para encontrar a su mascota, **Atari** pasará por muchas aventuras y nosotros como espectadores (re)descubriremos al mejor amigo del hombre (a pesar que algunos muerden).
@@ -41,7 +41,7 @@ En su camino para encontrar a su mascota, **Atari** pasará por muchas aventuras
 
 La animación es simplemente genial y la música está a su nivel, ambos elementos se convierten en un narrador presente en cada momento que nos cuenta cosas sin diálogos y que nos permite entender la intención y el contexto de un dialogo en japonés. Gracias Wes Anderson por darnos un ejemplo tan claro de que la perfección siempre lleva algo de cariño.
 
-## Excelente elenco
+### Excelente elenco
 
 Si bien sólo vemos perros y personas con formas caricaturescas, los actores y actrices detrás los corresponden en calidad y versatilidad, por ejemplo:
 

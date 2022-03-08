@@ -30,7 +30,7 @@ La primera noche en su nueva casa son asaltadas por dos sujetos muy extraños, u
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
-## Buenísima
+### Buenísima
 
 Es difícil hablar más de la trama sin develar spoilers, pero lo que si puedo decir es que es un film que sorprende y mucho, tiene muy buenos giros de trama y la excelente dirección de **Pascal Laugier**, quien estuvo detrás de Martyrs, y la actuación de las versiones adultas y niñas de Pauline y Beth, crean una obra intensa y de alta calidad, a la que su pretencioso afiche y la extraña y forzada traducción del título a **Pesadilla en el Infierno** no le hacen ningún favor, ya que tomándolos en cuenta uno imagina una de las 982347283479 películas de terror malas que se estrenan a cada rato y, claramente, esta muy por sobre ellas.
 

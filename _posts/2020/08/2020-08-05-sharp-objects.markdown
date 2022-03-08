@@ -28,13 +28,13 @@ Serie de HBO basada en el libro de Gillian Flynn del mismo nombre que cuenta la 
 
 ![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
 
-## El regreso
+### El regreso
 
 El regreso al pueblo de infancia siempre es difícil, más aún si fuiste una chica problemática, con fama de mujerzuela entre las demás féminas del pueblo, hija de la familia más rica y hermana de una hermosa joven que murió en las peores condiciones posibles, todos hechos que la atormentaron al punto de la locura y que dejaron huella en su cuerpo marcado por agujas y cuchillos que describen hechos y conceptos que marcaron (de manera literal) la vida de una solitaria y alcohólica Camille.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
-## Wind Gap
+### Wind Gap
 
 El pueblo de Wind Gap en sí es un personaje más, un personaje racista hijo del ejercito confederado y gobernado por la familia que tiene el negocio más grande y que da trabajo a (casi) todo el pueblo, una enorme planta de crianza de cerdos que está a cargo de la madre de Camille llamada Adora Crellin, interpretada por una increible Patricia Clarkson.
 
@@ -44,7 +44,7 @@ Wind Gap me recuerda a las ciudades que hay en las historias de Stephen King, ya
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
-## La casa Preaker
+### La casa Preaker
 
 El decorado de la casa es genial, a momentos se siente como un film de casa embrujada, donde los fantasmas del pasado y el presente chocan y las paredes guardan muchos secretos que solo sabremos nosotros. La gran cantidad de paralelismos, la importancia de los cuadros y el choque del mundo de las drogas y los excesos junto con la vida confederada tradicional y la existencia de una sola persona negra que resulta ser la sirvienta, descolócan y a la vez capturan de forma magnética a la pantalla, que baila de manera perfecta con la música, que no solo acompaña, sino que tiene un motivo y una justificación para ser tan importante en la vida de Camille.
 
@@ -54,19 +54,19 @@ Más o menos la mitad de la serie transcurre en la casa, es un símbolo de conte
 
 ![{{ page.title | slugify }}-00](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-00.jpg)
 
-## Lento, pero seguro
+### Lento, pero seguro
 
 La historia avanza lento y se cocina a fuego bajo, lo que nos genera una ansiedad brutal capitulo a capitulo y que muestra lo buena que es la historia y lo excelente que son Amy Adams y Patricia Clarkson para transmitir lo que sienten sin palabras. Al igual que ellos hay 3 personajes que destacan mucho, Eliza Scanlen como la pequeña hermanastra de Camille que hace las veces de niña rebelde a escondidas de sus sobreprotectores padres. Matt Craven como el jefe de policía que vive una rutina diaria y que oculta secretos (al igual que todos en el pueblo) y Elizabeth Perkins como Jackie O'Neill, la mujer alcohólica, lujuriosa y que hará de todo por mantener su estatus, sin importar sus valores. El resto del elenco igual es muy bueno, orbítan en torno a la protagonista susurrando cosas y creando situaciones que se tambalean entre excesos y mentiras y que hacen teorizar acerca de quien es el asesino y que lo motiva. Cada capitulo revela una situación que marco a Camille, pero que entrega información en relación a las niñas muertas como la leyenda de la Mujer de Blanco, los abusos por parte de las personas con mas dinero, la información que la policía oculta y el abuso de drogas y alcohol por parte de la juventud de Wind Gap.
 
 ![{{ page.title | slugify }}-06](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-06.jpg)
 
-## Recomendada?
+### Recomendada?
 
 **Absolutamente** , la dirección es genial al igual que las actuaciones, podemos ver entre líneas cosas que no son explícitas y sentir que hay miradas que dicen mucho y que a veces la motivación para hacer algo va más allá del bien y el mal. La horrorosa forma en que se encuentran los cadáveres y los oscuros secretos de cada habitante de Wind Gap me hacen pensar que si hubiese sido dirigido por David Fincher estaríamos frente a una obra tan buena como Gone Girl o Mind Hunter. Que buena serie, de lo mejor de este último tiempo.
 
 ![{{ page.title | slugify }}-07](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.jpg)
 
-## Fantasmas, sombras y patines
+### Fantasmas, sombras y patines
 
 Para terminar, una de las cosas que más me gusto fue el recurso del _flashback_ y las visiones de Camille... que grato ver ese tipo de cosas que te hacen pensar si es real o es algo que imagína ebria o a causa de sus traumas... excelente!
 
