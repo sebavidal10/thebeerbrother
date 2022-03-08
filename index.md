@@ -20,7 +20,11 @@ title: 'The BeerBrother'
       <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
     {% endfor %}
     {% for tag in site.posts[0].tags %}
-      <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+      {% if tag != "spoiler" %}
+        <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+      {% else %}
+        <span class="tag is-danger">{{tag}}</span>
+      {% endif %}
     {% endfor %}<br>
 
   </div>
@@ -71,7 +75,11 @@ title: 'The BeerBrother'
                           <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
                         {% endfor %}
                         {% for tag in post.tags %}
-                          <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                          {% if tag != "spoiler" %}
+                            <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                          {% else %}
+                            <span class="tag is-danger">{{tag}}</span>
+                          {% endif %}
                         {% endfor %}<br>
                       </div>
                   </div>

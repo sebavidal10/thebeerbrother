@@ -9,6 +9,7 @@ categories:
 tags:
   - analisis
   - terror
+  - spoiler
 ---
 
 **Año** : 2019  

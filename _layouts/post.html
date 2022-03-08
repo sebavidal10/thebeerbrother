@@ -19,7 +19,11 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
       {% for cat in page.categories %}
       <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
       {% endfor %} {% for tag in page.tags %}
-      <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+        {% if tag != "spoiler" %}
+          <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+        {% else %}
+          <span class="tag is-danger">{{tag}}</span>
+        {% endif %}
       {% endfor %}
     </div>
   </div>
@@ -135,7 +139,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
           <ul style="width: 90%">
             {% for p in site.posts limit:10 %}
             <li>
-              <a href="{{ p.url }}">
+              <span href="{{ p.url }}">
                 <div class="div-text">
                   <img class="image-banner" src="/assets/images/{{ p.date |
                   date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
@@ -149,7 +153,11 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
                     {% for cat in p.categories %}
                     <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
                     {% endfor %} {% for tag in p.tags %}
-                    <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                    {% if tag != "spoiler" %}
+                      <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                    {% else %}
+                      <span class="tag is-danger">{{tag}}</span>
+                    {% endif %}
                     {% endfor %}
                   </div>
                 </div>
@@ -219,7 +227,11 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
             <div class="content">
               <!-- <div class="lead">{{ post.lead }}</div> -->
               {% for tag in post.tags %}
-              <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                {% if tag != "spoiler" %}
+                  <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                {% else %}
+                  <span class="tag is-danger">{{tag}}</span>
+                {% endif %}
               {% endfor %}<br />
             </div>
           </div>
