@@ -342,6 +342,19 @@ a {
         padding-left: 10px;
         padding-right: 10px;
     }
+
+    .image-banner,
+    .image-banner-home,
+    .gradient-back,
+    .gradient-back-home {
+        height: 75vh;
+    }
+
+    .image-banner-home,
+    .gradient-back-home {
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
 }
 
 .markdown {
