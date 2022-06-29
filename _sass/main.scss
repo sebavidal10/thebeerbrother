@@ -131,6 +131,16 @@ a {
     }
 }
 
+@include tablet {
+    .box.is-4 {
+        width: calc(33% - 17px) !important;
+    }
+
+    .box.is-8 {
+        width: calc(66% - 15px) !important;
+    }
+}
+
 
 @include until($desktop) {
     .box {
