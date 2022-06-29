@@ -202,17 +202,21 @@ a {
     }
 }
 
+.pt-60 {
+    padding-top: 60px;
+}
+
 .image-banner {
     width: 100%;
     // height: 100vh;
-    height: 60vh;
+    height: 750px;
     object-fit: cover;
     object-position: top;
 }
 
 .image-banner-home {
     width: 100%;
-    height: 60vh;
+    height: 750px;
     object-fit: cover;
     object-position: top;
     margin-bottom: 14px;
@@ -269,7 +273,7 @@ a {
     background: -o-linear-gradient(top, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
     background: linear-gradient(180deg, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
 
-    height: 60vh;
+    height: 750px;
     position: absolute;
     z-index: 1;
     width: 100%;
@@ -281,7 +285,7 @@ a {
     background: -webkit-linear-gradient(top, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
     background: -o-linear-gradient(top, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
     background: linear-gradient(180deg, rgba(0, 0, 0, .3) 29%, rgba(0, 0, 0, .7) 81%);
-    height: 60vh;
+    height: 750px;
     position: absolute;
     z-index: 1;
     width: 100%;
