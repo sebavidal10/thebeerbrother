@@ -5,9 +5,10 @@ title: 'The BeerBrother'
 
 {% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
 
-<img class="image-banner-home" src="/assets/images/{{ site.posts[0].date | date: "%Y" }}/{{ site.posts[0].date | date: "%m" }}/{{ site.posts[0].title | slugify }}-banner.jpg" alt="Placeholder image">
-
-<div class="gradient-back-home"></div>
+<div class="container">
+  <img class="image-banner-home" src="/assets/images/{{ site.posts[0].date | date: "%Y" }}/{{ site.posts[0].date | date: "%m" }}/{{ site.posts[0].title | slugify }}-banner.jpg" alt="Placeholder image">
+  <div class="gradient-back-home"></div>
+</div>
 <div class="container">
   <div class="title-post">
     <div class="b-title">
