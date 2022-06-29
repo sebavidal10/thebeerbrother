@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en" }}">
+<html lang="{{ site.lang | default: "en" }}">
 
 <head>
 
@@ -36,8 +36,8 @@
   <nav class="navbar is-black" aria-label="main navigation">
     <div class="container">
       <div class="navbar-brand">
-        <a class="navbar-item navbar-logo" href="/"><img src="/assets/images/logo.png" alt="logo" /> The Beerbrother</a>
-        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
+        <a title="navbar-item navbar-logo" class="navbar-item navbar-logo" href="/"><img src="/assets/images/logo.png" alt="logo" /> The Beerbrother</a>
+        <a title="navbar-burger" role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
@@ -47,8 +47,8 @@
       <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-end">
           <div class="recomendacion is-hidden-mobile">Recomendaciones de </div>
-          <a href="/categoria/peliculas" class="navbar-item">PELICULAS</a>
-          <a href="/categoria/series" class="navbar-item">SERIES</a>
+          <a href="/categoria/peliculas" class="navbar-item" title="navbar-item">PELICULAS</a>
+          <a href="/categoria/series" class="navbar-item" title="navbar-item">SERIES</a>
           &nbsp;&nbsp;
           <!-- <a href="/categoria/comics" class="navbar-item">COMICS</a>    
             <a href="/categoria/juegos" class="navbar-item">JUEGOS</a>    
@@ -90,7 +90,7 @@
       <p>
         <br />
         <strong>© 2022</strong> The BeerBrother<br />
-        <small>Escrito con <i class="fas fa-heart" style="color: red"></i> por <a href="https://sebavidal.cl">Sebastián Vidal</a></small>
+        <small>Escrito con <i class="fas fa-heart" style="color: red"></i> por <a title="sebavidal" href="https://sebavidal.cl">Sebastián Vidal</a></small>
       </p>
     </div>
   </footer>

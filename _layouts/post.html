@@ -6,6 +6,8 @@ layout: default
 "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre"
 | split: "|" %} 
 
+<h1 style="display: none">The Beerbrother - Review {{ page.title }}</h1>
+
 <div class="container pt-60">
   <img class="image-banner" src="/assets/images/{{ page.date |
 date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
@@ -22,10 +24,10 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
     <p class="is-hidden-mobile">{{ page.description }}</p>
     <div>
       {% for cat in page.categories %}
-      <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+      <a title="categroy slug" class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
       {% endfor %} {% for tag in page.tags %}
       {% if tag != "spoiler" %}
-      <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+      <a title="tag slug" class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
       {% else %}
       <span class="tag is-danger">{{tag}}</span>
       {% endif %}
@@ -70,13 +72,13 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
 
           <div class="PageNavigation">
             {% if page.previous.url %}
-            <a class="prev" href="{{page.previous.url}}"><i class="fas fa-long-arrow-alt-left"></i> Artículo anterior<br /><b>{{page.previous.title}}</b></a>
+            <a title="prev" class="prev" href="{{page.previous.url}}"><i class="fas fa-long-arrow-alt-left"></i> Artículo anterior<br /><b>{{page.previous.title}}</b></a>
             {% else %}
-            <a>&nbsp;</a>
+            <a title="space">&nbsp;</a>
             {% endif %} {% if page.next.url %}
-            <a class="next" href="{{page.next.url}}">Artículo siguiente <i class="fas fa-long-arrow-alt-right"></i><br /><b>{{page.next.title}}</b></a>
+            <a title="next" class="next" href="{{page.next.url}}">Artículo siguiente <i class="fas fa-long-arrow-alt-right"></i><br /><b>{{page.next.title}}</b></a>
             {% else %}
-            <a>&nbsp;</a>
+            <a title="space">&nbsp;</a>
             {% endif %}
           </div>
 
@@ -95,7 +97,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
           <ul style="width: 100%">
             {% for p in site.posts limit:10 %}
             <li>
-              <a href="{{ p.url }}">
+              <a title="post-{{ p.title }}" href="{{ p.url }}">
                 <div class="div-text">
                   <img class="image-banner" src="/assets/images/{{ p.date |
                   date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
@@ -107,10 +109,10 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
                       <b>{{ months[m] }}{{ p.date | date: " %-d, %Y" }}</b><br />
                     </div>
                     {% for cat in p.categories %}
-                    <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+                    <a title="cat" class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
                     {% endfor %} {% for tag in p.tags %}
                     {% if tag != "spoiler" %}
-                    <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                    <a title="tag" class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                     {% else %}
                     <span class="tag is-danger">{{tag}}</span>
                     {% endif %}
@@ -125,7 +127,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
           <div class="cloud">
             {% assign sortedTags = site.tags | sort: tag[0] %} {% for tag in
             sortedTags %}
-            <a href="/tags/{{ tag[0] | slugify }}">
+            <a title="cloud-tag-{{ tag[0] | capitalize }}" href="/tags/{{ tag[0] | slugify }}">
               <div class="tile-tag">{{ tag[0] | capitalize }}</div>
             </a>
             {% endfor %}
@@ -157,7 +159,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
             <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
             </div> -->
 
-      <a href="{{ post.url }}">
+      <a href="{{ post.url }}" title="{{ post.url }}">
         <div class="column box is-3">
           <span class="subtitle is-7 datetime is-hidden-mobile">
             {% assign m = post.date | date: "%-m" | minus: 1 %} {{ months[m]
@@ -184,7 +186,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
               <!-- <div class="lead">{{ post.description }}</div> -->
               {% for tag in post.tags %}
               {% if tag != "spoiler" %}
-              <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+              <a title="/tags/{{tag | slugify }}" class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
               {% else %}
               <span class="tag is-danger">{{tag}}</span>
               {% endif %}

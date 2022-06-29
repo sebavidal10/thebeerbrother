@@ -4,7 +4,7 @@ title: 'The BeerBrother'
 ---
 
 {% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
-
+<h1 style="display: none">{{ site.title }}</h1>
 <div class="container pt-60">
   <img class="image-banner-home" src="/assets/images/{{ site.posts[0].date | date: "%Y" }}/{{ site.posts[0].date | date: "%m" }}/{{ site.posts[0].title | slugify }}-banner.jpg" alt="Placeholder image">
   <div class="gradient-back-home"></div>
@@ -12,17 +12,17 @@ title: 'The BeerBrother'
 <div class="container">
   <div class="title-post">
     <div class="b-title">
-      <a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
+      <a href="{{ site.posts[0].url }}" title="title-post">{{ site.posts[0].title }}</a>
     </div>
     {% assign m = site.posts[0].date | date: "%-m" | minus: 1 %}
     <p class="title-white is-7">{{ months[m] }}{{ site.posts[0].date | date: " %-d, %Y" }}</p>
     <p class="is-hidden-mobile">{{ site.posts[0].description }}</p>
     {% for cat in site.posts[0].categories %}
-      <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+      <a class="tag is-dark" title="category" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
     {% endfor %}
     {% for tag in site.posts[0].tags %}
       {% if tag != "spoiler" %}
-        <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+        <a class="tag is-dark" title="tag" href="/tags/{{tag | slugify }}">#{{tag}}</a>
       {% else %}
         <span class="tag is-danger">{{tag}}</span>
       {% endif %}
@@ -37,7 +37,7 @@ title: 'The BeerBrother'
         {% if forloop.index == 1 %}
           
         {% else %}
-          <a href="{{ post.url }}">
+          <a href="{{ post.url }}" title="post-{{post-title}}">
               {% if forloop.index == 5 or forloop.index == 6 %}
                   <div class="column box is-6">
               {% elsif forloop.index == 10 %}
@@ -73,11 +73,11 @@ title: 'The BeerBrother'
                       <div class="content">
                         <div class="lead">{{ post.description }}</div>
                         {% for cat in post.categories %}
-                          <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+                          <a class="tag is-dark" title="category-slug" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
                         {% endfor %}
                         {% for tag in post.tags %}
                           {% if tag != "spoiler" %}
-                            <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                            <a class="tag is-dark" title="tag-slug" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                           {% else %}
                             <span class="tag is-danger">{{tag}}</span>
                           {% endif %}
