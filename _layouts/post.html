@@ -44,37 +44,8 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
   <article class="post">
     <div class="column big-box is-12" style="margin-top: 0px !important">
       <div class="columns">
-        <div class="column is-1 has-text-right is-hidden-mobile">
-          <ul class="social-shared">
-            <li>
-              <a href="https://www.facebook.com/sharer/sharer.php?u=https://thebeerbrother.cl/{{ page.url }}" aria-label="Compartir en Facebook" onclick="window.open(this.href, 'share-facebook', 'width=600,height=480');return false;">
-                <i class="fab fa-2x fa-facebook-square" style="color: #3b5999"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/share?text={{page.title}}&url=https://thebeerbrother.cl/{{ page.url }}" onclick="window.open(this.href, 'share-twitter', 'width=600,height=480');return false;">
-                <i class="fab fa-2x fa-twitter-square" style="color: #55acee"></i>
-              </a>
-            </li>
-          </ul>
-        </div>
 
-        <div class="column is-1 has-text-right is-hidden-desktop">
-          <ul class="social-shared-horizontal">
-            <li>
-              <a href="https://www.facebook.com/sharer/sharer.php?u=https://thebeerbrother.cl/{{ page.url }}" aria-label="Compartir en Facebook" onclick="window.open(this.href, 'share-facebook', 'width=600,height=480');return false;">
-                <i class="fab fa-2x fa-facebook-square" style="color: #3b5999"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/share?text={{page.title}}&url=https://thebeerbrother.cl/{{ page.url }}" onclick="window.open(this.href, 'share-twitter', 'width=600,height=480');return false;">
-                <i class="fab fa-2x fa-twitter-square" style="color: #55acee"></i>
-              </a>
-            </li>
-          </ul>
-        </div>
-
-        <div class="column is-7">
+        <div class="column is-8">
           <div class="card-content">
             <div class="media">
               <div class="media-left">
@@ -121,7 +92,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
           <div class="has-text-left subtitle">
             <b>Ultimos Articulos</b>
           </div>
-          <ul style="width: 90%">
+          <ul style="width: 100%">
             {% for p in site.posts limit:10 %}
             <li>
               <a href="{{ p.url }}">
