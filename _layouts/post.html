@@ -5,7 +5,7 @@ layout: default
 {% assign months =
 "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre"
 | split: "|" %} <img class="image-banner" src="/assets/images/{{ page.date |
-date: " %Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
+date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
 <div class="gradient-back"></div>
 <div class="container">
   <div class="title-post">
@@ -142,7 +142,7 @@ date: " %Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jp
               <span href="{{ p.url }}">
                 <div class="div-text">
                   <img class="image-banner" src="/assets/images/{{ p.date |
-                  date: " %Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
+                  date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
                   <br />
                   {{ p.title }}
                   <div>
@@ -208,7 +208,7 @@ date: " %Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jp
             }}{{ post.date | date: " %-d, %Y" }}</span>
           <div class="card-image">
             <figure class="image-small">
-              <img src="/assets/images/{{ post.date | date: " %Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" class="rounded-top" alt="Placeholder image">
+              <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" class="rounded-top" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
