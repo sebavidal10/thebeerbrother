@@ -35,7 +35,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
 </div>
 
 {% for tag in page.tags %} {% if tag == 'spoiler' %}
-<div class="row spoiler-div">
+<div class="container spoiler-div">
   <div class="container">Este post contiene spoilers</div>
 </div>
 {% endif %} {% endfor %}
