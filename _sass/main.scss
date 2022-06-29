@@ -333,6 +333,13 @@ a {
     }
 }
 
+@include mobile {
+    .markdown {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
 .markdown {
 
     blockquote {
