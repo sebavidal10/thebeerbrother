@@ -139,7 +139,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
           <ul style="width: 90%">
             {% for p in site.posts limit:10 %}
             <li>
-              <span href="{{ p.url }}">
+              <a href="{{ p.url }}">
                 <div class="div-text">
                   <img class="image-banner" src="/assets/images/{{ p.date |
                   date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
