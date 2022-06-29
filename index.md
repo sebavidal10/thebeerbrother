@@ -49,7 +49,7 @@ title: 'The BeerBrother'
                   <div class="column box is-4">
               {% endif %}
                   {% assign m = posts.date | date: "%-m" | minus: 1 %}
-                  <time class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }} {{forloop.index}}</time>
+                  <span class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }} {{forloop.index}}</span>
                   <div class="card-image">
                       <figure class="image">
                           <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Placeholder image">

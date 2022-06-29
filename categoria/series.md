@@ -13,7 +13,7 @@ layout: default
                     <a href="{{ post.url }}">
                         <div class="column box is-4">
                             {% assign m = site.posts[0].date | date: "%-m" | minus: 1 %}
-                            <time class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</time>
+                            <span class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</span>
                             <div class="card-image">
                                 <figure class="image">
                                     <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Placeholder image">

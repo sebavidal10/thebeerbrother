@@ -15,7 +15,7 @@ layout: default
                         <div class="column box is-4">
                             {% assign m = post.date | date: "%-m" | minus: 1 %}
 
-<time class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</time>
+<span class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</span>
 
 <div class="card-image">
 <figure class="image">

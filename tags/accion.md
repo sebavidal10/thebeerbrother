@@ -5,7 +5,7 @@ layout: default
 <div class="container" style="padding-top: 100px">
 {% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
 
-<h1 class="title title-section">Tag: Prime Amazon</h1>
+<h1 class="title title-section">Tag: Acción</h1>
 
     <div class="columns is-multiline" >
         {% for tag in site.tags %}
@@ -15,7 +15,7 @@ layout: default
                         <div class="column box is-4">
                             {% assign m = post.date | date: "%-m" | minus: 1 %}
 
-<time class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</time>
+<span class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</span>
 
 <div class="card-image">
 <figure class="image">
