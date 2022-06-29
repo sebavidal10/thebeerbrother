@@ -3,7 +3,7 @@ layout: post
 title: Nightcrawler
 date: '2020-09-27 04:00:00'
 author: 'sebavidal'
-lead: 'La obsesiva personalidad de un hombre se mezcla hasta el extremo con las ganas de obtener la mejor noticia sin importar el precio que haya que pagar. Una excelente película que merecía el Oscar con un Jake Gyllenhaal de lujo.'
+description: 'La obsesiva personalidad de un hombre se mezcla hasta el extremo con las ganas de obtener la mejor noticia sin importar el precio que haya que pagar. Una excelente película que merecía el Oscar con un Jake Gyllenhaal de lujo.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: 'Bikram: Yogi, Guru, Predator'
 date: '2020-07-15 00:00:00'
 author: 'sebavidal'
-lead: 'Documental de Netflix que nos cuenta como se creo el imperio de Bikram Choudhury basado en 26 posiciones a 40 grados y cuantas victimas cobro en su camino.'
+description: 'Documental de Netflix que nos cuenta como se creo el imperio de Bikram Choudhury basado en 26 posiciones a 40 grados y cuantas victimas cobro en su camino.'
 categories:
   - peliculas
 tags:

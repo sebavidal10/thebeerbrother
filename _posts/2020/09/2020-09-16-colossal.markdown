@@ -3,7 +3,7 @@ layout: post
 title: Colossal
 date: '2020-09-28 04:01:00'
 author: 'sebavidal'
-lead: 'Anne Hathaway vuelve a su pueblo natal y descubre que en el otro lado del mundo un monstruo gigante esta arrasando con Korea mientras ella duerme'
+description: 'Anne Hathaway vuelve a su pueblo natal y descubre que en el otro lado del mundo un monstruo gigante esta arrasando con Korea mientras ella duerme'
 categories:
   - peliculas
 tags:

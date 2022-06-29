@@ -3,7 +3,7 @@ layout: post
 title: The Highwaymen
 date: '2020-08-20 00:29:17'
 author: 'sebavidal'
-lead: 'Dos rangers retirados buscan dar caza a la pareja de enamorados asalta bancos más famosa de la historia, Bonnie y Clyde.'
+description: 'Dos rangers retirados buscan dar caza a la pareja de enamorados asalta bancos más famosa de la historia, Bonnie y Clyde.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Hater
 date: '2020-09-30 00:00:00'
 author: 'sebavidal'
-lead: 'Tomek se esfuerza, lucha contra toda adversidad y gracias al apadrinamiento de una familia millonaria de la ciudad está encaminado a cambiar su aparente destino y lograr ser un abogado... todo esto se va a la basura cuando es expulsado de la escuela de derecho ya que han descubierto que copió en un informe. Ahí, en ese momento Tomek debe decidir entre asumir lo ocurrido y perder todo con lo que ha soñado o actuar y hacer cosas bastante incorrectas con el objetivo de lograr su anhelado futuro, adivinen, va por la segunda opción.'
+description: 'Tomek se esfuerza, lucha contra toda adversidad y gracias al apadrinamiento de una familia millonaria de la ciudad está encaminado a cambiar su aparente destino y lograr ser un abogado... todo esto se va a la basura cuando es expulsado de la escuela de derecho ya que han descubierto que copió en un informe. Ahí, en ese momento Tomek debe decidir entre asumir lo ocurrido y perder todo con lo que ha soñado o actuar y hacer cosas bastante incorrectas con el objetivo de lograr su anhelado futuro, adivinen, va por la segunda opción.'
 categories:
   - peliculas
 tags:

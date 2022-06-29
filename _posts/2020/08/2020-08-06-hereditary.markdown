@@ -3,7 +3,7 @@ layout: post
 title: Hereditary
 date: '2020-08-06 20:30:00'
 author: 'sebavidal'
-lead: 'Hereditary nos cuenta la historia de una familia que no la a pasado muy bien, el film comienza con el funeral de la abuela, situación que desconcierta y deja en luto a todos los miembros de la misma, principalmente a la madre.'
+description: 'Hereditary nos cuenta la historia de una familia que no la a pasado muy bien, el film comienza con el funeral de la abuela, situación que desconcierta y deja en luto a todos los miembros de la misma, principalmente a la madre.'
 categories:
   - peliculas
 tags:

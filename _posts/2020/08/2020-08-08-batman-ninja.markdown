@@ -3,7 +3,7 @@ layout: post
 title: Batman Ninja
 date: '2020-08-08 12:00:00'
 author: 'sebavidal'
-lead: 'Mediante un dispositivo para viajar en el tiempo, Gorila Grodd transporta a varios villanos de Gotham al Japón feudal, en algo que parece un accidente provocado cuando Batman trata de evitar que usen el artefacto, lo que también lo transporta a él, pero llegando 2 años después...'
+description: 'Mediante un dispositivo para viajar en el tiempo, Gorila Grodd transporta a varios villanos de Gotham al Japón feudal, en algo que parece un accidente provocado cuando Batman trata de evitar que usen el artefacto, lo que también lo transporta a él, pero llegando 2 años después...'
 categories:
   - peliculas
 tags:

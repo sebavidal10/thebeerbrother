@@ -3,7 +3,7 @@ layout: post
 title: Jungle
 date: '2020-08-26 03:00:00'
 author: 'sebavidal'
-lead: 'En Jungle se nos relata la expedición de Yossi Ghinsberg y dos amigos a la indómita selva Boliviana. La historia esta basada en hechos reales, donde un accidente los separa y deja a la deriva de la jungla.'
+description: 'En Jungle se nos relata la expedición de Yossi Ghinsberg y dos amigos a la indómita selva Boliviana. La historia esta basada en hechos reales, donde un accidente los separa y deja a la deriva de la jungla.'
 categories:
   - peliculas
 tags:

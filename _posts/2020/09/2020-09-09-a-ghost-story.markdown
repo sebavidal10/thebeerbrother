@@ -3,7 +3,7 @@ layout: post
 title: A Ghost Story
 date: '2020-09-09 03:00:00'
 author: 'sebavidal'
-lead: 'Particular película de fantasmas que se convirtió en una de mis favoritas, donde se cuenta lo que ocurre cuando un hombre muere y no puede desprenderse de su hogar, de su historia y de sus recuerdos...'
+description: 'Particular película de fantasmas que se convirtió en una de mis favoritas, donde se cuenta lo que ocurre cuando un hombre muere y no puede desprenderse de su hogar, de su historia y de sus recuerdos...'
 categories:
   - peliculas
 tags:

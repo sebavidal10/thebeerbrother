@@ -3,7 +3,7 @@ layout: post
 title: The Favourite
 date: '2020-08-21 23:30:00'
 author: 'sebavidal'
-lead: 'Lady Sarah es la mano derecha de la Reina Ana, su confidente y amante... todo se altera con la llegada de Abigail, una joven ambiciosa con nada que perder y que tiene su vista fijada en la Reina.'
+description: 'Lady Sarah es la mano derecha de la Reina Ana, su confidente y amante... todo se altera con la llegada de Abigail, una joven ambiciosa con nada que perder y que tiene su vista fijada en la Reina.'
 categories:
   - peliculas
 tags:

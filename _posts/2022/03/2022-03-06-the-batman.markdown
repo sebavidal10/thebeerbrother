@@ -3,7 +3,7 @@ layout: post
 title: The Batman
 date: '2022-03-06 00:00:00'
 author: 'sebavidal'
-lead: 'Nueva versión de Batman que nos mostrará la cara más detectivesca del personaje que irá tras Riddler, mientras desenmascara a una oscura y siempre lluviosa Gotham'
+description: 'Nueva versión de Batman que nos mostrará la cara más detectivesca del personaje que irá tras Riddler, mientras desenmascara a una oscura y siempre lluviosa Gotham'
 categories:
   - peliculas
 tags:

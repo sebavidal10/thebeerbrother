@@ -3,7 +3,7 @@ layout: post
 title: Skin
 date: '2021-01-02 00:00:00'
 author: 'sebavidal'
-lead: 'Bryon ha llenado su cuerpo de tatuajes convirtiéndose a sí mismo en un símbolo vivo del grupo de supremacía blanca que encabeza, solo la aparición de Julie y la eterna esperanza de Daryle lo ayudaran a salir de la burbuja en que creció y le mostraran como es el mundo en realidad.'
+description: 'Bryon ha llenado su cuerpo de tatuajes convirtiéndose a sí mismo en un símbolo vivo del grupo de supremacía blanca que encabeza, solo la aparición de Julie y la eterna esperanza de Daryle lo ayudaran a salir de la burbuja en que creció y le mostraran como es el mundo en realidad.'
 categories:
   - peliculas
 tags:

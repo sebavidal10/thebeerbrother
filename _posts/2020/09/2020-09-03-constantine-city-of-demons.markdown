@@ -3,7 +3,7 @@ layout: post
 title: 'Constantine: City of Demons'
 date: '2020-09-03 21:45:00'
 author: 'sebavidal'
-lead: 'John deja Inglaterra y viaja a LA para rescatar el alma de la hija de su mejor amigo Chas. Ahí recordará eventos del pasado y se enfrentará a demonios que creía olvidados.'
+description: 'John deja Inglaterra y viaja a LA para rescatar el alma de la hija de su mejor amigo Chas. Ahí recordará eventos del pasado y se enfrentará a demonios que creía olvidados.'
 categories:
   - peliculas
 tags:

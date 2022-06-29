@@ -3,7 +3,7 @@ layout: post
 title: The Wretched
 date: '2020-07-21 00:00:00'
 author: 'sebavidal'
-lead: 'La historia se centra en Ben, quien pasará el verano en casa de su padre y trabajara con él en el muelle. Este podría ser un tranquilo (y aburrido) verano, a menos que la vecina sea poseída por una extraña criatura y comience a mostrar un comportamiento bastante sospechoso.'
+description: 'La historia se centra en Ben, quien pasará el verano en casa de su padre y trabajara con él en el muelle. Este podría ser un tranquilo (y aburrido) verano, a menos que la vecina sea poseída por una extraña criatura y comience a mostrar un comportamiento bastante sospechoso.'
 categories:
   - peliculas
 tags:

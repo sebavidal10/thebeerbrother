@@ -3,7 +3,7 @@ layout: post
 title: Apostle
 date: '2020-07-30 22:16:00'
 author: 'sebavidal'
-lead: 'Thomas es enviado a una extraña isla para infiltrarse en una secta y rescatar a una joven, donde debe poner a prueba su fé y todo lo que cree.'
+description: 'Thomas es enviado a una extraña isla para infiltrarse en una secta y rescatar a una joven, donde debe poner a prueba su fé y todo lo que cree.'
 categories:
   - peliculas
 tags:

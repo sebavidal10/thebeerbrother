@@ -3,7 +3,7 @@ layout: post
 title: Midsommar
 date: '2021-11-17 00:00:01'
 author: 'sebavidal'
-lead: 'Un grupo de amigos se embarca en un viaje folk lleno de alucinógenos a una alejada aldea, donde el director, Ari Aster, deja muy en claro que el terror puede ocurrir a plena luz del día'
+description: 'Un grupo de amigos se embarca en un viaje folk lleno de alucinógenos a una alejada aldea, donde el director, Ari Aster, deja muy en claro que el terror puede ocurrir a plena luz del día'
 categories:
   - peliculas
 tags:

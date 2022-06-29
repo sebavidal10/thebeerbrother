@@ -3,7 +3,7 @@ layout: post
 title: In the Tall Grass
 date: '2020-07-05 22:18:33'
 author: 'sebavidal'
-lead: 'Los gritos de un pequeño perdido capturan la atención de Becky, quien entra junto a su hermano en un espesa hierba para tratar de encontrarlo y de no perderse en el intento'
+description: 'Los gritos de un pequeño perdido capturan la atención de Becky, quien entra junto a su hermano en un espesa hierba para tratar de encontrarlo y de no perderse en el intento'
 categories:
   - peliculas
 tags:

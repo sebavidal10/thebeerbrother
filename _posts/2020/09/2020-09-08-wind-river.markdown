@@ -3,7 +3,7 @@ layout: post
 title: Wind River
 date: '2020-09-08 03:00:00'
 author: 'sebavidal'
-lead: 'La muerte de una joven en una reservación india en medio de la nieve llama la atención del FBI, lo que agita las mareas de una comunidad que en su abandono vive bajo su propia ley. Un excelente film con Taylor Sheridan (Hell or High Water, Sicario) tras el guion.'
+description: 'La muerte de una joven en una reservación india en medio de la nieve llama la atención del FBI, lo que agita las mareas de una comunidad que en su abandono vive bajo su propia ley. Un excelente film con Taylor Sheridan (Hell or High Water, Sicario) tras el guion.'
 categories:
   - peliculas
 tags:

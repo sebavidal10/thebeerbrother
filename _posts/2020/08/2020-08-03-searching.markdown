@@ -3,7 +3,7 @@ layout: post
 title: Searching
 date: '2020-08-03 21:39:59'
 author: 'sebavidal'
-lead: 'Margot desapareció y su padre deberá rastrear su vida online a través de streamings, blogs y redes sociales para tratar de encontrarla, y de paso, aprender a ser un mejor padre.'
+description: 'Margot desapareció y su padre deberá rastrear su vida online a través de streamings, blogs y redes sociales para tratar de encontrarla, y de paso, aprender a ser un mejor padre.'
 categories:
   - peliculas
 tags:

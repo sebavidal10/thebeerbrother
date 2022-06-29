@@ -3,7 +3,7 @@ layout: post
 title: 1BR
 date: '2022-02-27 00:00:00'
 author: 'sebavidal'
-lead: 'Un nuevo lugar para vivir siempre es un desafío, más aún si llegamos a integrarnos en una vecindad que comparte muchos ambientes, donde los vecinos y sus costumbres deben convivir… Lo bueno es que siempre hay gente amable, el problema son los que no lo son.'
+description: 'Un nuevo lugar para vivir siempre es un desafío, más aún si llegamos a integrarnos en una vecindad que comparte muchos ambientes, donde los vecinos y sus costumbres deben convivir… Lo bueno es que siempre hay gente amable, el problema son los que no lo son.'
 categories:
   - peliculas
 tags:

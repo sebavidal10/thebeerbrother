@@ -3,7 +3,7 @@ layout: post
 title: Knives Out
 date: '2020-07-07 15:20:00'
 author: 'sebavidal'
-lead: 'El patriarca de una familia amanece muerto y las sospechan recaen sobre cada uno de los miembros de la familia. Solo el experimentado detective Benoit Blanc será capaz de resolver el misterioso (y rebuscado) asesinato.'
+description: 'El patriarca de una familia amanece muerto y las sospechan recaen sobre cada uno de los miembros de la familia. Solo el experimentado detective Benoit Blanc será capaz de resolver el misterioso (y rebuscado) asesinato.'
 categories:
   - peliculas
 tags:

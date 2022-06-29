@@ -3,7 +3,7 @@ layout: post
 title: 78 52
 date: '2020-09-14 00:00:00'
 author: 'sebavidal'
-lead: 'Documental de una de las escenas más importantes del cine, el asesinato en la ducha de Psyco. Cómo se hizo y el exhaustivo trabajo de cámaras y tomas para llevar a la pantalla la imaginación del maestro del terror Alfred Hitchcock.'
+description: 'Documental de una de las escenas más importantes del cine, el asesinato en la ducha de Psyco. Cómo se hizo y el exhaustivo trabajo de cámaras y tomas para llevar a la pantalla la imaginación del maestro del terror Alfred Hitchcock.'
 categories:
   - peliculas
 tags:

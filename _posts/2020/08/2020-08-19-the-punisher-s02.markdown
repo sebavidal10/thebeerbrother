@@ -3,7 +3,7 @@ layout: post
 title: The Punisher S02
 date: '2020-08-19 21:00:00'
 author: 'sebavidal'
-lead: 'Frank Castle debe volver a usar Calavera cuando una chica que le recuerda a su hija esta en problemas, y más aun, cuando sabe que Russo volvió a las calles.'
+description: 'Frank Castle debe volver a usar Calavera cuando una chica que le recuerda a su hija esta en problemas, y más aun, cuando sabe que Russo volvió a las calles.'
 categories:
   - series
 tags:

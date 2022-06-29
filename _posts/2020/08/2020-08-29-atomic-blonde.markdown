@@ -3,7 +3,7 @@ layout: post
 title: Atomic Blonde
 date: '2020-08-29 03:00:00'
 author: 'sebavidal'
-lead: 'Atomic Blonde es Jon Wick protagonizada por Charlize Theron en Rusia, con mucho vodka, nieve y buena música. A eso súmenle a James MacAvoy y a Sofía Boutella... excelente película de acción!'
+description: 'Atomic Blonde es Jon Wick protagonizada por Charlize Theron en Rusia, con mucho vodka, nieve y buena música. A eso súmenle a James MacAvoy y a Sofía Boutella... excelente película de acción!'
 categories:
   - peliculas
 tags:

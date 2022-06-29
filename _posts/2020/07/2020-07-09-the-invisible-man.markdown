@@ -3,7 +3,7 @@ layout: post
 title: The Invisible Man
 date: '2020-07-09 20:50:00'
 author: 'sebavidal'
-lead: 'La sensación de acoso y violencia no quieren abandonar a Cecilia luego del fallecimiento de su abusivo esposo Adrian. Su familia y amigos creen que está perdiendo la cabeza y que el daño hecho por Adrian se quedó con ella. Lo que no entienden es que él realmente está ahí, sólo que nadie lo puede ver.'
+description: 'La sensación de acoso y violencia no quieren abandonar a Cecilia luego del fallecimiento de su abusivo esposo Adrian. Su familia y amigos creen que está perdiendo la cabeza y que el daño hecho por Adrian se quedó con ella. Lo que no entienden es que él realmente está ahí, sólo que nadie lo puede ver.'
 categories:
   - peliculas
 tags:

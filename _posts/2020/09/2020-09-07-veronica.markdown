@@ -3,7 +3,7 @@ layout: post
 title: Veronica
 date: '2020-09-07 03:00:00'
 author: 'sebavidal'
-lead: 'Después de un eclipse y un intento de una joven por contactar a su fallecido padre la vida de Veronica y su familia cambiaran por completo. El suceso conocido como "el Caso Vallecas" es el único en España donde se indica por parte de la policía que se presencio un hecho sobrenatural.'
+description: 'Después de un eclipse y un intento de una joven por contactar a su fallecido padre la vida de Veronica y su familia cambiaran por completo. El suceso conocido como "el Caso Vallecas" es el único en España donde se indica por parte de la policía que se presencio un hecho sobrenatural.'
 categories:
   - peliculas
 tags:

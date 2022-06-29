@@ -3,7 +3,7 @@ layout: post
 title: It Comes at Night
 date: '2020-09-26 04:00:00'
 author: 'sebavidal'
-lead: 'Estamos en un futuro distópico donde "algo" nos acosa desde la oscuridad y el vacío tecnológico nos deja a merced de la noche y todo lo que hay ahí... y lo que no también. La mente juega con nosotros en un film lento pero con un manejo de la tensión excelente!'
+description: 'Estamos en un futuro distópico donde "algo" nos acosa desde la oscuridad y el vacío tecnológico nos deja a merced de la noche y todo lo que hay ahí... y lo que no también. La mente juega con nosotros en un film lento pero con un manejo de la tensión excelente!'
 categories:
   - peliculas
 tags:

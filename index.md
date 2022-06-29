@@ -15,7 +15,7 @@ title: 'The BeerBrother'
     </div>
     {% assign m = site.posts[0].date | date: "%-m" | minus: 1 %}
     <p class="title-white is-7">{{ months[m] }}{{ site.posts[0].date | date: " %-d, %Y" }}</p>
-    <p class="is-hidden-mobile">{{ site.posts[0].lead }}</p>
+    <p class="is-hidden-mobile">{{ site.posts[0].description }}</p>
     {% for cat in site.posts[0].categories %}
       <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
     {% endfor %}
@@ -70,7 +70,7 @@ title: 'The BeerBrother'
                       </div>
 
                       <div class="content">
-                        <div class="lead">{{ post.lead }}</div>
+                        <div class="lead">{{ post.description }}</div>
                         {% for cat in post.categories %}
                           <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
                         {% endfor %}

@@ -3,7 +3,7 @@ layout: post
 title: El Inocente
 date: '2021-06-06 00:00:00'
 author: 'sebavidal'
-lead: 'Mat accidentalmente comete homicidio, luego de varios años en prisión tiene la opción de rehacer su vida, todo va bien hasta que recibe unos extraños mensajes que lo harán buscar una verdad que tal vez no quiera encontrar.'
+description: 'Mat accidentalmente comete homicidio, luego de varios años en prisión tiene la opción de rehacer su vida, todo va bien hasta que recibe unos extraños mensajes que lo harán buscar una verdad que tal vez no quiera encontrar.'
 categories:
   - series
 tags:

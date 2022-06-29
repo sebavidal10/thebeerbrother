@@ -3,7 +3,7 @@ layout: post
 title: El Bar
 date: '2020-09-19 04:00:00'
 author: 'sebavidal'
-lead: 'Un grupo de personas muy diferentes quedan encerrados en un Bar, donde las gana de saber el "por que" los pone unos contra otros, todo contado con el extraño humor de Álex de la Iglesia'
+description: 'Un grupo de personas muy diferentes quedan encerrados en un Bar, donde las gana de saber el "por que" los pone unos contra otros, todo contado con el extraño humor de Álex de la Iglesia'
 categories:
   - peliculas
 tags:

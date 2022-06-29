@@ -3,7 +3,7 @@ layout: post
 title: Durante la tormenta
 date: '2020-07-24 20:10:54'
 author: 'sebavidal'
-lead: 'Una particular tormenta crea un enlace temporal en el que Vera evita la muerte de un pequeño niño y como consecuencia su hija y la vida que recuerda nunca existieron'
+description: 'Una particular tormenta crea un enlace temporal en el que Vera evita la muerte de un pequeño niño y como consecuencia su hija y la vida que recuerda nunca existieron'
 categories:
   - peliculas
 tags:

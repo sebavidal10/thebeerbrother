@@ -3,7 +3,7 @@ layout: post
 title: Molly's Game
 date: '2020-08-12 18:00:00'
 author: 'sebavidal'
-lead: 'Aaron Sorkin, sale de su zona de confort tras el teclado y se sumerge de manera exitosa en el mundo de la dirección guiando a la talentosa Jessica Chastain bajo la piel de Molly Bloom, la más organizadora de partidas de poker.'
+description: 'Aaron Sorkin, sale de su zona de confort tras el teclado y se sumerge de manera exitosa en el mundo de la dirección guiando a la talentosa Jessica Chastain bajo la piel de Molly Bloom, la más organizadora de partidas de poker.'
 categories:
   - peliculas
 tags:

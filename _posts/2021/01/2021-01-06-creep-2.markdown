@@ -3,7 +3,7 @@ layout: post
 title: Creep 2
 date: '2021-01-06 00:00:00'
 author: 'sebavidal'
-lead: 'Sara tiene un canal de youtube, en él registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.'
+description: 'Sara tiene un canal de youtube, en él registra y filma las extrañas reuniones publicadas en internet. Gente que quiere a alguien para conversar, buscan a alguien que los mime, etc. En general personas extrañas que no atraen público al canal, hasta que aparece un publicación que ofrece 1000 dólares por registrar un día de la vida de alguien.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Don't Breathe
 date: '2020-09-05 03:00:00'
 author: 'sebavidal'
-lead: 'Un grupo de amigos/ladrones decide entrar a robar "algo" a la casa de un ciego, situación que podría ser simple, pero no cuando hablamos de "este" ciego. Una historia muy buena con un giro completamente inesperado.'
+description: 'Un grupo de amigos/ladrones decide entrar a robar "algo" a la casa de un ciego, situación que podría ser simple, pero no cuando hablamos de "este" ciego. Una historia muy buena con un giro completamente inesperado.'
 categories:
   - peliculas
 tags:

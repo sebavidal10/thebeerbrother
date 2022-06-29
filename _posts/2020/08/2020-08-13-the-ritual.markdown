@@ -3,7 +3,7 @@ layout: post
 title: The Ritual
 date: '2020-08-13 15:00:00'
 author: 'sebavidal'
-lead: 'The Ritual cuenta la historia de un grupo de amigos, Phil, Dom, Hutch y Luke, que deciden realizar senderismo en el territorio limítrofe entre Noruega y Suecia, lo que no saben es que no estarán solos en su viaje.'
+description: 'The Ritual cuenta la historia de un grupo de amigos, Phil, Dom, Hutch y Luke, que deciden realizar senderismo en el territorio limítrofe entre Noruega y Suecia, lo que no saben es que no estarán solos en su viaje.'
 categories:
   - peliculas
 tags:

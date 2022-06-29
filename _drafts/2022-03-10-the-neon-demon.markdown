@@ -3,7 +3,7 @@ layout: post
 title: The Neon Demon
 date: '2022-03-10 03:00:00'
 author: 'sebavidal'
-lead: 'Una excelente fotografía y un gran soundtrack hacen de esta película una de mis favoritas, donde una joven modelo se convierte en una codiciada presa en el mundo de las pasarelas... su belleza es una maldición en este extraño y frío entorno lleno de envidia.'
+description: 'Una excelente fotografía y un gran soundtrack hacen de esta película una de mis favoritas, donde una joven modelo se convierte en una codiciada presa en el mundo de las pasarelas... su belleza es una maldición en este extraño y frío entorno lleno de envidia.'
 categories:
   - peliculas
 tags:

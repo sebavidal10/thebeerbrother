@@ -3,7 +3,7 @@ layout: post
 title: The Northman
 date: '2022-06-29 00:00:00'
 author: 'sebavidal'
-lead: 'Robert Eggers dirige una obra como pocas. Un aventura épica en el mundo de los vikingos, donde acompañaremos a Amleth en su búsqueda de venganza contra su tío tras el asesinato de su padre.'
+description: 'Robert Eggers dirige una obra como pocas. Un aventura épica en el mundo de los vikingos, donde acompañaremos a Amleth en su búsqueda de venganza contra su tío tras el asesinato de su padre.'
 categories:
   - peliculas
 tags:

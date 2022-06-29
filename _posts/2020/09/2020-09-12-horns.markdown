@@ -3,7 +3,7 @@ layout: post
 title: Horns
 date: '2020-09-12 03:00:00'
 author: 'sebavidal'
-lead: 'El amor y la venganza se caricaturizan y decoran con folclore religioso en "Horns", donde la abundancia de humor negro decora una historia de romance y dolor con una buena actuación de Harry Potter y Juno Temple.'
+description: 'El amor y la venganza se caricaturizan y decoran con folclore religioso en "Horns", donde la abundancia de humor negro decora una historia de romance y dolor con una buena actuación de Harry Potter y Juno Temple.'
 categories:
   - peliculas
 tags:

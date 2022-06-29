@@ -3,7 +3,7 @@ layout: post
 title: Hogar
 date: '2020-07-11 18:01:09'
 author: 'sebavidal'
-lead: 'Encontrar empleo se vuelve una tortura a la edad de Javier, quien poco a poco ve como su vida se desmorona y alguien se apodera de todo lo que el ha logrado.'
+description: 'Encontrar empleo se vuelve una tortura a la edad de Javier, quien poco a poco ve como su vida se desmorona y alguien se apodera de todo lo que el ha logrado.'
 categories:
   - peliculas
 tags:

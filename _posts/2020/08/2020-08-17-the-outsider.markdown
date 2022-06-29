@@ -3,7 +3,7 @@ layout: post
 title: The Outsider
 date: '2020-08-17 15:28:26'
 author: 'sebavidal'
-lead: 'The Outsider es la historia del prisionero de guerra norteamericano, Nick Lowell, que tras salir en libertad es ayudado por un líder Yakuza llamado Kiyoshi, a quien conoció en prisión y quien quedó en deuda de honor con Nick.'
+description: 'The Outsider es la historia del prisionero de guerra norteamericano, Nick Lowell, que tras salir en libertad es ayudado por un líder Yakuza llamado Kiyoshi, a quien conoció en prisión y quien quedó en deuda de honor con Nick.'
 categories:
   - peliculas
 tags:

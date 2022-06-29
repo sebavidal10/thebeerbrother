@@ -3,7 +3,7 @@ layout: post
 title: The Invitation
 date: '2020-08-14 20:23:44'
 author: 'sebavidal'
-lead: 'Will y Eden perdieron a su hijo y lleván separados varios años, por lo que una invitación a cenar causa curiosidad y desconfianza en Will. Una extraña reunión con un giro excelente.'
+description: 'Will y Eden perdieron a su hijo y lleván separados varios años, por lo que una invitación a cenar causa curiosidad y desconfianza en Will. Una extraña reunión con un giro excelente.'
 categories:
   - peliculas
 tags:

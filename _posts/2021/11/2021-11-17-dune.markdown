@@ -3,7 +3,7 @@ layout: post
 title: Dune
 date: '2021-11-17 00:00:00'
 author: 'sebavidal'
-lead: 'Paul y su padre deben recuperar el planeta Arrakis para el Emperador, específicamente deben cosechar la Especia, sustancia casi mágica que solo se da en este planeta. En el proceso deberán resistir los ataques de los Harkonnen y Paul deberá descubrir si es el elegido y libertador que las profecías señalan.'
+description: 'Paul y su padre deben recuperar el planeta Arrakis para el Emperador, específicamente deben cosechar la Especia, sustancia casi mágica que solo se da en este planeta. En el proceso deberán resistir los ataques de los Harkonnen y Paul deberá descubrir si es el elegido y libertador que las profecías señalan.'
 categories:
   - peliculas
 tags:

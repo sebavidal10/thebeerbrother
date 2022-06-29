@@ -3,7 +3,7 @@ layout: post
 title: HHhH
 date: '2020-09-23 03:00:00'
 author: 'sebavidal'
-lead: 'Una adaptación más de la gran obra de Laurent Binet, HHhH, en mi opinión la mejor, ya que cuenta la historia de Heydrish en la 1era mitad y luego nos muestra lo que ya sabemos de la operación Anthropoid... buen film histórico, pero que carece de ritmo en su segunda y tercera parte.'
+description: 'Una adaptación más de la gran obra de Laurent Binet, HHhH, en mi opinión la mejor, ya que cuenta la historia de Heydrish en la 1era mitad y luego nos muestra lo que ya sabemos de la operación Anthropoid... buen film histórico, pero que carece de ritmo en su segunda y tercera parte.'
 categories:
   - peliculas
 tags:

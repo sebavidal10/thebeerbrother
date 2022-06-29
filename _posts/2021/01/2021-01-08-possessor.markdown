@@ -3,7 +3,7 @@ layout: post
 title: Possessor
 date: '2021-01-08 00:00:00'
 author: 'sebavidal'
-lead: 'Brandon (hijo de David Cronenberg) nos cuenta la historia de una asesina a sueldo imposible de rastrear... ya que usa el cuerpo de un tercero para acabar con la víctima, escondiendo de forma perfecta al "cliente" de una extraña y fría compañía que juega con la mente de las personas. Possessor es por mucho de lo mejor del 2020.'
+description: 'Brandon (hijo de David Cronenberg) nos cuenta la historia de una asesina a sueldo imposible de rastrear... ya que usa el cuerpo de un tercero para acabar con la víctima, escondiendo de forma perfecta al "cliente" de una extraña y fría compañía que juega con la mente de las personas. Possessor es por mucho de lo mejor del 2020.'
 categories:
   - peliculas
 tags:

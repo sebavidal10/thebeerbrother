@@ -3,7 +3,7 @@ layout: post
 title: Reign of the Supermen
 date: '2020-09-13 14:26:16'
 author: 'sebavidal'
-lead: 'Continuación de La Muerte de Superman, que nos presenta a los nuevos heroes que quieren tomar el lugar de Kal-El y volverse el protector de la humanidad.'
+description: 'Continuación de La Muerte de Superman, que nos presenta a los nuevos heroes que quieren tomar el lugar de Kal-El y volverse el protector de la humanidad.'
 categories:
   - peliculas
 tags:

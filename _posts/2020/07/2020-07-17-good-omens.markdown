@@ -3,7 +3,7 @@ layout: post
 title: Good Omens
 date: '2020-07-17 21:00:00'
 author: 'sebavidal'
-lead: 'Un ángel y un demonio se conocen en el edén y se convierten en parte directa / indirecta de cada uno de los acontecimientos de la historia hasta nuestros días. Su extraña amistad se crea y cultiva a medida que la humanidad envejece, pero todo parece llegar a su fin cuando se aproxima el Armagedon.'
+description: 'Un ángel y un demonio se conocen en el edén y se convierten en parte directa / indirecta de cada uno de los acontecimientos de la historia hasta nuestros días. Su extraña amistad se crea y cultiva a medida que la humanidad envejece, pero todo parece llegar a su fin cuando se aproxima el Armagedon.'
 categories:
   - series
 tags:

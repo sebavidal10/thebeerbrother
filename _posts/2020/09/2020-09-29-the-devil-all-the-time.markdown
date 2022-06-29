@@ -3,7 +3,7 @@ layout: post
 title: The Devil all the time
 date: '2020-09-29 00:00:00'
 author: 'sebavidal'
-lead: 'Muy al estilo Southern (American) Gothic, The Devil All the Time nos cuenta varias historias que transcurren dentro de algunos kilómetros a la redonda entre Ohio y Virginia, Estados Unidos, donde nos narra varias historias que se cruzan y destaca la idea de que somos presa del lugar donde crecemos y que, tal como señala la película, muchas veces hacemos porque debemos no porque queramos hacerlas.'
+description: 'Muy al estilo Southern (American) Gothic, The Devil All the Time nos cuenta varias historias que transcurren dentro de algunos kilómetros a la redonda entre Ohio y Virginia, Estados Unidos, donde nos narra varias historias que se cruzan y destaca la idea de que somos presa del lugar donde crecemos y que, tal como señala la película, muchas veces hacemos porque debemos no porque queramos hacerlas.'
 categories:
   - peliculas
 tags:

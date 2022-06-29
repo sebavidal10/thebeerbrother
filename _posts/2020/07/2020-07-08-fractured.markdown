@@ -3,7 +3,7 @@ layout: post
 title: Fractured
 date: '2020-07-08 18:59:53'
 author: 'sebavidal'
-lead: 'Luego de un accidente Ray se duerme en una banca del hospital. Al despertar su esposa e hija parecen haber desaparecido y nadie tiene registro de ellas por ningún lado, dando inicio a una desesperada búsqueda mientras enfrenta a viejos demonios de su pasado.'
+description: 'Luego de un accidente Ray se duerme en una banca del hospital. Al despertar su esposa e hija parecen haber desaparecido y nadie tiene registro de ellas por ningún lado, dando inicio a una desesperada búsqueda mientras enfrenta a viejos demonios de su pasado.'
 categories:
   - peliculas
 tags:

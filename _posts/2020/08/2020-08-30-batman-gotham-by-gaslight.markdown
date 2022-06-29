@@ -3,7 +3,7 @@ layout: post
 title: Batman Gotham by Gaslight
 date: '2020-08-30 18:00:00'
 author: 'sebavidal'
-lead: 'Batman: Gotham by Gaslight es la adaptación de un comic donde el enmascarado de Ciudad Gótica debe detener a Jack The Ripper, en una Gotham llena de largas patillas y bigotes (y que se ve igual al Londres victoriano).'
+description: 'Batman: Gotham by Gaslight es la adaptación de un comic donde el enmascarado de Ciudad Gótica debe detener a Jack The Ripper, en una Gotham llena de largas patillas y bigotes (y que se ve igual al Londres victoriano).'
 categories:
   - peliculas
 tags:

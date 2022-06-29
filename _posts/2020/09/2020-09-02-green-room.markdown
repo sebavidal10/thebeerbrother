@@ -3,7 +3,7 @@ layout: post
 title: Green Room
 date: '2020-09-02 03:00:00'
 author: 'sebavidal'
-lead: 'Una banda punk termina en medio de un campus de skin head, donde un pequeño error convertirá una tarde de música en su peor pesadilla. Tremendas actuaciones de Anton Yelchin y Patrick Stewart :)'
+description: 'Una banda punk termina en medio de un campus de skin head, donde un pequeño error convertirá una tarde de música en su peor pesadilla. Tremendas actuaciones de Anton Yelchin y Patrick Stewart :)'
 categories:
   - peliculas
 tags:

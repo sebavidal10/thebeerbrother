@@ -3,7 +3,7 @@ layout: post
 title: The Beguiled
 date: '2020-09-22 03:00:00'
 author: 'sebavidal'
-lead: 'Un soldado enemigo es encontrado y acogido en una casa habitada solo por mujeres, donde cada una encontrara "algo" en el hombre... amor, curiosidad, pasión y envidia rodeada por un excelente elenco dirigido por impecable Sofía Coppola.'
+description: 'Un soldado enemigo es encontrado y acogido en una casa habitada solo por mujeres, donde cada una encontrara "algo" en el hombre... amor, curiosidad, pasión y envidia rodeada por un excelente elenco dirigido por impecable Sofía Coppola.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Take Your Pills
 date: '2020-08-09 11:00:00'
 author: 'sebavidal'
-lead: 'Documental de Netflix que habla acerca del aumento en el consumo de pastillas que pretenden aumentar las capacidades intelectuales y físicas de las personas, específicamente la adicción al Adderall.'
+description: 'Documental de Netflix que habla acerca del aumento en el consumo de pastillas que pretenden aumentar las capacidades intelectuales y físicas de las personas, específicamente la adicción al Adderall.'
 categories:
   - peliculas
 tags:

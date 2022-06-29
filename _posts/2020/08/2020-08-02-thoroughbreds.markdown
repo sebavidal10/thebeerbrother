@@ -3,7 +3,7 @@ layout: post
 title: Thoroughbreds
 date: '2020-08-02 17:44:45'
 author: 'sebavidal'
-lead: 'Un par de amigas de infancia se vuelven a reunir, los años han pasado y ellas no parecen tener nada en común... o eso creen, ya que un plan en conjunto cambiara sus vidas para siempre.'
+description: 'Un par de amigas de infancia se vuelven a reunir, los años han pasado y ellas no parecen tener nada en común... o eso creen, ya que un plan en conjunto cambiara sus vidas para siempre.'
 categories:
   - peliculas
 tags:

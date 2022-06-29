@@ -3,7 +3,7 @@ layout: post
 title: The Gentlemen
 date: '2020-07-13 00:00:00'
 author: 'sebavidal'
-lead: 'El imperio creado por Michael Pearson se ve amenazado cuando este quiere venderlo y deberá recurrir a todos quienes le deben algún favor para retenerlo y demostrar quien es el León en esta jungla de cemento plagada de sobornos y asesinos a sueldo.'
+description: 'El imperio creado por Michael Pearson se ve amenazado cuando este quiere venderlo y deberá recurrir a todos quienes le deben algún favor para retenerlo y demostrar quien es el León en esta jungla de cemento plagada de sobornos y asesinos a sueldo.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Bone Tomahawk
 date: '2020-09-21 03:00:00'
 author: 'sebavidal'
-lead: 'Western moderno que enfrenta al salvaje oeste con una prehistórica tribu. Salvaje, sangriento y con un final increíble, eso es Bone Tomahawk, y lo mejor: tiene a Kurt Russell haciendo de Comisario.'
+description: 'Western moderno que enfrenta al salvaje oeste con una prehistórica tribu. Salvaje, sangriento y con un final increíble, eso es Bone Tomahawk, y lo mejor: tiene a Kurt Russell haciendo de Comisario.'
 categories:
   - peliculas
 tags:

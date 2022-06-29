@@ -3,7 +3,7 @@ layout: post
 title: BlackKklansman
 date: '2020-08-16 03:34:25'
 author: 'sebavidal'
-lead: 'El policía negro Ron Stallworth, decide infiltrarse en el KKK y averiguar qué hay detrás y cómo evitar que el odio se apodere del pueblo y evitar una guerra racial.'
+description: 'El policía negro Ron Stallworth, decide infiltrarse en el KKK y averiguar qué hay detrás y cómo evitar que el odio se apodere del pueblo y evitar una guerra racial.'
 categories:
   - peliculas
 tags:

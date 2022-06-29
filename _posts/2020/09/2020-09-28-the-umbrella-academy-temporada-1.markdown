@@ -3,7 +3,7 @@ layout: post
 title: The Umbrella Academy Temporada 1
 date: '2020-09-27 23:47:00'
 author: 'sebavidal'
-lead: 'Un grupo de jóvenes con habilidades especiales son entrenados por un multimillonario para proteger al mundo del mal. Todo cambia cuando uno de ellos, desaparecido hace años, regresa por un portal y les avisa que el mundo acabara en 8 días.'
+description: 'Un grupo de jóvenes con habilidades especiales son entrenados por un multimillonario para proteger al mundo del mal. Todo cambia cuando uno de ellos, desaparecido hace años, regresa por un portal y les avisa que el mundo acabara en 8 días.'
 categories:
   - series
 tags:

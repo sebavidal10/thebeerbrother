@@ -3,7 +3,7 @@ layout: post
 title: Suicide Squad Hell to Pay
 date: '2020-08-28 10:30:00'
 author: 'sebavidal'
-lead: 'Película animada de DC centrada en una nueva misión del extraño grupo de villanos que trabajan para Waller. La historia existe en la misma línea narrativa de Flashpoint Paradox (2013) e incorpora en el universo animado DC a muchos personajes que no habíamos visto hasta ahora.'
+description: 'Película animada de DC centrada en una nueva misión del extraño grupo de villanos que trabajan para Waller. La historia existe en la misma línea narrativa de Flashpoint Paradox (2013) e incorpora en el universo animado DC a muchos personajes que no habíamos visto hasta ahora.'
 categories:
   - peliculas
 tags:

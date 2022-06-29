@@ -3,7 +3,7 @@ layout: post
 title: 'Don’t F*+k with Cats: Hunting an Internet Killer'
 date: '2020-07-12 20:50:00'
 author: 'sebavidal'
-lead: 'Una montaña rusa de 3 episodios que mezcla un grupo de facebook, fake news, imagenes photoshopeadas, la escena de sexo de Basic Instinct, ideas para una película de David Fincher y gatitos muriendo.'
+description: 'Una montaña rusa de 3 episodios que mezcla un grupo de facebook, fake news, imagenes photoshopeadas, la escena de sexo de Basic Instinct, ideas para una película de David Fincher y gatitos muriendo.'
 categories:
   - series
 tags:

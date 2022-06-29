@@ -3,7 +3,7 @@ layout: post
 title: Suspiria
 date: '2020-08-22 12:50:00'
 author: 'sebavidal'
-lead: 'Una enigmática escuela de danza prepara el ultimo show de su aclamada presentación llamada Volk, en la cual dejaran a la novata Susie como centro del artístico show, dado otras jóvenes han desaparecido.'
+description: 'Una enigmática escuela de danza prepara el ultimo show de su aclamada presentación llamada Volk, en la cual dejaran a la novata Susie como centro del artístico show, dado otras jóvenes han desaparecido.'
 categories:
   - peliculas
 tags:

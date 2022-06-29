@@ -3,7 +3,7 @@ layout: post
 title: The Keepers
 date: '2020-09-06 00:00:00'
 author: 'sebavidal'
-lead: 'Serie-documental que investiga la muerte de la hermana Cathy Cesnik, los motivos y la red de protección y abuso que pretendía desmantelar. Un claro golpe a la iglesia y una voz que busca justicia.'
+description: 'Serie-documental que investiga la muerte de la hermana Cathy Cesnik, los motivos y la red de protección y abuso que pretendía desmantelar. Un claro golpe a la iglesia y una voz que busca justicia.'
 categories:
   - series
 tags:

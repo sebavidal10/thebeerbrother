@@ -3,7 +3,7 @@ layout: post
 title: Castlevania, S03
 date: '2020-07-16 00:00:00'
 author: 'sebavidal'
-lead: 'Seguimos las aventuras de Belmont y Sypha, quienes llegan a un particular pueblo y se quedan para ayudar... en paralelo, Alucard hace nuevos amigos y se decide a enseñarles y compartir la sabiduría de su padre con ellos.'
+description: 'Seguimos las aventuras de Belmont y Sypha, quienes llegan a un particular pueblo y se quedan para ayudar... en paralelo, Alucard hace nuevos amigos y se decide a enseñarles y compartir la sabiduría de su padre con ellos.'
 categories:
   - series
 tags:

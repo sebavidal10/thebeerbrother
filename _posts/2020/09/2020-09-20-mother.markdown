@@ -3,7 +3,7 @@ layout: post
 title: Mother
 date: '2020-09-20 03:00:00'
 author: 'sebavidal'
-lead: 'Aronofsky sorprende con un controversial film de corte poético y bíblico que nos habla del origen todo, del final y de las metáforas. Protagonizado por Javier Bardem y Jennifer Lawrence como ÉL y Madre. Post lleno de spoilers e interpretaciones :D'
+description: 'Aronofsky sorprende con un controversial film de corte poético y bíblico que nos habla del origen todo, del final y de las metáforas. Protagonizado por Javier Bardem y Jennifer Lawrence como ÉL y Madre. Post lleno de spoilers e interpretaciones :D'
 categories:
   - peliculas
 tags:

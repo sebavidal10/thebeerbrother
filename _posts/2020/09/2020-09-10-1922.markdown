@@ -3,7 +3,7 @@ layout: post
 title: '1922'
 date: '2020-09-10 00:00:00'
 author: 'sebavidal'
-lead: '1922 esta basada un relato de Stephen King del mismo nombre, el que cuenta la historia de Wilfred James y su hijo Henry, quienes asesinan a la mujer de la casa, hecho que los atormentará siempre y repletará sus mentes de extrañas visiones.'
+description: '1922 esta basada un relato de Stephen King del mismo nombre, el que cuenta la historia de Wilfred James y su hijo Henry, quienes asesinan a la mujer de la casa, hecho que los atormentará siempre y repletará sus mentes de extrañas visiones.'
 categories:
   - peliculas
 tags:

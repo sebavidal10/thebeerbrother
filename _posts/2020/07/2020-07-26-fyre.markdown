@@ -3,7 +3,7 @@ layout: post
 title: Fyre
 date: '2020-07-26 16:05:00'
 author: 'sebavidal'
-lead: 'El festival más grande y exclusivo del mundo termina siendo una gran estafa. Los entretelones de la creación del evento y como fue muriendo poco a poco en este nuevo documental disponible en Netflix'
+description: 'El festival más grande y exclusivo del mundo termina siendo una gran estafa. Los entretelones de la creación del evento y como fue muriendo poco a poco en este nuevo documental disponible en Netflix'
 categories:
   - peliculas
 tags:

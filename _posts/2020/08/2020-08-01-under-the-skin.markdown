@@ -3,7 +3,7 @@ layout: post
 title: Under the Skin
 date: '2020-08-01 03:13:00'
 author: 'sebavidal'
-lead: 'La película cuenta la historia de una alienigena atractiva que va por las calles de Escocia manejando una camioneta mientras recolecta hombres, a los cuales seduce gracias a sus visibles atributos y a un estructurado dialogo de preguntas y respuesta para saber si son aptos.'
+description: 'La película cuenta la historia de una alienigena atractiva que va por las calles de Escocia manejando una camioneta mientras recolecta hombres, a los cuales seduce gracias a sus visibles atributos y a un estructurado dialogo de preguntas y respuesta para saber si son aptos.'
 categories:
   - peliculas
 tags:

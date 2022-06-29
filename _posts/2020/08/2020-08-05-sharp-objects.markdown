@@ -3,7 +3,7 @@ layout: post
 title: Sharp Objects
 date: '2020-08-05 17:24:00'
 author: 'sebavidal'
-lead: 'Serie de HBO basada en el libro de Gillian Flynn del mismo nombre que cuenta la historia de Camille Preaker (Amy Adams) una periodista que debe volver a su pueblo de infancia para investigar la muerte de algunas niñas y las extrañas condiciones en que fueron halladas.'
+description: 'Serie de HBO basada en el libro de Gillian Flynn del mismo nombre que cuenta la historia de Camille Preaker (Amy Adams) una periodista que debe volver a su pueblo de infancia para investigar la muerte de algunas niñas y las extrañas condiciones en que fueron halladas.'
 categories:
   - series
 tags:

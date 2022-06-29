@@ -3,7 +3,7 @@ layout: post
 title: The Conjuring 3
 date: '2021-06-08 00:00:00'
 author: 'sebavidal'
-lead: 'Michael Chaves dirige la tercera (y probable cierre) de la saga The Conjuring, la cual se enfocará una vez más en un “caso real”, en esta ocasión un asesinato donde el culpable señala que estaba poseído a la hora cometer el asesinato. La historia real está decorada por varios elementos interesantes y personajes nuevos que enriquecen la narración y hacen más disfrutable la cinta de terror que sirve de epílogo para la exitosa saga creada por James Wan.'
+description: 'Michael Chaves dirige la tercera (y probable cierre) de la saga The Conjuring, la cual se enfocará una vez más en un “caso real”, en esta ocasión un asesinato donde el culpable señala que estaba poseído a la hora cometer el asesinato. La historia real está decorada por varios elementos interesantes y personajes nuevos que enriquecen la narración y hacen más disfrutable la cinta de terror que sirve de epílogo para la exitosa saga creada por James Wan.'
 categories:
   - peliculas
 tags:

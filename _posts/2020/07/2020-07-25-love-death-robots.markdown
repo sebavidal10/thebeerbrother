@@ -3,7 +3,7 @@ layout: post
 title: Love, Death + Robots
 date: '2020-07-25 00:06:00'
 author: 'sebavidal'
-lead: 'Cortometrajes auto-contenidos para adultos centrados en futuros distópicos, sangre, terror y amor. Una gran seria para amantes de la animación y de las buenas historias. Gracias Netflix por cosas como esta.'
+description: 'Cortometrajes auto-contenidos para adultos centrados en futuros distópicos, sangre, terror y amor. Una gran seria para amantes de la animación y de las buenas historias. Gracias Netflix por cosas como esta.'
 categories:
   - series
 tags:

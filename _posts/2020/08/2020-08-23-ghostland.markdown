@@ -3,7 +3,7 @@ layout: post
 title: Ghostland
 date: '2020-08-23 04:05:00'
 author: 'sebavidal'
-lead: 'Una madre se reencuentra con sus dos hijas en la vivienda en la que, una noche de hace 16 años, tuvo que defenderlas de una banda de criminales que asaltó la casa. A partir de aquel día, nada ha sido igual en las vidas de las protagonistas.'
+description: 'Una madre se reencuentra con sus dos hijas en la vivienda en la que, una noche de hace 16 años, tuvo que defenderlas de una banda de criminales que asaltó la casa. A partir de aquel día, nada ha sido igual en las vidas de las protagonistas.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Ready or Not
 date: '2020-07-19 13:00:00'
 author: 'sebavidal'
-lead: 'El último paso para ingresar a la familia es jugar un juego al azar, en este caso Hide and Seek, pero no el tradicional que todos conocemos, en este caso el objetivo más que esconderse es sobrevivir hasta el amanecer.'
+description: 'El último paso para ingresar a la familia es jugar un juego al azar, en este caso Hide and Seek, pero no el tradicional que todos conocemos, en este caso el objetivo más que esconderse es sobrevivir hasta el amanecer.'
 categories:
   - peliculas
 tags:

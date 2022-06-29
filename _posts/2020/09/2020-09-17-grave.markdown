@@ -3,7 +3,7 @@ layout: post
 title: Grave
 date: '2020-09-17 04:00:00'
 author: 'sebavidal'
-lead: 'Para varios el cine francés da la pauta y con Grave nos regalan (una vez más) una excelente historia de hermanas, carne y sangre centrada en la vegetariana Justine y su paso a la adultez.'
+description: 'Para varios el cine francés da la pauta y con Grave nos regalan (una vez más) una excelente historia de hermanas, carne y sangre centrada en la vegetariana Justine y su paso a la adultez.'
 categories:
   - peliculas
 tags:

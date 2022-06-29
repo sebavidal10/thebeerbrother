@@ -3,7 +3,7 @@ layout: post
 title: Vivarium
 date: '2020-07-20 17:30:00'
 author: 'sebavidal'
-lead: 'Una joven pareja que está en búsqueda de su hogar definitivo y por esas vueltas de la vida dan con una extraña sala de ventas, donde un vendedor aún más freak los lleva a conocer una casa en Yonder, un barrio donde todas las casas son idénticas y donde les asegura que será sí o sí un hogar para toda la vida.'
+description: 'Una joven pareja que está en búsqueda de su hogar definitivo y por esas vueltas de la vida dan con una extraña sala de ventas, donde un vendedor aún más freak los lleva a conocer una casa en Yonder, un barrio donde todas las casas son idénticas y donde les asegura que será sí o sí un hogar para toda la vida.'
 categories:
   - peliculas
 tags:

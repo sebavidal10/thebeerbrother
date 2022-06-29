@@ -3,7 +3,7 @@ layout: post
 title: Doctor Sleep
 date: '2020-07-22 14:59:21'
 author: 'sebavidal'
-lead: 'Dan Torrance es un adulto alcoholico que intenta huir de sus poderes, pero que se vera obligado usarlos para ayudar a una pequeña niña que esta siendo asechada por un particular grupo liderado por la Mujer de Sombrero. Muy buena adaptación a la pantalla de la secuela de The Shinning.'
+description: 'Dan Torrance es un adulto alcoholico que intenta huir de sus poderes, pero que se vera obligado usarlos para ayudar a una pequeña niña que esta siendo asechada por un particular grupo liderado por la Mujer de Sombrero. Muy buena adaptación a la pantalla de la secuela de The Shinning.'
 categories:
   - peliculas
 tags:

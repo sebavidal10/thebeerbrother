@@ -3,7 +3,7 @@ layout: post
 title: Superman Red Son
 date: '2020-07-18 00:30:00'
 author: 'sebavidal'
-lead: 'El último hijo de Krypton no se ha estrellado en Kansas, por lo que no creció con el amor de los Kent... cayó en Ucrania y creció como la arma secreta de URSS en plena Guerra Fría. Adaptación del exitoso cómic de Millar que nos muestra este mundo paralelo donde las piezas están revueltas y no todo sale como una esperaría.'
+description: 'El último hijo de Krypton no se ha estrellado en Kansas, por lo que no creció con el amor de los Kent... cayó en Ucrania y creció como la arma secreta de URSS en plena Guerra Fría. Adaptación del exitoso cómic de Millar que nos muestra este mundo paralelo donde las piezas están revueltas y no todo sale como una esperaría.'
 categories:
   - peliculas
 tags:

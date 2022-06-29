@@ -3,7 +3,7 @@ layout: post
 title: I, Tonya
 date: '2020-08-11 02:00:00'
 author: 'sebavidal'
-lead: 'Película basada en la vida de la patinadora Tonya Harding, quien fue la primera en hacer un triple axel y brillar a nivel mundial y que por un error debió abandonar el mundo del patinaje y con ello desaparecer de los libros de historia. Solida Margot Robbie.'
+description: 'Película basada en la vida de la patinadora Tonya Harding, quien fue la primera en hacer un triple axel y brillar a nivel mundial y que por un error debió abandonar el mundo del patinaje y con ello desaparecer de los libros de historia. Solida Margot Robbie.'
 categories:
   - peliculas
 tags:

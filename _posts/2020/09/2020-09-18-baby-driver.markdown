@@ -3,7 +3,7 @@ layout: post
 title: Baby Driver
 date: '2020-09-18 03:00:00'
 author: 'sebavidal'
-lead: 'Baby, un experto conductor, es contactado para un ultimo trabajo donde desafortunadamente todo sale mal. Una excelente banda sonora y un trabajo de relojero a la hora del montaje crean una de mis películas favoritas de este año :D'
+description: 'Baby, un experto conductor, es contactado para un ultimo trabajo donde desafortunadamente todo sale mal. Una excelente banda sonora y un trabajo de relojero a la hora del montaje crean una de mis películas favoritas de este año :D'
 categories:
   - peliculas
 tags:

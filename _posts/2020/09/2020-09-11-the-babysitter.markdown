@@ -3,7 +3,7 @@ layout: post
 title: The Babysitter
 date: '2020-09-11 03:00:00'
 author: 'sebavidal'
-lead: 'Cole descubre que su niñera planea realizar un extraño ritual con algunos de sus amigos y del que al parecer él, de forma inconsciente, es pieza clave. Una comedia negra llena de cliches ridículos que entretiene, pero no sorprende. Recuerda un poquito a Jennifers Body.'
+description: 'Cole descubre que su niñera planea realizar un extraño ritual con algunos de sus amigos y del que al parecer él, de forma inconsciente, es pieza clave. Una comedia negra llena de cliches ridículos que entretiene, pero no sorprende. Recuerda un poquito a Jennifers Body.'
 categories:
   - peliculas
 tags:

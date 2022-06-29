@@ -3,7 +3,7 @@ layout: post
 title: Altered Carbon Temporada 1
 date: '2020-09-15 00:00:00'
 author: 'sebavidal'
-lead: 'Estamos en un futuro donde los humanos (y extraterrestres) ya no mueren, la tecnología permite almacenar en una pila la mente de las personas y traspasarla a una nueva funda (cuerpo) cuando la anterior deja de funcionar.'
+description: 'Estamos en un futuro donde los humanos (y extraterrestres) ya no mueren, la tecnología permite almacenar en una pila la mente de las personas y traspasarla a una nueva funda (cuerpo) cuando la anterior deja de funcionar.'
 categories:
   - series
 tags:

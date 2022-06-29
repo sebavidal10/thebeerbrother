@@ -3,7 +3,7 @@ layout: post
 title: Upgrade
 date: '2020-08-04 21:51:00'
 author: 'sebavidal'
-lead: 'Grey y su esposa son asaltado, ella muere y él queda parapléjico, por lo que se convierte en el perfecto candidato a una operación que integrara en su cuerpo una IA, despues de eso nada será igual.'
+description: 'Grey y su esposa son asaltado, ella muere y él queda parapléjico, por lo que se convierte en el perfecto candidato a una operación que integrara en su cuerpo una IA, despues de eso nada será igual.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: 'Minimalism: A documentary about the Important Things'
 date: '2020-07-14 00:00:00'
 author: 'sebavidal'
-lead: 'El minimalismo apunta a ser auténticos y no tener para mostrar, sino tener lo que nos hace felices. En este documental acompañemos a dos minimalistas que se dedican a evangelizar esta forma de vivir.'
+description: 'El minimalismo apunta a ser auténticos y no tener para mostrar, sino tener lo que nos hace felices. En este documental acompañemos a dos minimalistas que se dedican a evangelizar esta forma de vivir.'
 categories:
   - peliculas
 tags:

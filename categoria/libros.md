@@ -34,7 +34,7 @@ layout: default
                                 </div>
 
                             <div class="content">
-                                <div class="lead">{{ post.lead }}</div>
+                                <div class="lead">{{ post.description }}</div>
                                 {% for cat in post.categories %}
                                         <a class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
                                     {% endfor %}

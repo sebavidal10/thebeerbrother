@@ -3,7 +3,7 @@ layout: post
 title: The Square
 date: '2020-09-04 03:00:00'
 author: 'sebavidal'
-lead: 'Pelicula Sueca escrita y dirigida por Ruben Östlund que tiene como protagonista a Christian, director artístico y encargado de comunicaciones de un importante museo de arte contemporáneo que se prepara para exponer una obra de carácter altruista llamada The Square'
+description: 'Pelicula Sueca escrita y dirigida por Ruben Östlund que tiene como protagonista a Christian, director artístico y encargado de comunicaciones de un importante museo de arte contemporáneo que se prepara para exponer una obra de carácter altruista llamada The Square'
 categories:
   - peliculas
 tags:

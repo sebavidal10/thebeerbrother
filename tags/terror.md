@@ -36,7 +36,7 @@ layout: default
 </div>
 
                             <div class="content">
-                                <div class="lead">{{ post.lead }}</div>
+                                <div class="lead">{{ post.description }}</div>
                                     {% for tag in post.tags %}
                                     <a class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
                                     {% endfor %}<br>

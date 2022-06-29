@@ -3,7 +3,7 @@ layout: post
 title: Isla de Perros
 date: '2020-08-10 23:23:00'
 author: 'sebavidal'
-lead: 'En Isla de Perros nos cuentan la historia de un distópico Japón, específicamente nos sitúa en la ciudad de Megasaki, donde un séquito de personas lideradas por el alcalde Kobayashi, buscan el exterminio de los perros, ya que se a desatado una fiebre canina.'
+description: 'En Isla de Perros nos cuentan la historia de un distópico Japón, específicamente nos sitúa en la ciudad de Megasaki, donde un séquito de personas lideradas por el alcalde Kobayashi, buscan el exterminio de los perros, ya que se a desatado una fiebre canina.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Professor Marston and the Wonder Women
 date: '2020-08-27 03:00:00'
 author: 'sebavidal'
-lead: 'Historia del triángulo amoroso que mezclo a un sicólogo, su esposa y una alumna y que permitió, a pesar de las brechas morales, la creación de Wonder Woman.'
+description: 'Historia del triángulo amoroso que mezclo a un sicólogo, su esposa y una alumna y que permitió, a pesar de las brechas morales, la creación de Wonder Woman.'
 categories:
   - peliculas
 tags:

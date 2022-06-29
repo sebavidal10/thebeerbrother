@@ -3,7 +3,7 @@ layout: post
 title: How to Sell Drugs Online (Fast)
 date: '2020-07-23 18:20:00'
 author: 'sebavidal'
-lead: 'Serie alemana que cuenta cómo un par de amigos se convierten en vendedores de drogas online y todas los riesgos que conlleva... que hasta hicieron una serie de Netflix (?)'
+description: 'Serie alemana que cuenta cómo un par de amigos se convierten en vendedores de drogas online y todas los riesgos que conlleva... que hasta hicieron una serie de Netflix (?)'
 categories:
   - seriess
 tags:

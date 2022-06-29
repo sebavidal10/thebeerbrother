@@ -3,7 +3,7 @@ layout: post
 title: You Were Never Really Here
 date: '2020-08-25 03:00:00'
 author: 'sebavidal'
-lead: 'Joe es un ex-marine y veterano de guerra lleno de traumas que se dedica a rescatar niñas presas de la prostitución.'
+description: 'Joe es un ex-marine y veterano de guerra lleno de traumas que se dedica a rescatar niñas presas de la prostitución.'
 categories:
   - peliculas
 tags:

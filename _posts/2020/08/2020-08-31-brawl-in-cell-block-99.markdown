@@ -3,7 +3,7 @@ layout: post
 title: Brawl in Cell Block 99
 date: '2020-08-31 03:00:00'
 author: 'sebavidal'
-lead: 'Bradley debe trabajar para un amigo traficante transportando paquetes y cobrando el dinero, cuando un envió sale mal el infierno carcelario aparece y se deja caer como un torbellino de violencia sobre sus espaldas...y sus puños.'
+description: 'Bradley debe trabajar para un amigo traficante transportando paquetes y cobrando el dinero, cuando un envió sale mal el infierno carcelario aparece y se deja caer como un torbellino de violencia sobre sus espaldas...y sus puños.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: Argo
 date: '2020-09-24 19:08:00'
 author: 'sebavidal'
-lead: 'El 4 de noviembre de 1979, unos estudiantes iraníes asaltaron la embajada de Estados Unidos en Teherán en represalia porque el presidente Jimmy Carter había concedido asilo al Shah de Persia, Mohammad Reza Pahlavi, durante la revolución iraní.'
+description: 'El 4 de noviembre de 1979, unos estudiantes iraníes asaltaron la embajada de Estados Unidos en Teherán en represalia porque el presidente Jimmy Carter había concedido asilo al Shah de Persia, Mohammad Reza Pahlavi, durante la revolución iraní.'
 categories:
   - peliculas
 tags:

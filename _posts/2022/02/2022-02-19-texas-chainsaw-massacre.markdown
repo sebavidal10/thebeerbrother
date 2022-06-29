@@ -3,7 +3,7 @@ layout: post
 title: Texas Chainsaw Massacre
 date: '2022-02-19 00:00:00'
 author: 'sebavidal'
-lead: 'Han pasado casi 50 años desde que una de las chicas sobrevivió y vimos el baile de la motosierra por primera vez... hoy Leatherface regreso y tiene ganas de usar la motosierra nuevamente.'
+description: 'Han pasado casi 50 años desde que una de las chicas sobrevivió y vimos el baile de la motosierra por primera vez... hoy Leatherface regreso y tiene ganas de usar la motosierra nuevamente.'
 categories:
   - peliculas
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: The Hole in the Ground
 date: '2020-07-06 22:00:00'
 author: 'sebavidal'
-lead: 'Sarah logra encontrar a Chris luego que este se pierde en el bosque, pero al parecer hay algo en el pequeño que hace pensar a la mujer que este no es su hijo.'
+description: 'Sarah logra encontrar a Chris luego que este se pierde en el bosque, pero al parecer hay algo en el pequeño que hace pensar a la mujer que este no es su hijo.'
 categories:
   - peliculas
 tags:

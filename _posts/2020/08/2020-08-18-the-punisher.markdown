@@ -3,7 +3,7 @@ layout: post
 title: The Punisher
 date: '2020-08-18 03:00:00'
 author: 'sebavidal'
-lead: 'Serie de Netflix que cuenta lo que ocurrió con Punisher después de los hechos vistos en Daredevil S02 y ahonda un poco en su pasado militar y en lo que están haciendo él y su pelotón actualmente.'
+description: 'Serie de Netflix que cuenta lo que ocurrió con Punisher después de los hechos vistos en Daredevil S02 y ahonda un poco en su pasado militar y en lo que están haciendo él y su pelotón actualmente.'
 categories:
   - series
 tags:

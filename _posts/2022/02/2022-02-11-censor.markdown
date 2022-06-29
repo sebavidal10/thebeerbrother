@@ -3,7 +3,7 @@ layout: post
 title: Censor
 date: '2022-02-11 00:00:00'
 author: 'sebavidal'
-lead: 'Mientras Enid ve una película, parece reconocer la situación y a la protagonista… algo en su mente la asocia directamente con su hermana perdida hace años, lo que la hora entrar en una búsqueda que quizás nunca debió iniciar'
+description: 'Mientras Enid ve una película, parece reconocer la situación y a la protagonista… algo en su mente la asocia directamente con su hermana perdida hace años, lo que la hora entrar en una búsqueda que quizás nunca debió iniciar'
 categories:
   - peliculas
 tags:

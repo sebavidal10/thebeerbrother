@@ -3,7 +3,7 @@ layout: post
 title: Ghost Stories
 date: '2020-08-24 21:14:13'
 author: 'sebavidal'
-lead: 'El Professor Goodman (Andy Nyman), a dedicado su vida a desenmascarar charlatanes que dicen contactar espíritus o personas que relatan haber sufrido de alguna experiencia paranormal, dejando en claro que esas cosas no existen y que todas tienen una explicación lógica... hasta ahora.'
+description: 'El Professor Goodman (Andy Nyman), a dedicado su vida a desenmascarar charlatanes que dicen contactar espíritus o personas que relatan haber sufrido de alguna experiencia paranormal, dejando en claro que esas cosas no existen y que todas tienen una explicación lógica... hasta ahora.'
 categories:
   - peliculas
 tags:
