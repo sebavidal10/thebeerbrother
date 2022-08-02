@@ -519,10 +519,13 @@ a {
     margin: 1em 0;
 }
 
-.PageNavigation .prev {}
+.PageNavigation .prev {
+    padding-left: 10px;
+}
 
 .PageNavigation .next {
     text-align: right;
+    padding-right: 10px;
 }
 
 .card-tabs {

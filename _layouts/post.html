@@ -4,13 +4,12 @@ layout: default
 
 {% assign months =
 "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre"
-| split: "|" %} 
+| split: "|" %}
 
 <h1 style="display: none">The Beerbrother - Review {{ page.title }}</h1>
 
 <div class="row pt-60">
-  <img class="image-banner" src="/assets/images/{{ page.date |
-date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
+  <img class="image-banner" src="/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
   <div class="gradient-back"></div>
 </div>
 
@@ -99,8 +98,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
             <li>
               <a title="post-{{ p.title }}" href="{{ p.url }}">
                 <div class="div-text">
-                  <img class="image-banner" src="/assets/images/{{ p.date |
-                  date: "%Y" }}/{{ p.date | date: "%m" }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
+                  <img class="image-banner" src="/assets/images/{{ p.date | date: '%Y/%m' }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
                   <br />
                   {{ p.title }}
                   <div>
@@ -119,7 +117,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
                     {% endfor %}
                   </div>
                 </div>
-                </a>
+              </a>
             </li>
             {% endfor %}
           </ul>
@@ -166,7 +164,7 @@ date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg
             }}{{ post.date | date: " %-d, %Y" }}</span>
           <div class="card-image">
             <figure class="image-small">
-              <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" class="rounded-top" alt="Placeholder image">
+              <img src="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg" class="rounded-top" alt="Placeholder image">
             </figure>
           </div>
           <div class="card-content">
