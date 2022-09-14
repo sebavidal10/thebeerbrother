@@ -10,8 +10,8 @@ tags:
   - terror
 ---
 
-**Año** : 2021
-**Director** : Scott Derrickson
+**Año** : 2021  
+**Director** : Scott Derrickson  
 **Imdb** : [7](https://www.imdb.com/title/tt7144666/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
