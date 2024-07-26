@@ -104,7 +104,7 @@ layout: default
                   <div>
                     <div class="subtitle is-7">
                       {% assign m = page.date | date: "%-m" | minus: 1 %}
-                      <b>{{ months[m] }}{{ p.date | date: " %-d, %Y" }}</b><br />
+                      {{ months[m] }}{{ p.date | date: " %-d, %Y" }}<br />
                     </div>
                     {% for cat in p.categories %}
                     <a title="cat" class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
