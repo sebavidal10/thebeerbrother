@@ -81,7 +81,7 @@ El cierre de **Dreams in the Witch House** me gusto más, tiene un toque de humo
 
 ![{{ page.title | slugify }}-07](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-07.png)
 
-Un particular grupo de personas es reunidas por un magnate a disfrutar de una particular velada cargada de tragos exquisitos y las más puras y únicas drogas, para luego dar paso al real objetivo de su visita. Es por mucho el capítulo que más visualmente me capturó. La fotografía, música, colores y elenco me invitaron a disfrutar casi desde dentro del episodio (sin las drogas). Siento que en su último acto ocurrió algo que me sacó de onda y que, no diría que me arruinó, pero sí hizo que bajara en mi ranking personal. Ojo! es un gran episodio :)
+Un particular grupo de personas es reunido por un magnate a disfrutar de una particular velada cargada de tragos exquisitos y las más puras y únicas drogas, para luego dar paso al real objetivo de su visita. Es por mucho el capítulo que más visualmente me capturó. La fotografía, música, colores y elenco me invitaron a disfrutar casi desde dentro del episodio (sin las drogas). Siento que en su último acto ocurrió algo que me sacó de onda y que, no diría que me arruinó, pero sí hizo que bajara en mi ranking personal. Ojo! es un gran episodio :)
 
 #### The Murmuring
 
