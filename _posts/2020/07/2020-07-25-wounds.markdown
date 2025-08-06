@@ -1,0 +1,59 @@
+---
+layout: post
+title: Wounds
+date: '2020-07-25 17:16:50'
+author: 'sebavidal'
+description: 'Un bartender se queda con un celular abandonado en el bar y decide contestar algunos mensajes... grave error, por que partir de ahí comienza a recibir extraños y perturbadores videos'
+categories:
+  - peliculas
+tags:
+  - netflix
+  - terror
+---
+
+**Director** : Babak Anvari  
+**Años** : 2019  
+**Plataforma** : Netflix  
+**Imdb** : [4,0](https://www.imdb.com/title/tt5913798/)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/81uxmIO_lps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+### Erase una vez un bar de New Orleans
+
+Will (Armie Hammer) atiende la barra de un bar de Nueva Orleans que parece infestado por cucarachas y el que (como todo bar) tiene un público frecuente que está mayormente poblado de amigos de Will. Dentro de este grupo de clientes / amigos esta Alicia (Zazie Beetz), quien desde un comienzo se destaca como atractivo romántico para Will, el nuevo novio de Alicia, un policía y su grupo de colegas de la oficina y Eric (Brad William Henke), quien por el exceso de alcohol en una noche de locura se trenza en una pelea con uno de sus acompañantes y termina con una grave herida en el rostro a causa de una botella quebrada. Esa misma noche, en medio del altercado, unos chicos que tomaban en una mesa cercana a la pelea comienzan a grabar la pelea y de pronto salen huyendo cuando notan que Will llamó a la policía (son menores en un bar) y dejan atrás un celular, el que nuestro protagonista toma y se lo lleva a casa.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+De aquí en adelante todo se complica en exceso, por que al revisar el celular encuentra cosas que no debería ver y contesta llamadas que al parecer no eran para él, con lo que desencadena una serie de eventos que afectarán a todo su entorno, incluyendo a su novia Carrie (Dakota Johnson), quien parece cansada de Will y sus mentiras.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.png)
+
+La película se pierde en su excesivo esfuerzo por parecer oscura y tétrica y pierde el foco en la historia, haciendo que la base de toda narración se desperdicie en función de metáforas que no llevan a nada y de personajes que simplemente cambian o desaparecen sin motivo aparente.
+
+### Policias y Cucarachas
+
+Hay varias cosas que se ven venir, sobre todo lo que ronda a la relación de Will y Alicia, pero siento que faltó ahondar un poco más en la historia de Eric y del mismo Will, si bien se entiende que alguna relación tuvo con la milicia o la policía (por su grupo de amigos, que parece infestado de ex-militares y de policías), pero no se esclarece ni se indica por que termino trabajando en un bar (a pesar de su evidente alcoholismo) ni desde cuándo está ahí esa plaga de cucarachas (que tiene un trasfondo más allá de un simple problema de plagas).
+
+![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
+
+Siento que es una película pretenciosa, que peca de caer en efectos tipo _El Aro_ y de forzar el tono tétrico y diabólico en sus escenas, la mayoría de las veces este esfuerzo termina por elevar las ganas de llegar a un clímax que nunca se alcanza, ya que la película termina de un momento a otro justo cuando uno cree que estamos en el momento más alto del film.
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
+
+### Ojo con la bandeja de entrada
+
+Es una pena cuando al final de una película es necesario investigar de más para encontrar explicación a varias cosas (incluso inventar algunas explicaciones), de hecho esta película envia la explicación de muchas cosas en una escena de algunos segundos cuando se muestra una bandeja de gmail :/
+
+Lo mejor es el apartado visual, pero es una pena que se destine tanto presupuesto en el cast, en vez de haber invertido ese tiempo y dinero en un guión más firme y en un ritmo de relato más entretenido.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.png)
+
+### Hay que verla?
+
+Mmm... Zazie Beetz está bien y Dakota Johnson igual. Armie Hammer está como siempre (fome)... en primera instancia diría que no hay que verla porque aburre, pero con tanta vuelta que le doy me a empezado a gustar un poco. No creo que sea buena, es más bien desilucionante, pero de que tenía potencial, **lo tenía**... recomendable? mmm hay puro para conversar en torno a ella, asi que **si**.
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80207495" target="_blank">Netflix</a></div>

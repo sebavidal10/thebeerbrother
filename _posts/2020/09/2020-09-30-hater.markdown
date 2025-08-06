@@ -1,0 +1,54 @@
+---
+layout: post
+title: Hater
+date: '2020-09-30 00:00:00'
+author: 'sebavidal'
+description: 'Tomek se esfuerza, lucha contra toda adversidad y gracias al apadrinamiento de una familia millonaria de la ciudad está encaminado a cambiar su aparente destino y lograr ser un abogado... todo esto se va a la basura cuando es expulsado de la escuela de derecho ya que han descubierto que copió en un informe. Ahí, en ese momento Tomek debe decidir entre asumir lo ocurrido y perder todo con lo que ha soñado o actuar y hacer cosas bastante incorrectas con el objetivo de lograr su anhelado futuro, adivinen, va por la segunda opción.'
+categories:
+  - peliculas
+tags:
+  - drama
+  - netflix
+  - suspenso
+---
+
+**Año** : 2020  
+**Director** : Jan Komasa  
+**Plataforma** : Netflix  
+**Imdb** : [7.1](https://www.imdb.com/title/tt9506474/?ref_=fn_al_tt_1)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vN3FTKfXg_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+Tomek se esfuerza, lucha contra toda adversidad y gracias al apadrinamiento de una familia millonaria de la ciudad está encaminado a cambiar su aparente destino y lograr ser un abogado... todo esto se va a la basura cuando es expulsado de la escuela de derecho ya que han descubierto que copió en un informe. Ahí, en ese momento Tomek debe decidir entre asumir lo ocurrido y perder todo con lo que ha soñado o actuar y hacer cosas bastante incorrectas con el objetivo de lograr su anhelado futuro, adivinen, va por la segunda opción.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+La historia nos muestra cómo las mentiras y el urdimiento de elaborados planes funciona perfecto si nos instalamos a generar fake news a través de redes sociales. Mayormente los hechos ocurren sustentandose en mentiras y juegos sucios, sumado a una montaña de coincidencias que le permiten a Tomek continuar con plan y seguir tras su objetivo: el éxito, el reconocimiento y la chica de sus sueños... quiere un cambio, quiere subir de nivel y ser reconocida por quienes siempre ha admirado. Esa búsqueda es en la que se centra el film.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+Los planes de Tomek van de la mano de muchas coincidencias perfectas que ayudan al guión, ademas con solo unas breves escenas al comienzo nos dejan en claro la inteligencia y la psicopatía del protagonista, quien, ajeno de todo sentimiento y expresión, ira como una máquina avanzando sin importar nada con tal de lograr su objetivo, dañara a supuestos amigos, estafara y se aprovechara de la confianza que deposita la gente en él. Nada, absolutamente nada lo detendra.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+### Hay más tiburones en el estanque
+
+A lo largo de este recorrido conocerá gente igual a él, que creció en base a mentiras y engaños y que por ende debe tener mucho cuidado ya que van varios pasos delante de él. Ahora, dónde viene lo de “Hater”, nos es solo porque Tomen odie al mundo en que nació, donde no están todos los privilegios que anhela, sino por las redes sociales. Una de las armas que usa Tomek es Facebook, donde crea grupos y cuentas falsas para mover masas, los que terminan en el cierre de su plan maestro donde todo se desvela de una manera violenta a una escala que no vi venir. Y, cuando las cosas no parecen suceder tal como él esperaba, ocurre un giro que nos regala un perturbador final muy al estilo de [Hogar](2020-07-11-hogar.markdown).
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.png)
+
+Hater me gusto mucho, las actuaciones son buenas y el como evidencia de lo que es capaz el protagonista para lograr su objetivo es muy cercano a la realidad, al final el éxito y el reconocimiento se vuelven una especie de droga anhelada por Tomek, por la que está dispuesto a hacer cualquier cosa. ¿Algo malo? La excesiva suerte de Tomek, la duración de la película es criticada, pero a mi no me molesta en absoluto.
+
+- Facebook miente
+- No menosprecies a nadie
+- El objetivo importa, pero la gracia es llegar a el sin dañar a los demás
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/81270667" target="_blank">Netflix</a></div>
+
+<br/>
+
+**EXTRA** Muy bueno el paralelo que se hace en torno a la mesa... al ver la película sabrán a lo que me refiero.

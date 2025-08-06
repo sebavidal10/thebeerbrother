@@ -1,0 +1,37 @@
+---
+layout: post
+title: '1922'
+date: '2020-09-10 00:00:00'
+author: 'sebavidal'
+description: '1922 esta basada un relato de Stephen King del mismo nombre, el que cuenta la historia de Wilfred James y su hijo Henry, quienes asesinan a la mujer de la casa, hecho que los atormentará siempre y repletará sus mentes de extrañas visiones.'
+categories:
+  - peliculas
+tags:
+  - drama
+  - netflix
+  - terror
+---
+
+**Año**: 2017  
+**Director**: Zak Hilditch  
+**Adaptaciones de**: 1922  
+**Historia de**: Stephen King  
+**Guion**: Zak Hilditch  
+**Imdb** : [6.3](https://www.imdb.com/title/tt6214928/)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3E_fT0aTsjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+**1922** es una producción original de Netflix basada un relato de **Stephen King** del mismo nombre, la cual cuenta la historia de **Wilfred James (Thomas Jane)** que, en conjunto con su hijo **Henry (Dylan Schmid)**, asesinan a la mujer de la casa (**Molly Parker**) y la botan en un pozo escondiendola de todo (y todos) y haciendo como que nada paso, todo para mantener su vida como esta y no mudarse a la ciudad... bueno no solo por eso, en el primer acto de la película nos muestran que los intereses de cada uno de los miembros de la familia son muy diferentes, pero no incompatibles, el problema y una de los mensajes que el film deja es que a veces hay posibilidades, pero no las vemos, o simplemente un lado de nosotros no quiere ver esa opción y opta por la actuar de la forma más oscura, dejando así aflorar el lado más perturbante de las personas (característica que King plasma en casi todos sus personajes).
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+Las actuaciones son muy buenas y Netflix se encargó de realizar un producto de calidad donde todo se ve bien y funciona perfecto, Thomas Jane resalta de sobremanera como el granjero a la antigua y como el hombre atormentado por los fantasmas de la culpa (literalmente), de hecho las escenas del fantasma (no es spoiler, se ven en trailer) son buenas, simples, pero efectivas.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+### Fantasmas y Ratas
+
+El ritmo a momentos es un poco plano, pero creo que era lo que buscaban al pasar del texto a la pantalla este film de fantasmas, pero atentos, no son fantasmas como en las películas de James Wan, donde parece que el camarógrafo tiene parkinson, sino que es una narración de una historia de culpa y arrepentimiento con fantasmas y ratones.

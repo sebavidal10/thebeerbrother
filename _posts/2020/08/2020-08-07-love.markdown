@@ -1,0 +1,54 @@
+---
+layout: post
+title: Love
+date: '2020-08-07 20:20:00'
+author: 'sebavidal'
+description: 'Love nos cuentan la historia de una pareja que se conoce, vive junta, discute, se miente, se odia y se ama... tal como una pareja real :) (esta en Netflix)'
+categories:
+  - series
+tags:
+  - comedia
+  - drama
+  - netflix
+---
+
+**Primer episodio**: 19 de febrero de 2016  
+**Último episodio**: 9 de marzo de 2018  
+**Cantidad de temporadas**: 3  
+**Cantidad de episodios**: 34  
+**Autores**: Paul Rust, Judd Apatow, Lesley Arfin, David King  
+**Imdb** : [7,7](https://www.imdb.com/title/tt4061080/)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FwiU4O5Cxrc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+Netflix tiene mucho contenido, muchas películas y series originales que abordan diversos temas como futuros apocalípticos, narraciones de época, comedias, etc. Love es una de ellas y a la vez ninguna. En esta serie, sus directores Judd Apatow, Lesley Arfin y Paul Rust, nos cuentan la historia de un hombre y una mujer, algo típico no? Y si, es típico y real, donde se adornan de manera casi mágica los hechos lineales de una pareja que se conoce, vive junta, discute, se miente, se odia y se ama... tal como una pareja real.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+Creo que lo contrapuesto de ambos personajes y ver cómo de cierta forma enfrentan los mismos problemas, pero con herramientas diferentes, hacen de la serie una narración que es imposible de ignorar y con la que nos podemos identificar fácilmente, más con las situaciones que con los personajes. Las dudas, las mentiras y las coincidencias que decoran una relación abundan en **Love**. Por ejemplo, conocer a la familia de tu pareja suena sencillo, pero está lleno de problemas que se desatan cuando alguien conoce tu pasado en palabras de terceros y la _realidad_ se dobla un poco y cosas que uno prefiere no decir salen a la palestra (siempre en medio de una situación incómoda).
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+La serie se viste de comedia, pero es un drama, una triste narración de lo compleja que es la vida y de lo frágil que somos como seres humanos a pesar de vernos fuertes y aparentar éxito.
+
+### 3 Temporadas
+
+En sus 3 temporadas Love logró convertirse en una de mis series favoritas, en parte por que su protagonista vive en torno al cine y también por que los capitulos estan llenos de referencias a clásicos de la pantalla grande, pero igual por lo real de las situaciones y ver que las cosas que uno piensa que a nadie más le pasan son cotidianas y no hay relaciones fáciles, todas son complejas y cuesta arriba y que es esa misma dificultad la que nos permite disfrutar del logro obtenido.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+Serie muy recomendable, quizás no para verla en pareja, por que a momentos puede desatar discusiones ya que algunos hechos pueden terminar en frases como 'viste, son todos iguales' o 'apuesto que hacías lo mismo', etc.
+
+El **final** me gusto, creo que esta bien así, un cierre agradable para una serie que no perdió su escencia y que se paseó por muchos dramas de la vida, que no desaparecen mágicamente, pero que se pueden sobrellevar si nos rodeamos de las personas adecuadas.
+
+Por último, los personajes en torno a los protagonistas son los típicos amigos que uno tiene, hay buenos amigos y oportunistas, hay mujeres rubias en vestidos rojos y siempre hay Carlitos Wey.
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
+
+Mil cervezas para **Love**
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80026506" target="_blank">Netflix</a></div>

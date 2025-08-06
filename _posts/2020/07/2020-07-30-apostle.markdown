@@ -1,0 +1,54 @@
+---
+layout: post
+title: Apostle
+date: '2020-07-30 22:16:00'
+author: 'sebavidal'
+description: 'Thomas es enviado a una extraña isla para infiltrarse en una secta y rescatar a una joven, donde debe poner a prueba su fé y todo lo que cree.'
+categories:
+  - peliculas
+tags:
+  - netflix
+  - terror
+---
+
+**Año** : 2018  
+**Director** : Gareth Evans  
+**Guion** : Gareth Evans  
+**Productor** : Gareth Evans  
+**Plataforma**: Netflix  
+**Imdb** : [6.3](https://www.imdb.com/title/tt6217306)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/3n8xwPUg9VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+**El Apóstol** es una película dirigida, editada y montada por Gareth Evans, por lo que podríamos decir que es un hijo que diseñó, creó y mostró como él quería, dando como resultado una historia extensa (más de 2 horas) que se cocina a fuego lento y que se decora por una fotografía bellísima y unas actuaciones muy buenas lideradas por Dan Stevens y Michael Sheen, donde se mezcla el miedo, la venganza, la envidia y la magia.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+### La isla está viva
+
+La historia trata de un hombre, Thomas Richardson (interpretado por Stevens) que debe viajar e infiltrarse en un extraño culto que vive alejado de todo (incluso del Rey y su poder) en una isla para rescatar a una joven que está secuestrada ahí y por la que piden una alta suma de dinero. El viaje y la llegada a la isla están llenas de tonos grises, hermosas montañas y lagos cristalinos, eternas postales de los países nórdicos, y nos dejan en claro que la ley, costumbres y tradiciones de la isla solo viven en ella.  
+La isla es manejada por sus fundadores, a la cabeza el Profeta Malcolm (Michael Sheen), como su mano derecha Quinn (Mark Lewis Jones) y por el dueño del barco. Todo en la isla está en torno a **ELLA** , una diosa de la isla que según la historia, salvo la vida de Malcolm y permite a toda la comunidad mantenerse viva, pero a cambio pide sacrificios de sangre, mucha sangre.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+Al poco andar de la película uno olvida que todo ocurre a comienzos de 1900 y se sumerge en la mística nórdica de fiestas, bailes, silencios y toques de queda... Mientras avanza se vuelve cada vez más intensa y lo lento de su primera parte es olvidado por hechos cada vez más inesperados y repentinos, terminando con cierres de secuencia de alta violencia gráfica que nos mantienen tambaleando entre épocas de inquisición y castigos vinculados a clavos y tornillos, todo bajo una suave neblina repleta de la magia de los antiguos dioses vikingos que vivían de la guerra y la sangre.
+
+![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
+
+### Excesos y edición
+
+La violencia me hizo recordar a Bone Tomahawk, esos cortes crudos y golpes mortales que de pronto ocurren o escenas que uno no espera son dignos del western más crudo y violento. Creo que el giro del último acto y las explicaciones de los hechos del pasado fueron el punto perfecto que capturó mi atención y me trajo de lleno a ver la película, lo malo es que ocurrió pasado la hora treinta del film. Siento que una mejor edición, o quizás la edición de un tercero habrían ayudado, ya que claramente Garret no supo decidir que sacar de su obra y terminó haciendo una película muy dilatada que se siente (extrañamente) acelerada en su conclusión.
+
+![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
+
+### Me gusto?
+
+Si, sobre todo esas cosas que me recordaron a **The Ritual** , esas cosas que hacen pensar si los sucesos sin explicación son posibles y si seres mágicos habitaron la tierra alguna vez, reinaron, fueron venerados y murieron. Me agrada eso... hizo que la película pasara de ser muy extensa a terminar agradándome. Fue como estar leyendo un libro que se explica a sí mismo hasta el mínimo detalle y deja una extraña sensación al terminar.
+
+![{{ page.title | slugify }}-05](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-05.jpg)
+
+<hr/>
+<div class="disponible-en">Disponible en <a href="https://www.netflix.com/title/80158148" target="_blank">Netflix</a></div>

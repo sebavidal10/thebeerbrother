@@ -1,0 +1,35 @@
+---
+layout: post
+title: I, Tonya
+date: '2020-08-11 02:00:00'
+author: 'sebavidal'
+description: 'Película basada en la vida de la patinadora Tonya Harding, quien fue la primera en hacer un triple axel y brillar a nivel mundial y que por un error debió abandonar el mundo del patinaje y con ello desaparecer de los libros de historia. Solida Margot Robbie.'
+categories:
+  - peliculas
+tags:
+  - drama
+---
+
+**Año**: 2018  
+**Director**: Craig Gillespie  
+**Recaudación**: 47,5 millones USD  
+**Imdb** : [7,5](https://www.imdb.com/title/tt5580036/)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XuyQGywGtm8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+**Tonya Harding** fue la primera patinadora sobre hielo capaz de hacer un triple axel (algo asi como un super giro triple hacia atrás), lo que la diferenció de las demás y que por primera vez la puso sobre las grandes patinadoras de su época. En el film dirigido por Craig Gillespie se nos cuenta esto y mucho más, viaja al pasado y en modo de falso documental nos cuenta la vida de Tonya desde su punto de vista y del de las personas que la rodeaban. Se detiene en su compleja infancia en manos de una mujer alcohólica que la golpeaba constantemente y que, en palabras de la misma película, era un _monstruo de persona_.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+### Tonya Harding
+
+La película viaja con Tonya a través de su adolescencia, su brillante ascenso y lo difícil que fue para una joven rebelde con gustos poco delicados entrar al elitista mundo del patinaje artístico sobre hielo, a pesar de su excelente técnica y gran talento, ya que no solo se premiaba a alguien que patinara bien, sino que era toda una imagen que el mundo del patinaje quiere mostrar, más aun cuando se acercan las olimpiadas y Tonya tiene la posibilidad de representar a Estados Unidos frente al mundo.
+
+El difícil camino al éxito que persigue se ve golpeado por una mala idea que termina aun peor, dejando a Tonya en el centro de la polémica y siendo apuntada con el dedo por algo que no es su culpa, pero que no debería haber permitido que pasara.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+La actuación de Margot Robbie es **genial**, quizás estaba fuera de la edad, pero plasmó muy bien la actitud y los gestos de la real Tonya. La historia es fuerte, agresiva y cruda y cuando parece que las cosas podrían mejorar es todo lo contrario, empeoran y empeoran. Honestamente me dejó una sensacion de melancolía o tristeza, la vida no es justa, pero en ocasiones se excede con algunas personas. Un film altamente recomendado, donde, entre muchos mensajes, esta que a veces puede que no seamos culpables de algo directamente, pero aun asi somos en parte responsables.

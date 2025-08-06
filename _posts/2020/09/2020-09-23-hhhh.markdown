@@ -1,0 +1,42 @@
+---
+layout: post
+title: HHhH
+date: '2020-09-23 03:00:00'
+author: 'sebavidal'
+description: 'Una adaptación más de la gran obra de Laurent Binet, HHhH, en mi opinión la mejor, ya que cuenta la historia de Heydrish en la 1era mitad y luego nos muestra lo que ya sabemos de la operación Anthropoid... buen film histórico, pero que carece de ritmo en su segunda y tercera parte.'
+categories:
+  - peliculas
+tags:
+  - accion
+  - belico
+---
+
+**Año**: 2017  
+**Director**: Cédric Jimenez  
+**Música compuesta por**: Guillaume Roussel  
+**Recaudación**: 2,77 millones USD  
+**Adaptaciones de**: HHhH  
+**Imdb** : [6.4](https://www.imdb.com/title/tt3296908)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EhGS2jnfMus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+### The Man with the Iron Heart
+
+Dirigida por **Cédric Jimenez** y protagonizada por **Jason Clarke** tras la piel del lider de las SS, la Gestapo y gestor de La Solucion Final, **Reinhard Heydrich**, en la que debe ser una de las mejores actuaciones de Clarke. En el film igual participan **Rosamund Pike** como Lina Heydrich y Mia Wasikowska como Anna Novak y se centra en contar la historia escrita plazmada por Laurent Binet en el exitoso best seller HHhH, que en detalle relata el atentado a Heydrich conocido como Operación Antropoid, donde una pareja de soldados, **Jan Kubis** (Jack O'Connell) y **Jozef Gabcik** (Jack Reynor), son enviados a Praga en una mision suicida para acabar con una de las cabezas Nazi.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+### HHhH, Himmlers Hirn hei&szlig;t Heydrich (Himmler's brain is called Heydrich)
+
+La pelicula en su primera mitad se centra en el lider nazi, mostrandonos como era de joven y su explosivo asenso en el nacionalsocialismo, nos cuenta de forma biografica como paso a convertirse en el carnicero de Praga, la forma en que conocio a su amada Lina von Osten (Rosamund Pyke esta increible) y como llego a convertirse en **Reichsprotektor**, que se traduce como Protectorado y viene a ser como el protector de un territorio, que tiene la obligacion de vigilar y proteger los intereses del Tercer Reich en los terrenos de Bohemia y Moravia (actual Republica Checa). La segunda parte de la película se inicia con un giro que nos deja el foco sobre los soldados Gabcik y Kubis y la operación Anthropoid.
+
+![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
+
+Creo que la primera mitad es muy buena, quizas deberian haber seguido esa linea, ya que despues del giro se pierde un poco la atencion, quizas por la excelente actuacion de Clarke que desaparece un poco de escena y deja un vacio, o talvez por lo bien encaminada que iba la historia de la mano de la amenazadora figura de Heydrich. El elenco es increible y se siente un poco desaprovechado, destacan con ventaja Jason Clarke y Rosamund Pike, pero el resto queda al debe, al igual que la pelicula en su conclusion. Si leyo el libro veala, estan muy bien traspasadas algunas cosas, sobre todo Heydrich, sino lo leyo es probable que la encuentre como una pelicula mas de la Segunda Guerra Mundial que termina siendo un poco lenta y hasta aburrida.
+
+### Extra
+
+Como ocurre con muchos films, salió casi junta con otra película de la misma tónica, algo así como cuando salió Armagedon e Impacto Profundo, ya que en 2016 se estreno [Anthropoid](http://www.imdb.com/title/tt4190530), protagoinzada por **Jamie Dornan** y **Cillian Murphy.**

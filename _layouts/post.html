@@ -1,0 +1,210 @@
+---
+layout: default
+---
+
+{% assign months =
+"Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre"
+| split: "|" %}
+
+<h1 style="display: none">The Beerbrother - Review {{ page.title }}</h1>
+
+<div class="row pt-60">
+  <img class="image-banner" src="/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
+  <div class="gradient-back"></div>
+</div>
+
+<div class="container">
+  <div class="title-post">
+    <div class="b-title">{{ page.title }}</div>
+    <p class="title-white is-7">
+      {% assign m = page.date | date: "%-m" | minus: 1 %} {{ months[m] }}{{
+      page.date | date: " %-d, %Y" }}
+    </p>
+    <p class="is-hidden-mobile">{{ page.description }}</p>
+    <div>
+      {% for cat in page.categories %}
+      <a title="categroy slug" class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+      {% endfor %} {% for tag in page.tags %}
+      {% if tag != "spoiler" %}
+      <a title="tag slug" class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+      {% else %}
+      <span class="tag is-danger">{{tag}}</span>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{% for tag in page.tags %} {% if tag == 'spoiler' %}
+<div class="container spoiler-div">
+  <div class="container">Este post contiene spoilers</div>
+</div>
+{% endif %} {% endfor %}
+
+<div class="container">
+  <article class="post">
+    <div class="column big-box is-12" style="margin-top: 0px !important">
+      <div class="columns">
+
+        <div class="column is-8">
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/assets/images/author/{{ page.author }}.jpg" alt="Placeholder image" />
+                </figure>
+              </div>
+              <div class="media-content">
+                <p class="subtitle is-7" style="margin-top: 7px">
+                  Publicado por: {{ page.author }}
+                  <br />
+                  {{ page.date | date: "%b %-d, %Y" }}
+                </p>
+              </div>
+            </div>
+            <div class="columns">
+              <div class="column is-12">
+                <div class="markdown">{{ content }}</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="PageNavigation">
+            {% if page.previous.url %}
+            <a title="prev" class="prev" href="{{page.previous.url}}"><i class="fas fa-long-arrow-alt-left"></i> Artículo anterior<br /><b>{{page.previous.title}}</b></a>
+            {% else %}
+            <a title="space">&nbsp;</a>
+            {% endif %} {% if page.next.url %}
+            <a title="next" class="next" href="{{page.next.url}}">Artículo siguiente <i class="fas fa-long-arrow-alt-right"></i><br /><b>{{page.next.title}}</b></a>
+            {% else %}
+            <a title="space">&nbsp;</a>
+            {% endif %}
+          </div>
+
+          <!--
+            <hr/>
+            <div>
+              COMENTARIOS
+            </div>
+          -->
+        </div>
+
+        <div class="column is-4 side-bar is-hidden-mobile">
+          <div class="has-text-left subtitle">
+            <b>Ultimos Articulos</b>
+          </div>
+          <ul style="width: 100%">
+            {% for p in site.posts limit:10 %}
+            <li>
+              <a title="post-{{ p.title }}" href="{{ p.url }}">
+                <div class="div-text">
+                  <img class="image-banner" src="/assets/images/{{ p.date | date: '%Y/%m' }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
+                  <br />
+                  {{ p.title }}
+                  <div>
+                    <div class="subtitle is-7">
+                      {% assign m = page.date | date: "%-m" | minus: 1 %}
+                      {{ months[m] }}{{ p.date | date: " %-d, %Y" }}<br />
+                    </div>
+                    {% for cat in p.categories %}
+                    <a title="cat" class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
+                    {% endfor %} {% for tag in p.tags %}
+                    {% if tag != "spoiler" %}
+                    <a title="tag" class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+                    {% else %}
+                    <span class="tag is-danger">{{tag}}</span>
+                    {% endif %}
+                    {% endfor %}
+                  </div>
+                </div>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+
+          <div class="cloud">
+            {% assign sortedTags = site.tags | sort: tag[0] %} {% for tag in
+            sortedTags %}
+            <a title="cloud-tag-{{ tag[0] | capitalize }}" href="/tags/{{ tag[0] | slugify }}">
+              <div class="tile-tag">{{ tag[0] | capitalize }}</div>
+            </a>
+            {% endfor %}
+          </div>
+
+          <div>
+            <!-- VERTICAL ADS -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <div class="relatedPosts">
+    <div style="font-size: 1.5rem; font-weight: bold" class="title-section">
+      Quizás también te interese:
+    </div>
+    <br />
+    <div class="columns is-multiline assoc">
+      {% assign maxRelated = 8 %} {% assign minCommonTags = 2 %} {% assign
+      maxRelatedCounter = 0 %} {% for post in site.posts %} {% assign
+      sameTagCount = 0 %} {% assign commonTags = '' %} {% for tag in post.tags
+      %} {% if post.url != page.url %} {% if page.tags contains tag %} {% assign
+      sameTagCount = sameTagCount | plus: 1 %} {% capture tagmarkup %}
+      <span class="label label-default">{{ tag }}</span> {% endcapture %} {%
+      assign commonTags = commonTags | append: tagmarkup %} {% endif %} {% endif
+      %} {% endfor %} {% if sameTagCount >= minCommonTags %}
+      <!-- <div>
+            <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+            </div> -->
+
+      <a href="{{ post.url }}" title="{{ post.url }}">
+        <div class="column box is-3">
+          <span class="subtitle is-7 datetime is-hidden-mobile">
+            {% assign m = post.date | date: "%-m" | minus: 1 %} {{ months[m]
+            }}{{ post.date | date: " %-d, %Y" }}</span>
+          <div class="card-image">
+            <figure class="image-small">
+              <img src="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg" class="rounded-top" alt="Placeholder image">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left is-hidden-mobile">
+                <figure class="image is-48x48">
+                  <img src="/assets/images/author/{{ post.author }}.jpg" alt="Placeholder image" />
+                </figure>
+              </div>
+              <div class="media-content">
+                <p class="title is-4">{{ post.title }}</p>
+                <p class="subtitle is-7 is-hidden-mobile">@{{ post.author }}</p>
+              </div>
+            </div>
+
+            <div class="content">
+              <!-- <div class="lead">{{ post.description }}</div> -->
+              {% for tag in post.tags %}
+              {% if tag != "spoiler" %}
+              <a title="/tags/{{tag | slugify }}" class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
+              {% else %}
+              <span class="tag is-danger">{{tag}}</span>
+              {% endif %}
+              {% endfor %}<br />
+            </div>
+          </div>
+        </div>
+      </a>
+
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %} {% if
+      maxRelatedCounter >= maxRelated %} {% break %} {% endif %} {% endif %} {%
+      endfor %}
+    </div>
+  </div>
+</div>
+
+<!-- <div class="card-image">
+  <figure class="image-big">
+    <img
+      src="/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-banner.jpg"
+      alt="Placeholder image">
+  </figure>
+</div> -->

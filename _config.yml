@@ -1,0 +1,18 @@
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://thebeerbrother.cl' # the base hostname & protocol for your site, e.g. http://example.com
+title: 'The BeerBrother - Recomendación de Peliculas y Series' # the name of your site, e.g. ACME Corp.
+
+email: sebastianvidalaedo@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Recomendación de Peliculas y Series
+# twitter_username: jekyllrb
+github_username: sebavidal10
+# gitlab_username:  pages
+
+permalink: /:year/:month/:day/:title
+
+author: 'sebavidal'
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

@@ -1,0 +1,46 @@
+---
+layout: post
+title: Grave
+date: '2020-09-17 04:00:00'
+author: 'sebavidal'
+description: 'Para varios el cine francés da la pauta y con Grave nos regalan (una vez más) una excelente historia de hermanas, carne y sangre centrada en la vegetariana Justine y su paso a la adultez.'
+categories:
+  - peliculas
+tags:
+  - drama
+  - terror
+---
+
+**Año**: 2017  
+**Director**: Julia Ducournau  
+**Imdb** : [7.0](https://www.imdb.com/title/tt4954522)
+
+<figure class="kg-card kg-embed-card kg-card-hascaption">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iwTf7sxCe9k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <figcaption>{{ page.title }}</figcaption>
+</figure>
+
+### Grave? Raw? Crudo?
+
+Es la historia de una joven vegetariana llamada Justine (**Garance Marillier**) y su llegada a la escuela de veterinaria donde estudia su hermana mayor Alexia (**Ella Rumpf**). Ahí, junto a todos los novatos, deberá afrontar una particular "bienvenida" llena de ritos de iniciacion vinculados directamente a su futura profesión.
+
+[Soundtrack](https://youtu.be/10CSmRNCE4k)
+
+### Fuerte? Perturbadora?
+
+El estreno de la película trajo consigo la idea de ser muy asquerosa, con escenas extremas que te harían vomitar y toneladas de sangre, pero no era para tanto, si bien hay escenas fuertes y complicadas de ver, son pocas y muy bien logradas (como la escena de la alergia que aparece en el trailer), el resto son escenas normales, muchas fiestas de primer año universitario con excesos y mucho alcohol.
+
+Un gran logro (dentro de muchos) es la habilidad de convertir momentos convencionales en situaciones extremas y con mucho impacto emotivo, el uso de los desnudos y el sexo explícito nos trata como adultos y los muestra de forma natural sin caer en excesos ni clichés situaciones cotidianas vinculadas a la sexualidad y la violencia.
+
+![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
+
+La búsqueda de Justine por encajar la lleva a realizar una prueba que implica comer carne, cosa que no había hecho nunca en su vida, y este hecho cambia todo desatando en ella una necesidad de comer carne, contra la que no puede luchar y que resulta ser placentero (y a la vez pacificador) en un mundo adulto que esta comenzando a descubrir, aparte de este punto hay 3 hitos directamente relacionados a su relación con Alexia que hacen girar la película y son cruciales para la trama de todo el film y que nos dicen que los hermanos se cuidan entre ellos. El &ldquo;comer&rdquo; carne le muestra un placer desconocido y hace las veces de droga en Justine, ya que pierde el control con tal de sacear su hambre y olvida donde y con quienes esta cuando tiene ganas de comer.
+
+> Adrien: What do you eat?
+> Justine: Cereal.
+> Adrien: Cereal's up there.
+> Justine: I'm just getting milk, OK?
+
+### Canibales
+
+Por ultimo, El soundtrack es genial y calza perfecto con la película, creo que es una muestra de que aun hay películas originales, aunque pienso que me gusto por que tiene varias cosas similares a **The Neon Demon**... No era lo que esperaba, pero me sorprendió gratamente. El canibalismo a sido tratado muchas veces en el cine, mayormente por seres fantásticos, pero cuando no, en películas como Hannibal o Voraz, es adornado con diversos hechos que lo hacen inverosímil, en el caso de Grave esto se logra de una manera distorcionadamente natural lo que hace pensar que el fenómeno puede estar ocurriendo en algún lugar del mundo y te hace mirar la película de otra forma, ya que mediante diálogos fuera de lugar y tomas "sencillas" crea na experiencia realista y nos guía a empatizar con la protagonista y la compleja situación que enfrenta, angustiando con sus desiciones y temiendo por lo que pueda pasar...
