@@ -148,18 +148,24 @@ layout: default
     </div>
     <br />
     <div class="columns is-multiline assoc">
-      {% assign maxRelated = 8 %} {% assign minCommonTags = 2 %} {% assign
-      maxRelatedCounter = 0 %} {% for post in site.posts %} {% assign
-      sameTagCount = 0 %} {% assign commonTags = '' %} {% for tag in post.tags
-      %} {% if post.url != page.url %} {% if page.tags contains tag %} {% assign
-      sameTagCount = sameTagCount | plus: 1 %} {% capture tagmarkup %}
-      <span class="label label-default">{{ tag }}</span> {% endcapture %} {%
-      assign commonTags = commonTags | append: tagmarkup %} {% endif %} {% endif
-      %} {% endfor %} {% if sameTagCount >= minCommonTags %}
-      <!-- <div>
-            <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-            </div> -->
-
+      {% assign maxRelated = 8 %}
+      {% assign minCommonTags = 1 %}
+      {% assign maxRelatedCounter = 0 %}
+      {% for post in site.posts %}
+      {% assign sameTagCount = 0 %}
+      {% assign commonTags = '' %}
+      {% for tag in post.tags %}
+      {% if post.url != page.url %}
+      {% if page.tags contains tag and tag != "spoiler" %}
+      {% assign sameTagCount = sameTagCount | plus: 1 %}
+      {% capture tagmarkup %}
+      <span class="label label-default">{{ tag }}</span>
+      {% endcapture %}
+      {% assign commonTags = commonTags | append: tagmarkup %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+      {% if sameTagCount >= minCommonTags %}
       <a href="{{ post.url }}" title="{{ post.url }}">
         <div class="column box is-3">
           <span class="subtitle is-7 datetime is-hidden-mobile">
@@ -196,10 +202,12 @@ layout: default
           </div>
         </div>
       </a>
-
-      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %} {% if
-      maxRelatedCounter >= maxRelated %} {% break %} {% endif %} {% endif %} {%
-      endfor %}
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+      {% break %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
     </div>
   </div>
 </div>
