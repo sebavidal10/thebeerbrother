@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Babadook
-date: '2017-08-27 04:00:00'
+date: '2025-09-01 04:00:00'
 author: 'sebavidal'
 description: 'Análisis e interpretación de una excelente película que camina por la delgada linea de la psicopatía y lo sobrenatural donde una madre, inconscientemente, culpa a su hijo por la muerte del padre y un extraño ser los atormenta en una casa atemporal con extraños horarios de sueño.'
 tags:

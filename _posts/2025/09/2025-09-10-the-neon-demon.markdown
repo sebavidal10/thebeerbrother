@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Neon Demon
-date: '2022-03-10 03:00:00'
+date: '2025-09-10 03:00:00'
 author: 'sebavidal'
 description: 'Una excelente fotografía y un gran soundtrack hacen de esta película una de mis favoritas, donde una joven modelo se convierte en una codiciada presa en el mundo de las pasarelas... su belleza es una maldición en este extraño y frío entorno lleno de envidia.'
 categories:

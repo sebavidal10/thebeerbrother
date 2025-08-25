@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It Follows
-date: '2022-03-27 19:08:00'
+date: '2025-09-27 19:08:00'
 author: 'sebavidal'
 description: 'Un breve análisis al trasfondo de It Follows, película que nos habla de una maldición que pasa mediante el sexo y que sólo atormenta al "maldito". Excelente vistoso al nuevo terror y un ejemplo de como hacer buen cine con pocos recursos.'
 categories:

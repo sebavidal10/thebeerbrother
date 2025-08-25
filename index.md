@@ -9,7 +9,7 @@ title: 'The BeerBrother'
 
 <div class="container" style="padding-top: 85px">
   <div class="columns is-multiline" >
-      {% for post in site.posts limit:16 %}
+      {% for post in site.posts limit:15 %}
         <a href="{{ post.url }}" title="post-{{post-title}}">
             {% if forloop.index == 4 or forloop.index == 5 %}
                 <div class="column box is-6">
@@ -22,11 +22,11 @@ title: 'The BeerBrother'
             {% else %}
                 <div class="column box is-4">
             {% endif %}
-                {% assign m = posts.date | date: "%-m" | minus: 1 %}
-                <span class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }} {{forloop.index}}</span>
+                {% assign m = post.date | date: "%-m" | minus: 1 %}
+                <span class="subtitle is-7 datetime">{{ months[m] }}{{ post.date | date: " %-d, %Y" }}</span>
                 <div class="card-image">
                     <figure class="image">
-                        <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Placeholder image">
+                        <img src="/assets/images/{{ post.date | date: "%Y" }}/{{ post.date | date: "%m" }}/{{ post.title | slugify }}-banner.jpg" alt="Banner de {{ post.title }}" loading="lazy">
                     </figure>
                 </div>
 
@@ -34,11 +34,11 @@ title: 'The BeerBrother'
                     <div class="media">
                         <div class="media-left">
                             <figure class="image is-48x48">
-                                <img src="/assets/images/author/{{ post.author }}.jpg" alt="Placeholder image">
+                                <img src="/assets/images/author/{{ post.author }}.jpg" alt="Foto de {{ post.author }}" loading="lazy">
                             </figure>
                         </div>
                         <div class="media-content">
-                          <p class="title is-4">{{ post.title }}</p>
+                          <h2 class="title is-4">{{ post.title }}</h2>
                           <p class="subtitle is-7">@{{ post.author }}</p>
                         </div>
                     </div>
