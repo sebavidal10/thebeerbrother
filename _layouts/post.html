@@ -7,9 +7,39 @@ layout: default
 | split: "|" %}
 
 <h1 style="display: none">The Beerbrother - Review {{ page.title }}</h1>
+<!-- SEO metadatos y schema.org para artículo -->
+<meta name="description" content="{{ page.description | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' }}{% else %}cerveza, reviews, peliculas, series, comics, juegos, libros, blog{% endif %}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | strip_html | strip_newlines | truncate: 160 }}",
+  "image": "{{ site.url }}/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Beerbrother",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/assets/images/logo.png"
+    }
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
 
 <div class="row pt-60">
-  <img class="image-banner" src="/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg" alt="Placeholder image">
+  <img class="image-banner" src="/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg" alt="Banner de {{ page.title }}">
   <div class="gradient-back"></div>
 </div>
 
@@ -51,7 +81,7 @@ layout: default
             <div class="media">
               <div class="media-left">
                 <figure class="image is-48x48">
-                  <img src="/assets/images/author/{{ page.author }}.jpg" alt="Placeholder image" />
+                  <img src="/assets/images/author/{{ page.author }}.jpg" alt="Foto de {{ page.author }}" />
                 </figure>
               </div>
               <div class="media-content">
@@ -90,49 +120,22 @@ layout: default
         </div>
 
         <div class="column is-4 side-bar is-hidden-mobile">
-          <div class="has-text-left subtitle">
-            <b>Ultimos Articulos</b>
+          <div class="has-text-left subtitle" style="margin-bottom:1.5rem;">
+            <b>Últimos Artículos</b>
           </div>
-          <ul style="width: 100%">
-            {% for p in site.posts limit:10 %}
-            <li>
-              <a title="post-{{ p.title }}" href="{{ p.url }}">
-                <div class="div-text">
-                  <img class="image-banner" src="/assets/images/{{ p.date | date: '%Y/%m' }}/{{ p.title | slugify }}-banner.jpg" alt="Placeholder image">
-                  <br />
-                  {{ p.title }}
-                  <div>
-                    <div class="subtitle is-7">
-                      {% assign m = page.date | date: "%-m" | minus: 1 %}
-                      {{ months[m] }}{{ p.date | date: " %-d, %Y" }}<br />
-                    </div>
-                    {% for cat in p.categories %}
-                    <a title="cat" class="tag is-dark" href="/categoria/{{cat | slugify }}">#{{cat}}</a>
-                    {% endfor %} {% for tag in p.tags %}
-                    {% if tag != "spoiler" %}
-                    <a title="tag" class="tag is-dark" href="/tags/{{tag | slugify }}">#{{tag}}</a>
-                    {% else %}
-                    <span class="tag is-danger">{{tag}}</span>
-                    {% endif %}
-                    {% endfor %}
-                  </div>
+          <div class="related-suggestions">
+            {% assign ultimos = site.posts | sort: "date" | reverse | slice: 0, 12 %}
+            {% for post in ultimos %}
+            <div class="box" style="margin-bottom:1rem;">
+              <a href="{{ post.url }}" style="display:flex;align-items:center;text-decoration:none;">
+                <img src="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg" alt="Banner de {{ post.title }}" style="width:60px;height:60px;object-fit:cover;margin-right:1rem;border-radius:6px;">
+                <div>
+                  <div style="font-weight:bold; color:#222;">{{ post.title }}</div>
+                  <div style="font-size:0.9em;color:#666;">{{ post.date | date: "%d/%m/%Y" }}</div>
                 </div>
               </a>
-            </li>
+            </div>
             {% endfor %}
-          </ul>
-
-          <div class="cloud">
-            {% assign sortedTags = site.tags | sort: tag[0] %} {% for tag in
-            sortedTags %}
-            <a title="cloud-tag-{{ tag[0] | capitalize }}" href="/tags/{{ tag[0] | slugify }}">
-              <div class="tile-tag">{{ tag[0] | capitalize }}</div>
-            </a>
-            {% endfor %}
-          </div>
-
-          <div>
-            <!-- VERTICAL ADS -->
           </div>
         </div>
       </div>

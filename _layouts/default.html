@@ -18,16 +18,45 @@
   <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta charset="utf-8">
-  <title>{{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | default: site.title }}{% endif %}">
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' }}{% else %}cerveza, reviews, peliculas, series, comics, juegos, libros, blog{% endif %}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | default: site.title }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/images/logo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | default: site.title }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/logo.png">
   <link rel="stylesheet" href="/assets/css/main.css">
-
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-
   <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
-
   <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-
+  <!-- Sitemap and robots -->
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+  <meta name="robots" content="index, follow">
+  <!-- Datos estructurados schema.org -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "{{ site.url }}",
+      "name": "{{ site.title }}",
+      "description": "{{ site.description | default: site.title }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Beerbrother",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/images/logo.png"
+        }
+      }
+    }
+    </script>
   {% seo title=false %}
 </head>
 
@@ -63,29 +92,6 @@
 
   <!-- footer  -->
   <footer class="footer is-black">
-
-    <!-- <div class="content has-text-centered">
-        <div class="columns is-centered">
-          
-          <div class="column is-6">
-            <div class="columns">
-                
-                <div class="column has-text-centered">
-                  <a href="" target="_blank">link 1</a>
-                </div>
-                <div class="column has-text-centered">
-                  <a href="" target="_blank">link 1</a>
-                </div>
-                <div class="column has-text-centered">
-                  <a href="" target="_blank">link 1</a>
-                </div>
-
-            </div>
-          </div>
-
-        </div>
-      </div> -->
-
     <div class="content has-text-centered">
       <p>
         <br />
