@@ -39,7 +39,7 @@ layout: default
 </script>
 
 <div class="row pt-60">
-  <img class="image-banner" src="/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg" alt="Banner de {{ page.title }}">
+  <img class="image-banner" src="/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg" alt="Banner de {{ page.title }}" loading="lazy" srcset="/assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg 600w, /assets/images/{{ page.date | date: '%Y/%m' }}/{{ page.title | slugify }}-banner.jpg 300w">
   <div class="gradient-back"></div>
 </div>
 
@@ -81,7 +81,7 @@ layout: default
             <div class="media">
               <div class="media-left">
                 <figure class="image is-48x48">
-                  <img src="/assets/images/author/{{ page.author }}.jpg" alt="Foto de {{ page.author }}" />
+                  <img src="/assets/images/author/{{ page.author }}.jpg" alt="Foto de {{ page.author }}" loading="lazy" width="48" height="48" />
                 </figure>
               </div>
               <div class="media-content">
@@ -128,7 +128,7 @@ layout: default
             {% for post in ultimos %}
             <div class="box" style="margin-bottom:1rem;">
               <a href="{{ post.url }}" style="display:flex;align-items:center;text-decoration:none;">
-                <img src="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg" alt="Banner de {{ post.title }}" style="width:60px;height:60px;object-fit:cover;margin-right:1rem;border-radius:6px;">
+                <img src="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg" alt="Banner de {{ post.title }}" style="width:60px;height:60px;object-fit:cover;margin-right:1rem;border-radius:6px;" loading="lazy" srcset="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg 60w, /assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg 30w">
                 <div>
                   <div style="font-weight:bold; color:#222;">{{ post.title }}</div>
                   <div style="font-size:0.9em;color:#666;">{{ post.date | date: "%d/%m/%Y" }}</div>
@@ -173,14 +173,14 @@ layout: default
             }}{{ post.date | date: " %-d, %Y" }}</span>
           <div class="card-image">
             <figure class="image-small">
-              <img src="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg" class="rounded-top" alt="Placeholder image">
+              <img src="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg" class="rounded-top" alt="Banner de {{ post.title }}" loading="lazy" srcset="/assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg 300w, /assets/images/{{ post.date | date: '%Y/%m' }}/{{ post.title | slugify }}-banner.jpg 150w">
             </figure>
           </div>
           <div class="card-content">
             <div class="media">
               <div class="media-left is-hidden-mobile">
                 <figure class="image is-48x48">
-                  <img src="/assets/images/author/{{ post.author }}.jpg" alt="Placeholder image" />
+                  <img src="/assets/images/author/{{ post.author }}.jpg" alt="Foto de {{ post.author }}" loading="lazy" width="48" height="48" />
                 </figure>
               </div>
               <div class="media-content">

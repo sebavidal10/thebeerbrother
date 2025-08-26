@@ -23,25 +23,25 @@ tags:
 
 ### Horror íntimo que aprieta el pecho
 
-La nueva de los hermanos Philippou (los de _Talk to Me_, de mis favoritas de ese año) no busca el susto fácil. Empieza como un drama sombrío de duelo y termina revelando una casa que respira liturgia enferma. Dos hermanastros caen al cuidado de una madre adoptiva que desde un inicio notamos que no es lo que parece. Lo mejor: el film entiende que el terror funciona cuando duele. Aquí duele. El diseño sonoro es áspero, el montaje evita el subrayado y el clima ritual se pega a la piel.
+La nueva de los hermanos Philippou (los de *Talk to Me*, una de mis favoritas de ese año) no busca el susto fácil. Arranca como un drama sombrío marcado por el duelo y termina mostrando una casa que late con una liturgia enferma. Dos hermanastros caen al cuidado de una madre adoptiva que, desde el inicio, intuimos que no es lo que aparenta. Lo mejor es que la película entiende que el terror funciona de verdad cuando duele, y aquí duele. El diseño sonoro raspa, el montaje nunca subraya de más y la atmósfera ritual se pega a la piel.
 
 ![{{ page.title | slugify }}-01](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-01.jpg)
 
 ### Actuaciones y tono
 
-**Sally Hawkins** sostiene la película con una presencia que mezcla amabilidad rota y amenaza. Billy Barratt y Sora Wong funcionan muy bien como dupla en modo supervivencia. La cámara se mueve con paciencia: recorta pasillos, puertas entreabiertas y detalles que parecen pistas, a veces lo son, otras no, la casa en sí es un personaje más de la película. Ese juego de expectativas (más “malestar” que _jump scare_) es su marca, es fuerte... muy fuerte.
+El corazón de todo es **Sally Hawkins**, que sostiene la película con una mezcla rara entre ternura rota y amenaza constante. A su lado, **Billy Barratt** y **Sora Wong** funcionan bien como dupla en modo supervivencia. La historia avanza con paciencia, y la cámara se asoma por pasillos, puertas entreabiertas y detalles que parecen pistas. A veces lo son, otras no. La casa misma se convierte en personaje, y ese juego de expectativas —más malestar que *jump scares*— es lo que le da fuerza. Es incómodo, pesado, pero también hipnótico.
 
 ![{{ page.title | slugify }}-02](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-02.jpg)
 
 ### Ritual, culpa y la casa como personaje
 
-La casa es un organismo: paredes con memoria, cuartos que se sienten más chicos cuando se pronuncian ciertos nombres. El guion toma decisiones que priorizan atmósfera por sobre explicación, y aunque en tramos puede sentirse “esquivo”, el payoff emocional llega, especialmente cuando el ritual deja de ser un misterio y se vuelve elección... ¿qué ritual? bueno, la peli da atisbos y deja el resto a la imaginación del público.
+La casa no es un escenario: es un organismo. Paredes con memoria, cuartos que parecen achicarse cuando se pronuncian ciertos nombres. El guion apuesta por la atmósfera antes que por la explicación, y aunque a ratos puede sentirse esquivo, el golpe emocional llega, sobre todo cuando el ritual deja de ser un enigma y se transforma en una elección. No lo explica todo, pero deja lo suficiente para que el público complete lo que falta.
 
 ![{{ page.title | slugify }}-03](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-03.jpg)
 
 ### Conclusión
 
-**Recomendable** si disfrutas el terror que va más allá (como _Babadook_) es lo tuyo. Menos sobresaltos, más tensión sostenida. Para fans de _The Night House_ o _Hereditary_ en su fibra emocional, no en su escala.
+**Recomendable** si te atrae el terror que va más allá del sobresalto. Es menos gritos y más tensión sostenida, más angustia íntima que espectáculo. Si **The Babadook**, **The Night House** o **Hereditary** te dejaron algo en el cuerpo, esta va por esa misma vena, en su fibra emocional más que en la escala.
 
 ![{{ page.title | slugify }}-04](/assets/images/{{ page.date | date: "%Y" }}/{{ page.date | date: "%m" }}/{{ page.title | slugify }}-04.jpg)
 
