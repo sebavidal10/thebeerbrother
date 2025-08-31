@@ -124,7 +124,7 @@ layout: default
             <b>Últimos Artículos</b>
           </div>
           <div class="related-suggestions">
-            {% assign ultimos = site.posts | sort: "date" | reverse | slice: 0, 12 %}
+            {% assign ultimos = site.posts | sort: "date" | reverse | slice: 0, 20 %}
             {% for post in ultimos %}
             <div class="box" style="margin-bottom:1rem;">
               <a href="{{ post.url }}" style="display:flex;align-items:center;text-decoration:none;">
