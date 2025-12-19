@@ -15,7 +15,7 @@ tags:
 
 **Año** : 2025  
 **Director** : Guillermo del Toro  
-**Plataforma** : Netflix  
+**Plataforma** : Netflix. 
 **Imdb** : [7.5](https://www.imdb.com/title/tt1312221/)
 
 <figure class="kg-card kg-embed-card kg-card-hascaption">
