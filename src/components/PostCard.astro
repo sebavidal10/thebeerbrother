@@ -1,0 +1,74 @@
+---
+import { slugify, formatDate, images } from '../utils/helpers';
+import { Image } from 'astro:assets';
+
+const { post, index } = Astro.props;
+const { title, date, author, description, categories, tags } = post.data;
+const { year, month } = formatDate(date);
+const slug = slugify(title);
+
+const months = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+const postDate = new Date(date);
+const formattedDate = `${months[postDate.getMonth()]} ${postDate.getDate()}, ${postDate.getFullYear()}`;
+
+const bannerPath = `/src/assets/images/${year}/${month}/${slug}-banner.jpg`;
+const authorPath = `/src/assets/images/author/${author}.jpg`;
+
+// Fallback logic if image not found in glob
+const bannerImg = images[bannerPath] ? images[bannerPath]() : null;
+const authorImg = images[authorPath] ? images[authorPath]() : null;
+
+// column logic
+let columnClass = "column box is-4";
+if (index === 3 || index === 4) columnClass = "column box is-6";
+else if (index === 8) columnClass = "column box is-4";
+else if (index === 9) columnClass = "column box is-8";
+else if (index === 13) columnClass = "column box is-8";
+---
+<a href={`/${year}/${month}/${String(postDate.getDate()).padStart(2, '0')}/${slug}`} title={`post-${title}`}>
+	<div class={columnClass}>
+		<span class="subtitle is-7 datetime">{formattedDate}</span>
+		<div class="card-image">
+			<figure class="image">
+				{bannerImg ? (
+					<Image src={bannerImg} alt={`Banner de ${title}`} width={800} height={450} format="webp" />
+				) : (
+					<div class="placeholder-img" style="background:#eee;height:200px;"></div>
+				)}
+			</figure>
+		</div>
+
+		<div class="card-content">
+			<div class="media">
+				<div class="media-left">
+					<figure class="image is-48x48">
+						{authorImg ? (
+							<Image src={authorImg} alt={`Foto de ${author}`} width={48} height={48} format="webp" />
+						) : (
+							<div class="placeholder-img" style="background:#ddd;width:48px;height:48px;"></div>
+						)}
+					</figure>
+				</div>
+				<div class="media-content">
+					<h2 class="title is-4">{title}</h2>
+					<p class="subtitle is-7">@{author}</p>
+				</div>
+			</div>
+
+			<div class="content">
+				<div class="lead">{description}</div>
+				{categories?.map((cat: string) => (
+					<a class="tag is-dark" title="category-slug" href={`/categoria/${slugify(cat)}`}>#{cat}</a>
+				))}
+				{tags?.map((tag: string) => (
+					tag !== "spoiler" ? (
+						<a class="tag is-dark" title="tag-slug" href={`/tags/${slugify(tag)}`}>#{tag}</a>
+					) : (
+						<span class="tag is-danger">{tag}</span>
+					)
+				))}
+				<br />
+			</div>
+		</div>
+	</div>
+</a>

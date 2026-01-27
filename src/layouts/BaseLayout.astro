@@ -1,0 +1,97 @@
+---
+interface Props {
+	title?: string;
+	description?: string;
+}
+
+const { title, description } = Astro.props;
+const siteTitle = "The BeerBrother - Recomendación de Peliculas y Series";
+const siteDescription = "Recomendación de Peliculas y Series";
+const fullTitle = title ? `${title} | ${siteTitle}` : siteTitle;
+const fullDescription = description || siteDescription;
+const siteUrl = "https://thebeerbrother.cl";
+const canonicalURL = new URL(Astro.url.pathname, siteUrl);
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	
+	<!-- Primary Meta Tags -->
+	<title>{fullTitle}</title>
+	<meta name="title" content={fullTitle} />
+	<meta name="description" content={fullDescription} />
+	<link rel="canonical" href={canonicalURL} />
+	<meta name="robots" content="index, follow" />
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content={Astro.url} />
+	<meta property="og:title" content={fullTitle} />
+	<meta property="og:description" content={fullDescription} />
+	<meta property="og:image" content={`${siteUrl}/assets/images/logo.png`} />
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image" />
+	<meta property="twitter:url" content={Astro.url} />
+	<meta property="twitter:title" content={fullTitle} />
+	<meta property="twitter:description" content={fullDescription} />
+	<meta property="twitter:image" content={`${siteUrl}/assets/images/logo.png`} />
+	
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-LWP0P11KT9"></script>
+	<script is:inline>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'G-LWP0P11KT9');
+	</script>
+
+	<!-- AdSense -->
+	<script data-ad-client="ca-pub-2863256019685447" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap" rel="stylesheet" />
+	<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+<body>
+	<nav class="navbar is-black" aria-label="main navigation">
+		<div class="container">
+			<div class="navbar-brand">
+				<a title="navbar-item navbar-logo" class="navbar-item navbar-logo" href="/">
+					<img src="/assets/images/logo.png" alt="logo" /> The Beerbrother
+				</a>
+				<a title="navbar-burger" role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
+					<span aria-hidden="true"></span>
+					<span aria-hidden="true"></span>
+					<span aria-hidden="true"></span>
+				</a>
+			</div>
+
+			<div id="navbarBasicExample" class="navbar-menu">
+				<div class="navbar-end">
+					<div class="recomendacion is-hidden-mobile">Recomendaciones de </div>
+					<a href="/categoria/peliculas" class="navbar-item" title="navbar-item">PELICULAS</a>
+					<a href="/categoria/series" class="navbar-item" title="navbar-item">SERIES</a>
+					&nbsp;&nbsp;
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	<slot />
+
+	<footer class="footer is-black">
+		<div class="content has-text-centered">
+			<p>
+				<br />
+				<strong>© 2026</strong> The BeerBrother<br />
+				<small>Escrito con <i class="fas fa-heart" style="color: red"></i> por <a title="sebavidal" href="https://sebavidal.cl">Sebastián Vidal</a></small>
+			</p>
+		</div>
+	</footer>
+</body>
+</html>

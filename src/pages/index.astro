@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+
+const allPosts = await getCollection('blog');
+const sortedPosts = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0, 15);
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://thebeerbrother.cl",
+  "name": "The BeerBrother",
+  "description": "Recomendación de Peliculas y Series",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Beerbrother",
+    "logo": { "@type": "ImageObject", "url": "https://thebeerbrother.cl/assets/images/logo.png" }
+  }
+};
+---
+<BaseLayout>
+	<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+	<h1 style="display: none">The BeerBrother - Recomendación de Peliculas y Series</h1>
+
+	<div class="container" style="padding-top: 85px">
+		<div class="columns is-multiline">
+			{sortedPosts.map((post, index) => (
+				<PostCard post={post} index={index} />
+			))}
+		</div>
+
+		<div class="">
+			<!-- HORIZONTAL ADS -->
+		</div>
+	</div>
+</BaseLayout>

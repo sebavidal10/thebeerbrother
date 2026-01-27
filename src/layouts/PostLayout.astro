@@ -1,0 +1,257 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { slugify, formatDate, images } from '../utils/helpers';
+import { Image } from 'astro:assets';
+
+const { frontmatter, prev, next, allPosts } = Astro.props;
+const { title, description, date, author, categories, tags } = frontmatter;
+
+const months = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+const postDate = new Date(date);
+const formattedDate = `${months[postDate.getMonth()]} ${postDate.getDate()}, ${postDate.getFullYear()}`;
+
+const { year, month, day } = formatDate(date);
+const slug = slugify(title);
+
+const bannerPath = `/src/assets/images/${year}/${month}/${slug}-banner.jpg`;
+const authorPath = `/src/assets/images/author/${author}.jpg`;
+
+const bannerImg = images[bannerPath] ? images[bannerPath]() : null;
+const authorImg = images[authorPath] ? images[authorPath]() : null;
+
+const getPostUrl = (post: any) => {
+	const { year, month, day } = formatDate(post.data.date);
+	return `/${year}/${month}/${day}/${slugify(post.data.title)}`;
+};
+
+// Sidebar: Latest 20 articles
+const latestArticles = allPosts?.slice(0, 20) || [];
+
+// Related Posts: Similar tags (excluding current post and 'spoiler' tag)
+const relatedPosts = allPosts?.filter((p: any) => {
+	if (getPostUrl(p) === getPostUrl({ data: frontmatter })) return false;
+	const commonTags = p.data.tags?.filter((t: string) => t !== 'spoiler' && tags?.includes(t));
+	return commonTags && commonTags.length > 0;
+}).slice(0, 8) || [];
+
+const siteUrl = "https://thebeerbrother.cl";
+const postUrl = `${siteUrl}${getPostUrl({ data: frontmatter })}`;
+const bannerFullUrl = bannerImg ? `${siteUrl}${bannerPath.replace('/src', '')}` : `${siteUrl}/assets/images/logo.png`;
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": title,
+    "description": description,
+    "image": bannerFullUrl,
+    "author": { "@type": "Person", "name": author },
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Beerbrother",
+      "logo": { "@type": "ImageObject", "url": `${siteUrl}/assets/images/logo.png` }
+    },
+    "datePublished": postDate.toISOString(),
+    "dateModified": postDate.toISOString(),
+    "mainEntityOfPage": { "@type": "WebPage", "@id": postUrl }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Inicio", "item": siteUrl },
+      { 
+        "@type": "ListItem", 
+        "position": 2, 
+        "name": categories?.[0] || "Blog", 
+        "item": `${siteUrl}/categoria/${slugify(categories?.[0] || "blog")}` 
+      },
+      { "@type": "ListItem", "position": 3, "name": title, "item": postUrl }
+    ]
+  }
+];
+---
+<BaseLayout title={title} description={description}>
+	<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+	
+	<div class="row pt-60">
+		{bannerImg ? (
+			<Image src={bannerImg} alt={`Banner de ${title}`} width={1920} height={1080} class="image-banner" loading="eager" format="webp" />
+		) : (
+			<div class="image-banner" style="background: #333;"></div>
+		)}
+		<div class="gradient-back"></div>
+	</div>
+
+	<div class="container">
+		<div class="title-post">
+			<div class="b-title">{title}</div>
+			<p class="title-white is-7">{formattedDate}</p>
+			<p class="is-hidden-mobile">{description}</p>
+			<div>
+				{categories?.map((cat: string) => (
+					<a title="categroy slug" class="tag is-dark" href={`/categoria/${slugify(cat)}`}>#{cat}</a>
+				))}
+				{tags?.map((tag: string) => (
+					tag !== "spoiler" ? (
+						<a title="tag slug" class="tag is-dark" href={`/tags/${slugify(tag)}`}>#{tag}</a>
+					) : (
+						<span class="tag is-danger">{tag}</span>
+					)
+				))}
+			</div>
+		</div>
+	</div>
+
+	{tags?.includes('spoiler') && (
+		<div class="container spoiler-div">
+			<div class="container">Este post contiene spoilers</div>
+		</div>
+	)}
+
+	<div class="container">
+		<article class="post">
+			<div class="column big-box is-12" style="margin-top: 0px !important">
+				<div class="columns">
+					<div class="column is-8">
+						<div class="card-content">
+							<div class="media">
+								<div class="media-left">
+									<figure class="image is-48x48">
+										{authorImg ? (
+											<Image src={authorImg} alt={`Foto de ${author}`} width={48} height={48} format="webp" />
+										) : (
+											<div style="background:#ddd;width:48px;height:48px;"></div>
+										)}
+									</figure>
+								</div>
+								<div class="media-content">
+									<p class="subtitle is-7" style="margin-top: 7px">
+										Publicado por: {author}
+										<br />
+										{formattedDate}
+									</p>
+								</div>
+							</div>
+							<div class="columns">
+								<div class="column is-12">
+									<div class="markdown">
+										<slot />
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="PageNavigation">
+							{prev && (
+								<a title="prev" class="prev" href={getPostUrl(prev)}>
+									<i class="fas fa-long-arrow-alt-left"></i> Artículo anterior<br /><b>{prev.data.title}</b>
+								</a>
+							)}
+							{!prev && <a title="space">&nbsp;</a>}
+							
+							{next && (
+								<a title="next" class="next" href={getPostUrl(next)}>
+									Artículo siguiente <i class="fas fa-long-arrow-alt-right"></i><br /><b>{next.data.title}</b>
+								</a>
+							)}
+							{!next && <a title="space">&nbsp;</a>}
+						</div>
+					</div>
+
+					<div class="column is-4 side-bar is-hidden-mobile">
+						<div class="has-text-left subtitle" style="margin-bottom:1.5rem;">
+							<b>Últimos Artículos</b>
+						</div>
+						<div class="related-suggestions">
+							{latestArticles.map((post: any) => {
+								const { year, month } = formatDate(post.data.date);
+								const pSlug = slugify(post.data.title);
+								const bPath = `/src/assets/images/${year}/${month}/${pSlug}-banner.jpg`;
+								const bImg = images[bPath] ? images[bPath]() : null;
+								return (
+									<div class="box" style="margin-bottom:1rem;">
+										<a href={getPostUrl(post)} style="display:flex;align-items:center;text-decoration:none;">
+											{bImg ? (
+												<Image src={bImg} alt={`Banner de ${post.data.title}`} width={60} height={60} style="width:60px;height:60px;object-fit:cover;margin-right:1rem;border-radius:6px;" format="webp" />
+											) : (
+												<div style="width:60px;height:60px;background:#eee;margin-right:1rem;border-radius:6px;"></div>
+											)}
+											<div>
+												<div style="font-weight:bold; color:#222;">{post.data.title}</div>
+												<div style="font-size:0.9em;color:#666;">{new Date(post.data.date).toLocaleDateString('es-ES')}</div>
+											</div>
+										</a>
+									</div>
+								);
+							})}
+						</div>
+					</div>
+				</div>
+			</div>
+		</article>
+
+		{relatedPosts.length > 0 && (
+			<div class="relatedPosts">
+				<div style="font-size: 1.5rem; font-weight: bold" class="title-section">
+					Quizás también te interese:
+				</div>
+				<br />
+				<div class="columns is-multiline assoc">
+					{relatedPosts.map((post: any) => {
+						const { year, month } = formatDate(post.data.date);
+						const pSlug = slugify(post.data.title);
+						const bPath = `/src/assets/images/${year}/${month}/${pSlug}-banner.jpg`;
+						const bImg = images[bPath] ? images[bPath]() : null;
+						const aPath = `/src/assets/images/author/${post.data.author}.jpg`;
+						const aImg = images[aPath] ? images[aPath]() : null;
+						return (
+							<a href={getPostUrl(post)} title={post.data.title}>
+								<div class="column box is-3" style="width: 100%">
+									<span class="subtitle is-7 datetime is-hidden-mobile">
+										{new Date(post.data.date).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}
+									</span>
+									<div class="card-image">
+										<figure class="image-small">
+											{bImg ? (
+												<Image src={bImg} alt={`Banner de ${post.data.title}`} width={400} height={225} class="rounded-top" format="webp" />
+											) : (
+												<div class="rounded-top" style="background:#eee;height:120px;"></div>
+											)}
+										</figure>
+									</div>
+									<div class="card-content">
+										<div class="media">
+											<div class="media-left is-hidden-mobile">
+												<figure class="image is-48x48">
+													{aImg ? (
+														<Image src={aImg} alt={`Foto de ${post.data.author}`} width={48} height={48} format="webp" />
+													) : (
+														<div style="background:#ddd;width:48px;height:48px;"></div>
+													)}
+												</figure>
+											</div>
+											<div class="media-content">
+												<p class="title is-4">{post.data.title}</p>
+												<p class="subtitle is-7 is-hidden-mobile">@{post.data.author}</p>
+											</div>
+										</div>
+										<div class="content">
+											{post.data.tags?.map((tag: string) => (
+												tag !== "spoiler" ? (
+													<span class="tag is-dark" style="margin-right: 2px">#{tag}</span>
+												) : (
+													<span class="tag is-danger">{tag}</span>
+												)
+											))}
+										</div>
+									</div>
+								</div>
+							</a>
+						);
+					})}
+				</div>
+			</div>
+		)}
+	</div>
+</BaseLayout>

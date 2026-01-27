@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import PostLayout from '../../../../layouts/PostLayout.astro';
+import { slugify, formatDate } from '../../../../utils/helpers';
+
+export async function getStaticPaths() {
+	const blogEntries = await getCollection('blog');
+	const sortedEntries = blogEntries.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+	
+	return sortedEntries.map((entry, index) => {
+		const { year, month, day } = formatDate(entry.data.date);
+		const slug = slugify(entry.data.title);
+		return {
+			params: { year, month, day, slug },
+			props: { 
+				entry, 
+				prev: index < sortedEntries.length - 1 ? sortedEntries[index + 1] : null,
+				next: index > 0 ? sortedEntries[index - 1] : null,
+				allPosts: sortedEntries
+			},
+		};
+	});
+}
+
+const { entry, prev, next, allPosts } = Astro.props;
+const { Content } = await entry.render();
+---
+<PostLayout frontmatter={entry.data} prev={prev} next={next} allPosts={allPosts}>
+	<Content />
+</PostLayout>
