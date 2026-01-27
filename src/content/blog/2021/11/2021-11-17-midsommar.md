@@ -24,7 +24,7 @@ tags:
 Este será un post laaaargo y lleno de spoilers, ya que tratare de contar todo lo que vi en la película y lo que fui entendiendo luego de muchas vueltas.  
 El foco del film esta en **Dani** (Florence Pugh), una joven que protagoniza la "intro" de la película, donde se presentan los personajes y se dan varias señales que sirven para comprender todo lo que ocurre a lo largo del film.
 
-![midsommar-01](/assets/images/2021/11/midsommar-01.jpg)
+![midsommar-01](../../../../assets/images/2021/11/midsommar-01.jpg)
 
 ### Antes del viaje
 
@@ -38,7 +38,7 @@ A pasado un tiempo (no dicen cuanto) y vemos a Dani junto a Christian y a su gru
 
 Ya notamos que hay una **forma particular de llenar los escenarios**, como si viéramos desde un punto escondido en la toma y uno de los personajes siempre está en un espejo, lo que vemos tanto en la pelea de Dani con Christian como cuando él habla con sus amigos, muy bien Ari Aster, excelente!.
 
-![midsommar-02](/assets/images/2021/11/midsommar-02.jpg)
+![midsommar-02](../../../../assets/images/2021/11/midsommar-02.jpg)
 
 ### Los amigos de Christian
 
@@ -60,7 +60,7 @@ Esto es muy sospechoso, ya que se rompe la idea inicial de que eran amigos casua
 
 Llegan a un típico paraje sueco con un campo perfecto donde conocemos a Ingemar (Hampus Hallberg), quien es presentado por Pelle como su hermano, y a Connie y Simon, una pareja inglesa invitada por Ingemar a la festividad. A los minutos les comparten hongos(?) alucinógeno que los deja en un extraño que causa angustia en Dani, lo que la lleva a correr y encerrarse en un baño. Ahí tiene una visión de sus padres y su hermana viendo television, escena siguiente despierta y está durmiendo en el campo... Han pasado más de 6 horas y, por el lugar geográfico que están, el día es mucho más largo, ya que a pesar de ser las 21 aún el sol es radiante.
 
-![midsommar-03](/assets/images/2021/11/midsommar-03.jpg)
+![midsommar-03](../../../../assets/images/2021/11/midsommar-03.jpg)
 
 ### Bienvenidos a Hårga
 
@@ -68,7 +68,7 @@ Luego de caminar por el bosque llegan a la aldea conocida como Hårga, a la cual
 
 Dani, Christian y los demás son bienvenidos por los miembros de la aldea (que visten absolutamente de blanco y señalan que es un homenaje a Ymir) y parecen convivir en una extraña armonía, donde algunos siembran, otros tocan música (la música ambiente generalmente es interpretada en las mismas escenas) y otros simplemente bailan. Esta escena de bienvenida termina con un brindis que da inicio a la fiestas y las ceremonias, la primera de ellas es un baile donde todos están de la mano e Ingemar les explica que ese baile es conocido como **Despellejar al Tonto** (ojo aquí, esto tiene mucho sentido más adelante). Dentro de este juego una joven le da una patadita a Christian, el que la queda mirando (Dani se da cuenta) y se une al extraño baile, momento que Pelle aprovecha para regalarle un dibujo a Dani por su cumpleaños (Christian lo había olvidado), lo que Dani agradece mucho y ve como un gesto más de este "extraño" hacia ella. Luego del baile comienzan a caminar y se dan más señales de lo mal novio que es Christian. Por otro lado, Connie junto a Ingemar se alejan para ver un telar que representa un hechizo de amor.
 
-![midsommar-04](/assets/images/2021/11/midsommar-04.png)
+![midsommar-04](../../../../assets/images/2021/11/midsommar-04.png)
 
 ### Los dormitorios
 
@@ -81,7 +81,7 @@ Pelle lleva al grupo a sus habitaciones, las cuales son un gran granero completa
 
 Luego de escuchar esto Dani pregunta "¿qué ocurre después?" y Pelle le hace un gesto como diciendo que morirán, Dani cree que no es textual, pero más adelante vemos que sí.
 
-![midsommar-05](/assets/images/2021/11/midsommar-05.jpg)
+![midsommar-05](../../../../assets/images/2021/11/midsommar-05.jpg)
 
 ### Ättestupa
 
@@ -91,7 +91,7 @@ Para poner fin al sufrimiento del anciano le revientan el cráneo con una especi
 
 Esa noche Dani tiene una pesadilla donde ve a Christian y a sus amigos marcharse del lugar en auto (recalcando su miedo por la soledad) y un extraño humo sale de su boca (haciendo alusión a la muerte de sus padres), también indica el comienzo del olvido o un cierre de capítulo en relación a sus padres ya que los ve muertos al pie del peñasco del suicidio y también ve ahí a su hermana que la queda mirando. De cierto modo mezcla lo que ocurrio con las nuevas cosas que esta viviendo.
 
-![midsommar-06](/assets/images/2021/11/midsommar-06.jpg)
+![midsommar-06](../../../../assets/images/2021/11/midsommar-06.jpg)
 
 Luego de esto vemos como termina el ritual, donde los cuerpos de los ancianos son quemados y sus cenizas son lanzadas junto a un tronco enorme que es el árbol sagrado de la aldea donde cada miembro de la comunidad vuelve a ser parte de la tierra donde nacio.
 
@@ -103,7 +103,7 @@ Escena siguiente vemos que Connie quiere dejar la aldea, pero no encuentra a su 
 
 Escena siguiente están en una comida que Dani ayudó a preparar (almuerzo, once, no lo se), donde todos comen y beben un extraño "juguito". Aquí se manifiestan 2 pasos más que vimos en el telar con el hechizo de amor, ya que la comida de Christian tiene bellos púbicos y su bebida se ve un tono más rojiza que la de los demás, esto por que la joven que lo pateó y dejó la runa (conocida como Maja) dejo vello púbico en su comida y agrego un poco de su menstruación en la bebida de Christian (es raro que no lo notara, en la escena esta más que claro).
 
-![midsommar-07-5](/assets/images/2021/11/midsommar-07-5.jpg)
+![midsommar-07-5](../../../../assets/images/2021/11/midsommar-07-5.jpg)
 
 ### Mark y Josh, hasta pronto
 
@@ -119,14 +119,14 @@ Consiste en demostrar la fuerza de la aldea, donde se desafía a la oscuridad (q
 
 Luego de mucho bailar y de ser una mas del grupo Dani termina sola de pie (las demás caen mareadas por el baile y el efecto del jugo de raíces) convirtiéndose en la Reina de Mayo por lo que debe recorrer en carruaje varios lugares de la aldea para bendecir las cosechas. Mientras esto ocurre Christian es guiado por un camino de pétalos de colores hacia un galpón donde le dan a inhalar un extraño humo y luego es llevado a tener sexo con Maja quien lo espera rodeado de otras mujeres desnudas (claramente una de ellas es su madre) quienes se quejan y gimen junto a Maja.
 
-![midsommar-07](/assets/images/2021/11/midsommar-07.jpg)
+![midsommar-07](../../../../assets/images/2021/11/midsommar-07.jpg)
 
 Cuando Dani termina la bendición se encamina hacia donde esta la líder de la aldea. Aquí ocurren 2 cosas:
 
 - Ve a su madre entre la gente quien tiene una mirada de desprecio indicando que se fue de la vida de Dani para siempre (mejor dicho, Dani la sacó de su vida)
 - A lo lejos escucha los gemidos de las mujeres y siente curiosidad, se acerca al granero desde provienen y observa por la endija de la puerta, viendo a Christian teniendo relaciones con la joven lo que la hace salir corriendo (tal como hizo cuando peleo con Christian, cuando Pelle le habló de sus padres, en el avión, etc.) y rompe en llanto, escena en la cual está acompañada de muchas mujeres que lloran junto a ella empatizando (no corrio como siempre ni quedo sola ), lo que deja claras 2 cosas, la primera es que consideran a Dani una más de la aldea y la segunda es que le dicen con hechos a Dani que **nunca más estará sola en su dolor** y que siempre estarán ahí para acompañarla y ayudarla a superarlos.
 
-![midsommar-08](/assets/images/2021/11/midsommar-08.jpg)
+![midsommar-08](../../../../assets/images/2021/11/midsommar-08.jpg)
 
 ### El Ritual Final
 
@@ -144,11 +144,11 @@ Christian sale del efecto de las drogas y huye a un granero donde encuentra a Si
 - Dos desconocidos que parecen momificados y representan algo así como cultivos y carne.
 - Ulf (quien lloro por el árbol sagrado) e Ingemar, quien es elegido por haber llevado nueva sangre a la Aldea. Creo que Ingemar se da como voluntario por que al parecer se enamoró de Connie y la perdió, esto lo saco como conclusión de cuando la quedaba mirando fijamente y, además, de cuando dice que estuvieron en una cita (cosa que Connie desmiente).
 
-![midsommar-09](/assets/images/2021/11/midsommar-09.jpg)
+![midsommar-09](../../../../assets/images/2021/11/midsommar-09.jpg)
 
 Antes de darle el pase a Dani para que diga quién debe morir, se premia a Pelle por la gente que trajo (Christian para procrear, sus amigos en sacrificio y principalmente a la nueva reina, Dani), lo que nos dice que **Pelle sabia todo** y corrobora la idea de que los eligió para este viaje (esto afirma las dudas de Dani frente al motivo de Pelle para invitarlos a la aldea). Dani elige a Christian, a quien le ponen la piel del oso (si, ese oso enjaulado que vimos al comienzo) ya que simboliza lo malo e impuro (es un mal amigo, poco empatico, no entiende el concepto de trabajo en equipo y carece de muchos otros valores que la aldea respeta) y junto a los demás elegidos para morir lo dejan en la casa triangular y le prenden fuego. Mientras mueren toda la aldea grita como ellos para empatizar por última vez y Dani en un momento pasa de estar muy apenada a sonreír, ya que encontró a la familia que nunca tuvo y nunca más volverá a estar sola, quemando con Christian lo último que la ataba a su pasado.
 
-![midsommar-10](/assets/images/2021/11/midsommar-10.jpg)
+![midsommar-10](../../../../assets/images/2021/11/midsommar-10.jpg)
 
 #### Extra
 

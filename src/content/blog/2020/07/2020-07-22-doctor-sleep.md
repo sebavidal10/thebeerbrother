@@ -15,11 +15,11 @@ tags:
 
 **Doctor Sleep** es la continuación del libro de Stephen King (no de la película de 1980 dirigida por Stanley Kubrick) The Shining, donde se nos cuenta la historia de una familia que se muda al hotel Overlook durante la temporada de invierno para cuidarlo y hacer labores de mantención. Ahí es donde, por primera vez, vemos el _resplandor_, una habilidad con la que el pequeño Danny Torrance nació y que, al no entender, atribuye a un amigo imaginario que habla por él.
 
-![doctor-sleep-01](/assets/images/2020/07/doctor-sleep-01.jpg)
+![doctor-sleep-01](../../../../assets/images/2020/07/doctor-sleep-01.jpg)
 
 En **Doctor Sueño** se nos explican muchas cosas que eran solo suposiciones de _The Shining_, como que el resplandor se manifiesta de distinta forma en cada persona, que los animales también lo tienen e incluso las cosas (como el hotel Overlook) y que muchas de las personas que lo tienen no lo saben y atribuyen sus consecuencias a simples coincidencias o buena suerte. En la vereda contraria está **Dan Torrance** (Ewan McGregor), quien rehuye de sus habilidades manteniéndose ebrio o drogado (o ambas) constantemente y que, cada vez menos, es visitado por el espíritu(?) de **Dick Hallorann** , quien lo guió cuando pequeño y le enseñó cómo enfrentar a los espectros del **Overlook** que lo siguieron más allá del Hotel y que, actualmente, hace de _"la voz de la conciencia"_ de Dan.
 
-![doctor-sleep-02](/assets/images/2020/07/doctor-sleep-02.jpg)
+![doctor-sleep-02](../../../../assets/images/2020/07/doctor-sleep-02.jpg)
 
 ### Abra y la magia
 
@@ -30,11 +30,11 @@ Las vueltas de la vida llevan a Dan Torrance a entrar en contacto con una peque�
 
 De esta forma Rose y su equipo de "vampiros del resplandor" se convierten en los antagonistas de Abra y Dan, lo malo es que esto queda claro más allá de la mitad de la película, lo que creo es uno de sus defectos, ya que toma demasiado tiempo en posicionar las fichas antes de comenzar a jugar y cuando la acción comienza ya queda poca película y su cierre se siente un poco apresurado y simplista.
 
-![doctor-sleep-03](/assets/images/2020/07/doctor-sleep-03.jpg)
+![doctor-sleep-03](../../../../assets/images/2020/07/doctor-sleep-03.jpg)
 
 A pesar de lo anterior me gustó mucho la película. Lo que más destaco del film es el esclarecimiento de los poderes (todas las explicaciones entorno a esto) y me gusto que los animales también los tengan. La aparición de ese grupo que se va alimentando del resplandor de otros liderados por la mujer del sombrero es muy buena, la interpretación de **Rebecca Ferguson** que esta impecable y se ve y siente como un personaje fuerte, sabio e intimidante. Es el personaje que más me gusto de la película (junto con la niña “pusher”). El apartado visual igual es genial, muy buenos efectos en la primera mitad del film. El último acto se esfuerza mucho por referenciar a The Shining y pierde naturalidad y fluidez propia.
 
-![doctor-sleep-04](/assets/images/2020/07/doctor-sleep-04.jpg)
+![doctor-sleep-04](../../../../assets/images/2020/07/doctor-sleep-04.jpg)
 
 ### Corte del Director?
 

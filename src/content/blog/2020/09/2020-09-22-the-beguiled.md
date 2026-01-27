@@ -21,7 +21,7 @@ La primera película dirigida por **Sofia Coppola** que vi fue Virgenes Suicidas
 
 En poco más de 90 minutos Sofía Coppola dispone un elenco increíble protagonizado por **Colin Farrell**, **Nicole Kidman**, **Kirsten Dunst**, **Elle Fanning** y **Oona Laurence** para contarnos una simple, pero intensa y oscura historia, donde nos muestran a un soldado de la **Union** (Collin Farrell) que es encontrado moribundo por una de cuatro niñas que viven en una inmensa casa a cargo de **Miss Martha** (Nicole Kidman) y que son instruidas por la maestra **Edwina** (Kirsten Dunst). Todas las mujeres, 6 en total, sienten cierta atracción por el soldado enemigo, algunas una atracción pasional (Kidman, Fanning y Dunst), otras sienten un desprecio por el enemigo y algunas simple curiosidad infantil.
 
-![the-beguiled-01](/assets/images/2020/09/the-beguiled-01.jpg)
+![the-beguiled-01](../../../../assets/images/2020/09/the-beguiled-01.jpg)
 
 La película va y viene por diversos géneros y perspectivas, lo que la hace atractiva y nos impide mantenernos al margen de los hechos, nos hace participes y nos provoca mostrándonos la oscuridad tras los personajes y como la intervención de un hombre en un ambiente femenino causa revuelo y altera todo, y así como la guerra que ocurre en el exterior está cambiando el mundo, la presencia del hombre cambia la vida en la casa.
 

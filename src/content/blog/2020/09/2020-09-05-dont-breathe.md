@@ -24,7 +24,7 @@ tags:
 
 **Fede Alvarez** (Evil Dead 2013) dirige a **Stephen Lang**y **Jane Levy** en este Thriller de Horror que en un comienzo se llamaría **A Man in the Dark** y que hoy conocemos como Don't Breathe, donde se cuenta la historia de 3 ladrones que gracias a cierta información privilegiada saben que casas robar y cuanto robar en cada una de ellas para que la policía no los busque por mucho tiempo y, en caso de ser sorprendidos, que la condena sea muy breve.
 
-![dont-breathe-01](/assets/images/2020/09/dont-breathe-01.jpg)
+![dont-breathe-01](../../../../assets/images/2020/09/dont-breathe-01.jpg)
 
 El grupo de amigos/ladrones está formado por **Rocky** (Jane Levy), **Alex** (Dylan Minnette) y **Money** (Daniel Zovatto), quienes por diferentes motivos se encuentran delinquiendo, escenario del que Rocky y Alex quieren salir para instalarse lejos del tormentoso y hostil día a día en el que están creciendo. El próximo trabajo se ve simple y muy lucrativo, de que trata? robar una casa en un barrio solitario a un viejo ciego que vive solo junto a su perro, y que tiene una suculenta cantidad de dinero oculto en el sótano.
 
@@ -36,7 +36,7 @@ Para dar mayor realismo a las escenas en el interior de la casa todos utilizaron
 
 Las actuaciones son muy buenas, el mayor mérito se lo lleva Lang como el hombre ciego con no más de 20 líneas en el guión (la mayoría casi al final del film) y Dylan Minnete como Alex -el inmortal-. La película está compuesta por 3 partes, en la primera nos presentan al grupo de ladrones y se siente como un film adolescente, algo así como Now You See Me. La segunda parte es completamente distinta, convirtiendola en una cacería dentro de la casa y recuerda de cierta manera a Panic Room, además de entregarnos ciertos datos que nos sirven para comprender la motivación tras la crueldad del solitario hombre. Por último, el tercer capítulo, inicia con un giro inesperado que lleva el film a territorios más perturbadores y oscuros y que parece no querer acabar.
 
-![dont-breathe-02](/assets/images/2020/09/dont-breathe-02.jpg)
+![dont-breathe-02](../../../../assets/images/2020/09/dont-breathe-02.jpg)
 
 El desenlace es bastante extraño y da muchas vueltas que alargan el tercer acto sin necesidad, creo que se pierde un poco el ritmo y se convierte en algo así como un destino final (cuando vean el film entenderán a lo que me refiero). Creo que Fede Álvarez hizo algo muy bueno y fresco con esta película, agregó giros muy oscuros que delatan ciertos comportamientos humanos que superan la ficción y demostró que una idea que nació en su juventud en Uruguay se convirtió en un éxito más que rentable que lo llevó a convertir los 9.9 millones de que costó en los más de 100 recaudo.
 

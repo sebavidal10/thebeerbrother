@@ -23,7 +23,7 @@ Película inglesa dirigida por Jeremy Dyson y Andy Nyman donde se nos cuenta la 
 
 Un día, quien a sido su mentor desde infancia, Charles Cameron (Leonard Byrne), lo contacta para que investigue 3 casos que el mismo no logro explicar y que lo atormentan en los últimos años de su vida, casos que lo llevaran a enfrentar la lógica de la cual se jacta y a dudar de si todo tiene una explicación o si en verdad hay algo **más allá**...
 
-![ghost-stories-01](/assets/images/2020/08/ghost-stories-01.jpg)
+![ghost-stories-01](../../../../assets/images/2020/08/ghost-stories-01.jpg)
 
 ### Tres historias
 
@@ -35,7 +35,7 @@ Cada uno de los casos es diferente
 
 Los 3 casos son fáciles de explicar por Goodman, el problema es que cuando los va a explicar todo comienza a revelarse mediante un plato twist muy extraño.
 
-![ghost-stories-02](/assets/images/2020/08/ghost-stories-02.jpg)
+![ghost-stories-02](../../../../assets/images/2020/08/ghost-stories-02.jpg)
 
 ### Honestamente...
 
@@ -43,8 +43,8 @@ Honestamente pensé que el ultimo acto seria mejor y las historias, bien contada
 
 No es lo que me esperaba, **lo que para nada** la hace una mala película.
 
-![ghost-stories-03](/assets/images/2020/08/ghost-stories-03.jpg)
+![ghost-stories-03](../../../../assets/images/2020/08/ghost-stories-03.jpg)
 
 Para terminar, destacar la participación de Martin Freeman (Bilbo) y de Alex Lawther (a quien vimos en Black Mirror), ambos increíbles en sus respectivos papeles.
 
-![ghost-stories-04](/assets/images/2020/08/ghost-stories-04.jpg)
+![ghost-stories-04](../../../../assets/images/2020/08/ghost-stories-04.jpg)

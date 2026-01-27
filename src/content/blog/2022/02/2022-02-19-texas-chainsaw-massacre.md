@@ -21,11 +21,11 @@ tags:
 
 Las sagas de terror se continúan (o re-inician) cada ciertos años, a todos los grandes clásicos les pasa y esta vez es el turno de Leatherface, el protagonista de la saga La matanza de Texas. La primera vez que conocimos esta historia fue en 1974 con Tobe Hooper tras el lente... la mayoría la recuerda como una película increíble! En mi caso, recuerdo con más cariño el remake de 2003... si piensan que la de 74 es genial los invito a verla de nuevo ;)
 
-![texas-chainsaw-massacre-01](/assets/images/2022/02/texas-chainsaw-massacre-01.png)
+![texas-chainsaw-massacre-01](../../../../assets/images/2022/02/texas-chainsaw-massacre-01.png)
 
 Volvamos a la **Masacre en Texas**... Hay muchos films en esta saga, tiene 3 continuaciones directas del clásico que salieron antes de los 2000s, luego tenemos un reinicio y su precuela y una historia de origen que por los cambios en la historia viene a ser como un extraño spin-off :/ y este año Netflix lanza una secuela de la original, muy al estilo de lo ocurrido con Halloween (no es en lo único que se parecen ambos films) buscando un aire fresco con Fede Alvarez como productor.
 
-![texas-chainsaw-massacre-02](/assets/images/2022/02/texas-chainsaw-massacre-02.png)
+![texas-chainsaw-massacre-02](../../../../assets/images/2022/02/texas-chainsaw-massacre-02.png)
 
 ### Leatherface
 
@@ -33,7 +33,7 @@ Han pasado casi 50 años desde que una de las chicas sobrevivió y vimos el bail
 
 ¿Hay más trama? si, varias historias breves de tiroteos en colegios, compra de propiedades, una bandera confederada, traumas de infancia, etc. importan? no. Es una película de Leatherface, lo importante son las muertes y, por sobre todo, que el grupo de jóvenes protagonistas no nos importe, por lo tanto los queremos ver morir (premisa que se cumple con la mayoría del elenco). ah! la única trama importante (por el trailer) es el retorno de la survivor girl de la original que se volvió sheriff y cuando se entera que Leatherface está de vuelta decide ir tras él al igual que Jaime Lee Curtiz en Halloween (2019), lo que más que homenaje a la final girl que regresa luego de 50 años es una ridiculización de la anciana que bajo ninguna circunstancia lograra ganar.
 
-![texas-chainsaw-massacre-04](/assets/images/2022/02/texas-chainsaw-massacre-04.png)
+![texas-chainsaw-massacre-04](../../../../assets/images/2022/02/texas-chainsaw-massacre-04.png)
 
 ### Las muertes
 
@@ -41,7 +41,7 @@ Aquí está lo mejor, hay muertes por montones... con cuchillos, martillos y mot
 
 Lo único que no me agrada es la inmortalidad de ciertos personajes, pero lo perdono por la entretención y el buen rato que pasé viendo la película. En varios momentos me encontré criticando decisiones estúpidas de los personajes, agujeros de guión y errores de narración, pero los olvidaba al instante :D Si estas cosas te molestan de sobremanera en una película de un asesino con una motosierra y una máscara de piel humana, esta  no es tu película, si lo que quieres es divertirte y ver muchas muertes bajo la lluvia, bienvenido.
 
-![texas-chainsaw-massacre-03](/assets/images/2022/02/texas-chainsaw-massacre-03.png)
+![texas-chainsaw-massacre-03](../../../../assets/images/2022/02/texas-chainsaw-massacre-03.png)
 
 ### Conclusión
 

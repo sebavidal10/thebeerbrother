@@ -31,7 +31,7 @@ Aquí entramos en el "chisme" de la industria. Si notaste que la película se si
 
 ¿El resultado? Un estilo más "anime": colores más vibrantes (mira el pelo rojo neón de Makima), líneas más gruesas y expresiones faciales más exageradas. Se perdió un poco de esa atmósfera de "cine independiente" de la serie, pero ganamos en impacto visual y fidelidad estética al manga de Fujimoto.
 
-![chainsaw-man-the-movie-reze-arc-01](/assets/images/2025/12/chainsaw-man-the-movie-reze-arc-01.jpg)
+![chainsaw-man-the-movie-reze-arc-01](../../../../assets/images/2025/12/chainsaw-man-the-movie-reze-arc-01.jpg)
 
 ### Manga vs Anime: Decisiones Clave
 
@@ -40,7 +40,7 @@ Siempre existe ese debate sobre quién cuenta mejor la historia. En esta adaptac
 - **La escena de la piscina:** En el manga es rápida, pero en la película la extendieron considerablemente. Lejos de ser solo "fan service", la usaron para golpear emocionalmente, dándonos más tiempo para creer en la conexión entre Denji y Reze antes de que todo vuele por los aires.
 - **El corazón de Denji:** Hay una escena clave donde Makima escucha el corazón de Denji. En el manga es sutil, pero en la película añadieron efectos de sonido de latidos muy fuertes y Makima casi "olfatea" el pecho de Denji. Es un detalle perturbador que subraya que ella no está escuchando a Denji, sino buscando a Pochita.
 
-![chainsaw-man-the-movie-reze-arc-02](/assets/images/2025/12/chainsaw-man-the-movie-reze-arc-02.jpg)
+![chainsaw-man-the-movie-reze-arc-02](../../../../assets/images/2025/12/chainsaw-man-the-movie-reze-arc-02.jpg)
 
 ### Guiños y Secretos (Easter Eggs)
 
@@ -50,7 +50,7 @@ Tatsuki Fujimoto es un cinéfilo empedernido, y el equipo de producción llenó 
 - **No Country for Old Men:** La forma en que Reze estrangula a un enemigo en una azotea es una referencia calcada a la película de los hermanos Coen.
 - **Leon: The Professional:** Cuando Makima le entrega el pasador de la granada a Denji, el encuadre es un homenaje directo a esta película de culto.
 
-![chainsaw-man-the-movie-reze-arc-03](/assets/images/2025/12/chainsaw-man-the-movie-reze-arc-03.jpg)
+![chainsaw-man-the-movie-reze-arc-03](../../../../assets/images/2025/12/chainsaw-man-the-movie-reze-arc-03.jpg)
 
 ### Pobre Denji
 
@@ -60,7 +60,7 @@ Ver a los personajes en pantalla grande es otra cosa. Es imposible no sentir una
 
 Una **adaptación excelente** que corrige el rumbo visual para complacer a los fans sin perder identidad. MAPPA demuestra que entiende el material base no solo en lo visual, sino en lo emocional. Nos deja con un sabor agridulce por el destino de Reze, pero completamente satisfechos con la calidad del cine. Ojalá el anime continúe pronto.
 
-![chainsaw-man-the-movie-reze-arc-04](/assets/images/2025/12/chainsaw-man-the-movie-reze-arc-04.jpg)
+![chainsaw-man-the-movie-reze-arc-04](../../../../assets/images/2025/12/chainsaw-man-the-movie-reze-arc-04.jpg)
 
 <hr/>
 <div class="disponible-en">Disponible en <a href="https://www.crunchyroll.com/" target="_blank">Crunchyroll</a></div>

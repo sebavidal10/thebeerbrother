@@ -25,7 +25,7 @@ En Netflix esta el icono de las películas independientes del 2015, La Invitaci�
 
 El actor Logan Marshall-Green interpreta a **Will**, un tipo de look desaliñado (recuerda a un documental de Charles Manson) que se separo de **Eden** cuando su pequeño hijo falleció y ambos perdieron contacto, hasta que años mas tarde Eden y su nueva pareja deciden invitar a Will y a varios amigos más a una especie de cena de reencuentro.
 
-![the-invitation-01](/assets/images/2020/08/the-invitation-01.jpg)
+![the-invitation-01](../../../../assets/images/2020/08/the-invitation-01.jpg)
 
 ### La reunión
 
@@ -33,7 +33,7 @@ Desde un comienzo la reunión se siente extraña y tensa. En ella vemos lo vario
 
 Will nota que algo extraño ocurre, y que la casa donde vivió con Eden ya no es la misma de siempre, sus intrigas al comienzo parecen solo nerviosismo o ataques de ansiedad al revivir su vida pasada junto a su hijo, pero a medida que avanza el film veremos que sus sospechas no están tan erradas...
 
-![the-invitation-02](/assets/images/2020/08/the-invitation-02.jpg)
+![the-invitation-02](../../../../assets/images/2020/08/the-invitation-02.jpg)
 
 ### y... ¿Qué tal?
 

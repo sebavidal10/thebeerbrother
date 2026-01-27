@@ -23,7 +23,7 @@ tags:
 
 El director **Dan Gilroy** salta de la fantasía de películas como Real Steel y la acción de El Legado Bourne a un thriller sicológico increíble, conocido en Latinoamérica como Primicia Mortal, donde nos presenta a Louis Bloom (**Jake Gyllenhaal**), quien es un extraño y complejo sociopata que pasa de ser un ladrón y estafador a una especie de caza-noticias, todo gatillado cuando por casualidad Bloom presencia a un periodista que corre para cubrir un accidente automovilístico antes que llegue la policia y/o ambulancia, lo que despierta el morbo y potencia la curiosidad del protagonista por entrar en ese mundo adrenalinico que va tras accidentes y delitos y que en la desgracia y tragedia ajena ve una oportunidad para ganar dinero.
 
-![nightcrawler-01](/assets/images/2020/09/nightcrawler-01.jpg)
+![nightcrawler-01](../../../../assets/images/2020/09/nightcrawler-01.jpg)
 
 El trabajo de caza noticias le acomoda, es un maniático que quiere tener el control y el hecho de capturar una situación y mostrarlo a la gente como verdad, aunque no lo sea, lo hace sentir vivo y genera esa necesidad en él de ir tras la prensa sensacionalista y controlar la realidad que se informa por los medios.
 

@@ -26,7 +26,7 @@ Antes que todo, destacar que costó sólo 4 millones de dólares, lo que no se n
 
 Se vendió como una historia post-apocalíptica con una plaga zombie que atacan de noche.. grave error, la historia más bien nos sitúa varios años después de la expansión de una enfermedad contagiosa que afectó al mundo devastando la sociedad como tal y eliminando la tecnología y comunicación de nuestras vidas. Todas las personas que quedan están bajo amenaza y viven en un mundo hostil donde todos buscan la supervivencia y el bienestar propio, es ahí donde It Comes at Night nos presenta a la familia protagonista de la historia: Paul (**Joel Edgerton**), su esposa Sarah (**Carmen Ejogo**), su hijo Travis (**Kelvin Harrison Jr.**) y su mascota, que viven aislados en una abarrotada casa, que les permite mantenerse seguros y protegidos de cualquier cosa que ocurra afuera.&nbsp;
 
-![it-comes-at-night-01](/assets/images/2020/09/it-comes-at-night-01.jpg)
+![it-comes-at-night-01](../../../../assets/images/2020/09/it-comes-at-night-01.jpg)
 
 La quietud de la familia se ve alterada cuando dan alojamiento a una nueva familia, lo que tensa el ambiente y da paso a diversas capas que aparecen en la película, por un lado tenemos las situaciones reales y por otro unos sueños que Travis tiene (a veces con la nueva mujer que llega a la casa), lo que sumado a la "oscuridad" del film terminan dando un tono onírico y una atmósfera que inquieta e incomoda al público, con acercamientos y tomas abiertas que denotan el cariño por el film y la dedicación del equipo tras de ella, es agradable ver una película así, lo malo es ver como la vendieron, como una película de terror con criaturas en la oscuridad, nada más lejano a lo que realmente es.
 

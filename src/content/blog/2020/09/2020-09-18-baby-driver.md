@@ -23,7 +23,7 @@ tags:
 
 El ingles Edgar Wright (2004 - Shaun of the Dead, 2007 - Hot Fuzz, 2010 - Scott Pilgrim vs. the World, 2013 - The World's End) dirige y firma el guion de esta entretenida película de robos y persecuciones, pero por nada pienses en Rápido y Furioso, aquí estamos en otro tipo de película que toma cosas de los clásicos films de robos y los mezcla con la originalidad y el particular punto de vista de su director.
 
-![baby-driver-01](/assets/images/2020/09/baby-driver-01.jpg)
+![baby-driver-01](../../../../assets/images/2020/09/baby-driver-01.jpg)
 
 **Ansel Elgort** protagoniza la película y se mete en los zapatos de Baby, un joven que luego de un accidente quedo con un zumbido constante en su cabeza, el cual opaca escuchando música en todo momento en su iPod, música que en cuanto comienza el film se convierte en un miembro más del elenco, calzando exactamente con los hechos y dando más que un simple contexto a lo que sucede.
 
@@ -42,6 +42,6 @@ Wright es un experto en crear equipos "particulares", con características caric
 
 La película cierra de una manera extraña, pero no desilusionante, sigue la tónica de las películas de Wright y claramente no debería haber una continuación, la historia cierra y cuenta con una dosis justa de _rockabilly_ y amor! Como olvidar la enamorada que trabaja en el café que parece sacado de Volver al Futuro I o de una film en blanco y negro al que la película tributa de cierto modo.
 
-![baby-driver-02](/assets/images/2020/09/baby-driver-02.jpg)
+![baby-driver-02](../../../../assets/images/2020/09/baby-driver-02.jpg)
 
 Una película **altamente recomendada**.

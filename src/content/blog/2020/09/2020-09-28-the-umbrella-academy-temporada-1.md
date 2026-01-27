@@ -21,27 +21,27 @@ tags:
 
 Estamos rodeados de adaptación de Marvel y DC, algunas buenas (Titans) y otras pésimas... en el caso de **The Umbrela Academy** estamos frente a un acierto. La historia se centra en un grupo de jóvenes con habilidades especiales que fueron adoptados y entrenados por **Sir Reginald Hargreeves** , un multimillonario, que busca crear un equipo que sea capaz de adaptarse y superar cualquier adversidad que amenace a la humanidad.
 
-![the-umbrella-academy-temporada-1-01](/assets/images/2020/09/the-umbrella-academy-temporada-1-01.jpg)
+![the-umbrella-academy-temporada-1-01](../../../../assets/images/2020/09/the-umbrella-academy-temporada-1-01.jpg)
 
 La serie esta basada en un comic del mismo nombre que consta de 3 partes, lanzadas por Dark Horse, escritas por **Gerard Way** (vocalista de My Chemical Romance) y dibujadsa por el brasilero Gabriel Bá, con trazos muy similares a los que vemos en comics como **La liga de los caballeros extraordinarios** o **Hellboy**. Su adaptación a la pantalla chica mediante Netflix esta en manos de **Steve Blackman** que con 10 capítuloss de casi 1 hora cada uno, nos cuenta como luego de años separados el equipo se vuelve a reunir, ya que el padre de la familia a muerto.
 
-![the-umbrella-academy-temporada-1-02](/assets/images/2020/09/the-umbrella-academy-temporada-1-02.jpg)
+![the-umbrella-academy-temporada-1-02](../../../../assets/images/2020/09/the-umbrella-academy-temporada-1-02.jpg)
 
 ### The Umbrella Academy
 
 El elenco es bastante bueno, muy correcto cada uno en su papel y muy buena la manera en que pasaron cada personaje del comic a la pantalla. El particular equipo de jovenes nacidos el mismo dia esta formado por **Vanya** (Ellen Page) como una chica sin nada extraordinario, **Luther** (Tom Hopper) como un hombre muy fuerte, **Klaus** (Robert Sheehan) como el sexto sentido, **Ben** como el niño poseído por un monstruo de otra dimensión, **Allison** (Emmy Raver-Lampman) como Rumors, **Diego** (David Castañeda) como el lanza cuchillos y los dobla en el aire y a **Cinco** (Aidan Gallagher) quien toma el protagonismo de la serie por sobre el personaje de Ellen Page e incluso podría tener una serie por si sólo en base a lo que le ocurrió el tiempo que estuvo desaparecido (ah! salta en el espacio... y en el tiempo).
 
-![the-umbrella-academy-temporada-1-03](/assets/images/2020/09/the-umbrella-academy-temporada-1-03.jpg)
+![the-umbrella-academy-temporada-1-03](../../../../assets/images/2020/09/the-umbrella-academy-temporada-1-03.jpg)
 
 > El regreso de Cinco en medio del funeral del Padre da inicio a la trama, en la que se mezclan muchos personajes y cada uno cuenta su historia y su version de los hechos, todo mientras transcurren los últimos 8 días de la humanidad.
 
 Destacable de sobre manera el personaje de **Pogo** (Adam Godley) como el simio inteligente, donde se nota se fue mucho presupuesto de efectos especiales. El elenco habitual lo completan **Hazel** (Cameron Britton) y **Cha-Cha** (Mary J. Blige), como dos asesinos enviados a matar a Cinco, que aportan con la cuota de humor y entretención a la serie (sobre todo la escena de las drogas y el incendio, al verla sabrán a lo que me refiero).
 
-![the-umbrella-academy-temporada-1-04](/assets/images/2020/09/the-umbrella-academy-temporada-1-04.jpg)
+![the-umbrella-academy-temporada-1-04](../../../../assets/images/2020/09/the-umbrella-academy-temporada-1-04.jpg)
 
 Por otro lado la música es muy buena, me recordó a la forma en que usan este recurso en la serie Legion, ya que la intercalan con secuencias donde el elenco baila, pelea, disfruta, etc. haciendola parte de la escena y no sólo un elemento de fondo, creando escenas muy entretenidas que se alejan un poco de lo oscura de la trama y nos hacen sonreír de una forma muy agradable.
 
-![the-umbrella-academy-temporada-1-05](/assets/images/2020/09/the-umbrella-academy-temporada-1-05.jpg)
+![the-umbrella-academy-temporada-1-05](../../../../assets/images/2020/09/the-umbrella-academy-temporada-1-05.jpg)
 
 ### Lo mejor?
 
@@ -52,11 +52,11 @@ Por otro lado la música es muy buena, me recordó a la forma en que usan este r
 
 Mmm esta difícil, me gusto mucho la serie, pero para algunas personas pueden resultar un tanto lentos los primeros capítulos.
 
-![the-umbrella-academy-temporada-1-06](/assets/images/2020/09/the-umbrella-academy-temporada-1-06.jpg)
+![the-umbrella-academy-temporada-1-06](../../../../assets/images/2020/09/the-umbrella-academy-temporada-1-06.jpg)
 
 En conclusion, es una mezcla entre Dirk Gently (sobre todo por Chacha y Hazel) y los x-men. Gran acierto Netflix, excelente desarrollo y sobretodo un gran final :). **Hay que verla!!**
 
-![the-umbrella-academy-temporada-1-07](/assets/images/2020/09/the-umbrella-academy-temporada-1-07.jpg)
+![the-umbrella-academy-temporada-1-07](../../../../assets/images/2020/09/the-umbrella-academy-temporada-1-07.jpg)
 
 **EXTRA** : La segunda temporada me gustó, pero me quedo con esta. La base es la misma y lo que cambió giro en un sentido que no me agrado en absoluto... :(
 

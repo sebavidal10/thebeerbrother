@@ -17,17 +17,17 @@ tags:
 
 Deben haber muchas películas basadas en libros de Stephen King en Netflix, pero en **In the Tall Grass** se puede ver un toque de calidad similar a [1922 (2017)](/1922/), la cual estaba bastante bien para ser _una película original de Netflix_ y si eso le sumamos que es dirigida por Vicenzo Natali, un director conocido por películas como **Cube** y **Splice** ( a muchos no les gustan, pero a mi si) y por participar como director de algunos episodios de grandes series como **Hannibal** , **Westworld** o **Wayward Pines** me decidí a verla y no me arrepentí.
 
-![in-the-tall-grass-01](/assets/images/2020/07/in-the-tall-grass-01.jpg)
+![in-the-tall-grass-01](../../../../assets/images/2020/07/in-the-tall-grass-01.jpg)
 
 ### En la Hierba Alta
 
 La película cuenta la historia de una joven embarazada llamada Becky (Laysla De Oliveira) y de su hermano Cal (Avery Whitted) quienes van viajando por la típica carretera norteamericana que suele estar rodeada por campos infinitos de maíz y otras hierbas. En un momento Becky se siente fatigada por el viaje y paran junto a una antigua iglesia llamada "Iglesia de la Roca Negra del Redentor", donde se ven varios autos aparcados frente a ella.
 
-![in-the-tall-grass-02](/assets/images/2020/07/in-the-tall-grass-02.jpg)
+![in-the-tall-grass-02](../../../../assets/images/2020/07/in-the-tall-grass-02.jpg)
 
 Becky se baja del vehículo y escucha un niño que pide ayuda de entre la espesa hierba y también escucha a una mujer que le dice al niño que no llame a nadie... lo que aumenta su intriga y la preocupación por el niño, por lo que deside a entrar en la hierba alta junto a Cal. A partir de aquí todo se vuelve complicado ya que las cosas parecen moverse de forma extraña dentro de la hierba y el tiempo y espacio corren de forma random desorientandolos a los pocos minutos de haber entrado.
 
-![in-the-tall-grass-03](/assets/images/2020/07/in-the-tall-grass-03.jpg)
+![in-the-tall-grass-03](../../../../assets/images/2020/07/in-the-tall-grass-03.jpg)
 
 ### Historias
 
@@ -35,14 +35,14 @@ La película nos cuenta varias tramas que se juntan y crean una propia, por un l
 
 Hasta aquí podemos hablar sin **spoilers** ya que creo que es una película que hay que ver y contar más cosas arruina la experiencia.
 
-![in-the-tall-grass-04](/assets/images/2020/07/in-the-tall-grass-04.jpg)
+![in-the-tall-grass-04](../../../../assets/images/2020/07/in-the-tall-grass-04.jpg)
 
 ### y que más?
 
 Estuve buscando info y creo que las cosas que no se explican en el film tampoco se explican en el libro xD, pero hay algunas que son simplemente nombradas en la cinta y que tienen un trasfondo (como la iglesia y los autos estacionados).  
 Debo destacar una secuencia muy extraña que me recordo de sobremanera a lo que hace Aronofsky en ¡Mother! (2017) por lo surrealista de los colores y el alto contraste que se usa ( y otras cosas más ).
 
-![in-the-tall-grass-05](/assets/images/2020/07/in-the-tall-grass-05.jpg)
+![in-the-tall-grass-05](../../../../assets/images/2020/07/in-the-tall-grass-05.jpg)
 
 ### Redención
 

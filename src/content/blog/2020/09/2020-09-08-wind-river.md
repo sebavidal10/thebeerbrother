@@ -21,7 +21,7 @@ tags:
 
 **Taylor Sheridan** dirige y firma el guion de Wind River, para quienes no saben quien es, él también escribió el guion de **Hell or High Water** y **Sicario** e interpreto al oficial **David** **Hale** en la serie **Sons of Anarchy**. En Wind River vemos un tema recurrente para el director (que también vemos en Sicario y en Hell or High Water), el poder ejercido a la fuerza por el pueblo norteamericano sobre las minorías que los rodean (indios o mexicanos), solo que no nos sitúa en el sur de Estados Unidos, sino que viaja a la otra frontera, a un recóndito lugar de USA, específicamente, la reservación indica conocida como Wind River donde lo único que hay alrededor son empresas norteamericanas que expropian terrenos, nativos obligados a vivir en situaciones extremas, muerte y nieve, mucha nieve.
 
-![wind-river-01](/assets/images/2020/09/wind-river-01.jpg)
+![wind-river-01](../../../../assets/images/2020/09/wind-river-01.jpg)
 
 El elenco es encabezado por **Jeremy Renner** como **Cory Lambert**, un experto cazador de la zona, y la novata agente del FBI **Jane Banner** (**Elizabeth Olsen**), quienes de cierta forma hacen equipo para descifrar la muerte de una joven india encontrada en medio de la nieve bajo un complejo escenario, esta descalza y con una contusion en la cabeza.
 
@@ -32,11 +32,11 @@ Al poco andar el film se convierte en un triller policial con aires de venganza,
 > **Jane Banner**: Shouldn't we wait for back up?
 > **Ben**: This isn't the land of waiting for back up. This is the land of you're on your own.
 
-![wind-river-02](/assets/images/2020/09/wind-river-02.jpg)
+![wind-river-02](../../../../assets/images/2020/09/wind-river-02.jpg)
 
 Si bien a simple vista es una película policial que busca solucionar un caso, hay muchos mensajes que hacen del film algo aún mejor, transformandose en una película altamente recomendable en la sociedad actual, donde mientras estamos bien parecemos ignorar lo que ocurre a nuestro alrededor, por ejemplo el aislamiento y abandono de los pueblos nativos en Estados Unidos, que en vez de buscar una integración los deja en parajes inhóspitos donde la vida es difícil y deben hacer sobre esfuerzos para salir adelante (con muy pocas posibilidades de lograrlo) y no caer en problemas como drogadicción o delincuencia. Otro punto importante es la fortaleza de los personajes femeninos, representados en parte por la única agente del FBI (que tiene autoridad en cualquier lugar) que busca por sobretodo encontrar al asesino y resolver el caso, objetivo que cambia cuando el escenario se esclarece. Para concluir, la película deja muy en claro y hace hincapié en el femicidio, puntualmente en el alto índice de mujeres indígenas extraviadas que no son buscadas y que pasan, en poco tiempo, de estar desaparecidas a muertas.
 
-![wind-river-03](/assets/images/2020/09/wind-river-03.jpg)
+![wind-river-03](../../../../assets/images/2020/09/wind-river-03.jpg)
 
 La encuentro muy familiarizada con **Hell or High Water**, tiene excelentes diálogos y escenas que te mantienen muy tenso y por sobre todo subtextos con los que uno puede empatizar y que te hacen ver que la vida no es fácil ni menos justa y que el mundo salvaje puede ser hostil y amenazante, pero más peligrosos son los seres humanos y sus oscuras intenciones.
 

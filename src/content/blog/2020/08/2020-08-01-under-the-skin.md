@@ -22,15 +22,15 @@ tags:
 
 El director **Jonathan Glazer**, a quien recuerdo por la película del 2004 llamada Birth (Reencarnación) que contaba la extraña historia de un niño que quiere convencer a una mujer (Nicole Kidman) que él es la re-encarnación de su fallecido esposo, raro no? bueno, el 2013 fue más allá y se sentó tras el lente de la película **Under the Skin**, para la cual contó con Scarlett Johansson en el rol protagónico.
 
-![under-the-skin-01](/assets/images/2020/08/under-the-skin-01.jpg)
+![under-the-skin-01](../../../../assets/images/2020/08/under-the-skin-01.jpg)
 
 La película cuenta la historia de una alienigena atractiva que va por las calles de Escocia manejando una camioneta mientras recolecta hombres, a los cuales seduce gracias a sus visibles atributos y a un estructurado dialogo de preguntas y respuesta para saber si son aptos para ser 'enrolados' (por decirlo así). Junto a ella, y como colaborador de su causa, va un motociclista que a lo largo del film parece estar constantemente vigilando lo que hace y viendo que nada se escape al plan.
 
-![under-the-skin-02](/assets/images/2020/08/under-the-skin-02.jpg)
+![under-the-skin-02](../../../../assets/images/2020/08/under-the-skin-02.jpg)
 
 Así avanza el film y mas allá no puedo comentar sin hacer spoilers, lo que si quiero señalar es que a pesar de lo simple de la idea inicial y de lo 'poco decorado' de la cinta, tiene un trasfondo y un mensaje muy fuerte en relación a **como nos vemos y como nos tratamos de ver**, y a la manera en que reaccionamos cuando vemos mas allá de la superficialidad de las personas, cuando vamos unos pasos mas allá de la primera impresión y vemos lo que hay detrás... nos acercamos más? lo rechazamos por ser algo diferente o que no entendemos? queremos ver lo que hay bajo la piel?
 
-![under-the-skin-03](/assets/images/2020/08/under-the-skin-03.jpg)
+![under-the-skin-03](../../../../assets/images/2020/08/under-the-skin-03.jpg)
 
 **Buenísima**  
 Una película digna de conversación y debate, ya que mas allá de la premisa de que hay alienigena cazando humanos (que ya hemos visto muchas veces en el cine) aquí hay una critica a la sociedad superficial en que vivimos y en lo extraño que es cambiar y/o querer cambiar, y por ultimo sobre la **dicotomía del cazador y la presa**. Si no la a visto hagase un favor y vea un protagónico bueno de Scarlett Johansson, ya que al poco tiempo participo de Lucy (2014) donde estuvo muy mal.

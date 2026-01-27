@@ -38,7 +38,7 @@ El elenco esta lleno de talentos, pero la mayoría del peso esta en Theron y en 
 
 **Sofía Boutella** esta un poco desaprovechada y aporta el contenido mas sexual al film, pero sin brillar más allá de eso, a pesar de lo versátil de la actriz y de lo importante que podría haber sido.
 
-![atomic-blonde-01](/assets/images/2020/08/atomic-blonde-01.jpg)
+![atomic-blonde-01](../../../../assets/images/2020/08/atomic-blonde-01.jpg)
 
 ### Lo Mejor?
 

@@ -24,14 +24,14 @@ Película animada de DC centrada en una nueva misión del extraño grupo de vill
 
 En esta entrega la misión encomendada por Waller tiene un trasfondo personal, ya que envía al extraño equipo a buscar algo que ella necesita, pero no son los únicos tras **_esto_**, un grupo de villanos formado por Zoom, Blockbuster(?) y Banshe también está en movimiento, y para cerrar tenemos una tercera facción liderada por **Vandall Savage**.
 
-![suicide-squad-hell-to-pay-01](/assets/images/2020/08/suicide-squad-hell-to-pay-01.jpg)
+![suicide-squad-hell-to-pay-01](../../../../assets/images/2020/08/suicide-squad-hell-to-pay-01.jpg)
 
 La animación es muy buena por lo que no entiendo el motivo para intercalar escenas (muy mal) hechas por computador y tiene grandes secuencias de acción y peleas cuerpo a cuerpo. Me gustó mucho el vínculo que hacen con lo contado en otros filmes, por ejemplo (spoiler mínimo) el comentario en relación con Waller 'Desde que bajo de peso' y otras cosas que resultan muy bien.
 
 Estéticamente prefería el diseño de los personajes de Assault on Arkham, Deadshot y Harley cambiaron demasiado (y no para bien), el diseño de Banshee me agrado, mejoro y no se ve como una mujer tan mayor, al igual que Vandall Savage, que se ve fuerte y no como una especie de pirata a destiempo.
 
-![suicide-squad-hell-to-pay-02](/assets/images/2020/08/suicide-squad-hell-to-pay-02.jpg)
+![suicide-squad-hell-to-pay-02](../../../../assets/images/2020/08/suicide-squad-hell-to-pay-02.jpg)
 
 Muy recomendada si eres fan de las adaptaciones animadas DC más serias, no supera a **Justice League War** (2014) ni a **Batman vs Robin** (2015), pero está mucho mejor que Batman and Harley Queen (2017), incluso diría que al nivel de **Teen Titans: The Judas Contract** (2017).
 
-![suicide-squad-hell-to-pay-03](/assets/images/2020/08/suicide-squad-hell-to-pay-03.jpg)
+![suicide-squad-hell-to-pay-03](../../../../assets/images/2020/08/suicide-squad-hell-to-pay-03.jpg)

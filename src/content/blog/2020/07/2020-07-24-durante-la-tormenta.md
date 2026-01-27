@@ -22,7 +22,7 @@ tags:
 
 **Vera** (Adriana Ugarte), su esposo **David** (Álvaro Morte) y su **hija** se han mudado a una nueva casa, son una pareja feliz que se ama mucho y ríen a cada rato a pesar de que Vera es celosa y David es demasiado bromista. Todo va bien, los vecinos los conocen y las cosas van viento en popa, hasta que encuentran una antigua cámara, una tv de tubos de los años 80s y muchas cintas donde vemos a un pequeño niño tocar guitarra.
 
-![durante-la-tormenta-01](/assets/images/2020/07/durante-la-tormenta-01.jpg)
+![durante-la-tormenta-01](../../../../assets/images/2020/07/durante-la-tormenta-01.jpg)
 
 ### La Tormenta
 
@@ -30,13 +30,13 @@ Mientras transcurren los hechos, una amenazante tormenta golpea la ciudad y los 
 
 De aquí en adelante, antes que la tormenta acabe, Vera debe buscar la manera de volver todo a la normalidad y de paso solucionar un caso de un asesinato que está directamente relacionado con el pequeño niño de las cintas.
 
-![durante-la-tormenta-02](/assets/images/2020/07/durante-la-tormenta-02.jpg)
+![durante-la-tormenta-02](../../../../assets/images/2020/07/durante-la-tormenta-02.jpg)
 
 A pesar de lo fantástica de la premisa es una película bien guiada, que se ve muy bien y con buenas actuaciones. Adriana Ugarte como Vera es muy creíble y Javier Gutiérrez como Angel Prieto está perfecto. La película es una especie de Efecto Mariposa mezclado con Agujeros de gusano que funciona muy bien y que tiene una banda sonora omnipotente que da contexto a cada situación y ayuda a comprender lo que los personajes sienten.
 
 Chino Darín está ahí solo por herencia y la gran cantidad de agujeros de guión son olvidados por un final feliz a lo telenovela que nos hace sonreír. Una película bien entretenida que muestra (una vez más) que españa hace películas de la media hacia arriba.
 
-![durante-la-tormenta-03](/assets/images/2020/07/durante-la-tormenta-03.jpg)
+![durante-la-tormenta-03](../../../../assets/images/2020/07/durante-la-tormenta-03.jpg)
 
 <hr/>
 <div class="disponible-en">Disponible en <a href="https://www.netflix.com/cl/title/80991158" target="_blank">Netflix</a></div>

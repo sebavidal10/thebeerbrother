@@ -20,13 +20,13 @@ tags:
 
 La continuación directa de la nueva versión de **The Death of Superman** lanzada el a mitades del 2018, donde Doomsday dio fin al hombre de acero dejando sola a la **Justice League**. La ausencia de Superman obliga al mundo a buscar nuevos héroes y da paso a la aparición de nuevos Superman, por un lado tenemos a **Steel** , que es una especie de Iron Man armado con un martillo, a **Superboy** , clon generado a partir de la sangre de Superman y Luthor, a **Superman Cyborg** , que dice ser el Superman original con algunas mejoras basadas en tecnología Kryptoniana y a **Erradicador** , q parece ser una versión futura y renovada de Superman que lanza rayos de energía de sus manos. Todos ellos se enfrentan para mostrar cuál es el digno sucesor de Kal-El y con ello el protector de Metrópolis y de la Tierra.
 
-![reign-of-the-supermen-01](/assets/images/2020/09/reign-of-the-supermen-01.jpg)
+![reign-of-the-supermen-01](../../../../assets/images/2020/09/reign-of-the-supermen-01.jpg)
 
 ### El Reino de los Super-hombres
 
 Historia basada en la continuación de La muerte de Superman, donde los personajes son los mismos, pero los hechos ocurren de diferentes maneras para poder adaptarse a la época actual y a la línea temporal de las últimas películas animadas de la Liga de la Justicia. Las peleas son increíbles, pero la calidad (al igual que en La Muerte de Superman) dista mucho de lo visto en las últimas entregas animadas de Batman (Batman y Robin, el hijo de Batman, etc), lo que baja un poco el nivel de la película, pero no lo suficiente como para arruinar el buen guión detrás de las viñetas adaptadas.
 
-![reign-of-the-supermen-02](/assets/images/2020/09/reign-of-the-supermen-02.jpg)
+![reign-of-the-supermen-02](../../../../assets/images/2020/09/reign-of-the-supermen-02.jpg)
 
 ### Spoilers
 
@@ -36,10 +36,10 @@ Como era de esperar por quienes conocen el comics, ninguno de estos cuatro perso
 
 Detrás de este personaje está un astronauta que perdió a su esposa en un accidente en el espacio y que fue encontrado y modificado por Darkseid a cambio de suplantar la identidad de Superman y preparar su llegada a la Tierra.
 
-![reign-of-the-supermen-03](/assets/images/2020/09/reign-of-the-supermen-03.jpg)
+![reign-of-the-supermen-03](../../../../assets/images/2020/09/reign-of-the-supermen-03.jpg)
 
 #### Y la Liga?
 
 Donde esta la liga? apropiadamente fueron enviados otra dimensión y gracias a Luthor vuelven en el momento justo para ayudar al verdadero Superman (con traje negro y todo) a derrotar a Cyborg Superman y su ejército de superhumanos.
 
-![reign-of-the-supermen-04](/assets/images/2020/09/reign-of-the-supermen-04.jpg)
+![reign-of-the-supermen-04](../../../../assets/images/2020/09/reign-of-the-supermen-04.jpg)

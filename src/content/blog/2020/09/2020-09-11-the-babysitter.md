@@ -24,7 +24,7 @@ tags:
 
 **Cole** (**Judah Lewis**) es el único niño de 12 años que tiene una niñera y es una niñera perfecta, cool, atractiva, ruda, sexy, etc. interpretada por **Samara Weaving** (que tiene un leve parecido a Margot Robbie). Cole sufre bulling, pero no le da mucha importancia y está enamorado de su mejor y única amiga, que tambien es su vecina **Melanie** (**Emily Alyn Lind**), además está en esa extraña época en que sus padres lo tratan como un pequeño niño torpe e inútil, pero él es mucho más inteligente y cool de lo que ellos creen y lo demostrará a lo largo de la película.
 
-![the-babysitter-01](/assets/images/2020/09/the-babysitter-01.jpg)
+![the-babysitter-01](../../../../assets/images/2020/09/the-babysitter-01.jpg)
 
 ### De qué trata?
 
@@ -32,10 +32,10 @@ Los padres de Cole están en un tratamiento para reconquistarse como pareja, por
 
 Cuando Cole se da cuenta de lo que traman, lucha con todo lo que tiene a su alcance contra el equipo de Bee para salvar su vida, demostrando que no es tan _looser_ como lo pintan en el comienzo de la película y termina convirtiendose en una versión de "mi pobre angelito" con esteroides.
 
-![the-babysitter-02](/assets/images/2020/09/the-babysitter-02.jpg)
+![the-babysitter-02](../../../../assets/images/2020/09/the-babysitter-02.jpg)
 
 La película forma parte de este nuevo y fresco terror junto a films como **Happy Death Day** (2017), **Little Devil** (2017) o incluso **Jennifer's Body** (2009), donde nos movemos entre la comedia y el terror usando muchísimo humor negro y manteniendo un ritmo de video clip juvenil, creo que esto se debe en parte a la experiencia de su director **McG** en Charlie's Angels (2000), por lo que el film, a pesar de lo absurdo, logra ser entretenido y no aburre para nada, una buena película para un viernes tomando una cerveza, que a pesar de haber tenido problemas con su presupuesto, está bien filmada.
 
-![the-babysitter-03](/assets/images/2020/09/the-babysitter-03.jpg)
+![the-babysitter-03](../../../../assets/images/2020/09/the-babysitter-03.jpg)
 
 **Por último**, el elenco no destaca más allá de sus protagonistas, pero si la gran cantidad de referencias _geek_ a otras películas, en este caso ET, Predator, Friday 13th, Grease, GhostBuster, Star Trek, etc., recurso muy utilizado en esta especie de "género". Este año (2020) salio una segunda parte que es basura pura y dura :/

@@ -20,13 +20,13 @@ tags:
 
 Rian Johnson está tras una de mis películas favoritas de viajes en el tiempo, Looper (2012), pero también tras Star Wars: Episode VIII - The Last Jedi (2017), así que no sabía qué esperar de este film, ya que su mayor atractivo terminaba siendo su elenco, sin importar quien estaba tras el lente (menos mal equivoque)
 
-![knives-out-01](/assets/images/2020/07/knives-out-01.jpg)
+![knives-out-01](../../../../assets/images/2020/07/knives-out-01.jpg)
 
 ### Mi casa, mis reglas, mi taza
 
 Harlan Thrombey (Christopher Plummer) creó un imperio entorno a sus exitosos libros sobre complejos casos policiacos y asesinatos casi imposibles de responder, nunca quiso hacer películas, pero sí generó muchísimo dinero para él y su familia gracias a las ventas y la traducción a muchos idiomas de sus obras. Los principales beneficiados de sus ganancias son sus hijos, quienes a pesar de no ser tan cercanos al patriarca de la familia, mantienen vivo el nexo irrompible que une padres e hijos, por lo que todos asisten a la celebración 85 del cumpleaños de Harlan y de paso todos se vuelven sospechosos de su muerte, ya que a la mañana siguiente es encontrado por la sirvienta con un corte en el cuello al lado de su cama.
 
-![knives-out-02](/assets/images/2020/07/knives-out-02.jpg)
+![knives-out-02](../../../../assets/images/2020/07/knives-out-02.jpg)
 
 El film comienza con una serie de preguntas de rigor a cada uno de los asistentes a la fiesta, interrogatorio que lidera el veterano investigador **Benoit Blanc** (Daniel Craig) que sirve de presentación para cada de uno de los excéntricos y estigmatizados miembros de la familia. Por un lado tenemos a la hija mayor **Linda** (Jamie Lee Curtis), su esposo Richard (Don Johnson) y su hijo Ransom (Chris Evans). Por otro lado está **Walter** (Michael Shannon), su esposa y su hijo, quienes administran los derechos de los libros de Harlan y tienen planes de venderlos para hacer películas y series. También está **Joni** (Toni Collette), la viuda del tercer hijo de Harlan y su hija Megan (Katherine Langford) y por último la abuela **Nana** y la enfermera de Harlan, **Marta** Cabrera (Ana de Armas), a quien Harlan en un breve pero efectivo testamento la dejó como única heredera de todos sus libros y derechos a futuro y de todas sus propiedades y lo que hay dentro de ellas, lo que desata una avalancha de gestos pasivo/agresivo desde los miembros de la familia hacia Marta, ya que no entienden por que Harlan no se preocupó de ellos y dejó todo a una inmigrante que lo acompañó en sus últimos años.
 
@@ -34,7 +34,7 @@ El film comienza con una serie de preguntas de rigor a cada uno de los asistente
 
 La historia se pone aún más entretenida cuando todos los miembros de la familia tratan de encontrar un error en la supuesta _trampa_ de Marta para dejarlos sin herencia y poco a poco el film se torna en una adaptación, con mucho presupuesto para un elenco, del juego Clue, donde nadie sabe quien ni como se llevó a cabo el asesinato.
 
-![knives-out-03](/assets/images/2020/07/knives-out-03.jpeg)
+![knives-out-03](../../../../assets/images/2020/07/knives-out-03.jpeg)
 
 ### No puedes mentir sin vomitar
 
@@ -46,7 +46,7 @@ Además de lo anterior, Blanc toma a Marta como su mano derecha dado que la jove
 
 Una excelente interpretación de cada uno de los personajes, destaca el talento de los más veteranos y lo natural de la interpretación de Ana de Armas. Daniel Craig como Benoit respalda de todas maneras una siguiente aventura del investigador ( la que ya se confirmo ) y lo entretenido y ágil del guión terminan por construir una agradable película apta para todos, llena de colores e increibles giros de guión.
 
-![knives-out-04](/assets/images/2020/07/knives-out-04.jpeg)
+![knives-out-04](../../../../assets/images/2020/07/knives-out-04.jpeg)
 
 ### Muy entretenida
 

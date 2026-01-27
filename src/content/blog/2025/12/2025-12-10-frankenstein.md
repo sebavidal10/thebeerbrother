@@ -27,7 +27,7 @@ Hace un tiempo vi **Frankenstein** de Guillermo del Toro y sigo teniendo sentimi
 
 Visualmente no hay queja. La fotografía es increíble y huele a Oscar desde lejos. El diseño de producción, lo gótico de la época, las sepulturas... todo es un deleite visual marca de la casa. Sentí que estaba viendo una extensión estética de su _Pinocho_, pero con carne y hueso. Sin embargo, cuando escarbamos en la historia, la cosa no funciona tan bien.
 
-![frankenstein-01](/assets/images/2025/12/frankenstein-01.jpg)
+![frankenstein-01](../../../../assets/images/2025/12/frankenstein-01.jpg)
 
 ### Un elenco desperdiciado
 
@@ -37,7 +37,7 @@ Aquí es donde me duele, porque adoro a estos actores, pero algo falló en la di
 - **La redención:** Su arco no tiene sentido. Pasa de perseguir a su creación con dinamita y armas (en modo Rambo) a decir "yo soy el monstruo" en un segundo. Demasiado abrupto.
 - **Los secundarios:** El personaje de **Christoph Waltz** sobra completamente; si lo quitas, la película es la misma. **Mia Goth** (Elizabeth) sale de escena rapidísimo. Y ni me hablen del hermano de Victor... el personaje más insoportable de la cinta; su muerte no me generó nada.
 
-![frankenstein-02](/assets/images/2025/12/frankenstein-02.jpg)
+![frankenstein-02](../../../../assets/images/2025/12/frankenstein-02.jpg)
 
 ### ¿Monstruo o Superhéroe?
 
@@ -45,7 +45,7 @@ La Criatura (**Jacob Elordi**) me generó conflicto. Me gustó su evolución int
 
 El único personaje con el que logré conectar fue el viejo ciego. Fue el único momento de humanidad real en la película. Cuando él estaba en peligro, realmente me importó. El resto del elenco podría haber muerto en los primeros 15 minutos y me habría dado igual.
 
-![frankenstein-03](/assets/images/2025/12/frankenstein-03.jpg)
+![frankenstein-03](../../../../assets/images/2025/12/frankenstein-03.jpg)
 
 ### Detalles técnicos extraños
 
@@ -57,7 +57,7 @@ Aparte de la fotografía de diez, el CGI de los animales fue una montaña rusa. 
 
 Es una **buena película para ver una vez**, disfrutar los visuales, y no volver a repetirla.
 
-![frankenstein-04](/assets/images/2025/12/frankenstein-04.jpg)
+![frankenstein-04](../../../../assets/images/2025/12/frankenstein-04.jpg)
 
 <hr/>
 <div class="disponible-en">Disponible en <a href="https://www.netflix.com/" target="_blank">Netflix</a></div>

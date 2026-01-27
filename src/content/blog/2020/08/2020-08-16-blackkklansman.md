@@ -22,23 +22,23 @@ tags:
 
 **Spike Lee** cuenta la historia de un policía negro llamado **Ron Stallworth** , quien, a además de haber sido el primer oficial negro en su departamento, fue el primero en infiltrarse en la organización racista de supremacía blanca conocida como **Ku Klux Klan** , todo esto en medio de la década de los 70, sus marchas, la música y la represión blanca.
 
-![blackkklansman-01](/assets/images/2020/08/blackkklansman-01.jpg)
+![blackkklansman-01](../../../../assets/images/2020/08/blackkklansman-01.jpg)
 
 **John David Washington** (hijo de Denzel Washington) como Ron Stallworth y **Adam Driver** como Flip Zimmerman interpretan 2 caras de la misma persona, por un lado Washington es Ron Stallworth al teléfono y Adam Driver es Ron Stallworth en carne y hueso. Ambos inmersos en la búsqueda de la verdad detrás del KKK, metiéndose de a poco en este mundo extremo y tratando de evitar una inminente guerra donde las armas son de fácil acceso y el odio crece con cada instante.
 
 El film, visualmente, es genial, la edición de la grabación, los ambientes y sobretodo la interpretación de Washington nos sitúan sin lugar a dudas en las décadas de los 60 y 70, y mantienen un ritmo que se permite pequeñas licencias de humor, pero que no pierde la seriedad y el foco en lo importante del mensaje que envía.
 
-![blackkklansman-02](/assets/images/2020/08/blackkklansman-02.jpg)
+![blackkklansman-02](../../../../assets/images/2020/08/blackkklansman-02.jpg)
 
 Las aventuras, sobre todo de Zimmerman, transmiten el riesgo y la tensión de lidiar con personas limitadas de pensamiento sustentadas en el odio, ya que él debe entrar e interactuar con miembros del KKK. De las mejores cosas que tiene el film podríamos destacar un paralelo de discursos y la contrastada visión de las cosas por parte de las agrupaciones negras y el kkk, dejando de lado cualquier opción de integración y mostrando como única opción el enfrentamiento armado.
 
-![blackkklansman-03](/assets/images/2020/08/blackkklansman-03.jpg)
+![blackkklansman-03](../../../../assets/images/2020/08/blackkklansman-03.jpg)
 
 ### Lo que no me gusto mucho
 
 Entiendo que Spike Lee siempre tiene un mensaje político y pro-afroamericano, pero acá hay una escena de un discurso que se muestra en plenitud y que busca enrolar jóvenes para una especie de guerra inminente contra los blancos que creo ocupo demasiado metraje, ya que la película pasa de las 2 horas y resulta complicada de ver, por qué se siente que se malgasta tiempo... tiempo que se trata de recuperar a medida que avanza y termina cerrando la mayoría de las situaciones de buena forma, excepto lo relacionado con un policía blanco del departamento, que a mi parecer fue la salida simple y rápida y que podría haber tenido más “impacto”.
 
-![blackkklansman-04](/assets/images/2020/08/blackkklansman-04.jpg)
+![blackkklansman-04](../../../../assets/images/2020/08/blackkklansman-04.jpg)
 
 ### Recomendada
 
