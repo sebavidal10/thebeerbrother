@@ -1,6 +1,6 @@
 # The BeerBrother - Recomendación de Peliculas y Series
 
-Este es un blog de cine y series migrado de Jekyll a **Astro**.
+Este es un blog moderno de cine y series desarrollado con **Astro**.
 
 ## 🚀 Tecnologías
 
