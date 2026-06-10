@@ -4,7 +4,7 @@ Este es un blog moderno de cine y series desarrollado con **Astro**.
 
 ## 🚀 Tecnologías
 
-- **Astro 4.x**: Framework web para una performance rápida.
+- **Astro 6.x**: Framework web para una performance rápida.
 - **Bulma**: Framework CSS utilizado para el diseño.
 - **Content Collections**: Gestión de posts con validación de esquemas.
 - **Schema.org**: Datos estructurados para mejor SEO.
@@ -26,6 +26,7 @@ Todos los comandos se ejecutan desde la raíz del proyecto:
 - `src/layouts/`: Plantillas para las páginas y posts.
 - `src/components/`: Componentes reutilizables como la tarjeta de post.
 - `public/`: Assets estáticos (imágenes de banners, autores, favicon, etc.).
+- `.gemini/skills/`: Contiene los "skills" y contexto para el asistente de IA (ignorado en git).
 
 ---
 
